@@ -1,0 +1,31 @@
+name: Generate RSS Feed
+
+on:
+  schedule:
+    # Run daily at 7:00 AM UTC (after upstream feed generation at 6:17 AM)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  rss:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate RSS from upstream feeds
+        run: cd scripts && node generate-rss.js
+
+      - name: Commit and push feed.xml
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git diff --cached --quiet || git commit -m "chore: update RSS feed [skip ci]"
+          git push

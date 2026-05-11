@@ -44,13 +44,10 @@ jobs:
             cd scripts && node generate-feed.js
           fi
 
-      - name: Generate RSS feed
-        run: cd scripts && node generate-rss.js
-
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed-x.json feed-podcasts.json feed-blogs.json state-feed.json feed.xml
+          git add feed-x.json feed-podcasts.json feed-blogs.json state-feed.json
           git diff --cached --quiet || git commit -m "chore: update feeds [skip ci]"
           git push

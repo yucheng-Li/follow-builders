@@ -3,18 +3,20 @@
 // ============================================================================
 // Follow Builders — RSS Feed Generator
 // ============================================================================
-// Reads the three JSON feeds (tweets, podcasts, blogs) and generates an
-// Atom XML feed. No API keys needed — pure JSON-to-XML transformation.
+// Fetches the three JSON feeds from the upstream repo and generates an
+// Atom XML feed. No API keys needed — pure fetch + JSON-to-XML.
 //
 // Usage: node generate-rss.js
 // Output: ../feed.xml
 // ============================================================================
 
-import { readFile, writeFile } from 'fs/promises';
+import { writeFile } from 'fs/promises';
 import { join } from 'path';
 
 const scriptDir = decodeURIComponent(new URL('.', import.meta.url).pathname);
 const rootDir = join(scriptDir, '..');
+
+const UPSTREAM = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main';
 
 function escapeXml(str) {
   if (!str) return '';
@@ -36,10 +38,11 @@ function truncate(str, maxLen) {
   return str.slice(0, maxLen) + '...';
 }
 
-async function loadJSON(filename) {
+async function fetchJSON(url) {
   try {
-    const raw = await readFile(join(rootDir, filename), 'utf-8');
-    return JSON.parse(raw);
+    const res = await fetch(url);
+    if (!res.ok) return null;
+    return res.json();
   } catch {
     return null;
   }
@@ -47,9 +50,9 @@ async function loadJSON(filename) {
 
 async function main() {
   const [feedX, feedPodcasts, feedBlogs] = await Promise.all([
-    loadJSON('feed-x.json'),
-    loadJSON('feed-podcasts.json'),
-    loadJSON('feed-blogs.json'),
+    fetchJSON(`${UPSTREAM}/feed-x.json`),
+    fetchJSON(`${UPSTREAM}/feed-podcasts.json`),
+    fetchJSON(`${UPSTREAM}/feed-blogs.json`),
   ]);
 
   const entries = [];

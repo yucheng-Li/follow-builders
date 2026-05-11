@@ -11,8 +11,8 @@
     <id>https://www.anthropic.com/engineering/managed-agents</id>
     <title>Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands</title>
     <link href="https://www.anthropic.com/engineering/managed-agents" rel="alternate" />
-    <published>2026-05-11T10:55:22.392Z</published>
-    <updated>2026-05-11T10:55:22.392Z</updated>
+    <published>2026-05-11T11:01:40.883Z</published>
+    <updated>2026-05-11T11:01:40.883Z</updated>
     <author><name>Anthropic Engineering</name></author>
     <category term="blog" />
     <content type="text">Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve. As just one example, in prior work we found that Claude Sonnet 4.5 would wrap up tasks prematurely as it sensed its context limit approaching—a behavior sometimes called “context anxiety.” We addressed this by adding context resets to the harness. But when we used the same harness on Claude Opus 4.5, we found that the behavior was gone. The resets had become dead weight. We expect harnesses to continue evolving. So we built Managed Agents: a hosted service in the Claude Platform that runs long-horizon agents on your behalf through a small set of interfaces meant to outlast any particular implementa...</content>
