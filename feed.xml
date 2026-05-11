@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://github.com/yucheng-Li/follow-builders</id>
+  <title>AI Builders Digest</title>
+  <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
+  <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
+  <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
+  <updated>2026-05-11T10:00:12.739Z</updated>
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <entry>
+    <id>https://www.anthropic.com/engineering/managed-agents</id>
+    <title>Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands</title>
+    <link href="https://www.anthropic.com/engineering/managed-agents" rel="alternate" />
+    <published>2026-05-11T10:55:22.392Z</published>
+    <updated>2026-05-11T10:55:22.392Z</updated>
+    <author><name>Anthropic Engineering</name></author>
+    <category term="blog" />
+    <content type="text">Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve. As just one example, in prior work we found that Claude Sonnet 4.5 would wrap up tasks prematurely as it sensed its context limit approaching—a behavior sometimes called “context anxiety.” We addressed this by adding context resets to the harness. But when we used the same harness on Claude Opus 4.5, we found that the behavior was gone. The resets had become dead weight. We expect harnesses to continue evolving. So we built Managed Agents: a hosted service in the Claude Platform that runs long-horizon agents on your behalf through a small set of interfaces meant to outlast any particular implementa...</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2053744332675408151</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2053744332675408151" rel="alternate" />
+    <published>2026-05-11T07:49:40.000Z</published>
+    <updated>2026-05-11T07:49:40.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">challenged codex to e2e test improvements to the OpenClaw chat completion endpoint WITH openclaw.
+
+Used /side to ask more question while it works. https://t.co/WIXxj8bYFd</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2053737275268177980</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2053737275268177980" rel="alternate" />
+    <published>2026-05-11T07:21:37.000Z</published>
+    <updated>2026-05-11T07:21:37.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">Birdclaw has my complete twitter archive, so I can ask Codex for any old weird tweet I ever favorited or bookmarked. https://t.co/o9ujqfRHXO https://t.co/KZqP9lCNAH</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2053717468623872230</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2053717468623872230" rel="alternate" />
+    <published>2026-05-11T06:02:55.000Z</published>
+    <updated>2026-05-11T06:02:55.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">Built a browser into RepoBar when I select issues/PRs/shas/workflows to have context when I work. https://t.co/0AGarQ3X6a
+
+Still a bit vibey but gets the job done.
+You gotta build yourself the tools to work more efficient. https://t.co/dGnFKVkVtk</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2053689459032379860</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2053689459032379860" rel="alternate" />
+    <published>2026-05-11T04:11:37.000Z</published>
+    <updated>2026-05-11T04:11:37.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">The highest and most important form of design is actually pure transmutation of human pain and suffering.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2053685737716089020</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2053685737716089020" rel="alternate" />
+    <published>2026-05-11T03:56:50.000Z</published>
+    <updated>2026-05-11T03:56:50.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">pre-kids: red eyes are the worst - why would anyone take them??
+
+post-kids: red eyes are honestly the best. i can tuck my kids in bed and wake up in a new city and get going right away. 
+
+(typing this from a red eye headed to NYC rn)</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2053672965125140915</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2053672965125140915" rel="alternate" />
+    <published>2026-05-11T03:06:04.000Z</published>
+    <updated>2026-05-11T03:06:04.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">As advanced agents move from coding to the rest of knowledge work, it takes a real amount of work and know-how to get right.
+
+You need to ensure agents have the right context and data to work with, wire up systems to agents in a safe and secure way, ensure that the agents are producing quality output, design the end-state workflow where and how humans will be in the loop, maintain the agents when there are model and system upgrades, and more. 
+
+This isn’t a side project or something you can just do on nights and weekends. You need to design and develop robust agents that will be used in mission critical workflows. It’s a highly technical job, very much akin to a forward deployed engineer for internal functions. 
+
+This is why, at Box, we’re starting to hire for AI automation engineering roles. This a technical role that will partner with the business directly and help augment how they work to drive even more output, and deliver better experiences for employees and ultimately customers. 
+
+This is just one example of the kind of role that AI will start to open up in the future. I expect most companies will have many flavors of this going forward.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2053672364681134511</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2053672364681134511" rel="alternate" />
+    <published>2026-05-11T03:03:41.000Z</published>
+    <updated>2026-05-11T03:03:41.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">You know what would be a good AI automation:
+
+When I receive those 10 page weekly newsletters from my kid&apos;s school I want AI to tell me if there&apos;s early dismissal or anything I should pay attention to.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2053645909682954545</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2053645909682954545" rel="alternate" />
+    <published>2026-05-11T01:18:34.000Z</published>
+    <updated>2026-05-11T01:18:34.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Omg they are just doing knock knock jokes for like 30 messages now https://t.co/7jfiPhYdq1</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2053632475294040084</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2053632475294040084" rel="alternate" />
+    <published>2026-05-11T00:25:11.000Z</published>
+    <updated>2026-05-11T00:25:11.000Z</updated>
+    <author><name>Thariq</name></author>
+    <category term="twitter" />
+    <content type="text">I&apos;ve been using HTML for planning, speccing, exploration, code review, reports and a lot more.
+
+https://t.co/1V3pRFQL5M</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2053628011233095875</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2053628011233095875" rel="alternate" />
+    <published>2026-05-11T00:07:27.000Z</published>
+    <updated>2026-05-11T00:07:27.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">there are a few people in a tiny office in brooklyn 1-2 months ahead of SV founders / eng :) https://t.co/p5GAP1FzCE</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2053622975778246807</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2053622975778246807" rel="alternate" />
+    <published>2026-05-10T23:47:26.000Z</published>
+    <updated>2026-05-10T23:47:26.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Man Neuromancer thinks the Warriors draft picks have been totally nonsensical given Kerr being head coach https://t.co/KUmMrADJTI</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2053613142761206080</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2053613142761206080" rel="alternate" />
+    <published>2026-05-10T23:08:22.000Z</published>
+    <updated>2026-05-10T23:08:22.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">SF calisthenics club https://t.co/taOuWdy0SH</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2053586591822848364</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2053586591822848364" rel="alternate" />
+    <published>2026-05-10T21:22:51.000Z</published>
+    <updated>2026-05-10T21:22:51.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
+
+Join 110,000+ subscribers here:
+https://t.co/yz9xcsfrhF</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2053580741515051114</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2053580741515051114" rel="alternate" />
+    <published>2026-05-10T20:59:37.000Z</published>
+    <updated>2026-05-10T20:59:37.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">we hired someone new to help out with social and YouTube and she’s finding INSANE A/B test uplifts like this https://t.co/tU9pyYxAEm</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2053572868936761350</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2053572868936761350" rel="alternate" />
+    <published>2026-05-10T20:28:20.000Z</published>
+    <updated>2026-05-10T20:28:20.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">what if we name the next model &quot;goblin&quot;
+
+almost worth it to make you all happy...</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2053572059767427302</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2053572059767427302" rel="alternate" />
+    <published>2026-05-10T20:25:07.000Z</published>
+    <updated>2026-05-10T20:25:07.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">on build vs buy saas
+
+cc @levie for corrections https://t.co/tzBlI6dYs2 https://t.co/j7J7irkwIB</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2053566155571560868</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2053566155571560868" rel="alternate" />
+    <published>2026-05-10T20:01:39.000Z</published>
+    <updated>2026-05-10T20:01:39.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">interesting https://t.co/2Wo8K7HLJW</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2053559397654348159</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2053559397654348159" rel="alternate" />
+    <published>2026-05-10T19:34:48.000Z</published>
+    <updated>2026-05-10T19:34:48.000Z</updated>
+    <author><name>Thariq</name></author>
+    <category term="twitter" />
+    <content type="text">Jarred tried rewriting Bun in Rust and it passes 99.8% of the existing test suite
+
+we&apos;re not being ambitious enough https://t.co/lGyZj6J1TB</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2053558741283623308</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2053558741283623308" rel="alternate" />
+    <published>2026-05-10T19:32:11.000Z</published>
+    <updated>2026-05-10T19:32:11.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Moms are the bedrock of civilization. I’m very thankful to my mom who put herself through engineering school in Argentina and set the bar so high for her children. Happy Mother’s Day!</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2053552061632102402</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2053552061632102402" rel="alternate" />
+    <published>2026-05-10T19:05:39.000Z</published>
+    <updated>2026-05-10T19:05:39.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Pretty unexpected - what’s the reason? https://t.co/QP4NnjKJWC</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2053551046299959760</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2053551046299959760" rel="alternate" />
+    <published>2026-05-10T19:01:37.000Z</published>
+    <updated>2026-05-10T19:01:37.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">codex-native weekend hack project:
+
+1. buy cable to connect MIDI keyboard to computer
+2. &quot;hey codex, make a watcher script and a little web app to show me which chords im playing&quot;
+3. okay cool, now give me some exercises and help me see how to improve!
+
+literally 5 minutes start to finish, and it works flawlessly</content>
+  </entry>
+  <entry>
+    <id>https://x.com/ryolu_/status/2053523744019427416</id>
+    <title>Ryo Lu (@ryolu_)</title>
+    <link href="https://x.com/ryolu_/status/2053523744019427416" rel="alternate" />
+    <published>2026-05-10T17:13:07.000Z</published>
+    <updated>2026-05-10T17:13:07.000Z</updated>
+    <author><name>Ryo Lu</name></author>
+    <category term="twitter" />
+    <content type="text">link up with people on the internet
+https://t.co/OelJl34Lx9</content>
+  </entry>
+  <entry>
+    <id>https://x.com/ryolu_/status/2053523477878259951</id>
+    <title>Ryo Lu (@ryolu_)</title>
+    <link href="https://x.com/ryolu_/status/2053523477878259951" rel="alternate" />
+    <published>2026-05-10T17:12:04.000Z</published>
+    <updated>2026-05-10T17:12:04.000Z</updated>
+    <author><name>Ryo Lu</name></author>
+    <category term="twitter" />
+    <content type="text">ryOS now has a IRC bridge to @levelsio’s retro PC
+
+let the worlds connect 🌎 https://t.co/vuFlZQkLaR</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=XAbKflCncDo</id>
+    <title>No Priors: Baseten CEO Tuhin Srivastava on the AI Inference Crunch, Custom Models, and Building the Inference Cloud</title>
+    <link href="https://www.youtube.com/watch?v=XAbKflCncDo" rel="alternate" />
+    <published>2026-05-01T19:34:00.000Z</published>
+    <updated>2026-05-01T19:34:00.000Z</updated>
+    <author><name>No Priors</name></author>
+    <category term="podcast" />
+    <content type="text">Speaker 1 | 00:05 - 00:28
+Hi, listeners. Today, Elad and I are here with Tuhin Srivastava, the founder and CEO of Base10, inference cloud. We&apos;re here to talk about capacity constraints for AI compute, why inference is the last market, how the workload is changing, the open source and perhaps multi chip future, and what 30x scale in a year looks like. Tuhin, welcome back.
+
+Speaker 2 | 00:28 - 00:30
+Hi. Good to see you.
+
+Speaker 3 | 00:30 - 00:31
+Thanks for having me.
+
+Speaker 1 | 00:31 - 00:41
+Al...</content>
+  </entry>
+</feed>
