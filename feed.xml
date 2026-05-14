@@ -5,163 +5,40 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-05-12T09:13:04.393Z</updated>
+  <updated>2026-05-13T09:19:56.049Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/kevinweil/status/2054063509869306204</id>
-    <title>Kevin Weil (@kevinweil)</title>
-    <link href="https://x.com/kevinweil/status/2054063509869306204" rel="alternate" />
-    <published>2026-05-12T04:57:58.000Z</published>
-    <updated>2026-05-12T04:57:58.000Z</updated>
-    <author><name>Kevin Weil</name></author>
-    <category term="twitter" />
-    <content type="text">This from @tdrobbo is gold. https://t.co/8J44zVQW2X</content>
+    <id>https://www.anthropic.com/engineering/claude-code-auto-mode</id>
+    <title>Anthropic Engineering: Claude Code auto mode: a safer way to skip permissions</title>
+    <link href="https://www.anthropic.com/engineering/claude-code-auto-mode" rel="alternate" />
+    <published>2026-05-14T01:45:38.600Z</published>
+    <updated>2026-05-14T01:45:38.600Z</updated>
+    <author><name>Anthropic Engineering</name></author>
+    <category term="blog" />
+    <content type="text">By default, Claude Code asks users for approval before running commands or modifying files. This keeps users safe, but it also means a lot of clicking &quot;approve.&quot; Over time that leads to approval fatigue, where people stop paying close attention to what they&amp;#x27;re approving. Users have two solutions for avoiding this fatigue: a built-in sandbox where tools are isolated to prevent dangerous actions, or the --dangerously-skip-permissions flag that disables all permission prompts and lets Claude act freely, which is unsafe in most situations. Figure 1 lays out the tradeoff space. Sandboxing is safe but high-maintenance: each new capability needs configuring, and anything requiring network or host access breaks isolation. Bypassing permissions is zero-maintenance but offers no protection. Manual prompts sit in the middle, and in practice users accept 93% of them anyway. Figure 1. The permission modes available in Claude Code, positioned by task autonomy and security . Dot colour indicates...</content>
   </entry>
   <entry>
-    <id>https://x.com/swyx/status/2054057995492061651</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2054057995492061651" rel="alternate" />
-    <published>2026-05-12T04:36:03.000Z</published>
-    <updated>2026-05-12T04:36:03.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">my highlights
-
-https://t.co/aIfwZMvDSt</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2054038194547777993</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2054038194547777993" rel="alternate" />
-    <published>2026-05-12T03:17:22.000Z</published>
-    <updated>2026-05-12T03:17:22.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Why does SoCal have so much world class kids stuff (Disney, Legoland, Universal, Zoo, etc) but in the Bay Area we can&apos;t keep our only amusement park alive</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2054036372215025962</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2054036372215025962" rel="alternate" />
-    <published>2026-05-12T03:10:07.000Z</published>
-    <updated>2026-05-12T03:10:07.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">&quot;omg this is taking forever I hate AI&quot; 😅</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2054036027791294696</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2054036027791294696" rel="alternate" />
-    <published>2026-05-12T03:08:45.000Z</published>
-    <updated>2026-05-12T03:08:45.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Turns out everyone just loves shipping https://t.co/bsqtEXA2ID</content>
-  </entry>
-  <entry>
-    <id>https://x.com/AmandaAskell/status/2054010971765805486</id>
-    <title>Amanda Askell (@AmandaAskell)</title>
-    <link href="https://x.com/AmandaAskell/status/2054010971765805486" rel="alternate" />
-    <published>2026-05-12T01:29:12.000Z</published>
-    <updated>2026-05-12T01:29:12.000Z</updated>
-    <author><name>Amanda Askell</name></author>
-    <category term="twitter" />
-    <content type="text">You can now listen to me and Joe read out Claude&apos;s constitution as an audiobook. Working on adding the option of listening to it on fast mode :) https://t.co/jxIy7Jjnlk</content>
-  </entry>
-  <entry>
-    <id>https://x.com/_catwu/status/2053999857799672111</id>
-    <title>Cat Wu (@_catwu)</title>
-    <link href="https://x.com/_catwu/status/2053999857799672111" rel="alternate" />
-    <published>2026-05-12T00:45:02.000Z</published>
-    <updated>2026-05-12T00:45:02.000Z</updated>
-    <author><name>Cat Wu</name></author>
-    <category term="twitter" />
-    <content type="text">run `claude agents` for a control plane in your terminal!  
-
-after, hit `&amp;lt;-` from any cli session to register that with the control plane
-
-personally, i like to run `claude agents` from my root code dir to manage all my claude code agents in one place https://t.co/umLJ5tZ5ug</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2053989439945498934</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2053989439945498934" rel="alternate" />
-    <published>2026-05-12T00:03:38.000Z</published>
-    <updated>2026-05-12T00:03:38.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">https://t.co/vT9CDBhJQE</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2053960011748098462</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2053960011748098462" rel="alternate" />
-    <published>2026-05-11T22:06:42.000Z</published>
-    <updated>2026-05-11T22:06:42.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">I believe the kids call this &quot;@thinkymachines just brutally framemogged gdm and oai&quot;. 
-
-basically everyone&apos;s definition of &quot;realtime&quot; just got a massive frciking upgrade https://t.co/a5fzSV9Yec https://t.co/29N7XIF6F9</content>
-  </entry>
-  <entry>
-    <id>https://x.com/_catwu/status/2053874851824419056</id>
-    <title>Cat Wu (@_catwu)</title>
-    <link href="https://x.com/_catwu/status/2053874851824419056" rel="alternate" />
-    <published>2026-05-11T16:28:18.000Z</published>
-    <updated>2026-05-11T16:28:18.000Z</updated>
-    <author><name>Cat Wu</name></author>
-    <category term="twitter" />
-    <content type="text">https://t.co/YHW4oSmch8</content>
-  </entry>
-  <entry>
-    <id>https://x.com/_catwu/status/2053873949646405879</id>
-    <title>Cat Wu (@_catwu)</title>
-    <link href="https://x.com/_catwu/status/2053873949646405879" rel="alternate" />
-    <published>2026-05-11T16:24:43.000Z</published>
-    <updated>2026-05-11T16:24:43.000Z</updated>
-    <author><name>Cat Wu</name></author>
-    <category term="twitter" />
-    <content type="text">We&apos;d love to hear your feedback for Claude Code in the cloud across Desktop (cloud option), iOS app, and Android app
-
-Sign up for our office hours below: https://t.co/DhH9rl3nvV</content>
-  </entry>
-  <entry>
-    <id>https://x.com/karpathy/status/2053872850101285137</id>
-    <title>Andrej Karpathy (@karpathy)</title>
-    <link href="https://x.com/karpathy/status/2053872850101285137" rel="alternate" />
-    <published>2026-05-11T16:20:21.000Z</published>
-    <updated>2026-05-11T16:20:21.000Z</updated>
-    <author><name>Andrej Karpathy</name></author>
-    <category term="twitter" />
-    <content type="text">This works really well btw, at the end of your query ask your LLM to &quot;structure your response as HTML&quot;, then view the generated file in your browser. I&apos;ve also had some success asking the LLM to present its output as slideshows, etc.
-
-More generally, imo audio is the human-preferred input to AIs but vision (images/animations/video) is the preferred output from them. Around a ~third of our brains are a massively parallel processor dedicated to vision, it is the 10-lane superhighway of information into brain. As AI improves, I think we&apos;ll see a progression that takes advantage:
-
-1) raw text (hard/effortful to read)
-2) markdown (bold, italic, headings, tables, a bit easier on the eyes) &lt;-- current default
-3) HTML (still procedural with underlying code, but a lot more flexibility on the graphics, layout, even interactivity) &lt;-- early but forming new good default
-...4,5,6,...
-n) interactive neural videos/simulations
-
-Imo the extrapolation (though the technology doesn&apos;t exist just yet) ends in some kind of interactive videos generated directly by a diffusion neural net. Many open questions as to how exact/procedural &quot;Software 1.0&quot; artifacts (e.g. interactive simulations) may be woven together with neural artifacts (diffusion grids), but generally something in the direction of the recently viral https://t.co/z21CP5iQfu
-
-There are also improvements necessary and pending at the input. Audio nor text nor video alone are not enough, e.g. I feel a need to point/gesture to things on the screen, similar to all the things you would do with a person physically next to you and your computer screen.
-
-TLDR The input/output mind meld between humans and AIs is ongoing and there is a lot of work to do and significant progress to be made, way before jumping all the way into neuralink-esque BCIs and all that. For what&apos;s worth exploring at the current stage, hot tip try ask for HTML.</content>
-  </entry>
-  <entry>
-    <id>https://www.youtube.com/watch?v=g5TWnUjbeFM</id>
-    <title>No Priors: Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman</title>
-    <link href="https://www.youtube.com/watch?v=g5TWnUjbeFM" rel="alternate" />
-    <published>2026-05-11T10:00:00.000Z</published>
-    <updated>2026-05-11T10:00:00.000Z</updated>
-    <author><name>No Priors</name></author>
+    <id>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</id>
+    <title>Training Data: Waymo&apos;s Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy</title>
+    <link href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8" rel="alternate" />
+    <published>2026-05-04T20:05:00.000Z</published>
+    <updated>2026-05-04T20:05:00.000Z</updated>
+    <author><name>Training Data</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:05 - 00:28
-Today, know priors were joined by Alex Topman, the cofounder and CEO of Long Lake Management. Long Lake recently announced their intent to acquire American Express Global Business Travel for $6,300,000,000 in what I believe is the world&apos;s first AI take private. They have previously bought around 30 companies, and they transform and optimize them with AI. So we&apos;re very excited to have them on board today. Alex, thanks so much for running Acid Enterprise.
+    <content type="text">Speaker 1 | 00:02 - 00:17
+We have an unbelievable treat next. A founder who&apos;s touching a ton of lives and who&apos;s been at it for a very long time. How many people here have been in a Waymo? Okay. Well, that&apos;s a relief.
 
-Speaker 2 | 00:...</content>
+Speaker 1 | 00:17 - 00:20
+The chef eats his own food.
+
+Speaker 2 | 00:20 - 00:21
+I do. I do a lot of it.
+
+Speaker 1 | 00:21 - 00:29
+Alright. And how many people love the Waymo experience? Rock on. I&apos;m a daily active now. It&apos;s incredible.
+
+Speaker 2 | 00:29 - 00:30
+Excellent. Thank
+...</content>
   </entry>
 </feed>
