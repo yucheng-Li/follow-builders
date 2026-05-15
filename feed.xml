@@ -5,40 +5,75 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-05-13T09:19:56.049Z</updated>
+  <updated>2026-05-14T08:50:39.990Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://www.anthropic.com/engineering/claude-code-auto-mode</id>
-    <title>Anthropic Engineering: Claude Code auto mode: a safer way to skip permissions</title>
-    <link href="https://www.anthropic.com/engineering/claude-code-auto-mode" rel="alternate" />
-    <published>2026-05-14T01:45:38.600Z</published>
-    <updated>2026-05-14T01:45:38.600Z</updated>
-    <author><name>Anthropic Engineering</name></author>
-    <category term="blog" />
-    <content type="text">By default, Claude Code asks users for approval before running commands or modifying files. This keeps users safe, but it also means a lot of clicking &quot;approve.&quot; Over time that leads to approval fatigue, where people stop paying close attention to what they&amp;#x27;re approving. Users have two solutions for avoiding this fatigue: a built-in sandbox where tools are isolated to prevent dangerous actions, or the --dangerously-skip-permissions flag that disables all permission prompts and lets Claude act freely, which is unsafe in most situations. Figure 1 lays out the tradeoff space. Sandboxing is safe but high-maintenance: each new capability needs configuring, and anything requiring network or host access breaks isolation. Bypassing permissions is zero-maintenance but offers no protection. Manual prompts sit in the middle, and in practice users accept 93% of them anyway. Figure 1. The permission modes available in Claude Code, positioned by task autonomy and security . Dot colour indicates...</content>
+    <id>https://x.com/garrytan/status/2054778575988093249</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2054778575988093249" rel="alternate" />
+    <published>2026-05-14T04:19:23.000Z</published>
+    <updated>2026-05-14T04:19:23.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism 
+
+Defund nonprofits that support people doing drugs until they die. Fund recovery and treatment in SF and everywhere in on the West Coast https://t.co/qWRYjVYWHd</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</id>
-    <title>Training Data: Waymo&apos;s Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy</title>
-    <link href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8" rel="alternate" />
-    <published>2026-05-04T20:05:00.000Z</published>
-    <updated>2026-05-04T20:05:00.000Z</updated>
+    <id>https://www.youtube.com/watch?v=Jq3BIGz4vXQ</id>
+    <title>Training Data: Suno&apos;s Mikey Shulman: Everyone Can Make Music Now</title>
+    <link href="https://www.youtube.com/watch?v=Jq3BIGz4vXQ" rel="alternate" />
+    <published>2026-05-13T18:55:00.000Z</published>
+    <updated>2026-05-13T18:55:00.000Z</updated>
     <author><name>Training Data</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:02 - 00:17
-We have an unbelievable treat next. A founder who&apos;s touching a ton of lives and who&apos;s been at it for a very long time. How many people here have been in a Waymo? Okay. Well, that&apos;s a relief.
+    <content type="text">Speaker 1 | 00:00 - 00:25
+Before Suno, basically everybody was a consumer of music. You know, compared to the 8,000,000,000 people on the planet, there are very few people who make music and the rest of us consume it. The crazy thing about Suno is that in any given day, 90% of the users are going to create something. And the thing that&apos;s hard to wrap your head around is you&apos;re not creating it to go bring it elsewhere by and large, to do something with it. People are creating music for the fun an...</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2054599845214650442</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2054599845214650442" rel="alternate" />
+    <published>2026-05-13T16:29:10.000Z</published>
+    <updated>2026-05-13T16:29:10.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">If you needed a signal that VC has truly become consensus capital, then this is the sign.. 
 
-Speaker 1 | 00:17 - 00:20
-The chef eats his own food.
+If you are a founder for the sake of being a founder, then this will resonate since you NEED capital to run your business.
 
-Speaker 2 | 00:20 - 00:21
-I do. I do a lot of it.
+If you are obsessed and don&apos;t care what the world thinks, then you&apos;ll treat each rejection as potential learning - but NOT a verdict on why you shouldn&apos;t start that company.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2054569893060809151</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2054569893060809151" rel="alternate" />
+    <published>2026-05-13T14:30:09.000Z</published>
+    <updated>2026-05-13T14:30:09.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Tell me if you&apos;ve seen this before:
 
-Speaker 1 | 00:21 - 00:29
-Alright. And how many people love the Waymo experience? Rock on. I&apos;m a daily active now. It&apos;s incredible.
+&quot;Today is a hard day. We&apos;ve made the difficult decision to cut 1,000+ employees. Our business has never been stronger, but AI has changed how we work...&quot;
 
-Speaker 2 | 00:29 - 00:30
-Excellent. Thank
-...</content>
+Whenever I read one of these, I mentally translate it to what&apos;s actually happening:
+
+&quot;Today is a hard day. We overhired during the zero-interest era and need to cut costs. AI is easy to blame, so…&quot;
+
+Over 80,000 tech employees were laid off in Q1, the highest since 2022-23.
+
+Here&apos;s my rant why these layoffs keep happening and 6 ways to take back control as an employee.
+
+📌 Read now: https://t.co/LGgVeVAE4t</content>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/new-in-claude-managed-agents</id>
+    <title>Claude Blog: New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</title>
+    <link href="https://claude.com/blog/new-in-claude-managed-agents" rel="alternate" />
+    <published>2026-05-06T00:00:00.000Z</published>
+    <updated>2026-05-06T00:00:00.000Z</updated>
+    <author><name>Claude Blog</name></author>
+    <category term="blog" />
+    <content type="text">Today we&amp;#x27;re launching dreaming in Claude Managed Agents as a research preview. Dreaming extends memory by reviewing past sessions to find patterns and help agents self-improve. We&amp;#x27;re also making outcomes, multiagent orchestration, and webhooks available to developers building with Managed Agents. Together, these updates make agents more capable at handling complex tasks with minimal steering. Build self-improving agents with dreaming Dreaming is a scheduled process that reviews your agent sessions and memory stores, extracts patterns, and curates memories so your agents improve over time. You decide how much control you want: dreaming can update memory automatically, or you can review changes before they land. Dreaming surfaces patterns that a single agent can’t see on its own, including recurring mistakes, workflows that agents converge on, and preferences shared across a team. It also restructures memory so it stays high-signal as it evolves. This is especially useful for l...</content>
   </entry>
 </feed>
