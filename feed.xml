@@ -5,75 +5,403 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-05-14T08:50:39.990Z</updated>
+  <updated>2026-05-15T09:24:50.319Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/garrytan/status/2054778575988093249</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2054778575988093249" rel="alternate" />
-    <published>2026-05-14T04:19:23.000Z</published>
-    <updated>2026-05-14T04:19:23.000Z</updated>
-    <author><name>Garry Tan</name></author>
+    <id>https://x.com/steipete/status/2055209490887119098</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2055209490887119098" rel="alternate" />
+    <published>2026-05-15T08:51:41.000Z</published>
+    <updated>2026-05-15T08:51:41.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
     <category term="twitter" />
-    <content type="text">Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism 
+    <content type="text">https://t.co/XMaUrWMMZC is pretty sweet</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2055203470941061600</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2055203470941061600" rel="alternate" />
+    <published>2026-05-15T08:27:45.000Z</published>
+    <updated>2026-05-15T08:27:45.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">built a new feature into discrawl (store media), codex said it&apos;s done, then I used my codex review skill... https://t.co/0Z6iJnCqCX https://t.co/Jkr4yha1Un</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2055190998523777307</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2055190998523777307" rel="alternate" />
+    <published>2026-05-15T07:38:12.000Z</published>
+    <updated>2026-05-15T07:38:12.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">It keeps looping. https://t.co/ij1b8yFEDL</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2055185058282226146</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2055185058282226146" rel="alternate" />
+    <published>2026-05-15T07:14:36.000Z</published>
+    <updated>2026-05-15T07:14:36.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">We worked things out with Apple, and just published our app for the first time in 4 months.
 
-Defund nonprofits that support people doing drugs until they die. Fund recovery and treatment in SF and everywhere in on the West Coast https://t.co/qWRYjVYWHd</content>
+Thanks to all our customers and creators who helped out.
+
+It’s been a journey, but we never give up and stay winning!
+
+Enjoy the updates! Lots of new things coming. https://t.co/ClpA3SDlwd</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=Jq3BIGz4vXQ</id>
-    <title>Training Data: Suno&apos;s Mikey Shulman: Everyone Can Make Music Now</title>
-    <link href="https://www.youtube.com/watch?v=Jq3BIGz4vXQ" rel="alternate" />
-    <published>2026-05-13T18:55:00.000Z</published>
-    <updated>2026-05-13T18:55:00.000Z</updated>
-    <author><name>Training Data</name></author>
-    <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:25
-Before Suno, basically everybody was a consumer of music. You know, compared to the 8,000,000,000 people on the planet, there are very few people who make music and the rest of us consume it. The crazy thing about Suno is that in any given day, 90% of the users are going to create something. And the thing that&apos;s hard to wrap your head around is you&apos;re not creating it to go bring it elsewhere by and large, to do something with it. People are creating music for the fun an...</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2054599845214650442</id>
+    <id>https://x.com/nikunj/status/2055165509700927541</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2054599845214650442" rel="alternate" />
-    <published>2026-05-13T16:29:10.000Z</published>
-    <updated>2026-05-13T16:29:10.000Z</updated>
+    <link href="https://x.com/nikunj/status/2055165509700927541" rel="alternate" />
+    <published>2026-05-15T05:56:55.000Z</published>
+    <updated>2026-05-15T05:56:55.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">If you needed a signal that VC has truly become consensus capital, then this is the sign.. 
+    <content type="text">I wish I can join X for one day, solve this “off by one” bug and leave 🫡 
 
-If you are a founder for the sake of being a founder, then this will resonate since you NEED capital to run your business.
-
-If you are obsessed and don&apos;t care what the world thinks, then you&apos;ll treat each rejection as potential learning - but NOT a verdict on why you shouldn&apos;t start that company.</content>
+cc @nikitabier &amp;amp; @benjitaylor https://t.co/qc9tRYTs1i</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2054569893060809151</id>
+    <id>https://x.com/garrytan/status/2055155189766865028</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2055155189766865028" rel="alternate" />
+    <published>2026-05-15T05:15:54.000Z</published>
+    <updated>2026-05-15T05:15:54.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">The electricity NIMBYs strike again
+
+Have you guys heard of markets? https://t.co/4KIhnfxVzf</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2055143231625818554</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2055143231625818554" rel="alternate" />
+    <published>2026-05-15T04:28:23.000Z</published>
+    <updated>2026-05-15T04:28:23.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">We’re in a period where everything feels like it’s getting jumbled up across roles because AI lets you explore the adjacencies of other functions more easily.
+
+We all collectively have to figure out the new form of definition of what these jobs look like in a world of agents, and certainly many will look different from what they did before. But there are some immutable laws that will eventually re-emerge over time and become clear again. 
+
+As an example, when you’re scaling, product managers should be spending an insane amount of time with customers and getting feedback on the product and thinking through what to do build next, how to design it so it’s usable, and so on. Engineers should be understanding the business objectives, and building systems that scale and are secure, even as feature velocity increases by 10X. Now both can do a bit more of the others role, and this can temporarily get conflated as doing the whole thing, but eventually the work adds up to be enough that it makes sense to specialize again.
+
+Similarly, in GTM, the product marketer can certainly generate a working design and video for a launch, but the specialist is always going to (or should) have an eye for quality that delivers a better outcome.
+
+My bet is that AI enhances specialization even further, even if a few roles collapse into each other, and the future toolchain and craft of the specialist will be much higher leverage and output far greater than anyone else as a hobbyist in that function.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2055136119969529993</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2055136119969529993" rel="alternate" />
+    <published>2026-05-15T04:00:08.000Z</published>
+    <updated>2026-05-15T04:00:08.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">He just spent a year building scaffolding for his agent harness. Now release a new model update that makes all of it obsolete. https://t.co/lSoGB1j1rH</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2055128107674415354</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2055128107674415354" rel="alternate" />
+    <published>2026-05-15T03:28:17.000Z</published>
+    <updated>2026-05-15T03:28:17.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Meera: I have a welcome gift for you when you’re back from NYC. 
+
+Me: What?
+
+Meera: 🚂🚂 https://t.co/Z3xoAYQaeg</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2055113979857703350</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2055113979857703350" rel="alternate" />
+    <published>2026-05-15T02:32:09.000Z</published>
+    <updated>2026-05-15T02:32:09.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">Apparently at @AIEMiami geoff complained about @SAPConcur being dead software and a SAP guy was in the audience and invited him to SAP to advise on how to do AI transformation for 6800 employees 
+
+TLDR he made fun of SAP, and SAP… concurred https://t.co/oCD0d6Mb1T https://t.co/g5sT8h5hVI</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2055103698251219167</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2055103698251219167" rel="alternate" />
+    <published>2026-05-15T01:51:18.000Z</published>
+    <updated>2026-05-15T01:51:18.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">oh no
+
+https://t.co/fr8TgAmZVy</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2055103533754818769</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2055103533754818769" rel="alternate" />
+    <published>2026-05-15T01:50:39.000Z</published>
+    <updated>2026-05-15T01:50:39.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">This city is glorious. Nothing like it https://t.co/B2nF1b6gfu</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2055097107758076254</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2055097107758076254" rel="alternate" />
+    <published>2026-05-15T01:25:07.000Z</published>
+    <updated>2026-05-15T01:25:07.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">You vibecoded a website somewhere other than Replit?
+
+That’s not wise, but okay… we’re going to let you import it and get a free mobile app.
+
+Yes, FREE MOBILE APP! https://t.co/8IG2o6vnWf</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2055093283039412499</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2055093283039412499" rel="alternate" />
+    <published>2026-05-15T01:09:55.000Z</published>
+    <updated>2026-05-15T01:09:55.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Another source to read https://t.co/xSuYkaT1Ny</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2055093087660286413</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2055093087660286413" rel="alternate" />
+    <published>2026-05-15T01:09:08.000Z</published>
+    <updated>2026-05-15T01:09:08.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">I think this post is getting swarmed by uninformed people, so really, just take a look at this if you are here to say &quot;hur dur datacenters are bad for energy/water/jobs/loud&quot; https://t.co/6b79qXp1Op</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2055093015304396986</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2054569893060809151" rel="alternate" />
-    <published>2026-05-13T14:30:09.000Z</published>
-    <updated>2026-05-13T14:30:09.000Z</updated>
+    <link href="https://x.com/petergyang/status/2055093015304396986" rel="alternate" />
+    <published>2026-05-15T01:08:51.000Z</published>
+    <updated>2026-05-15T01:08:51.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">Tell me if you&apos;ve seen this before:
-
-&quot;Today is a hard day. We&apos;ve made the difficult decision to cut 1,000+ employees. Our business has never been stronger, but AI has changed how we work...&quot;
-
-Whenever I read one of these, I mentally translate it to what&apos;s actually happening:
-
-&quot;Today is a hard day. We overhired during the zero-interest era and need to cut costs. AI is easy to blame, so…&quot;
-
-Over 80,000 tech employees were laid off in Q1, the highest since 2022-23.
-
-Here&apos;s my rant why these layoffs keep happening and 6 ways to take back control as an employee.
-
-📌 Read now: https://t.co/LGgVeVAE4t</content>
+    <content type="text">How do people even do AI hackathons these days you&apos;re just sitting around waiting for the agents half of the time?</content>
   </entry>
   <entry>
-    <id>https://claude.com/blog/new-in-claude-managed-agents</id>
-    <title>Claude Blog: New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</title>
-    <link href="https://claude.com/blog/new-in-claude-managed-agents" rel="alternate" />
-    <published>2026-05-06T00:00:00.000Z</published>
-    <updated>2026-05-06T00:00:00.000Z</updated>
-    <author><name>Claude Blog</name></author>
-    <category term="blog" />
-    <content type="text">Today we&amp;#x27;re launching dreaming in Claude Managed Agents as a research preview. Dreaming extends memory by reviewing past sessions to find patterns and help agents self-improve. We&amp;#x27;re also making outcomes, multiagent orchestration, and webhooks available to developers building with Managed Agents. Together, these updates make agents more capable at handling complex tasks with minimal steering. Build self-improving agents with dreaming Dreaming is a scheduled process that reviews your agent sessions and memory stores, extracts patterns, and curates memories so your agents improve over time. You decide how much control you want: dreaming can update memory automatically, or you can review changes before they land. Dreaming surfaces patterns that a single agent can’t see on its own, including recurring mistakes, workflows that agents converge on, and preferences shared across a team. It also restructures memory so it stays high-signal as it evolves. This is especially useful for l...</content>
+    <id>https://x.com/petergyang/status/2055091746036716026</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2055091746036716026" rel="alternate" />
+    <published>2026-05-15T01:03:48.000Z</published>
+    <updated>2026-05-15T01:03:48.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">TIL having AI just start making screens without a design system or components is a sure fire path to slop.
+
+Maybe those designers were onto something</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2055081408683729281</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2055081408683729281" rel="alternate" />
+    <published>2026-05-15T00:22:44.000Z</published>
+    <updated>2026-05-15T00:22:44.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">🥲 https://t.co/ile5cmP5S4</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2055079344632926603</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2055079344632926603" rel="alternate" />
+    <published>2026-05-15T00:14:31.000Z</published>
+    <updated>2026-05-15T00:14:31.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">Blogs die when they come from &quot;the ____ team&quot; instead of named individuals
+
+With great ownership comes great accountability</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2055034714231345475</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2055034714231345475" rel="alternate" />
+    <published>2026-05-14T21:17:11.000Z</published>
+    <updated>2026-05-14T21:17:11.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">also all this: https://t.co/UvO0GnmPzX</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2055034461591588916</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2055034461591588916" rel="alternate" />
+    <published>2026-05-14T21:16:10.000Z</published>
+    <updated>2026-05-14T21:16:10.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">Codex in the ChatGPT mobile app!</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2055030691180503152</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2055030691180503152" rel="alternate" />
+    <published>2026-05-14T21:01:12.000Z</published>
+    <updated>2026-05-14T21:01:12.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">Gabbing with my barber about Codex and he’s telling me about how he’s using Claude to run a crypto trading strategy and Gemini + nano banana to learn jiu jitsu moves
+
+Guy in the chair next to me leans over and says his company just bought 1,300 Claude seats
+
+2026 is wild</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2055029560882663884</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2055029560882663884" rel="alternate" />
+    <published>2026-05-14T20:56:42.000Z</published>
+    <updated>2026-05-14T20:56:42.000Z</updated>
+    <author><name>Matt Turck</name></author>
+    <category term="twitter" />
+    <content type="text">Details from the @covaldev here
+
+https://t.co/YvERHaTNkh https://t.co/7EAb993wUp https://t.co/DgzWAPnOND</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2055029555455222199</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2055029555455222199" rel="alternate" />
+    <published>2026-05-14T20:56:41.000Z</published>
+    <updated>2026-05-14T20:56:41.000Z</updated>
+    <author><name>Matt Turck</name></author>
+    <category term="twitter" />
+    <content type="text">Alright it’s now official - barely 9 months old and @GradiumAI is already trouncing the entire voice AI field on third party TTS benchmarks
+
+Better than OpenAI
+Better than Eleven Labs
+Better than Cartesia
+Better than Deepgram 
+… https://t.co/qWkfp1Pj8k</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2055015466054410400</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2055015466054410400" rel="alternate" />
+    <published>2026-05-14T20:00:42.000Z</published>
+    <updated>2026-05-14T20:00:42.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">when people ask me how to get their org agent-pilled i always say the same thing:
+
+the #1 leading indicator is whether their leadership team personally uses Codex, Claude Code or Cowork day to day. 
+
+that’s why over the last few months we’ve been working privately with leadership teams of the top companies in tech, helping them get their hands deep into Claude Code, Cowork, Codex and more. 
+
+if you want @every to come and get your exec team agent-pilled, we’re opening up a few slots:
+
+https://t.co/o8g3c1xKYr</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2054989456189648918</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2054989456189648918" rel="alternate" />
+    <published>2026-05-14T18:17:20.000Z</published>
+    <updated>2026-05-14T18:17:20.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">You can just render images on the terminal btw:
+▲ ~/ npx ai-cli image &apos;a vercel ai sdk diagram&apos;
+
+Run 𝚗𝚙𝚖 𝚒 -𝚐 𝚊𝚒-𝚌𝚕𝚒 and access every image, video &amp;amp; text model from @vercel AI Gateway instantly https://t.co/IsATrdSNyF</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2054981832408760782</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2054981832408760782" rel="alternate" />
+    <published>2026-05-14T17:47:03.000Z</published>
+    <updated>2026-05-14T17:47:03.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">I will be co-hosting an event in SF next Sat (5/23)!
+
+I&apos;ve been thinking a lot about how to manage &amp; curate CONTEXT for agents. I&apos;m inviting everyone who&apos;s thought a lot about this to demo your real workflows &amp; show what&apos;s actually working.
+
+Format: A series of rapid-fire 5-minute demos, followed by Q&amp;A. Screen shares of real workflows only; no slides.
+
+​Not demoing? Come hang out as a participant. Either way, expect an afternoon of practical workflows, fresh ideas, and new friends.
+
+RSVP here: https://t.co/5t0q6cHDV6
+
+Cohosted w @NotionHQ &amp; @radicalvcfund (@juleszqiu)</content>
+  </entry>
+  <entry>
+    <id>https://x.com/adityaag/status/2054976557702066520</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2054976557702066520" rel="alternate" />
+    <published>2026-05-14T17:26:05.000Z</published>
+    <updated>2026-05-14T17:26:05.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
+    <category term="twitter" />
+    <content type="text">https://t.co/AoyPtuI9jx</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2054969965757800721</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2054969965757800721" rel="alternate" />
+    <published>2026-05-14T16:59:53.000Z</published>
+    <updated>2026-05-14T16:59:53.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">hanging with the GOAT today @lennysan https://t.co/GQimejBSE6</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2054940655554564473</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2054940655554564473" rel="alternate" />
+    <published>2026-05-14T15:03:25.000Z</published>
+    <updated>2026-05-14T15:03:25.000Z</updated>
+    <author><name>Matt Turck</name></author>
+    <category term="twitter" />
+    <content type="text">This great conversation with @ivanburazin is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):
+
+https://t.co/HuLAm1ewLU</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2054924517135540320</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2054924517135540320" rel="alternate" />
+    <published>2026-05-14T13:59:18.000Z</published>
+    <updated>2026-05-14T13:59:18.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Every single large company with data walls realizing it’s time to go headless (or essentially die)..
+
+It’s the right call too since the market/usage for agents will be 100x larger than humans. 
+
+If you gatekeep your systems for humans, you’ll most likely be 100x less valuable!</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=kMXJrzAa5fM</id>
+    <title>The MAD Podcast with Matt Turck: Why Every AI Agent Needs Its Own Computer | Ivan Burazin (Daytona)</title>
+    <link href="https://www.youtube.com/watch?v=kMXJrzAa5fM" rel="alternate" />
+    <published>2026-05-14T11:30:00.000Z</published>
+    <updated>2026-05-14T11:30:00.000Z</updated>
+    <author><name>The MAD Podcast with Matt Turck</name></author>
+    <category term="podcast" />
+    <content type="text">Speaker 1 | 00:00 - 00:18
+We are a part of this like super cycle right now and the super cycle does not last forever. And so if you&apos;re gonna pause by the super cycle, you are speeding market. Like that is what you&apos;re doing. I would ask Claude, can you go fetch the data from our bank? And then it was like, oh yeah, just log in and give me access.
+
+Speaker 1 | 00:18 - 00:36
+I&apos;m like, log in and give me a no. I will not give you access. Right away fundamentally for me that was like broke the entire...</content>
   </entry>
 </feed>
