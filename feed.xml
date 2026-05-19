@@ -5,263 +5,275 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-05-17T07:16:46.542Z</updated>
+  <updated>2026-05-18T07:45:35.433Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/swyx/status/2055906613316432247</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2055906613316432247" rel="alternate" />
-    <published>2026-05-17T07:01:48.000Z</published>
-    <updated>2026-05-17T07:01:48.000Z</updated>
-    <author><name>Swyx</name></author>
+    <id>https://x.com/levie/status/2056219645796090197</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2056219645796090197" rel="alternate" />
+    <published>2026-05-18T03:45:40.000Z</published>
+    <updated>2026-05-18T03:45:40.000Z</updated>
+    <author><name>Aaron Levie</name></author>
     <category term="twitter" />
-    <content type="text">@sarahookr @calcsam</content>
+    <content type="text">Right now there’s a temporary mismatch between the jobs that used to be sought after in some fields and the new jobs that are becoming in demand in those fields.
+
+For instance, if you studied CS, for years the general direction of travel was often to join a tech company and build customer-facing software in some form. A significant portion of the CS pipeline from college to hire was built for this.
+
+When you realize that AI is going to make coding abundant, you realize everyone will need technical talent to implement agentic systems. This means the types of roles engineers should be thinking about radically expands.
+
+I was talking to a Fortune 500 pharma CEO a week ago that commented on how much more technical talent they need right now. The job may be different from what it was 5 years ago when thinking about tech, but the demand for the skills are still there. And this is what I’m hearing from every CIO and CEO across nearly every industry right now.
+
+We definitely need colleges to wake up to this; but we equally need companies think about how they craft pipelines into these jobs.</content>
   </entry>
   <entry>
-    <id>https://x.com/trq212/status/2055903660476129723</id>
+    <id>https://x.com/petergyang/status/2056210471917912140</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2056210471917912140" rel="alternate" />
+    <published>2026-05-18T03:09:13.000Z</published>
+    <updated>2026-05-18T03:09:13.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Big week for all my Google friends, I can assure you all they’ve been cooking</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2056201387172843800</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2056201387172843800" rel="alternate" />
+    <published>2026-05-18T02:33:07.000Z</published>
+    <updated>2026-05-18T02:33:07.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">@gabrielchua the agentic excel thing is basically what u get when u expand the side panel to be the main thing
+
+https://t.co/mYvd97PpNq</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2056201218540904667</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2056201218540904667" rel="alternate" />
+    <published>2026-05-18T02:32:27.000Z</published>
+    <updated>2026-05-18T02:32:27.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">The ideal 🪩 doesn&apos;t exi… https://t.co/9hlNrJj7pI</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2056190797096403162</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2056190797096403162" rel="alternate" />
+    <published>2026-05-18T01:51:02.000Z</published>
+    <updated>2026-05-18T01:51:02.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">some of us doing kaya toast breakfast here at 11am if u are still around
+
+https://t.co/zYY3XR5XIm</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2056184774256112084</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2056184774256112084" rel="alternate" />
+    <published>2026-05-18T01:27:06.000Z</published>
+    <updated>2026-05-18T01:27:06.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">🇸🇬 https://t.co/QdFTkvxrox https://t.co/MkMRCjJcei</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2056178065836007853</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2056178065836007853" rel="alternate" />
+    <published>2026-05-18T01:00:27.000Z</published>
+    <updated>2026-05-18T01:00:27.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Watch the full talk here:
+https://t.co/FiUycdqCWD
+
+Check out my interview with Alex: https://t.co/3t2gRrgrlC
+
+Get the written takeaways: https://t.co/8pk9o3xg17</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2056178053848703019</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2056178053848703019" rel="alternate" />
+    <published>2026-05-18T01:00:24.000Z</published>
+    <updated>2026-05-18T01:00:24.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">5. Build evals based on real traces + feedback
+
+Read actual customer conversations with your model to build product sense, and use Claude to synthesize feedback into top themes.
+
+Don&apos;t run &quot;eval theater&quot; on generic academic benchmarks. As models get smarter, evals need to get harder to keep producing signal.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2056165722804654196</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2056165722804654196" rel="alternate" />
+    <published>2026-05-18T00:11:24.000Z</published>
+    <updated>2026-05-18T00:11:24.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">ChatGPT Images 2.0 💚 India.
+
+Already more than 1 billion images created there; awesome to see.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2056145415867937182</id>
     <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2055903660476129723" rel="alternate" />
-    <published>2026-05-17T06:50:04.000Z</published>
-    <updated>2026-05-17T06:50:04.000Z</updated>
+    <link href="https://x.com/trq212/status/2056145415867937182" rel="alternate" />
+    <published>2026-05-17T22:50:43.000Z</published>
+    <updated>2026-05-17T22:50:43.000Z</updated>
     <author><name>Thariq</name></author>
     <category term="twitter" />
-    <content type="text">HTML continues to be undefeated https://t.co/veyAAEWKrT</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2055889947136237595</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2055889947136237595" rel="alternate" />
-    <published>2026-05-17T05:55:34.000Z</published>
-    <updated>2026-05-17T05:55:34.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">AIE coming to India 
+    <content type="text">tired: I brought my work laptop and my personal laptop 
 
-soon! https://t.co/bAbATz4IFb</content>
+wired: I am dual wielding</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2055841860279804005</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2055841860279804005" rel="alternate" />
-    <published>2026-05-17T02:44:29.000Z</published>
-    <updated>2026-05-17T02:44:29.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">I ended up buying this looks promising https://t.co/xZ9CD9HMKf</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2055814893216178248</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2055814893216178248" rel="alternate" />
-    <published>2026-05-17T00:57:20.000Z</published>
-    <updated>2026-05-17T00:57:20.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">I feel like to eat healthy you need some really good hot sauce to add flavor to your chicken/fish/etc. 
-
-Any suggestions?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2055775661755715974</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2055775661755715974" rel="alternate" />
-    <published>2026-05-16T22:21:26.000Z</published>
-    <updated>2026-05-16T22:21:26.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">my brain: don&apos;t read the hacker news comments, don&apos;t read the hacker news comments
-
-me: reads the hacker news comments</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2055747016727167035</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2055747016727167035" rel="alternate" />
-    <published>2026-05-16T20:27:37.000Z</published>
-    <updated>2026-05-16T20:27:37.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">deslop your Claude code if you haven’t yet switched to Codex. https://t.co/nJYkYASohj</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2055728641913536762</id>
+    <id>https://x.com/zarazhangrui/status/2056132881630826952</id>
     <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2055728641913536762" rel="alternate" />
-    <published>2026-05-16T19:14:36.000Z</published>
-    <updated>2026-05-16T19:14:36.000Z</updated>
+    <link href="https://x.com/zarazhangrui/status/2056132881630826952" rel="alternate" />
+    <published>2026-05-17T22:00:54.000Z</published>
+    <updated>2026-05-17T22:00:54.000Z</updated>
     <author><name>Zara Zhang</name></author>
     <category term="twitter" />
-    <content type="text">AI psychosis: cycling between two mental states every single day
-↑ after using coding agents: holy shit I&apos;m omnipotent. I can build anything. I&apos;ve never felt this powerful in my life.
-↓ after scrolling twitter: holy shit I&apos;m completely behind. everyone&apos;s ahead. the wave is moving and I&apos;m going to get left.</content>
+    <content type="text">People consistently overestimate how hard it is to build something and underestimate how hard it is to win people’s attention once you’ve built it</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2055727669900141017</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2055727669900141017" rel="alternate" />
-    <published>2026-05-16T19:10:44.000Z</published>
-    <updated>2026-05-16T19:10:44.000Z</updated>
-    <author><name>Dan Shipper</name></author>
+    <id>https://x.com/mattturck/status/2056129724565373406</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2056129724565373406" rel="alternate" />
+    <published>2026-05-17T21:48:22.000Z</published>
+    <updated>2026-05-17T21:48:22.000Z</updated>
+    <author><name>Matt Turck</name></author>
     <category term="twitter" />
-    <content type="text">If you use a bicycle it weakens your walking abilities, too! https://t.co/MSkwuoHYzC</content>
+    <content type="text">When a multi-billion dollar venture fund has a $1B exit in its portfolio https://t.co/NIOVPfBSVT</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2055715359244566552</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2055715359244566552" rel="alternate" />
-    <published>2026-05-16T18:21:49.000Z</published>
-    <updated>2026-05-16T18:21:49.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">Successfully Codex-pilling the world one text at a time https://t.co/slutMhp63u https://t.co/wTSOEjtK3W</content>
-  </entry>
-  <entry>
-    <id>https://x.com/realmadhuguru/status/2055708451670798839</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2055708451670798839" rel="alternate" />
-    <published>2026-05-16T17:54:22.000Z</published>
-    <updated>2026-05-16T17:54:22.000Z</updated>
-    <author><name>Madhu Guru</name></author>
-    <category term="twitter" />
-    <content type="text">I have friends who made $10M+ and are miserable. I have friends who made that much and found calm - they don’t need to run anymore. 
-
-I have friends who made far less and are just happy.
-
-Whether something is enough is up to you. Whether you’re happy is independent of your bank account.
-
-You can want to be wealthy and still be content now. You don’t need to chase it from a place of lack and desperation.
-
-Silicon Valley treats ambition and happiness as mutually exclusive. As if wanting more means you can’t be satisfied now.
-
-That’s the trap. You can be both</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2055685581758206139</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2055685581758206139" rel="alternate" />
-    <published>2026-05-16T16:23:30.000Z</published>
-    <updated>2026-05-16T16:23:30.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">BlackBar 0.2.0 is live for @useblacksmith 
-
-📈 24h vCPU + workflow graphs
-🔔 opt-in status/job notifications
-🧰 richer Blacksmith job rows
-🟢 compact status badge
-
-Tiny menu bar, less CI guesswork.
-https://t.co/LAAyHy8aDQ https://t.co/178w9igZTW</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2055674791873630650</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2055674791873630650" rel="alternate" />
-    <published>2026-05-16T15:40:37.000Z</published>
-    <updated>2026-05-16T15:40:37.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Saturday morning and it’s a good time to think a bit about how our functional systems are being torn down by a mind virus by two philosophers: Foucault and Derrida 
-
-Foucault: His framework tells you that every institution claiming to know something is really just exercising power. Medicine, engineering, law, science. Apply that at civilizational scale and you get exactly what Dan Wang warns about: a society that lost the will to build. Process knowledge — the tacit know-how that only exists in the hands of people who actually make things — dies when a culture decides that all knowledge claims are suspect. America went from building the Interstate Highway System and the Apollo rockets to being unable to build a train from LA to SF. That didn&apos;t happen because we forgot the engineering. It happened because we built an entire intellectual class whose job is to interrogate every system rather than improve one.
-
-Derrida: His move is that every commitment contains its own contradiction, so you can never land on firm meaning. Run that as societal firmware and you get the bureaucratic paralysis we now live in. Infrastructure projects stuck in 15 years of environmental review because every statement of purpose deconstructs under the next round of stakeholder input. Institutions that can&apos;t say what they&apos;re for because every draft mission statement gets wordsmithed into mush by people trained to find the hidden hierarchy in any clear sentence. Derrida is the OS behind a civilization that can write a 4,000 page environmental impact report but can&apos;t pour concrete.
-
-The real damage is these ideas escaped the lab. Every institution that adopted this operating system stopped trying to discover truth and started managing narrative. DEI bureaucracies, academic hiring committees, media editorial standards. All running on Foucault and Derrida whether they know it or not.
-
-The antidote is building. The physical bridge across a river holds or it doesn’t. The code compiles or it doesn&apos;t. Reality keeps score and it doesn&apos;t grade on a curve.
-
-Foucault and Derrida gave a generation a sophisticated excuse to never build anything. Their followers inherited the sophistication and the impotence.
-
-It’s time to build again.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2055670797596012657</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2055670797596012657" rel="alternate" />
-    <published>2026-05-16T15:24:45.000Z</published>
-    <updated>2026-05-16T15:24:45.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">GBrain is free open source. It’s MIT license. 
-
-You can find it and install it in your agent with one command.
-
-https://t.co/yFpFU4pn5b</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2055670533451366479</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2055670533451366479" rel="alternate" />
-    <published>2026-05-16T15:23:42.000Z</published>
-    <updated>2026-05-16T15:23:42.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">What is GBrain? My open source project is a knowledge system, not RAG in a box. 
-
-It gives agents 8 layers that work together to improve memory in a way that makes your already smart OpenClaw or Hermes Agent feel clairvoyant about who you are. 
-
-Personal AI becomes possible. https://t.co/XNVIw5ZfpO</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2055663937061007762</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2055663937061007762" rel="alternate" />
-    <published>2026-05-16T14:57:29.000Z</published>
-    <updated>2026-05-16T14:57:29.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">If you&apos;re stuck in the Bay Area tech rat race / psychosis, make time to travel to other places.
-
-Go to a small town in Europe or visit Asia - you&apos;ll see that life can be about much more than whether you&apos;re IC7 or IC8 or what company you work for.
-
-Don&apos;t be the person to put on your tombstone: &quot;He got divorced and neglected his kids but at least he made D2 at FAANG&quot;</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2055648134819450907</id>
+    <id>https://x.com/nikunj/status/2056125669466333672</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2055648134819450907" rel="alternate" />
-    <published>2026-05-16T13:54:42.000Z</published>
-    <updated>2026-05-16T13:54:42.000Z</updated>
+    <link href="https://x.com/nikunj/status/2056125669466333672" rel="alternate" />
+    <published>2026-05-17T21:32:15.000Z</published>
+    <updated>2026-05-17T21:32:15.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">A lot of young people ask me if they should move to venture and my answer is typically no* for the following reason..
+    <content type="text">Employees joining some recently minted unicorn* companies are facing a triple whammy..
 
-It’s hard to truly understand what “excellence” means unless you’re deeply embedded and working for founders who are truly excellent. Even if you are part of the cap table and the board and spending time with founders, you don’t get same learnings as working at a company day in and day out. 
+1) tranched valuations are very common now means their entry strike price at that valuation is often &gt;2x of the lead preferred price.
 
-I wouldn’t know anything about product excellence if it were not for @deepnishar @ericwu01 @acv and others. 
+2) this means your strike price will be quite high and so will be your 409a. you’ll paying a pretty penny if you try to early exercise and if not then you’ll have to wait a while till they grow into that valuation.  
 
-I wouldn’t know anything about design if it were not for @kurtvarner @MicahSivitz @xiakv and others. 
+3) stock packages seem great “on paper” but are massively inflated because of this tranched valuation. so you can say total comp is very high but the real comp is not that high (at least today). this is another reason companies chase a higher valuation so they can give lower equity raises. 
 
-I wouldn’t know anything about operational excellence if it were not for @rabois @danubata and others. 
+Make sure you go with wide eyes and use Claude/ChatGPT to do some exit math on your equity. Joining a unicorn company can offer far more than just comp (learning, experience, strong mission, great team) and that should be the core reason for joining. But do your own due diligence on the company you’re joining just like an investor would. 
 
-Only because of these experiences and reading deeply, I was able to create some heuristics of what great founders and companies look like. And I have to keep updating it as I meet more and more founders and technology shifts beneath us. Those experiences also helped me earn the right to win the right to be a part of founders cap table.
-
-The other main reason to not be a junior investor is for most firms you’re just sourcing founders that match the GPs taste vs. truly thinking from first principles on what makes great founders &amp; companies. 
-
-If you really want to invest in  founders, work at a great company and start by being be an angel. It’s such a fun way to learn and be part of founders journey. 
-
-* The one exception to this is you’re absolutely obsessed with the craft of investing and you really cannot fathom doing any other job. If that’s your true passion then you’ll figure out a way to be a great investor regardless of anything you have done in the past.</content>
+* Not all unicorn companies are the same - some are fundamentally better and have meaningfully grown into the valuation than others. Some are growing way faster than the ones with fundamentals. Point is to do your homework vs treating every company that’s valued similarly and putting them in the same bucket.</content>
   </entry>
   <entry>
-    <id>https://x.com/swyx/status/2055612276208709731</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2055612276208709731" rel="alternate" />
-    <published>2026-05-16T11:32:12.000Z</published>
-    <updated>2026-05-16T11:32:12.000Z</updated>
-    <author><name>Swyx</name></author>
+    <id>https://x.com/garrytan/status/2056123737544757733</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2056123737544757733" rel="alternate" />
+    <published>2026-05-17T21:24:34.000Z</published>
+    <updated>2026-05-17T21:24:34.000Z</updated>
+    <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">@Gavriel_Cohen i have to say his social media team is better than mine wtf. first pull on youtube. https://t.co/h2dXUgDLzL</content>
+    <content type="text">Ken Griffin doesn’t understand the ceiling just got raised. Some 20-something maybe reading this will build the cracked AI-human-computer-symbiosis team that will supersede his whole operation because he is too distracted about lowering cost
+
+Boil the ocean don’t cut your costs https://t.co/gxgx3IzLEa</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=xjlYpGaxIPA</id>
-    <title>No Priors: Pax Silica: Inside the Trump Administration’s Tech Strategy with US Under Secretary of State for Economic Affairs Jacob Helberg</title>
-    <link href="https://www.youtube.com/watch?v=xjlYpGaxIPA" rel="alternate" />
-    <published>2026-05-14T10:00:00.000Z</published>
-    <updated>2026-05-14T10:00:00.000Z</updated>
-    <author><name>No Priors</name></author>
+    <id>https://x.com/garrytan/status/2056122513743327634</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2056122513743327634" rel="alternate" />
+    <published>2026-05-17T21:19:42.000Z</published>
+    <updated>2026-05-17T21:19:42.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">https://t.co/IVlEaxRbsL</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2056122508550738223</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2056122508550738223" rel="alternate" />
+    <published>2026-05-17T21:19:41.000Z</published>
+    <updated>2026-05-17T21:19:41.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">For personal AI scenarios against my 120k markdown brain ZeroEntropy has earned the top slot https://t.co/57CLV1XBSM</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2056083305468944820</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2056083305468944820" rel="alternate" />
+    <published>2026-05-17T18:43:54.000Z</published>
+    <updated>2026-05-17T18:43:54.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">What SMBs are building https://t.co/MmPNmWvPLx</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2056051851439857933</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2056051851439857933" rel="alternate" />
+    <published>2026-05-17T16:38:55.000Z</published>
+    <updated>2026-05-17T16:38:55.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">One of the best things students and colleges can do is not bail on learning and teaching the fundamentals of any given domain. AI will trick you into thinking you don’t need to go deep in a particular area, but that’s wrong.
+
+The expert with AI is always going to be far more capable than the novice. Those that can steer AI agents properly, figure out how to evaluate their work, fix their mistakes, and incorporate their work into a workflow will always be the most potent users of these tools.
+
+The experienced software developer that’s built and scaled complex systems using agents outrun someone just vibe coding. The designer that uses AI will build far better products and campaigns than anyone else. The banker or analyst that understands financial models will be able to pull off far more with agents. 
+
+Despite some of the rhetoric in the valley that this is less implement now, that couldn’t be further from the case. Don’t give up on going deep in your craft.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2056039276308308217</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2056039276308308217" rel="alternate" />
+    <published>2026-05-17T15:48:57.000Z</published>
+    <updated>2026-05-17T15:48:57.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Flowermaxxing (fresh haul from our garden) https://t.co/6LJ7GxBKUf</content>
+  </entry>
+  <entry>
+    <id>https://x.com/adityaag/status/2056015684145127612</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2056015684145127612" rel="alternate" />
+    <published>2026-05-17T14:15:12.000Z</published>
+    <updated>2026-05-17T14:15:12.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
+    <category term="twitter" />
+    <content type="text">On Friday I used AI to write a lot of code.
+
+And then on Saturday I watched humans play sports (FA Cup Final) and dance (my kid&apos;s dance recital).
+
+I am not worried that we won&apos;t have meaning and purpose.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2056014576215601431</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2056014576215601431" rel="alternate" />
+    <published>2026-05-17T14:10:48.000Z</published>
+    <updated>2026-05-17T14:10:48.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">&amp;gt; claude --dangerously-skip-permissions
+&amp;gt; /goal improve the codebase for performance and add a bit of aura https://t.co/41pKeTT5MA</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=in7i-EVDDlk</id>
+    <title>AI &amp; I by Every: Claude Code Can Be Your Second Brain</title>
+    <link href="https://www.youtube.com/watch?v=in7i-EVDDlk" rel="alternate" />
+    <published>2026-05-13T15:02:38.000Z</published>
+    <updated>2026-05-13T15:02:38.000Z</updated>
+    <author><name>AI &amp; I by Every</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:33
-We&apos;re not gonna do government operated supply chains because that&apos;s not how we shine as a country. Our superpower is really our private sector and our companies. The old Steve Jobs quote that American products enchant and delight users around the world by the billions. That is really is our edge as a country. And so the answer&apos;s been trying to work in lockstep with our private companies and our builders to build platforms that are commercially viable and that can ultima...</content>
+    <content type="text">Speaker 1 | 00:00 - 00:28
+Noah Breyer might have the coolest Claude code setup I&apos;ve ever seen. He rigged a home server in his basement, put his Obsidian vault in it, and then runs Claude code on top. So he can think, research, write, and even ship code right from his phone. Today, he shows us how he uses Claude Code as a true second brain, a thinking partner that asks him sharp questions, pulls research from his whole note archive and the web, and even keeps a running log of what he&apos;s learned an...</content>
   </entry>
 </feed>
