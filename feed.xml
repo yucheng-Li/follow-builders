@@ -5,279 +5,329 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-05-31T07:34:55.496Z</updated>
+  <updated>2026-06-01T08:12:54.071Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/thsottiaux/status/2060964284117782996</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2060964284117782996" rel="alternate" />
-    <published>2026-05-31T05:59:10.000Z</published>
-    <updated>2026-05-31T05:59:10.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">Five million users would agree. Resetting the limits tomorrow morning to celebrate.
-
-Time to go /fast https://t.co/MdRBfp8Od0</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2060962160872919043</id>
+    <id>https://x.com/zarazhangrui/status/2061341642544783801</id>
     <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2060962160872919043" rel="alternate" />
-    <published>2026-05-31T05:50:44.000Z</published>
-    <updated>2026-05-31T05:50:44.000Z</updated>
+    <link href="https://x.com/zarazhangrui/status/2061341642544783801" rel="alternate" />
+    <published>2026-06-01T06:58:40.000Z</published>
+    <updated>2026-06-01T06:58:40.000Z</updated>
     <author><name>Zara Zhang</name></author>
     <category term="twitter" />
-    <content type="text">One thing I noticed about Opus 4.8 is that it stopped using em dashes in writing</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2060960564676034726</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2060960564676034726" rel="alternate" />
-    <published>2026-05-31T05:44:24.000Z</published>
-    <updated>2026-05-31T05:44:24.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">What’s something we haven’t fixed in codex for a while and that’s plain annoying?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2060949003790176667</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2060949003790176667" rel="alternate" />
-    <published>2026-05-31T04:58:27.000Z</published>
-    <updated>2026-05-31T04:58:27.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Unfortunately the building boom has not hit San Francisco yet and that&apos;s not a good thing https://t.co/5XDHdlbTQQ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2060948669164347448</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2060948669164347448" rel="alternate" />
-    <published>2026-05-31T04:57:07.000Z</published>
-    <updated>2026-05-31T04:57:07.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">Time is a flat circle. A reminder since it’s in the discourse again 🙏 https://t.co/qKYCFktX6s</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2060930599565811774</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2060930599565811774" rel="alternate" />
-    <published>2026-05-31T03:45:19.000Z</published>
-    <updated>2026-05-31T03:45:19.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Basically the ultimate education app is you&apos;re playing Final Fantasy or something and you&apos;re learning math and CS at the same time</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2060930334620053998</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2060930334620053998" rel="alternate" />
-    <published>2026-05-31T03:44:16.000Z</published>
-    <updated>2026-05-31T03:44:16.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">My guess is:
-- OpenAI Codex dank memes
-- Anthropic essays https://t.co/tSoVhzeBLA</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2060928818383355907</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2060928818383355907" rel="alternate" />
-    <published>2026-05-31T03:38:15.000Z</published>
-    <updated>2026-05-31T03:38:15.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Just spent an hour with daughter learning CS 101 from @brilliantorg 
+    <content type="text">Why do I get so annoyed when a coding agent ends a message with &quot;just say the word&quot;
 
-She doesn’t want to give up until she beats Joyce B 🔥 https://t.co/Eq3kNxXsGn</content>
+You&apos;re my cofounder, not my servant</content>
   </entry>
   <entry>
-    <id>https://x.com/levie/status/2060923684295221390</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2060923684295221390" rel="alternate" />
-    <published>2026-05-31T03:17:51.000Z</published>
-    <updated>2026-05-31T03:17:51.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterprises, they are either growing due to AI (in new job functions like FDEs, engineering, etc.) or at a minimum reinvesting efficiency savings back into the business in new areas (sales, marketing, etc.).
-
-David Solomon, CEO of Goldman Sachs, articulated this perfectly in a NYTimes OpEd last week. The AI boom is both creating all new jobs in the build out of AI systems and the implementation across sectors, but also freeing up dollars to invest in areas that have been underfunded or have more demand now because of AI. 
-
-Most businesses have been constrained by how much software they can produce at a given cost, how many sales reps they can hire, how many marketing campaigns they can run, how they can do outbound customer success motions with enough tailoring, how they can find more risk in their business and prevent it, and 100s of other things. 
-
-When AI makes it possible to do more of this, investment goes back into the business. The companies that better serve their customers win over the long run, and those that just try and find savings end up doing worse.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2060861670184870225</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2060861670184870225" rel="alternate" />
-    <published>2026-05-30T23:11:25.000Z</published>
-    <updated>2026-05-30T23:11:25.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">business insider 2013 vs. 2026 https://t.co/DVCelvXlgK</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2060850157978325119</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2060850157978325119" rel="alternate" />
-    <published>2026-05-30T22:25:41.000Z</published>
-    <updated>2026-05-30T22:25:41.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Don’t forget to vote by June 2. 
-
-Use my guide to see how we can fix California 
-
-garrysguide dot org  https://t.co/wOdYdOtco8</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2060823433819439292</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2060823433819439292" rel="alternate" />
-    <published>2026-05-30T20:39:29.000Z</published>
-    <updated>2026-05-30T20:39:29.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">This might be just Grok’s way of gassing me up - but it makes me unreasonably happy ⚽️ https://t.co/An35dnHkdS https://t.co/nFfVpg3Qy5</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2060803480823193840</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2060803480823193840" rel="alternate" />
-    <published>2026-05-30T19:20:12.000Z</published>
-    <updated>2026-05-30T19:20:12.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2060787704166776927</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2060787704166776927" rel="alternate" />
-    <published>2026-05-30T18:17:30.000Z</published>
-    <updated>2026-05-30T18:17:30.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Per-API Key spend caps on AI Gateway https://t.co/CsS7jWilg2</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2060771279280513362</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2060771279280513362" rel="alternate" />
-    <published>2026-05-30T17:12:14.000Z</published>
-    <updated>2026-05-30T17:12:14.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">38b tokens and a 56h longest task
-
-41 day current streak
-
-lfg codex https://t.co/FpIkhoyJTP</content>
-  </entry>
-  <entry>
-    <id>https://x.com/ryolu_/status/2060766674203353190</id>
-    <title>Ryo Lu (@ryolu_)</title>
-    <link href="https://x.com/ryolu_/status/2060766674203353190" rel="alternate" />
-    <published>2026-05-30T16:53:56.000Z</published>
-    <updated>2026-05-30T16:53:56.000Z</updated>
-    <author><name>Ryo Lu</name></author>
-    <category term="twitter" />
-    <content type="text">what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things https://t.co/3d2gt9uRKq</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2060759463997636947</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2060759463997636947" rel="alternate" />
-    <published>2026-05-30T16:25:17.000Z</published>
-    <updated>2026-05-30T16:25:17.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">This is the Wolff we need on our side
-
-Vote Patrick Wolff for insurance commissioner https://t.co/niE1W4sNpa</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2060691552486175041</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2060691552486175041" rel="alternate" />
-    <published>2026-05-30T11:55:26.000Z</published>
-    <updated>2026-05-30T11:55:26.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">Autoreview: https://t.co/zbUjIS2e1i
-
-crabbox: https://t.co/SEj2XRpaD1</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2060678430031597696</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2060678430031597696" rel="alternate" />
-    <published>2026-05-30T11:03:17.000Z</published>
-    <updated>2026-05-30T11:03:17.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher.
-
-Yielding agents is a skill.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2060672154727825718</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2060672154727825718" rel="alternate" />
-    <published>2026-05-30T10:38:21.000Z</published>
-    <updated>2026-05-30T10:38:21.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a bug and it will LOOP AND LOOP and will find issues. https://t.co/SOAa7Z1H4I</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2060644549408739621</id>
+    <id>https://x.com/adityaag/status/2061312610172051900</id>
     <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2060644549408739621" rel="alternate" />
-    <published>2026-05-30T08:48:40.000Z</published>
-    <updated>2026-05-30T08:48:40.000Z</updated>
+    <link href="https://x.com/adityaag/status/2061312610172051900" rel="alternate" />
+    <published>2026-06-01T05:03:18.000Z</published>
+    <updated>2026-06-01T05:03:18.000Z</updated>
     <author><name>Aditya Agarwal</name></author>
     <category term="twitter" />
-    <content type="text">Most people I talk to in India have 1 child. Some have 2.
-
-When I tell them I have three, their first reaction is total surprise followed by &quot;well, accidents happen&quot;.
-
-The main reason for one? Raising kids is just really hard, especially for nuclear families in cities.</content>
+    <content type="text">Indian Dynamism.
+ 
+@arctusaerospace https://t.co/BlqExiWYMp</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2060627747760984429</id>
+    <id>https://x.com/petergyang/status/2061277577785000203</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2061277577785000203" rel="alternate" />
+    <published>2026-06-01T02:44:05.000Z</published>
+    <updated>2026-06-01T02:44:05.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Ok is there any difference between Codex automations and Claude Code routines? Which one is better? 
+
+I want to consolidate all my cron jobs in one list.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2061257183250313256</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2061257183250313256" rel="alternate" />
+    <published>2026-06-01T01:23:03.000Z</published>
+    <updated>2026-06-01T01:23:03.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">@soumithchintala @pewdiepie @opencode https://t.co/Z6FYBkoe8U</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2061256096719970337</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2061256096719970337" rel="alternate" />
+    <published>2026-06-01T01:18:44.000Z</published>
+    <updated>2026-06-01T01:18:44.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">just a small zoom out on the vibe shift:
+
+in Feb 2025 @soumithchintala was talking about his dream of personal, local, private agents, most people didn&apos;t believe him.
+
+it&apos;s June 2026 and @pewdiepie has just released his vibecoded @opencode wrapper that is a complete personal AI productivity suite including email, docs, and calendar. top of HN, easily &gt;1m views, &gt;10k stars in a day.
+
+if your Knowledge Work Agents startup can&apos;t beat pewdiepie you might as well pack up and go home at this point, his is the benchmark for what you can DIY.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2061251376802599397</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2061251376802599397" rel="alternate" />
+    <published>2026-06-01T00:59:59.000Z</published>
+    <updated>2026-06-01T00:59:59.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">We have 16 partners funding 40 to 60 companies per year, usually amounting to more than 50 to 200 new SF residents per partner per year (depending on how many cofounders and how many already live here, but multiply by 16 and it’s a lot!) https://t.co/Yq7Y8CZpyq</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2061247380897579500</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2061247380897579500" rel="alternate" />
+    <published>2026-06-01T00:44:06.000Z</published>
+    <updated>2026-06-01T00:44:06.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">This is effectively the #1 problem for AI agents in the enterprise. 
+
+As we go from agentic coding (where a large amount of context is in the code base, and users are technical enough to get the rest to the agent easily) to a world of knowledge work agents, the context problem becomes much more acute.
+
+We see this every day with customers at Box. For existing digital knowledge, it’s often fragmented across legacy systems or environments that don’t play nice with agents, and have access controls that don’t map to the real work that needs to be done, which become a huge hurdle for getting agents the context they need. This has to all get moved to modern, secure cloud environments.
+
+But also, companies often haven’t captured and digitized some of the critical context that agents need to work with. Decisions, processes, and workflows often live in people’s heads and tribal knowledge that need to get turned into unstructured data for agents.
+
+This is actually one of the biggest points of leverage for applied AI companies, because they can work to specialize in getting agents exactly the information and domain expertise they need. But it’s also one of the reasons why FDEs and new system integrator plays will also work so well right now. 
+
+The companies that figure this out will be able to get the most out of AI going forward.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2061234578610585677</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2061234578610585677" rel="alternate" />
+    <published>2026-05-31T23:53:14.000Z</published>
+    <updated>2026-05-31T23:53:14.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">if you&apos;re comparing your startup to the manhattan project and you&apos;re not rocking this every day .... ngmi https://t.co/uv4VXrw8Db</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2061216715262906449</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2061216715262906449" rel="alternate" />
+    <published>2026-05-31T22:42:15.000Z</published>
+    <updated>2026-05-31T22:42:15.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">this will happen with AI too in about a decade https://t.co/idtwKdvJ0T</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2061208638027395490</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2061208638027395490" rel="alternate" />
+    <published>2026-05-31T22:10:09.000Z</published>
+    <updated>2026-05-31T22:10:09.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox), computer/browser use (peekaboo/mcporter) to test OpenClaw like a user/QA person would.
+
+This runs in the background and opens PRs with fixes. https://t.co/xGcKgjyf7F</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2061206120233054327</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2061206120233054327" rel="alternate" />
+    <published>2026-05-31T22:00:09.000Z</published>
+    <updated>2026-05-31T22:00:09.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">every evals/analytics startup is going through a onetime generational upgrade into a continual learning platform in 2026
+
+many will fail but as always the tasteful ones win</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2061176075288453333</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2061176075288453333" rel="alternate" />
+    <published>2026-05-31T20:00:45.000Z</published>
+    <updated>2026-05-31T20:00:45.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">This sounds like a small thing but it&apos;s big. Platforms need to stay open and it shouldn&apos;t require a lot of work to get your data. 
+
+Because where the AI harness wars are going... someone else&apos;s harness is just going to be you sharecropping someone else&apos;s AI ecosystem. https://t.co/mQBVLsyjdL</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2061175114184736792</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2061175114184736792" rel="alternate" />
+    <published>2026-05-31T19:56:56.000Z</published>
+    <updated>2026-05-31T19:56:56.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">You all just don&apos;t get it. 
+
+If you want to win and I mean really win you have to:
+
+1. Work 997 
+996 is for losers
+
+2. Tokenmax 
+If you&apos;re not spending more on tokens than your company&apos;s entire human headcount budget, are you even AI native?
+
+3. Sleep in the office
+Think about how many more agents you can spin up with that $4,000 monthly SF rent.
+
+4. Be on Forbes 30 under 30
+If you&apos;re over 30 and didn&apos;t make this list, I hate to say it but it&apos;s over for you.
+
+5. Try not to end up in jail
+Might be hard if you do 4.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2061174413513678941</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2061174413513678941" rel="alternate" />
+    <published>2026-05-31T19:54:09.000Z</published>
+    <updated>2026-05-31T19:54:09.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">You should want to control and host your own memory
+
+It’s the one thing that you should be able to take to any platform
+
+Watch for this to be a defining battle in the new browser war: the AI harness wars of 2027 https://t.co/yb8IPzuc09</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2061173405366571251</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2061173405366571251" rel="alternate" />
+    <published>2026-05-31T19:50:09.000Z</published>
+    <updated>2026-05-31T19:50:09.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">@Shpigford &quot;Pretend your worst enemy wrote this code.&quot;
+
+&quot;That person who always leaves smug PR comments? Be them.&quot;
+
+😂</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2061143524020822158</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2061143524020822158" rel="alternate" />
+    <published>2026-05-31T17:51:24.000Z</published>
+    <updated>2026-05-31T17:51:24.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">“Real mastery is not exerting the most effort. It is achieving the outcome with the least necessary effort.
+
+Grinding is never good for any creative problem” https://t.co/UWYkFDbj5c</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2061135404942974982</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2061135404942974982" rel="alternate" />
+    <published>2026-05-31T17:19:09.000Z</published>
+    <updated>2026-05-31T17:19:09.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to coding agents.
+
+I have public company CEOs sliding into my DMs (and “InMail”) telling me about falling in love with shipping software again thanks to Claude Code and Vercel.
+
+“Dream accounts” that we always wanted to work with, where in the past the C-suite would hardly understand the infrastructure until much later in the game.
+
+Coding agents are the ultimate PLG-fication of the enterprise. Bad, legacy software can’t hide anymore. The stack that works is self-evident to the entire organization, from intern to CEO.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2061117302528188712</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2061117302528188712" rel="alternate" />
+    <published>2026-05-31T16:07:13.000Z</published>
+    <updated>2026-05-31T16:07:13.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society.
+
+AI should be able to help people in the physical world. In the short term, we are focused on robots to support skilled workers to build our future infrastructure; in the long term, we imagine everyone having a personal robot doing anything they need.
+
+Our world simulation research program, led by Aditya Ramesh (@model_mechanic), has evolved over the past year into OpenAI Robotics. Progress is rapid, and based on a foundation of co-design between robotics hardware and ML research.
+
+If you love working hands-on across the robotics stack and want to build the future, please consider joining us. Send an email with your background and evidence of exceptional accomplishment to: robotics-recruiting@openai.com</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2061115471760441692</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2061115471760441692" rel="alternate" />
+    <published>2026-05-31T15:59:56.000Z</published>
+    <updated>2026-05-31T15:59:56.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">Haven&apos;t seen codex writing ad-hoc codemods before, but it just did for a bigger TypeScript migration. Impressed.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2061115431528943775</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2061115431528943775" rel="alternate" />
+    <published>2026-05-31T15:59:47.000Z</published>
+    <updated>2026-05-31T15:59:47.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Does anyone have good studies for what jobs AI has *meaningfully* replaced?
+
+Looking for a statistical analysis of historical data, present openings and forward looking statements for roles. 
+
+I know it’s early but still want to read more. 
+
+Broadly, we’re seeing every startup claim outcomes, model company revenues booming and companies laying people off - but I think the risk of the permanent underclass seems wildly overblown.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2061106703446450392</id>
     <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2060627747760984429" rel="alternate" />
-    <published>2026-05-30T07:41:54.000Z</published>
-    <updated>2026-05-30T07:41:54.000Z</updated>
+    <link href="https://x.com/thsottiaux/status/2061106703446450392" rel="alternate" />
+    <published>2026-05-31T15:25:06.000Z</published>
+    <updated>2026-05-31T15:25:06.000Z</updated>
     <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">When we go from GPT-5.0 -&amp;gt; GPT-5.1 -&amp;gt; ... -&amp;gt; GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet.
+    <content type="text">The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits.
 
-A simple strategy that we would like to continue.</content>
+Let the tokens do incredible things today and have fun. https://t.co/e7iJcJ1iHy</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=NQczevdpxq0</id>
-    <title>Unsupervised Learning: Ep 87: Gemini Co-Lead on World Models, RL&amp;apos;s Next Domains &amp;amp; Continual Learning</title>
-    <link href="https://www.youtube.com/watch?v=NQczevdpxq0" rel="alternate" />
-    <published>2026-05-22T12:50:04.000Z</published>
-    <updated>2026-05-22T12:50:04.000Z</updated>
-    <author><name>Unsupervised Learning</name></author>
+    <id>https://x.com/sama/status/2061101875303530871</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2061101875303530871" rel="alternate" />
+    <published>2026-05-31T15:05:55.000Z</published>
+    <updated>2026-05-31T15:05:55.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">We want to help the world get a head start on biodefense:
+
+https://t.co/gDQfOZrLA4</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2061072753998856696</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2061072753998856696" rel="alternate" />
+    <published>2026-05-31T13:10:12.000Z</published>
+    <updated>2026-05-31T13:10:12.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">The idea of OpenClaw is always that it should be yours. 
+
+It&apos;s modular and lean, only add what you need. Fewer skills, fewer tools = your agent can work more efficiently. https://t.co/vUoBvQw2sN</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=DhD1zZ8w8Mw</id>
+    <title>The MAD Podcast with Matt Turck: OpenAI&apos;s Yann Dubois: Why AI Progress Suddenly Feels Real</title>
+    <link href="https://www.youtube.com/watch?v=DhD1zZ8w8Mw" rel="alternate" />
+    <published>2026-05-21T11:30:00.000Z</published>
+    <updated>2026-05-21T11:30:00.000Z</updated>
+    <author><name>The MAD Podcast with Matt Turck</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:28
-Oriol Vinyals is the co lead of Gemini alongside Noam Shazir and Jeff Dean. He&apos;s had an incredible career in AI, pioneering many of the breakthroughs in deep learning in the last decade, and it was a ton of fun to get to sit down with him after Google IO. If you&apos;ve been following Google IO, they basically shipped a bunch of products across a a ton of interesting surface areas throughout AI. And so Oriel and I hit all of them. We talked about what&apos;s required for further ...</content>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/new-in-claude-managed-agents</id>
-    <title>Claude Blog: New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</title>
-    <link href="https://claude.com/blog/new-in-claude-managed-agents" rel="alternate" />
-    <published>2026-05-06T00:00:00.000Z</published>
-    <updated>2026-05-06T00:00:00.000Z</updated>
-    <author><name>Claude Blog</name></author>
-    <category term="blog" />
-    <content type="text">Today we&amp;#x27;re launching dreaming in Claude Managed Agents as a research preview. Dreaming extends memory by reviewing past sessions to find patterns and help agents self-improve. We&amp;#x27;re also making outcomes, multiagent orchestration, and webhooks available to developers building with Managed Agents. Together, these updates make agents more capable at handling complex tasks with minimal steering. Build self-improving agents with dreaming Dreaming is a scheduled process that reviews your agent sessions and memory stores, extracts patterns, and curates memories so your agents improve over time. You decide how much control you want: dreaming can update memory automatically, or you can review changes before they land. Dreaming surfaces patterns that a single agent can’t see on its own, including recurring mistakes, workflows that agents converge on, and preferences shared across a team. It also restructures memory so it stays high-signal as it evolves. This is especially useful for l...</content>
+    <content type="text">Speaker 1 | 00:00 - 00:26
+You need to reach this level of reliability to really make any of these AI tools very useful, and I think we just crossed that probably December last year, at least at OpenAI. Now we can trust these models to do a lot of the work that we are doing. The last few months have been pretty wild. We moved from like competitions to usefulness to users and that&apos;s what we are feeling right now. I think most of the time the Bionic is the last mile.
+
+Speaker 1 | 00:26 - 00:34
+Ther...</content>
   </entry>
 </feed>
