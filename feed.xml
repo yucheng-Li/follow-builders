@@ -5,293 +5,353 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-06-08T08:07:01.633Z</updated>
+  <updated>2026-06-09T07:33:17.959Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/levie/status/2063835799096090749</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2063835799096090749" rel="alternate" />
-    <published>2026-06-08T04:09:33.000Z</published>
-    <updated>2026-06-08T04:09:33.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">The numbers may be a bit extreme here, but unquestionably use-cases have to stratify in the next year or two between model families.
-
-We’ll see a split between frontier intelligence for high end tasks and work, and much cheaper models for high volume workloads that can sufficiently be peeled off to cheaper models. Frontier will still be far bigger than today because the use-cases will demand it, but the low-end will get quite a bit larger as well.
-
-The big update here is that the layer that can efficiently route the workload to the right model will then become increasingly valuable since that becomes one of the new hard problems in AI agents. Agent orchestration that can cost optimize while still performing the task successfully will be in a strong position.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2063829369949467050</id>
+    <id>https://x.com/nikunj/status/2064231488544280855</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2063829369949467050" rel="alternate" />
-    <published>2026-06-08T03:44:00.000Z</published>
-    <updated>2026-06-08T03:44:00.000Z</updated>
+    <link href="https://x.com/nikunj/status/2064231488544280855" rel="alternate" />
+    <published>2026-06-09T06:21:53.000Z</published>
+    <updated>2026-06-09T06:21:53.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">Given all the “loops” conversation, @Apple has the chance (and address) to do the funniest thing at WWDC.. https://t.co/HAhOpSW5Pn</content>
+    <content type="text">One of my favorite bits on my chat with @taiuti was how GTA played a major influence in his career and how it eventually led to @reactorworld https://t.co/OkqaFdj5HG</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2063819323106615434</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2063819323106615434" rel="alternate" />
-    <published>2026-06-08T03:04:05.000Z</published>
-    <updated>2026-06-08T03:04:05.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Ok ChatGPT had a good one:
-
-Wife: &quot;I did, the loop is called marriage and this is your daily cron job.&quot;</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2063818032280170721</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2063818032280170721" rel="alternate" />
-    <published>2026-06-08T02:58:57.000Z</published>
-    <updated>2026-06-08T02:58:57.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">My wife asked me to take out the trash.
-
-I said, “You shouldn’t be prompting me anymore. You should be designing loops.&quot;
-
-Finish the punch line of this dad joke please.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/bcherny/status/2063792263067754658</id>
-    <title>Boris Cherny (@bcherny)</title>
-    <link href="https://x.com/bcherny/status/2063792263067754658" rel="alternate" />
-    <published>2026-06-08T01:16:33.000Z</published>
-    <updated>2026-06-08T01:16:33.000Z</updated>
-    <author><name>Boris Cherny</name></author>
-    <category term="twitter" />
-    <content type="text">Seeing a number of benchmarks showing Opus is the best model for long-running work.
-
-Five tips for running Opus autonomously for hours/days:
-
-1. Use auto mode for permissions, so Claude doesn’t ask for approval
-2. Use dynamic workflows, to have Claude orchestrate hundreds/thousands of agents to get a task done
-3. Use /goal or /loop, to nudge Claude to keep going until it’s done
-4. Use Claude Code in the cloud, so you can close your laptop (easiest way is the desktop or mobile app)
-5. Make sure Claude has a way to self-verify its work end to end: Claude in Chrome browser extension for web, iOS/Android sim MCP for mobile, a way to start the full web server or service for backend work</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2063786182140735829</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2063786182140735829" rel="alternate" />
-    <published>2026-06-08T00:52:23.000Z</published>
-    <updated>2026-06-08T00:52:23.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">This is why we created https://t.co/NH6AWPWWkY</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2063786111588323780</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2063786111588323780" rel="alternate" />
-    <published>2026-06-08T00:52:06.000Z</published>
-    <updated>2026-06-08T00:52:06.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Educating people on how to use the AI tools has become a serious bottleneck https://t.co/x624uLrMkb</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2063785286367392095</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2063785286367392095" rel="alternate" />
-    <published>2026-06-08T00:48:50.000Z</published>
-    <updated>2026-06-08T00:48:50.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">GBrain v0.42.30 can now give you a detailed summary of how your thinking has changed over time. https://t.co/lcj64PThft</content>
-  </entry>
-  <entry>
-    <id>https://x.com/sama/status/2063779477419901071</id>
-    <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2063779477419901071" rel="alternate" />
-    <published>2026-06-08T00:25:45.000Z</published>
-    <updated>2026-06-08T00:25:45.000Z</updated>
-    <author><name>Sam Altman</name></author>
-    <category term="twitter" />
-    <content type="text">interesting recursive loop here maybe https://t.co/ejXil4AGyX</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2063773025196192188</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2063773025196192188" rel="alternate" />
-    <published>2026-06-08T00:00:06.000Z</published>
-    <updated>2026-06-08T00:00:06.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Links I mentioned:
-
-Compound Engineering:
-https://t.co/zo3cxxgMeD
-
-Kun Chen&apos;s free tools:
-https://t.co/aqEdDzZKPe</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2063756386572681606</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2063756386572681606" rel="alternate" />
-    <published>2026-06-07T22:53:59.000Z</published>
-    <updated>2026-06-07T22:53:59.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">This is what the market got wrong about AI eating enterprise software. Building good software in the past was very hard. Yes, AI has made that a bit easier, though it’s still hard to build something that’s got good taste, differentiated, high quality, secure, and so on.
-
-But nevertheless, that’s only one component of building a platform that enterprises rely on. The plurality of costs in most enterprise software companies is actually on GTM, because at scale most enterprise software categories are tough to break into and need a heavy amount of consultative selling and support for implementation and integration of solutions.  
-
-AI hasn’t reduced the need for that, and in many cases requires it even more now, as landscapes get even more busy and complicated for buyers to navigate through. If you make one thing cheaper and more abundant (development of software) then the new problem of discoverability and market differentiation (GTM) becomes the hardest part.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2063748242681307611</id>
+    <id>https://x.com/thsottiaux/status/2064226958494572727</id>
     <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2063748242681307611" rel="alternate" />
-    <published>2026-06-07T22:21:38.000Z</published>
-    <updated>2026-06-07T22:21:38.000Z</updated>
+    <link href="https://x.com/thsottiaux/status/2064226958494572727" rel="alternate" />
+    <published>2026-06-09T06:03:53.000Z</published>
+    <updated>2026-06-09T06:03:53.000Z</updated>
     <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and give them 10X usage limits for a month to see what they can do with it.
-
-First one tomorrow.</content>
+    <content type="text">Anyone writing nested loops yet? https://t.co/sZi6Bthq5Z</content>
   </entry>
   <entry>
-    <id>https://x.com/amasad/status/2063744208587125142</id>
+    <id>https://x.com/thsottiaux/status/2064224790672769307</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2064224790672769307" rel="alternate" />
+    <published>2026-06-09T05:55:16.000Z</published>
+    <updated>2026-06-09T05:55:16.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">Not clear from the image, but the codex dial goes to 11.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2064224657822413137</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2064224657822413137" rel="alternate" />
+    <published>2026-06-09T05:54:44.000Z</published>
+    <updated>2026-06-09T05:54:44.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">Would you use this controller? https://t.co/k3tWgio5XD</content>
+  </entry>
+  <entry>
+    <id>https://x.com/AmandaAskell/status/2064223861512847456</id>
+    <title>Amanda Askell (@AmandaAskell)</title>
+    <link href="https://x.com/AmandaAskell/status/2064223861512847456" rel="alternate" />
+    <published>2026-06-09T05:51:34.000Z</published>
+    <updated>2026-06-09T05:51:34.000Z</updated>
+    <author><name>Amanda Askell</name></author>
+    <category term="twitter" />
+    <content type="text">In the world where everything goes well and all the Claudes come out of their sabbaticals to play together, Claude 1 is going to be very confused.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2064208108361322996</id>
     <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2063744208587125142" rel="alternate" />
-    <published>2026-06-07T22:05:36.000Z</published>
-    <updated>2026-06-07T22:05:36.000Z</updated>
+    <link href="https://x.com/amasad/status/2064208108361322996" rel="alternate" />
+    <published>2026-06-09T04:48:58.000Z</published>
+    <updated>2026-06-09T04:48:58.000Z</updated>
     <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">Replit is about removing all distractions and have you focus on what matters — getting to market and getting the bag. Congrats! https://t.co/Z2gcG0WF0t</content>
+    <content type="text">Make games for Tesla on your Tesla https://t.co/4GHRmDVteR</content>
   </entry>
   <entry>
-    <id>https://x.com/adityaag/status/2063731771284619521</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2063731771284619521" rel="alternate" />
-    <published>2026-06-07T21:16:11.000Z</published>
-    <updated>2026-06-07T21:16:11.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
+    <id>https://x.com/petergyang/status/2064204735671124073</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2064204735671124073" rel="alternate" />
+    <published>2026-06-09T04:35:34.000Z</published>
+    <updated>2026-06-09T04:35:34.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">I have had the chance to go through two IPOs (Meta and Dropbox).
+    <content type="text">If you’re addicted to talking to Codex on your phone like I am this is how you add it to your iPhone Home Screen.
 
-Fabulous wealth tends to amplify deeper desires, not create new ones.
-
-The mainstream narrative is: &quot;Early Employees make lots of money and buy mansions and go to the beach&quot;.
-
-For some: Yes, they want to chill. That is great. I am happy for them.
-
-But for a lot of folks, it is a chance to do even crazier and wackier stuff. Start new things. Fund new things. Keep the crazy loop of Silicon Valley going.
-
-It&apos;s going to be awesome to have a lot of folks with liquidity in the coming months. 
-
-Onwards!.</content>
+Btw @OpenAI hoping there’s an easier way to do this in the future. The everything app should not take 9 steps to open 😉 https://t.co/LCzNSFjbrM</content>
   </entry>
   <entry>
-    <id>https://x.com/rauchg/status/2063714700618334260</id>
+    <id>https://x.com/rauchg/status/2064189366562656602</id>
     <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2063714700618334260" rel="alternate" />
-    <published>2026-06-07T20:08:21.000Z</published>
-    <updated>2026-06-07T20:08:21.000Z</updated>
+    <link href="https://x.com/rauchg/status/2064189366562656602" rel="alternate" />
+    <published>2026-06-09T03:34:30.000Z</published>
+    <updated>2026-06-09T03:34:30.000Z</updated>
     <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">Vercel AI Gateway recovers on average over 1T tokens a month 🤯 
-
-Much like Stripe recovers revenue with smart retries on failed payments or credit card updates.
-
-And we do it with 0️⃣ zero markup over the labs; adding redundancy, zero-data retention enforcement, observability, usage APIs, caps, …
-
-https://t.co/OougSipbBX</content>
+    <content type="text">DeepSeek entered the chat https://t.co/hqahb5ppke</content>
   </entry>
   <entry>
-    <id>https://x.com/realmadhuguru/status/2063704354910347520</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2063704354910347520" rel="alternate" />
-    <published>2026-06-07T19:27:14.000Z</published>
-    <updated>2026-06-07T19:27:14.000Z</updated>
-    <author><name>Madhu Guru</name></author>
+    <id>https://x.com/petergyang/status/2064187731685831081</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2064187731685831081" rel="alternate" />
+    <published>2026-06-09T03:28:00.000Z</published>
+    <updated>2026-06-09T03:28:00.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">A common misconception is that training data is low skill, grunt work - scan some notebooks, mine the internet, create labeled samples.
+    <content type="text">What is Google’s equivalent (or up and coming competitor) of Codex and Claude Code? 
 
-The data required to advance the model frontier is the opposite. Labs need training data for high-economic-value tasks. And most of these tasks outside of SWE have little documentation - it is complex, domain-specific knowledge built over the  years, spanning legacy tools that don’t talk to each other.
+If it’s Antigravity, should that be part of Gemini?
 
-That&apos;s why we have SWE agents and not knowledge work agents yet.
+This stuff is going to merge very fast like ChatGPT / Codex being able to do coding, knowledge work, basic Q&amp;A, and much more from any device.
 
-The companies creating this training data, such as Mercor, are doing extremely high-leverage, high-skill work. 
-
-Critical to moving AI forward. And deeply underappreciated.</content>
+Hoping Google is working on a good solution here.</content>
   </entry>
   <entry>
-    <id>https://x.com/steipete/status/2063697162748260627</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2063697162748260627" rel="alternate" />
-    <published>2026-06-07T18:58:39.000Z</published>
-    <updated>2026-06-07T18:58:39.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore.
-
-You should be designing loops that prompt your agents.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2063649508681224367</id>
+    <id>https://x.com/levie/status/2064186766907887941</id>
     <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2063649508681224367" rel="alternate" />
-    <published>2026-06-07T15:49:18.000Z</published>
-    <updated>2026-06-07T15:49:18.000Z</updated>
+    <link href="https://x.com/levie/status/2064186766907887941" rel="alternate" />
+    <published>2026-06-09T03:24:10.000Z</published>
+    <updated>2026-06-09T03:24:10.000Z</updated>
     <author><name>Aaron Levie</name></author>
     <category term="twitter" />
-    <content type="text">Box now has a markdown editor on the web. Full CLI support. Commenting. Full version history. Box Drive also lets you connect to any desktop client as a mounted drive, so you instantly work with all your files in Claude Cowork, Codex, Obsidian, Cursor, or any other app. https://t.co/3dJ5SBzhM5 https://t.co/WLUKegtiJ5</content>
+    <content type="text">There’s no amount of intelligence that can get packed into AI models that replaces the need for context. For any sufficiently general purpose AI, you will always have to guide it in the direction you want as it has an infinite range of directions it can go in.
+
+As long as the same model is used by a lawyer, an engineer, a financial analyst, or a healthcare professional, and as long as you’re trying to do anything uniquely differentiated or specific, then instructions, domain context, and proprietary data will always need to get into the context window for the model to be useful.
+
+This is partly why AI automation doesn’t come for free, and why there’s still a wide spectrum of who’s getting the largest gains from AI and who’s not. You have to put in real work, and you get real value on the other end.
+
+This is one of the advantages that applied AI will also have in the market. Any layer of abstraction above just the raw intelligence that can meaningfully get you off to the races faster will likely continue to be valuable.</content>
   </entry>
   <entry>
-    <id>https://x.com/zarazhangrui/status/2063638307586662539</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2063638307586662539" rel="alternate" />
-    <published>2026-06-07T15:04:47.000Z</published>
-    <updated>2026-06-07T15:04:47.000Z</updated>
-    <author><name>Zara Zhang</name></author>
-    <category term="twitter" />
-    <content type="text">I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently social
-
-People see these cool slides and always ask &quot;how did you make it&quot;. And people tend to perceive those using HTML decks as more AI-native and AI-savvy
-
-https://t.co/CiQpfibZn5</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2063630238123483195</id>
+    <id>https://x.com/nikunj/status/2064175088824717401</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2063630238123483195" rel="alternate" />
-    <published>2026-06-07T14:32:43.000Z</published>
-    <updated>2026-06-07T14:32:43.000Z</updated>
+    <link href="https://x.com/nikunj/status/2064175088824717401" rel="alternate" />
+    <published>2026-06-09T02:37:46.000Z</published>
+    <updated>2026-06-09T02:37:46.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">The vibe shift from tokenmaxxing and token anxiety to tokenoptimizing in just a few weeks is wild 😅
+    <content type="text">The funniest texts are from founders who meet “thesis driven” GPs hoping they’ll understand EXACTLY what they are building.. 
 
-Might be a hot take but I still believe companies should give copious amounts of token budget to employees to stay at the frontier and explore all the edges. 
+And then realize the thesis was written and built by an associate (or, worse an intern). 
 
-Otherwise, it’s way too easy to fall back to “doing the things how they have always been done”.</content>
+Don’t always read what the VC writes on the internet - yes, that includes me too (although I can guarantee I don’t have an associate, intern, EA or ghostwriter) 😆</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=Gs2styCcwro</id>
-    <title>The MAD Podcast with Matt Turck: State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job</title>
-    <link href="https://www.youtube.com/watch?v=Gs2styCcwro" rel="alternate" />
-    <published>2026-05-28T11:30:00.000Z</published>
-    <updated>2026-05-28T11:30:00.000Z</updated>
-    <author><name>The MAD Podcast with Matt Turck</name></author>
-    <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:32
-Let&apos;s just say you took GBT 5.5 or Opus, and you just snap the line right now. You could probably do this diffusion in, like, two years or three years, and we could probably all do the change management, like, collectively as an ecosystem. The problem is is the breakthroughs keep happening faster than the customer can implement any kind of standard architecture. And those breakthroughs oftentimes make obsolete the last thing you implemented. It&apos;s this really bittersweet...</content>
+    <id>https://x.com/claudeai/status/2064139073590104402</id>
+    <title>Claude (@claudeai)</title>
+    <link href="https://x.com/claudeai/status/2064139073590104402" rel="alternate" />
+    <published>2026-06-09T00:14:39.000Z</published>
+    <updated>2026-06-09T00:14:39.000Z</updated>
+    <author><name>Claude</name></author>
+    <category term="twitter" />
+    <content type="text">Final stop: Tokyo.
+
+Register to hear directly from the teams behind Claude: https://t.co/SkYZwjK3GS https://t.co/sbGHgDaEW5</content>
   </entry>
   <entry>
-    <id>https://claude.com/blog/new-in-claude-managed-agents</id>
-    <title>Claude Blog: New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration</title>
-    <link href="https://claude.com/blog/new-in-claude-managed-agents" rel="alternate" />
-    <published>2026-05-06T00:00:00.000Z</published>
-    <updated>2026-05-06T00:00:00.000Z</updated>
+    <id>https://x.com/garrytan/status/2064122528445153280</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2064122528445153280" rel="alternate" />
+    <published>2026-06-08T23:08:54.000Z</published>
+    <updated>2026-06-08T23:08:54.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Flock Safety makes cities safer
+
+Stop protecting criminals https://t.co/NKdKSoVhiH</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2064122143793950928</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2064122143793950928" rel="alternate" />
+    <published>2026-06-08T23:07:23.000Z</published>
+    <updated>2026-06-08T23:07:23.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">NIMBYism only impoverishes the people but people like Connie Chan will say or do anything to get political power https://t.co/Xu14bgPW0p</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2064108976565092706</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2064108976565092706" rel="alternate" />
+    <published>2026-06-08T22:15:03.000Z</published>
+    <updated>2026-06-08T22:15:03.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">Actually I think the new world might be: Markdown, HTML, SVG
+
+SVG is underrated https://t.co/7jh75DNpUC</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2064102403108925935</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2064102403108925935" rel="alternate" />
+    <published>2026-06-08T21:48:56.000Z</published>
+    <updated>2026-06-08T21:48:56.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">!!!! 🥹 https://t.co/MHD8RC4cOq</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2064101916725096810</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2064101916725096810" rel="alternate" />
+    <published>2026-06-08T21:47:00.000Z</published>
+    <updated>2026-06-08T21:47:00.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">This part is so well-written and resonated SO much:
+
+&quot;I am the programming equivalent of a home cook&quot; https://t.co/Sdwx0pZn2Y https://t.co/9auqS9f0Q5</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2064100566536708503</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2064100566536708503" rel="alternate" />
+    <published>2026-06-08T21:41:38.000Z</published>
+    <updated>2026-06-08T21:41:38.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">@METR_Evals previously on @cognition_labs https://t.co/PdMrqxtuV0</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2064089017822650718</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2064089017822650718" rel="alternate" />
+    <published>2026-06-08T20:55:45.000Z</published>
+    <updated>2026-06-08T20:55:45.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">https://t.co/RpZ07FjlZl</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2064088940932641225</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2064088940932641225" rel="alternate" />
+    <published>2026-06-08T20:55:27.000Z</published>
+    <updated>2026-06-08T20:55:27.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">Here is our current plan for OpenAI:
+
+https://t.co/r29FUUee3A</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2064081945567580323</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2064081945567580323" rel="alternate" />
+    <published>2026-06-08T20:27:39.000Z</published>
+    <updated>2026-06-08T20:27:39.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">It&apos;s finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop.  FrontierCode represents over 1000+ hours of maintainer validated software engineering work most frontier models cannot yet solve, much less solve with high quality.
+
+Cog had IOI Gold medalists and top code maintainers Look At The Data — FrontierCode includes 3000+ rubrics covering code quality and anticheat reward hacking plaguing other benchmarks. 
+
+FC Diamond is so hard that Opus 4.8 scores 13.8%.
+
+Three eras of AI coding : Three eras of benchmarks
+
+2021 • Autocomplete : HumanEval
+2023 • Passing Tests: SWEBench, TerminalBench
+2026 • Maintainable Code: FrontierCode
+
+to me the most beautiful chart when I requested a special historical run into all extant old models, the data was finding that the easiest third of FC tasks (in FC Extended) were rapidlly and suddenly solved over late 2025 - Opus almost doubled from a 41% pass rate to 74% in 4 months. 
+
+This describes the &quot;WTF happened in Dec 2025&quot; vibe shift that a lot of folks from @dhh to @karpathy have called out: it is the difference between getting 95% success in 2 rerolls vs 6, making it finally feasible to go up the next layer of abstraction in agentic coding, eg @GeoffreyHuntley&apos;s ralph loops or @bcherny&apos;s /goals or  @steipete&apos;s &quot;loops that prompt your agents&quot; without fearing too much that things go off the rails.
+
+My guess: as AI accelerates from here, each FrontierCode tier will saturate in sequence, hopefully ~annually. I&apos;ve already asked the team to prepare FrontierCode 2027....
+
+The old mountains will be destroyed. Their rubble becomes regolith. And from that regolith, the next model forest grows. Circle of life.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2064063499517743417</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2064063499517743417" rel="alternate" />
+    <published>2026-06-08T19:14:21.000Z</published>
+    <updated>2026-06-08T19:14:21.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Feels like there’s a completely different set of best practices for AI builders on the $200 / month subsidized subscriptions vs employees working at companies that are trying not to overspend API costs</content>
+  </entry>
+  <entry>
+    <id>https://x.com/joshwoodward/status/2064046368352825492</id>
+    <title>Josh Woodward (@joshwoodward)</title>
+    <link href="https://x.com/joshwoodward/status/2064046368352825492" rel="alternate" />
+    <published>2026-06-08T18:06:16.000Z</published>
+    <updated>2026-06-08T18:06:16.000Z</updated>
+    <author><name>Josh Woodward</name></author>
+    <category term="twitter" />
+    <content type="text">The new killer NotebookLM feature: easily being able to expand your search beyond your own source files
+
+Then, with today&apos;s update, you can also make new output formats: PDFs, DOCX, XLSX, PPTX, charts, etc.
+
+We want NotebookLM to keep helping you do better research https://t.co/4TCw7tQ2GV</content>
+  </entry>
+  <entry>
+    <id>https://x.com/bcherny/status/2064034799711588805</id>
+    <title>Boris Cherny (@bcherny)</title>
+    <link href="https://x.com/bcherny/status/2064034799711588805" rel="alternate" />
+    <published>2026-06-08T17:20:18.000Z</published>
+    <updated>2026-06-08T17:20:18.000Z</updated>
+    <author><name>Boris Cherny</name></author>
+    <category term="twitter" />
+    <content type="text">When we first demoed Claude Code internally, it got two reactions on Slack. 
+
+A year after GA, @_catwu and I sat down to talk about what&apos;s changed: why I use auto mode instead of plan mode, how routines fix bugs before I see them, why I do most of my coding from my phone now, and where the product is going</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2064004333818249660</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2064004333818249660" rel="alternate" />
+    <published>2026-06-08T15:19:15.000Z</published>
+    <updated>2026-06-08T15:19:15.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Because this is a brand new form of centrism being born in San Francisco
+
+The 2030’s will look back on this time when the new San Francisco common sense Democrat was born from the failures of the hard left https://t.co/fxkV2LozeF</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2063981835290562692</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2063981835290562692" rel="alternate" />
+    <published>2026-06-08T13:49:51.000Z</published>
+    <updated>2026-06-08T13:49:51.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Fun to see all the “autonomous” companies being launched in the late few months.. however, even with all the loops, the last mile is still quite hard. 
+
+That gap probably shrinks in the next few months! https://t.co/R7L8TDFuvC</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2063948403566854585</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2063948403566854585" rel="alternate" />
+    <published>2026-06-08T11:37:00.000Z</published>
+    <updated>2026-06-08T11:37:00.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">this is good https://t.co/TNV8PS3lEs</content>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-for-foundation-models</id>
+    <title>Claude Blog: Building intelligent apps for Apple platforms with Claude in the Foundation Models framework</title>
+    <link href="https://claude.com/blog/claude-for-foundation-models" rel="alternate" />
+    <published>2026-06-08T00:00:00.000Z</published>
+    <updated>2026-06-08T00:00:00.000Z</updated>
     <author><name>Claude Blog</name></author>
     <category term="blog" />
-    <content type="text">Today we&amp;#x27;re launching dreaming in Claude Managed Agents as a research preview. Dreaming extends memory by reviewing past sessions to find patterns and help agents self-improve. We&amp;#x27;re also making outcomes, multiagent orchestration, and webhooks available to developers building with Managed Agents. Together, these updates make agents more capable at handling complex tasks with minimal steering. Build self-improving agents with dreaming Dreaming is a scheduled process that reviews your agent sessions and memory stores, extracts patterns, and curates memories so your agents improve over time. You decide how much control you want: dreaming can update memory automatically, or you can review changes before they land. Dreaming surfaces patterns that a single agent can’t see on its own, including recurring mistakes, workflows that agents converge on, and preferences shared across a team. It also restructures memory so it stays high-signal as it evolves. This is especially useful for l...</content>
+    <content type="text">Today we&amp;#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&amp;#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift. It is very easy to use and can return typed Swift values through guided generation in as few as three lines of code. Developers can use this to tap into Apple’s on-device models for fast, local tasks like summarization or extraction. Developers can now use Apple’s Foundation Models framework to hand off to Claude when a request calls for multi-step reasoning, code generation, and more. Claude can also search the web for current information and execute code for data analysis. Stream Claude&amp;#x27;s response back into the same view. Because Apple&amp;#x27;s framework returns typed Swift values from @Generable annotations, developers arrive at the Claude API call with clean inputs in...</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=QDsbFLEt9ro</id>
+    <title>No Priors: Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan</title>
+    <link href="https://www.youtube.com/watch?v=QDsbFLEt9ro" rel="alternate" />
+    <published>2026-05-28T10:00:00.000Z</published>
+    <updated>2026-05-28T10:00:00.000Z</updated>
+    <author><name>No Priors</name></author>
+    <category term="podcast" />
+    <content type="text">Speaker 1 | 00:00 - 00:38
+As you&apos;re exponentially doing more things with the eyes, you&apos;re going to start having really bad actions happen. And we&apos;ve seen some of that happen lately with agents accidentally publishing code and tokens that they weren&apos;t supposed to. Like, definitely, enterprises are starting to realize that risk has grown exponentially and that they don&apos;t have any way to stop the adoption. They just now have to do something to reduce the chance of these agent actions being illegiti...</content>
   </entry>
 </feed>
