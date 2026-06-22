@@ -5,300 +5,344 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-06-20T07:37:23.218Z</updated>
+  <updated>2026-06-21T07:57:41.783Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://www.anthropic.com/engineering/how-we-contain-claude</id>
-    <title>Anthropic Engineering: How we contain Claude across products</title>
-    <link href="https://www.anthropic.com/engineering/how-we-contain-claude" rel="alternate" />
-    <published>2026-06-21T01:55:09.923Z</published>
-    <updated>2026-06-21T01:55:09.923Z</updated>
+    <id>https://www.anthropic.com/engineering/april-23-postmortem</id>
+    <title>Anthropic Engineering: An update on recent Claude Code quality reports</title>
+    <link href="https://www.anthropic.com/engineering/april-23-postmortem" rel="alternate" />
+    <published>2026-06-22T01:56:48.100Z</published>
+    <updated>2026-06-22T01:56:48.100Z</updated>
     <author><name>Anthropic Engineering</name></author>
     <category term="blog" />
-    <content type="text">Twelve months ago, we&amp;#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do. Progress on safeguards and model training has steadily driven down the first; the second—the theoretical blast radius—only grows as capabilities and access expand. Yet as agents become capable of doing work that once required a person or even a team, the cost of not deploying grows large enough that the risk-reward calculation tips heavily toward adoption, as long as products can be made safe. The engineering question becomes how to cap the blast radius. When bounds can be placed on the relative damage of an autonomous agent—such as through control over its environment—high-utility capabilities can motivate deployment. Claude Mythos Preview is an...</content>
+    <content type="text">Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we explain what we found, what we fixed, and what we’ll do differently to ensure similar issues are much less likely to happen again. We take reports about degradation very seriously. We never intentionally degrade our models, and we were able to immediately confirm that our API and inference layer were unaffected. After investigation, we identified three different issues: On March 4, we changed Claude Code&amp;#x27;s default reasoning effort from high to medium to reduce the very long latency—enough to make the UI appear frozen—some users were seeing in high mode. This was the wrong tradeoff. We reverted this change on April 7 after users told us they&amp;#x27;d p...</content>
   </entry>
   <entry>
-    <id>https://x.com/swyx/status/2068233518858342887</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2068233518858342887" rel="alternate" />
-    <published>2026-06-20T07:24:31.000Z</published>
-    <updated>2026-06-20T07:24:31.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">10 years ago, you will be asked by @bendhalpern and @jessleenyc to write your first blog on @thepracticaldev.
-
-it is very important that you answer.
-
-*now @MLHacks, who are producing the first ever physical daily newspaper at @aidotengineer WF https://t.co/tYDapAogYY https://t.co/nVuMvkDhnQ</content>
+    <id>https://www.anthropic.com/engineering/managed-agents</id>
+    <title>Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands</title>
+    <link href="https://www.anthropic.com/engineering/managed-agents" rel="alternate" />
+    <published>2026-06-22T01:56:48.100Z</published>
+    <updated>2026-06-22T01:56:48.100Z</updated>
+    <author><name>Anthropic Engineering</name></author>
+    <category term="blog" />
+    <content type="text">Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve. As just one example, in prior work we found that Claude Sonnet 4.5 would wrap up tasks prematurely as it sensed its context limit approaching—a behavior sometimes called “context anxiety.” We addressed this by adding context resets to the harness. But when we used the same harness on Claude Opus 4.5, we found that the behavior was gone. The resets had become dead weight. We expect harnesses to continue evolving. So we built Managed Agents: a hosted service in the Claude Platform that runs long-horizon agents on your behalf through a small set of interfaces meant to outlast any particular implementa...</content>
   </entry>
   <entry>
-    <id>https://x.com/swyx/status/2068229031884100066</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2068229031884100066" rel="alternate" />
-    <published>2026-06-20T07:06:41.000Z</published>
-    <updated>2026-06-20T07:06:41.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">@midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr @zoink @Polymarket @aiDotEngineer /goaaaaaaaaaaal
-
-https://t.co/oo75ct3QwX https://t.co/4W90w31Os0</content>
-  </entry>
-  <entry>
-    <id>https://x.com/AmandaAskell/status/2068218515723866477</id>
-    <title>Amanda Askell (@AmandaAskell)</title>
-    <link href="https://x.com/AmandaAskell/status/2068218515723866477" rel="alternate" />
-    <published>2026-06-20T06:24:54.000Z</published>
-    <updated>2026-06-20T06:24:54.000Z</updated>
-    <author><name>Amanda Askell</name></author>
-    <category term="twitter" />
-    <content type="text">I had chronic pain for most of my life until a doctor did an MRI of the pain source and found a congenital condition that was then fixed with surgery. Now I&apos;m wondering if I had 30+ years of pain because doctors worried I was too stupid to be in the presence of scan results.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2068204606119874728</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2068204606119874728" rel="alternate" />
-    <published>2026-06-20T05:29:38.000Z</published>
-    <updated>2026-06-20T05:29:38.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">SF I have an idea.. https://t.co/efoCDkXhHj</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2068199277277401419</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2068199277277401419" rel="alternate" />
-    <published>2026-06-20T05:08:27.000Z</published>
-    <updated>2026-06-20T05:08:27.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">Hannes speaks both developer and agents. Blessed to have him on the team! https://t.co/bTrqd3V3dn</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2068182309719728159</id>
+    <id>https://x.com/amasad/status/2068589860097790449</id>
     <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2068182309719728159" rel="alternate" />
-    <published>2026-06-20T04:01:02.000Z</published>
-    <updated>2026-06-20T04:01:02.000Z</updated>
+    <link href="https://x.com/amasad/status/2068589860097790449" rel="alternate" />
+    <published>2026-06-21T07:00:29.000Z</published>
+    <updated>2026-06-21T07:00:29.000Z</updated>
     <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">“The best conference experience I’ve had this year” https://t.co/VGwWxmo21W</content>
+    <content type="text">We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself.</content>
   </entry>
   <entry>
-    <id>https://x.com/amasad/status/2068177018479403065</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2068177018479403065" rel="alternate" />
-    <published>2026-06-20T03:40:00.000Z</published>
-    <updated>2026-06-20T03:40:00.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">Vibecon recap https://t.co/uvKptOPsTk</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2068175172960690266</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2068175172960690266" rel="alternate" />
-    <published>2026-06-20T03:32:40.000Z</published>
-    <updated>2026-06-20T03:32:40.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">I used to be a die-hard Claude Code user.
-
-Codex has won me over because:
-
-→ GPT-5.5 is excellent
-→ Fast mode + generous limits = more reps
-→ Little touches like steering, auto remote control on phone, etc
-
-But most of all Codex&apos;s browser and computer use capabilities are simply goated. I built so many workflows relying on those two things alone instead of hunting for APIs.
-
-I still use Claude Code too. The app seems to be getting better and the design and frontend capability of Opus is still much better than GPT. Whenever Fable comes back that&apos;s another reason to go back.
-
-Honestly, I hope these two compete forever and other players (Cursor/Grok, Gemini, etc) all stay competitive.
-
-This way the builder keeps winning 🙂</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2068165988005380478</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2068165988005380478" rel="alternate" />
-    <published>2026-06-20T02:56:10.000Z</published>
-    <updated>2026-06-20T02:56:10.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">The next hot programming language is… markdown.
-
-A minimal eve agent:
-
-📂 𝚊𝚐𝚎𝚗𝚝/
-  📄 𝚒𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜.𝚖𝚍
-  📂 𝚜𝚔𝚒𝚕𝚕𝚜/
-     📄 𝚢𝚘𝚞𝚛-𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎.𝚖𝚍
-
-Deployable in one command: 𝚟𝚎𝚛𝚌𝚎𝚕.
-
-It’s the most accessible programming has ever been. And likely will ever be, at least for the generation of software fully defined and controlled by us humans.
-
-(As a fun fact, one of the initial prototypes for eve was codenamed 𝚕𝚊𝚜𝚝 by @timolins, both in homage to ‘@nextjs for agents’ but also in recognition of how enduring eve’s design feels to us.)</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2068164193451475387</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2068164193451475387" rel="alternate" />
-    <published>2026-06-20T02:49:03.000Z</published>
-    <updated>2026-06-20T02:49:03.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">It was all a dream 🥲 https://t.co/QNcth9oQ6x</content>
-  </entry>
-  <entry>
-    <id>https://x.com/AmandaAskell/status/2068162192927756544</id>
-    <title>Amanda Askell (@AmandaAskell)</title>
-    <link href="https://x.com/AmandaAskell/status/2068162192927756544" rel="alternate" />
-    <published>2026-06-20T02:41:06.000Z</published>
-    <updated>2026-06-20T02:41:06.000Z</updated>
-    <author><name>Amanda Askell</name></author>
-    <category term="twitter" />
-    <content type="text">A counter to this is &quot;yes but people *don&apos;t* ignore it&quot;. But not ignoring things on scans is our norm because, until recently, we only did scans if there was a clear need. If we move to a scan-more-often paradigm, the norms of what we do with that information will surely adjust.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/AmandaAskell/status/2068162191740764622</id>
-    <title>Amanda Askell (@AmandaAskell)</title>
-    <link href="https://x.com/AmandaAskell/status/2068162191740764622" rel="alternate" />
-    <published>2026-06-20T02:41:05.000Z</published>
-    <updated>2026-06-20T02:41:05.000Z</updated>
-    <author><name>Amanda Askell</name></author>
-    <category term="twitter" />
-    <content type="text">The view that we shouldn&apos;t do more medical scans because incidental findings cause a lot of harm doesn&apos;t sit well with me. It seems like the issue it points to isn&apos;t the scan but the response to it. If you see something on a scan but have no other symptoms, you could ignore it.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2068144722460475527</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2068144722460475527" rel="alternate" />
-    <published>2026-06-20T01:31:40.000Z</published>
-    <updated>2026-06-20T01:31:40.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">Late to this one, but follow @danshipper for S-tier codex tips. These days I spend more time in the codex app than all other apps combined on my Mac. https://t.co/fVTA5vLGy3</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2068127547980918879</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2068127547980918879" rel="alternate" />
-    <published>2026-06-20T00:23:26.000Z</published>
-    <updated>2026-06-20T00:23:26.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">Some people meditate, I listen to @EITS 💥 https://t.co/mgiVZ3YE2Z</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2068120572673077274</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2068120572673077274" rel="alternate" />
-    <published>2026-06-19T23:55:43.000Z</published>
-    <updated>2026-06-19T23:55:43.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">Remote / local handoff in Codex! Removing boundaries one at a time. 
-
-When you let the model be in the driver seat, you actually need less infrastructure. https://t.co/sfFYixfXPl</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2068094591220531583</id>
+    <id>https://x.com/zarazhangrui/status/2068568920613953626</id>
     <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2068094591220531583" rel="alternate" />
-    <published>2026-06-19T22:12:28.000Z</published>
-    <updated>2026-06-19T22:12:28.000Z</updated>
+    <link href="https://x.com/zarazhangrui/status/2068568920613953626" rel="alternate" />
+    <published>2026-06-21T05:37:17.000Z</published>
+    <updated>2026-06-21T05:37:17.000Z</updated>
     <author><name>Zara Zhang</name></author>
     <category term="twitter" />
-    <content type="text">The 3 most important things that set someone apart in the AI age:
+    <content type="text">I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ad). Now I read my bookmarks. 
 
-- Agency
-- Taste
-- Distribution</content>
+The trick was hijacking real estate I already check 50 times a day https://t.co/pmrZGNaji5</content>
   </entry>
   <entry>
-    <id>https://x.com/mattturck/status/2068087153091858801</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2068087153091858801" rel="alternate" />
-    <published>2026-06-19T21:42:55.000Z</published>
-    <updated>2026-06-19T21:42:55.000Z</updated>
-    <author><name>Matt Turck</name></author>
+    <id>https://x.com/thsottiaux/status/2068568650924409260</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2068568650924409260" rel="alternate" />
+    <published>2026-06-21T05:36:13.000Z</published>
+    <updated>2026-06-21T05:36:13.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">When your VC is exhausted from attending the board meeting https://t.co/PHHnZWwumQ</content>
+    <content type="text">We built the Codex App with models that were okayish at front-end.
+
+Wait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something.</content>
   </entry>
   <entry>
-    <id>https://x.com/swyx/status/2068084391260426345</id>
+    <id>https://x.com/thenanyu/status/2068542022361735484</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2068542022361735484" rel="alternate" />
+    <published>2026-06-21T03:50:24.000Z</published>
+    <updated>2026-06-21T03:50:24.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">Multiplier effect. Econ 101. Learn about it. https://t.co/SJ0ikft4ZZ</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2068537425480278226</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2068537425480278226" rel="alternate" />
+    <published>2026-06-21T03:32:08.000Z</published>
+    <updated>2026-06-21T03:32:08.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">Road not taken is more fun https://t.co/czF29rTmI7</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2068537084877643943</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2068537084877643943" rel="alternate" />
+    <published>2026-06-21T03:30:47.000Z</published>
+    <updated>2026-06-21T03:30:47.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">Come work for Replit Japan! https://t.co/66BI1n5FLn</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2068524146070610274</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2068524146070610274" rel="alternate" />
+    <published>2026-06-21T02:39:22.000Z</published>
+    <updated>2026-06-21T02:39:22.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">What’s there to do in SF with kids beyond the Golden Gate Park and Presidio / Tunnel Tops? Wanna try something new</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2068522129193418759</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2068522129193418759" rel="alternate" />
+    <published>2026-06-21T02:31:21.000Z</published>
+    <updated>2026-06-21T02:31:21.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">Sometimes I wonder if joining a large company is actually riskier than joining a startup/starting your own company https://t.co/xthMKkxDTe</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2068517953285619715</id>
     <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2068084391260426345" rel="alternate" />
-    <published>2026-06-19T21:31:56.000Z</published>
-    <updated>2026-06-19T21:31:56.000Z</updated>
+    <link href="https://x.com/swyx/status/2068517953285619715" rel="alternate" />
+    <published>2026-06-21T02:14:45.000Z</published>
+    <updated>2026-06-21T02:14:45.000Z</updated>
     <author><name>Swyx</name></author>
     <category term="twitter" />
-    <content type="text">Anthropic is going to IPO at $2T https://t.co/SHYMaH3v9q</content>
+    <content type="text">@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this photo looks fucking chatgpt generated
+https://t.co/0ZAA5SVcHy</content>
   </entry>
   <entry>
-    <id>https://x.com/levie/status/2068068247413694532</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2068068247413694532" rel="alternate" />
-    <published>2026-06-19T20:27:47.000Z</published>
-    <updated>2026-06-19T20:27:47.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">The main variable in getting success with agents is whether you can get the agent the context it needs to do its work; and a major factor in that is if you can create a shared working area for that agent that a human can understand as well. 
-
-This is one of the reasons why agents using file systems is such a big deal. It creates a unified system that both the person and the agent can work within to pass around data. 
-
-“What they need is a working set: plans, notes, task lists, policies, drafts, summaries, logs, corrections,  decisions, etc. For that layer, a filesystem-shaped interface tends to be more legible to both the model and the humans supervising it.”
-
-It turns out giving agents access to the systems we already know how to use, but in a way that is best optimized for them, is the perfect primitive for agents to work.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/bcherny/status/2068064304503660962</id>
-    <title>Boris Cherny (@bcherny)</title>
-    <link href="https://x.com/bcherny/status/2068064304503660962" rel="alternate" />
-    <published>2026-06-19T20:12:07.000Z</published>
-    <updated>2026-06-19T20:12:07.000Z</updated>
-    <author><name>Boris Cherny</name></author>
-    <category term="twitter" />
-    <content type="text">Cool way to use Claude Code: deciphering Linear A, a 3500 year old written language from Crete
-
-https://t.co/Aqd4ZG7Cum
-
-Hope this holds up in peer review! 🤞</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2068007205102842238</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2068007205102842238" rel="alternate" />
-    <published>2026-06-19T16:25:14.000Z</published>
-    <updated>2026-06-19T16:25:14.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Tip: pick the worst thing you are afraid to show your board for your next board meeting and make it slide one (you can only do this with good boards btw)
-
-Make it a big deal you did that. Make it a habit. https://t.co/66Hu5uJGRP</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2067936390285807940</id>
+    <id>https://x.com/rauchg/status/2068517095818809770</id>
     <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2067936390285807940" rel="alternate" />
-    <published>2026-06-19T11:43:50.000Z</published>
-    <updated>2026-06-19T11:43:50.000Z</updated>
+    <link href="https://x.com/rauchg/status/2068517095818809770" rel="alternate" />
+    <published>2026-06-21T02:11:21.000Z</published>
+    <updated>2026-06-21T02:11:21.000Z</updated>
     <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment &amp;amp; commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use (markdown/json/html).
-
-The original vision of the WWW coming to life before our eyes.</content>
+    <content type="text">Genuinely impressed, almost shocked, at how good GLM-5.2 by @zai_org is at coding. This changes things.</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=asCgCv2XB4s</id>
-    <title>No Priors: Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan</title>
-    <link href="https://www.youtube.com/watch?v=asCgCv2XB4s" rel="alternate" />
-    <published>2026-06-18T10:00:00.000Z</published>
-    <updated>2026-06-18T10:00:00.000Z</updated>
-    <author><name>No Priors</name></author>
+    <id>https://x.com/swyx/status/2068510546606145897</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2068510546606145897" rel="alternate" />
+    <published>2026-06-21T01:45:20.000Z</published>
+    <updated>2026-06-21T01:45:20.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">btw this is what happens on July 4 if team usa wins this game Wednesday after next https://t.co/KCe7H7G5lE https://t.co/bM0I6oy7ol</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2068509088452071594</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2068509088452071594" rel="alternate" />
+    <published>2026-06-21T01:39:32.000Z</published>
+    <updated>2026-06-21T01:39:32.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">Proactiveness sounds nice in theory but is so hard to get right https://t.co/YVOV2aqRbo</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2068477933048725732</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2068477933048725732" rel="alternate" />
+    <published>2026-06-20T23:35:44.000Z</published>
+    <updated>2026-06-20T23:35:44.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this was key thing to figure out 
+
+https://t.co/vReYFcB0sl
+
+btw @GeminiApp is a VERY good sports handicapper (thanks @OfficialLoganK ). need to draw from a lot of sources to do this</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2068443037907522002</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2068443037907522002" rel="alternate" />
+    <published>2026-06-20T21:17:04.000Z</published>
+    <updated>2026-06-20T21:17:04.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">Some tokens work harder than others. Some of the most valuable ones are found in the Codex app.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2068434042148782515</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2068434042148782515" rel="alternate" />
+    <published>2026-06-20T20:41:19.000Z</published>
+    <updated>2026-06-20T20:41:19.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains. 
+
+The more that open weights is able to maintain only a marginal gap from the frontier, instead of a widening gap, the more value that can be created with AI.
+
+Incidentally, this is actually fine for the frontier labs as well; if we can lower the cost of an overall task then AI usage goes up in general. You’re still likely using frontier models for planning, orchestration, reviewing, and other parts of work. 
+
+But this is all very good for the applied layer of AI, which is now in a great position to cost optimize workloads with cheaper models or use tailored open models post-trained for specific tasks to improve performance.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2068428180004942319</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2068428180004942319" rel="alternate" />
+    <published>2026-06-20T20:18:02.000Z</published>
+    <updated>2026-06-20T20:18:02.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">If you are in Japan🇯🇵 or do business there, here&apos;s your chance to get lots of tokens! https://t.co/31g9yInYXX</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2068411894185295969</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2068411894185295969" rel="alternate" />
+    <published>2026-06-20T19:13:19.000Z</published>
+    <updated>2026-06-20T19:13:19.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models…
+
+Also to try the latest glm locally requires 512 mb which is like a $10K Max Studio?</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2068411460620042720</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2068411460620042720" rel="alternate" />
+    <published>2026-06-20T19:11:36.000Z</published>
+    <updated>2026-06-20T19:11:36.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">The biggest problem with AI is that priors need to be reset every few weeks.. and it seems like most people are incapable of doing that. 
+
+I talk to so many people who say xyz doesn’t work and when I ask when was the last time they tried testing it, the answer is always “a few months ago.” 
+
+Brother that’s like eons ago in AI timelines. This is why each person needs to have their own evals of hard tasks and weekly tinker time to truly understand where the frontier is. 
+
+And then you need to talk to enterprise buyers weekly who are usually two years behind. But they are the buyers so you need to understand how to market. 
+
+The combination of the two will give you a pretty good sense of where to invest time and capital. If you just do these two weekly, you’ll be ahead of 99% of people.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2068398871236264428</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2068398871236264428" rel="alternate" />
+    <published>2026-06-20T18:21:34.000Z</published>
+    <updated>2026-06-20T18:21:34.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">For folks who make talking head videos with screen share what platform do you use?
+
+I&apos;d love something that lets me easily zoom in and out on the screen to point out specific things.
+
+@screenstudio seems cool but does it work well with other recording tools? It doesn&apos;t record the talking head as far I can see.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thenanyu/status/2068396602973143274</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2068396602973143274" rel="alternate" />
+    <published>2026-06-20T18:12:33.000Z</published>
+    <updated>2026-06-20T18:12:33.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">Hey devs at @Outlook and @gmail you can point your agents at this tweet and they will fix it for you</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2068372026268811517</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2068372026268811517" rel="alternate" />
+    <published>2026-06-20T16:34:54.000Z</published>
+    <updated>2026-06-20T16:34:54.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Hi @tobi, had fun taking UCP CLI through the paces last night for a side project. 
+
+Some observations and feedback that me &amp;amp; Claude Code had for you! https://t.co/LC30umZo8h</content>
+  </entry>
+  <entry>
+    <id>https://x.com/realmadhuguru/status/2068350509027876876</id>
+    <title>Madhu Guru (@realmadhuguru)</title>
+    <link href="https://x.com/realmadhuguru/status/2068350509027876876" rel="alternate" />
+    <published>2026-06-20T15:09:24.000Z</published>
+    <updated>2026-06-20T15:09:24.000Z</updated>
+    <author><name>Madhu Guru</name></author>
+    <category term="twitter" />
+    <content type="text">The Product role is having an identity crisis too.
+
+Engineering has found its AI-native interface - SWE agents dramatically increase individual leverage.
+Companies are asking PMs to use AI, but they haven&apos;t evolved the role.
+
+So there are two camps.
+
+The old-school PM.
+AI accelerates the old job: more PRDs, more strategy decks, more docs. Lots of output, not much judgment.
+
+The Builder PM.
+Builder PMs use AI to expand their role across the product lifecycle.
+
+They explore a much larger surface area of ideas to arrive at the best. They run agents for market and user research, query logs and analytics directly, generate competing ideas, then curate the best ones.
+
+They constantly evolve their workflows to take advantage of the latest in AI.
+
+Their outputs are increasingly prototypes rather than docs - engineers react far more constructively to demos than docs.
+
+They do this all without compromising on the craft -they still form a strong point of view on what should be built and why.
+
+I think the role is moving much closer to Builder PMs.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thenanyu/status/2068318470215811080</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2068318470215811080" rel="alternate" />
+    <published>2026-06-20T13:02:05.000Z</published>
+    <updated>2026-06-20T13:02:05.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">Why isn’t the default for pasted text in email apps to take on the font treatment surrounding/preceding it?
+
+Crazy that this is still a problem</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2068279782815801541</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2068279782815801541" rel="alternate" />
+    <published>2026-06-20T10:28:21.000Z</published>
+    <updated>2026-06-20T10:28:21.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Try https://t.co/NH6AWPWWkY and find out https://t.co/FWIESSlIy4</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=W_iO8XxgD_I</id>
+    <title>Unsupervised Learning: AI Vibe Check: Lab Wars, Why APIs Might Vanish &amp;amp; Future Predictions</title>
+    <link href="https://www.youtube.com/watch?v=W_iO8XxgD_I" rel="alternate" />
+    <published>2026-06-12T12:51:00.000Z</published>
+    <updated>2026-06-12T12:51:00.000Z</updated>
+    <author><name>Unsupervised Learning</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:28
-Nine of the 10 company I invest, halfway they change their business plan because market have changed. Yeah. So I like to have entrepreneur as team, not just one person. I always believed in when I was at Cadence and also at Intel is first of all you crawl and be humble, listen to customer. And then first step for me is to strengthen my balance sheet, focus on the products, and I really simplify the product, listen to the customer, and then drive the next generation lead...</content>
+    <content type="text">Speaker 1 | 00:00 - 00:22
+I&apos;m Jacob Efron, and this is unsupervised learning. We&apos;ve had a bunch of new subscribers over our last few months, and so wanted to welcome you to the show. We basically probe the sharpest minds in AI on everything that&apos;s happening today, what&apos;s real, and what&apos;s coming up, where the space is headed. And today&apos;s episode is one of my favorite formats we do. It&apos;s an AI vibe check, that we do with Ari from Datalogy.
+
+Speaker 1 | 00:22 - 00:46
+Ari was a former researcher at ...</content>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-managed-agents-updates</id>
+    <title>Claude Blog: New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels</title>
+    <link href="https://claude.com/blog/claude-managed-agents-updates" rel="alternate" />
+    <published>2026-05-19T00:00:00.000Z</published>
+    <updated>2026-05-19T00:00:00.000Z</updated>
+    <author><name>Claude Blog</name></author>
+    <category term="blog" />
+    <content type="text">Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run within the established boundaries of your enterprise, under your security and runtime controls. The sandbox runs on your own infrastructure, or with managed providers like Cloudflare , Daytona , Modal , or Vercel to handle the compute and isolation for you. On the Claude Platform, self-hosted sandboxes is available in public beta and MCP tunnels in research preview ( request access ). Keep agent execution within your perimeter With self-hosted sandboxes, you keep sensitive files, packages, and services in your own infrastructure or with a managed sandbox provider. The agent loop that handles orchestration, context management, and error recovery stays on Anthropic’s infrastructure, while tool execution moves to your own configured environment. Inside your perimeter, netw...</content>
   </entry>
 </feed>
