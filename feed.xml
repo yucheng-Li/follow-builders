@@ -5,355 +5,336 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-06-22T08:29:37.749Z</updated>
+  <updated>2026-06-23T07:33:17.525Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/steipete/status/2068965200343224367</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2068965200343224367" rel="alternate" />
-    <published>2026-06-22T07:51:57.000Z</published>
-    <updated>2026-06-22T07:51:57.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">This is becoming my favorite way to read Twitter. https://t.co/eykEElxzu7 https://t.co/m5qM5PP3rA</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2068964055235321954</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2068964055235321954" rel="alternate" />
-    <published>2026-06-22T07:47:24.000Z</published>
-    <updated>2026-06-22T07:47:24.000Z</updated>
-    <author><name>Zara Zhang</name></author>
-    <category term="twitter" />
-    <content type="text">I’m talking about context, not prompt</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2068961217524490739</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2068961217524490739" rel="alternate" />
-    <published>2026-06-22T07:36:08.000Z</published>
-    <updated>2026-06-22T07:36:08.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">People here discussing what happened with OpenClaw.
-
-The hype died down. We improved quality and grew a team. We created a non-profit whereas competiors are VC funded and have other agendas.
-
-This is our strongest week so far. https://t.co/j6uwRneNvh</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2068960117253632160</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2068960117253632160" rel="alternate" />
-    <published>2026-06-22T07:31:46.000Z</published>
-    <updated>2026-06-22T07:31:46.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">I was skeptical about the multi-model routing. Seems my hinch was right. https://t.co/oVUUqBYRyy</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2068924451887129055</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2068924451887129055" rel="alternate" />
-    <published>2026-06-22T05:10:02.000Z</published>
-    <updated>2026-06-22T05:10:02.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">btw i&apos;ve been shopping around for insurers for the New Media Lab we are setting up (basically the creative playground housing swyx inc) and yeah the NPS of Corgi is insanely high
-
-my real estate broker: &quot;just go with corgi they are covering every single one of my clients rn&quot;
-
-breaking through with ~100% greenfield market share like this is unheard of in the insurance industry</content>
-  </entry>
-  <entry>
-    <id>https://x.com/ryolu_/status/2068924375341179347</id>
-    <title>Ryo Lu (@ryolu_)</title>
-    <link href="https://x.com/ryolu_/status/2068924375341179347" rel="alternate" />
-    <published>2026-06-22T05:09:44.000Z</published>
-    <updated>2026-06-22T05:09:44.000Z</updated>
-    <author><name>Ryo Lu</name></author>
-    <category term="twitter" />
-    <content type="text">works with any epub
-syncs progress with ryOS account
-https://t.co/99stn8QuPH</content>
-  </entry>
-  <entry>
-    <id>https://x.com/ryolu_/status/2068923971136098633</id>
-    <title>Ryo Lu (@ryolu_)</title>
-    <link href="https://x.com/ryolu_/status/2068923971136098633" rel="alternate" />
-    <published>2026-06-22T05:08:08.000Z</published>
-    <updated>2026-06-22T05:08:08.000Z</updated>
-    <author><name>Ryo Lu</name></author>
-    <category term="twitter" />
-    <content type="text">missing wooden shelves
-so i made Books in ryOS
-
-started in Cursor mobile, then hand-tuned the animations and textures until things felt right https://t.co/f2yFZ2N1CQ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2068923768500793603</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2068923768500793603" rel="alternate" />
-    <published>2026-06-22T05:07:19.000Z</published>
-    <updated>2026-06-22T05:07:19.000Z</updated>
-    <author><name>Zara Zhang</name></author>
-    <category term="twitter" />
-    <content type="text">A good rule of thumb for preventing AI slop (in writing, design, etc):
-
-Is your input (the context) longer than the output? 
-
-I&apos;ve found that for the AI to produce quality results, my input is often 3-5 times the length of the output.
-
-If your input is much shorter than the output, it&apos;s almost certainly going to produce slop</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2068917230570795178</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2068917230570795178" rel="alternate" />
-    <published>2026-06-22T04:41:21.000Z</published>
-    <updated>2026-06-22T04:41:21.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">Another new idea to push the state of AI architectures forward. Sakana released a model that effectively uses a mixture of models to get work done. You get a single API but then the work gets farmed out the model that best performs the task. 
-
-“Fugu manages model selection, delegation, verification, and synthesis automatically. It solves tasks directly when that is enough, or coordinates a team of expert models when a problem calls for more. The complexity of a multi-agent system never reaches your code.”
-
-This is generally how applied AI products are building their agent harnesses at this point, but the idea of making this an LLM that any developer can interact with is also a great idea. As we get more innovation with both frontier closed and OSS models, there’s going to be a ton of value produced for the layer that can route the best.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2068874249167884544</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2068874249167884544" rel="alternate" />
-    <published>2026-06-22T01:50:33.000Z</published>
-    <updated>2026-06-22T01:50:33.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">It’s funny, growing up as an immigrant I developed a scarcity mindset around saving money and resources.
-
-But when it comes to unlimited token plans and tokenmaxxing, it feels like a missed opportunity if I don’t burn as many tokens as possible and hit the limit each time.
-
-How do I address this disconnect? 🥹</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2068868744206799270</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2068868744206799270" rel="alternate" />
-    <published>2026-06-22T01:28:40.000Z</published>
-    <updated>2026-06-22T01:28:40.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">@QuinnyPig i think this is where i challenge @willccbb to his first poaster session. or maybe @willdepue. or @WilliamBryk. idk all the wills?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2068868568348070344</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2068868568348070344" rel="alternate" />
-    <published>2026-06-22T01:27:59.000Z</published>
-    <updated>2026-06-22T01:27:59.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">@QuinnyPig https://t.co/6639ddlPvc</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2068854663534031124</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2068854663534031124" rel="alternate" />
-    <published>2026-06-22T00:32:43.000Z</published>
-    <updated>2026-06-22T00:32:43.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Check out my friend Kevin&apos;s awesome tool @ferrymanio to post from your favorite social platform and have that cross post to 7+ platforms at once. https://t.co/3uLlQUeTFk</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2068851573175021864</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2068851573175021864" rel="alternate" />
-    <published>2026-06-22T00:20:27.000Z</published>
-    <updated>2026-06-22T00:20:27.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">Agents will use software 100X more than people. 
-
-When that happens, theres a huge need for guardrails on what the agents are doing so they don’t leak data or change the wrong information, authoritative sources of truth for them to work with, logging and auditing of what they’re doing, the ability to collaborate with people through these systems, and more.
-
-A simple query on any given agentic task could pull in more data than a user touches in a month. As a result, there are lots of categories of software that when it goes headless that the usage and value go up substantially. Agents will end up using our CRM data, documents and corporate knowledge, analytics data, and other information far more than people ever did.
-
-The platforms that can move toward the model of powering these headless interactions, and have a business model and technology strategy to support this, will be in the best position in the future.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2068838709517336756</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2068838709517336756" rel="alternate" />
-    <published>2026-06-21T23:29:20.000Z</published>
-    <updated>2026-06-21T23:29:20.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">The team cooked on https://t.co/A1yfEM3p7O performance. &apos;Everything the light touches&apos; was optimized Simba. Painting, layout, WebGPU shaders, blocking scripts. Every frame scrutinized. The best part is that we&apos;ll be updating our https://t.co/pYz1Gn9F9b with the lessons learned! https://t.co/NkxvURcNbq</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2068792061265121316</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2068792061265121316" rel="alternate" />
-    <published>2026-06-21T20:23:58.000Z</published>
-    <updated>2026-06-21T20:23:58.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">https://t.co/pBWhE53c4A</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2068792010715324444</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2068792010715324444" rel="alternate" />
-    <published>2026-06-21T20:23:46.000Z</published>
-    <updated>2026-06-21T20:23:46.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">Now that you can bank usage resets in Codex. Are you a hoarder or do you use them without breaking a sweat? How do you think about them?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thenanyu/status/2068778750800531640</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2068778750800531640" rel="alternate" />
-    <published>2026-06-21T19:31:04.000Z</published>
-    <updated>2026-06-21T19:31:04.000Z</updated>
-    <author><name>Nan Yu</name></author>
-    <category term="twitter" />
-    <content type="text">“Quality is irrational” is a great way to describe it. You have to have an irrational level of commitment to constantly choose quality and an irrational level of self-belief that controlling things top to bottom will yield better results than using common frameworks. https://t.co/NPtm8c7sid</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2068778558672273422</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2068778558672273422" rel="alternate" />
-    <published>2026-06-21T19:30:19.000Z</published>
-    <updated>2026-06-21T19:30:19.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Coding agents will squeeze every ounce of IKEA effect out of you, if you let them.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2068755908319236338</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2068755908319236338" rel="alternate" />
-    <published>2026-06-21T18:00:18.000Z</published>
-    <updated>2026-06-21T18:00:18.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Why HTML turned out to be the foundation for agentic video making from @liu8in:
-
-“We’ve been trying to build a video agent. However, we learned the hard way that agents have no visual intelligence.
-
-So that’s when we turned to code. HTML is the LLM’s native language. LLMs can express not only information, but also visual aesthetics through HTML, CSS, and JavaScript.
-
-Footage, images, assets, SVGs can all sit on top of HTML.&quot;
-
-📌 As an example, see how you can make a product video from any website URL here: https://t.co/Q2p8XzCfc6</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2068740575130689554</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2068740575130689554" rel="alternate" />
-    <published>2026-06-21T16:59:23.000Z</published>
-    <updated>2026-06-21T16:59:23.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">How your email finds me today.. 
-
-Happy Father’s Day to all the families celebrating today 🕺 https://t.co/ltYZwS2toM</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2068736857312198928</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2068736857312198928" rel="alternate" />
-    <published>2026-06-21T16:44:36.000Z</published>
-    <updated>2026-06-21T16:44:36.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">What should we improve in the Codex app. What&apos;s not delightful?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2068732939559727468</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2068732939559727468" rel="alternate" />
-    <published>2026-06-21T16:29:02.000Z</published>
-    <updated>2026-06-21T16:29:02.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Happy Father&apos;s Day. Thankful to my dad who spent every last penny on buying our family &apos;the bicycle of the mind&apos; https://t.co/y4xvwtYPjr</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2068714024934740476</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2068714024934740476" rel="alternate" />
-    <published>2026-06-21T15:13:53.000Z</published>
-    <updated>2026-06-21T15:13:53.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">Happens every week 🙈
-
-&amp;gt; see an interesting project on X
-&amp;gt; play with it, fork it, try it, have some ideas
-&amp;gt; go to founder profile
-&amp;gt; press the message button 
-
-…
-
-&amp;gt; pray to God that I haven’t missed a DM from them before 😢
-
-I try to respond to all the DMs but miss sometimes!!</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2068701357696323769</id>
+    <id>https://x.com/garrytan/status/2069316493259706583</id>
     <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2068701357696323769" rel="alternate" />
-    <published>2026-06-21T14:23:32.000Z</published>
-    <updated>2026-06-21T14:23:32.000Z</updated>
+    <link href="https://x.com/garrytan/status/2069316493259706583" rel="alternate" />
+    <published>2026-06-23T07:07:52.000Z</published>
+    <updated>2026-06-23T07:07:52.000Z</updated>
     <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">This is why I made GBrain and open sourced it
-
-https://t.co/yFpFU4pn5b</content>
+    <content type="text">Ben Davis of Illuminate is an SF treasure https://t.co/dGeztCBIGY</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2068701356358308112</id>
+    <id>https://x.com/zarazhangrui/status/2069311581985665385</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2069311581985665385" rel="alternate" />
+    <published>2026-06-23T06:48:21.000Z</published>
+    <updated>2026-06-23T06:48:21.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">Watch on YouTube: https://t.co/FVBCFHXAqK</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2069311440692072481</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2069311440692072481" rel="alternate" />
+    <published>2026-06-23T06:47:48.000Z</published>
+    <updated>2026-06-23T06:47:48.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub):
+- Complete demo of how to create beautiful HTML slides with Claude Code (beginner friendly)
+- How I created the skill
+- How you can create your own skill
+- Tips like how to insert images/videos into deck, how to publish
+- Lessons I learned
+(11-min video, YouTube link below)</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2069310157864194066</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2069310157864194066" rel="alternate" />
+    <published>2026-06-23T06:42:42.000Z</published>
+    <updated>2026-06-23T06:42:42.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">https://t.co/HDDg9fFDK6</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2069301071965741388</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2069301071965741388" rel="alternate" />
+    <published>2026-06-23T06:06:35.000Z</published>
+    <updated>2026-06-23T06:06:35.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">i dont think anyone is correctly doing the math around how SpaceX, the NeoCloud+NeoLab, is currently going to market?
+
+SpaceX has already recouped about HALF its investment in Cursor, in compute deals. The other half is  paid for if Composer 3 does well. 
+
+No other company is simultaneously a leading model lab + neocloud (at least where GPUs is concerned). its a crazy effective combo iff you&apos;ve adequately planned out gpu supply if inhouse training 1) goes very well 2) doesn&apos;t go very well</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2069298247055925475</id>
     <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2068701356358308112" rel="alternate" />
-    <published>2026-06-21T14:23:32.000Z</published>
-    <updated>2026-06-21T14:23:32.000Z</updated>
+    <link href="https://x.com/garrytan/status/2069298247055925475" rel="alternate" />
+    <published>2026-06-23T05:55:22.000Z</published>
+    <updated>2026-06-23T05:55:22.000Z</updated>
     <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">I think one underestimated thing when we look back on it was how useful it is to have your own personal brain and company brain in 2026 at the dawn of usable AGI
-
-AGI gives you the intelligence
-
-You still have to collect your personal context to get the real unlock</content>
+    <content type="text">If you haven’t seen 7x7 at SF City Hall it is a sight to behold. Go see it before it goes away July 4th https://t.co/76Lvq32YED</content>
   </entry>
   <entry>
-    <id>https://x.com/thenanyu/status/2068668365623710018</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2068668365623710018" rel="alternate" />
-    <published>2026-06-21T12:12:27.000Z</published>
-    <updated>2026-06-21T12:12:27.000Z</updated>
-    <author><name>Nan Yu</name></author>
+    <id>https://x.com/petergyang/status/2069279618969075819</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2069279618969075819" rel="alternate" />
+    <published>2026-06-23T04:41:21.000Z</published>
+    <updated>2026-06-23T04:41:21.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">@Outlook @gmail No that’s not going to solve the problem to any significant degree. We are talking about default behavior.
+    <content type="text">Ok I&apos;ve fallen for the ragebaiting and have been triggered by this so I&apos;m going to say this: 
 
-https://t.co/zbZtXMJVkR</content>
+Whether intentional or not, there&apos;s a lot of virality that comes from:
+
+1. Pick the most ragebait moment of the conversation
+2. Make a clip of that exact moment
+3. Get tons of retweets and views
+
+I can tell it&apos;s rage baiting (just like the Corgi founder clip) but here&apos;s the thing - if even one parent watches this clip and decides to neglect their kids more then the damage is done.
+
+And yes it&apos;s hard to work at home when your kid comes back at 3 pm (or 1 pm with summer camp!) but we all make our choices.</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=cMAs8z2dehs</id>
-    <title>Training Data: Google DeepMind&apos;s Logan Kilpatrick: Why the Model Eats the Harness</title>
-    <link href="https://www.youtube.com/watch?v=cMAs8z2dehs" rel="alternate" />
-    <published>2026-06-11T09:00:00.000Z</published>
-    <updated>2026-06-11T09:00:00.000Z</updated>
-    <author><name>Training Data</name></author>
+    <id>https://x.com/thsottiaux/status/2069267387464274366</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2069267387464274366" rel="alternate" />
+    <published>2026-06-23T03:52:44.000Z</published>
+    <updated>2026-06-23T03:52:44.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">What are we codexing tonight</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2069267139576693028</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2069267139576693028" rel="alternate" />
+    <published>2026-06-23T03:51:45.000Z</published>
+    <updated>2026-06-23T03:51:45.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">I&apos;m reading this and I still don&apos;t get what a dynamic workflow is or when to use it in Claude Code 
+
+https://t.co/2dlfB1Qof3 https://t.co/PESTVQfSQ1</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2069254835686576316</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2069254835686576316" rel="alternate" />
+    <published>2026-06-23T03:02:52.000Z</published>
+    <updated>2026-06-23T03:02:52.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">I feel the same about shared office spaces. https://t.co/uUI0iIXlzr</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2069234760615096344</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2069234760615096344" rel="alternate" />
+    <published>2026-06-23T01:43:06.000Z</published>
+    <updated>2026-06-23T01:43:06.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">The California asset seizure tax is only going to impoverish the state and reduce funding for health care
+
+The SEIU UHW union doesn’t care if quality of care or even the state’s ability to care for its people goes away
+
+There is only pure self interest there https://t.co/KI3PnPkvV3</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2069228335255949775</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2069228335255949775" rel="alternate" />
+    <published>2026-06-23T01:17:34.000Z</published>
+    <updated>2026-06-23T01:17:34.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">Almost all AI model and agent progress is downstream from evals. Open weights post training for specific domains comes down to evals. Agent improvements in the applied AI layer is all about evals. Agentic enterprise deployments that actually can augment work is all about evals. It’s all evals.
+
+This will become a core competency of any enterprise in the future. The companies that are able to best understand their own (and/or customers) workflows and how well agents participate in that work will be in the best position to actually drive real automation.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2069219190834127276</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2069219190834127276" rel="alternate" />
+    <published>2026-06-23T00:41:13.000Z</published>
+    <updated>2026-06-23T00:41:13.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Claude Design → Vercel, in one click https://t.co/Btq9hFk7OB https://t.co/NpgdokzpvE</content>
+  </entry>
+  <entry>
+    <id>https://x.com/ryolu_/status/2069218604449771989</id>
+    <title>Ryo Lu (@ryolu_)</title>
+    <link href="https://x.com/ryolu_/status/2069218604449771989" rel="alternate" />
+    <published>2026-06-23T00:38:54.000Z</published>
+    <updated>2026-06-23T00:38:54.000Z</updated>
+    <author><name>Ryo Lu</name></author>
+    <category term="twitter" />
+    <content type="text">watch on youtube:
+https://t.co/2EXXS1YKZk</content>
+  </entry>
+  <entry>
+    <id>https://x.com/ryolu_/status/2069218497272717661</id>
+    <title>Ryo Lu (@ryolu_)</title>
+    <link href="https://x.com/ryolu_/status/2069218497272717661" rel="alternate" />
+    <published>2026-06-23T00:38:28.000Z</published>
+    <updated>2026-06-23T00:38:28.000Z</updated>
+    <author><name>Ryo Lu</name></author>
+    <category term="twitter" />
+    <content type="text">here&apos;s my talk at Cursor Compile
+some thoughts on how we build in the age of AI
+and what doesn&apos;t change https://t.co/otMw3nwPkr</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2069217138775388603</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2069217138775388603" rel="alternate" />
+    <published>2026-06-23T00:33:04.000Z</published>
+    <updated>2026-06-23T00:33:04.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">Never quit https://t.co/INdRImOBUI</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2069152499416928256</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2069152499416928256" rel="alternate" />
+    <published>2026-06-22T20:16:13.000Z</published>
+    <updated>2026-06-22T20:16:13.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">https://t.co/aEkhh523n3</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2069152290326630518</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2069152290326630518" rel="alternate" />
+    <published>2026-06-22T20:15:23.000Z</published>
+    <updated>2026-06-22T20:15:23.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">Let&apos;s Patch The Planet. Updates to codex security and a new GPT-5.5-Cyber. A day of celebration for cyber defense acceleration.
+
+https://t.co/SYKQvsTA44</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2069140445205348432</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2069140445205348432" rel="alternate" />
+    <published>2026-06-22T19:28:19.000Z</published>
+    <updated>2026-06-22T19:28:19.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">We heard that HTML is a big deal again. You can now preview, edit, manage versions, and securely share any HTML based content on Box. Great for being able to work with any agent produced content immediately. https://t.co/Rgo2TO6RIg</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2069134312239219000</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2069134312239219000" rel="alternate" />
+    <published>2026-06-22T19:03:57.000Z</published>
+    <updated>2026-06-22T19:03:57.000Z</updated>
+    <author><name>Matt Turck</name></author>
+    <category term="twitter" />
+    <content type="text">Update: he now just called him &quot;the little maestro&quot; and &quot;little Leo&quot;</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2069133752727445551</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2069133752727445551" rel="alternate" />
+    <published>2026-06-22T19:01:43.000Z</published>
+    <updated>2026-06-22T19:01:43.000Z</updated>
+    <author><name>Matt Turck</name></author>
+    <category term="twitter" />
+    <content type="text">You can be Messi, the best footballer ever, and some rando commentator on Fox will still call you &quot;the little magic man&quot;</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2069132838356840857</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2069132838356840857" rel="alternate" />
+    <published>2026-06-22T18:58:05.000Z</published>
+    <updated>2026-06-22T18:58:05.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">Patch the Planet. https://t.co/3VK1ikQ0Im</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2069121360744550796</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2069121360744550796" rel="alternate" />
+    <published>2026-06-22T18:12:29.000Z</published>
+    <updated>2026-06-22T18:12:29.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">We want to help all companies be secure, working with the USG and the security ecosystem.
+
+*The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.
+
+*Patch The Planet and Codex Security will help solve security problems instead of just finding them. https://t.co/otyCFHJR4d</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2069118077313425840</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2069118077313425840" rel="alternate" />
+    <published>2026-06-22T17:59:26.000Z</published>
+    <updated>2026-06-22T17:59:26.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">I want to do a podcast episode with someone who&apos;s good at using Codex / Claude Code to create fun pixel or threejs games and can show us how to do it.
+
+I am a gamer at heart! Who&apos;s the best person to talk to?</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2069109057433035171</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2069109057433035171" rel="alternate" />
+    <published>2026-06-22T17:23:36.000Z</published>
+    <updated>2026-06-22T17:23:36.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">𝚆𝚎𝚋𝚂𝚘𝚌𝚔𝚎𝚝 (and 𝚜𝚘𝚌𝚔𝚎𝚝.𝚒𝚘) now supported on Vercel, from CDN to Fluid.
+
+Special full circle moment for @vercel https://t.co/a4ltxacug5</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2069103803727556689</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2069103803727556689" rel="alternate" />
+    <published>2026-06-22T17:02:43.000Z</published>
+    <updated>2026-06-22T17:02:43.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">gm https://t.co/cgg5e13mEy</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2069070621183758369</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2069070621183758369" rel="alternate" />
+    <published>2026-06-22T14:50:52.000Z</published>
+    <updated>2026-06-22T14:50:52.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">I have been to many concerts but man no one knows how to put on a show like @diljitdosanjh.. 
+
+2 hours of nonstop singing and dancing 🕺 https://t.co/wnGpTmQBNV</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</id>
+    <title>AI &amp; I by Every: How Anthropic Uses Claude Fable 5 With Mike Krieger</title>
+    <link href="https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL" rel="alternate" />
+    <published>2026-06-10T17:27:38.000Z</published>
+    <updated>2026-06-10T17:27:38.000Z</updated>
+    <author><name>AI &amp; I by Every</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:02
-So we could edit this set so it looks like we&apos;re
+    <content type="text">Speaker 1 | 00:04 - 00:07
+Mike, welcome to the show. Great to be here, Dan. Good to see you.
 
-Speaker 2 | 00:02 - 00:06
-here. Okay? Yeah. Yeah. I I want this where where we were talking off camera.
+Speaker 2 | 00:07 - 00:17
+So for people who don&apos;t know you, you&apos;re the head of Anthropic Labs, and you&apos;re the cofounder of Instagram. And today, I wanna talk to you about is Fable five. So Fable five is dropping tomorrow. We&apos;re recording this the day before. It&apos;s gonna come out after it drops.
 
-Speaker 2 | 00:06 - 00:36
-Like, we should do that for the intro because I think it just, like, makes all this stuff more capable. I&apos;ve seen these examples of, like, such subtle nuance that make me appreciate that it&apos;s like the world understanding playing out. I was giving a talk and was on stage with my friend, Tulsi,...</content>
+Speaker 2 | 00:17 - 00:39
+But what I really wanted to do is bring you on the show to tell me about what it&apos;s l...</content>
   </entry>
 </feed>
