@@ -5,384 +5,302 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-07-05T07:26:19.496Z</updated>
+  <updated>2026-07-06T07:52:35.228Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/swyx/status/2073657149067321412</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2073657149067321412" rel="alternate" />
-    <published>2026-07-05T06:36:05.000Z</published>
-    <updated>2026-07-05T06:36:05.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">https://t.co/2QgCtbaEw7</content>
-  </entry>
-  <entry>
-    <id>https://x.com/sama/status/2073636003215249515</id>
-    <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2073636003215249515" rel="alternate" />
-    <published>2026-07-05T05:12:04.000Z</published>
-    <updated>2026-07-05T05:12:04.000Z</updated>
-    <author><name>Sam Altman</name></author>
-    <category term="twitter" />
-    <content type="text">they really nailed it with &quot;life, liberty, and the pursuit of happiness&quot;</content>
-  </entry>
-  <entry>
-    <id>https://x.com/sama/status/2073635910512726444</id>
-    <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2073635910512726444" rel="alternate" />
-    <published>2026-07-05T05:11:42.000Z</published>
-    <updated>2026-07-05T05:11:42.000Z</updated>
-    <author><name>Sam Altman</name></author>
-    <category term="twitter" />
-    <content type="text">grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.
-
-most impressive social experiment in history.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2073630312249327918</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2073630312249327918" rel="alternate" />
-    <published>2026-07-05T04:49:27.000Z</published>
-    <updated>2026-07-05T04:49:27.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">btw @dakshgup i REALLY REALLY wanted to join the crew but just got too doublebooked to do it :/
-
-here is me in my hip hop dance crew in 2003 (i am bottom left) https://t.co/ODR1yLGQGW</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2073586548545638459</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2073586548545638459" rel="alternate" />
-    <published>2026-07-05T01:55:33.000Z</published>
-    <updated>2026-07-05T01:55:33.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">Yo dawg we heard you like Codex in ChatGPT https://t.co/hJZCbrpNbZ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2073575065917280331</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2073575065917280331" rel="alternate" />
-    <published>2026-07-05T01:09:55.000Z</published>
-    <updated>2026-07-05T01:09:55.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">SF needs to build housing asap
-
-Incentivize and build supply
-
-Stop subsidizing demand https://t.co/0nCmtTRa1S</content>
-  </entry>
-  <entry>
-    <id>https://x.com/AmandaAskell/status/2073569330940531152</id>
-    <title>Amanda Askell (@AmandaAskell)</title>
-    <link href="https://x.com/AmandaAskell/status/2073569330940531152" rel="alternate" />
-    <published>2026-07-05T00:47:08.000Z</published>
-    <updated>2026-07-05T00:47:08.000Z</updated>
-    <author><name>Amanda Askell</name></author>
-    <category term="twitter" />
-    <content type="text">Happy birthday, America! You don&apos;t look a day over 200.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2073565412336308699</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2073565412336308699" rel="alternate" />
-    <published>2026-07-05T00:31:33.000Z</published>
-    <updated>2026-07-05T00:31:33.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">iykyk https://t.co/irvzysRIpT</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2073563586270781674</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2073563586270781674" rel="alternate" />
-    <published>2026-07-05T00:24:18.000Z</published>
-    <updated>2026-07-05T00:24:18.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">🏁 I animated the token 💰 spend race, from ~lifetime Vercel AI Gateway usage, which aggregates trillions of tokens from millions of developers a month.
-
-Fascinating to see the fluctuations among the labs, Anthropic&apos;s dominance, and the rise of open weight AI. https://t.co/iX8oRA4SBP</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2073558419412500564</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2073558419412500564" rel="alternate" />
-    <published>2026-07-05T00:03:46.000Z</published>
-    <updated>2026-07-05T00:03:46.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Guarantee you Ryan and all his degenerate buddies were protesting against Lurie’s YIMBY Family Zoning plans 
-
-We want to build housing and make the city safe
-
-They want to destroy housing, jobs and make the city unsafe 
-
-Make it make sense! You can’t.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2073558154873593926</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2073558154873593926" rel="alternate" />
-    <published>2026-07-05T00:02:43.000Z</published>
-    <updated>2026-07-05T00:02:43.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Ryan is a part of the idiotic NIMBY class that only attacks people doing good work https://t.co/soytlCEm1M</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2073554978053005607</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2073554978053005607" rel="alternate" />
-    <published>2026-07-04T23:50:06.000Z</published>
-    <updated>2026-07-04T23:50:06.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">A silly, but made me laugh interaction with Sol
-
------------------
-
-🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡
-🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡
-🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡
-
-&gt; 🫡 Salute received, loud and clear. Carry on!
-
-* 12
-
-&gt; 39 × 12 = 468 🫡
-
-- 800
-
-&gt; 468 − 800 = −332 🫡
-
-?
-
-&gt; There were 39 🫡 emojis.
-&gt; (39 × 12) − 800 = 468 − 800 = −332.
-
-how can you have negative emojis
-
-&gt; You can’t physically. −332 🫡 means you’re short 332 salutes or ... owe 332 salutes.
-&gt; Actual emojis remaining: 0 🫡, with a 332-salute debt.
-
-🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡
-🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡
-🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡
-
-&gt; Payment received: 39 🫡
-&gt; Remaining salute debt: 293 🫡
-
-hahaha
-
-&gt; The salute economy is ruthless. 🫡📉</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2073551549494596079</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2073551549494596079" rel="alternate" />
-    <published>2026-07-04T23:36:28.000Z</published>
-    <updated>2026-07-04T23:36:28.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">What is something that you feel is surprising that Codex still can&apos;t do well and we should have gotten right a while ago?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/mattturck/status/2073543980109733924</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2073543980109733924" rel="alternate" />
-    <published>2026-07-04T23:06:24.000Z</published>
-    <updated>2026-07-04T23:06:24.000Z</updated>
-    <author><name>Matt Turck</name></author>
-    <category term="twitter" />
-    <content type="text">Tough game but France got it done.  Between Argentina and this game today, refereeing is becoming a major issue in this tournament.  3 yellows for France and zero for Paraguay who played like thugs?
-
-Also, France, stop passing the ball to Rabiot for long-range shots lol</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2073516954779029800</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2073516954779029800" rel="alternate" />
-    <published>2026-07-04T21:19:00.000Z</published>
-    <updated>2026-07-04T21:19:00.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Damn is this whole game going to get played in front of Paraguay goal</content>
-  </entry>
-  <entry>
-    <id>https://x.com/mattturck/status/2073506928773185551</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2073506928773185551" rel="alternate" />
-    <published>2026-07-04T20:39:10.000Z</published>
-    <updated>2026-07-04T20:39:10.000Z</updated>
-    <author><name>Matt Turck</name></author>
-    <category term="twitter" />
-    <content type="text">Chills - Thierry Henry on growing up playing in the suburbs of Paris (and why 54 World Cup players are from there) https://t.co/jOr9td1eqk</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2073492785991438426</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2073492785991438426" rel="alternate" />
-    <published>2026-07-04T19:42:58.000Z</published>
-    <updated>2026-07-04T19:42:58.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Wow AI agrees with me 🤣 https://t.co/yCfCAupLMF</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2073486769828614296</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2073486769828614296" rel="alternate" />
-    <published>2026-07-04T19:19:04.000Z</published>
-    <updated>2026-07-04T19:19:04.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Rooting for Paraguay later 😅
-
-Please pull some Cape Verde shit</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2073482942513565713</id>
+    <id>https://x.com/steipete/status/2074007001802367446</id>
     <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2073482942513565713" rel="alternate" />
-    <published>2026-07-04T19:03:51.000Z</published>
-    <updated>2026-07-04T19:03:51.000Z</updated>
+    <link href="https://x.com/steipete/status/2074007001802367446" rel="alternate" />
+    <published>2026-07-06T05:46:17.000Z</published>
+    <updated>2026-07-06T05:46:17.000Z</updated>
     <author><name>Peter Steinberger</name></author>
     <category term="twitter" />
-    <content type="text">In the next version of https://t.co/B1RkFJhhSH - see exactly when you resets expire so you can up your  ̶t̶o̶k̶e̶n̶m̶a̶x̶x̶i̶n̶g̶ valuemaxxing game! https://t.co/04q26JVtiC</content>
+    <content type="text">Can’t recommend enough. use via https://t.co/SEj2XRpIsz https://t.co/yglUHjKFMh</content>
   </entry>
   <entry>
-    <id>https://x.com/mattturck/status/2073456675567071374</id>
+    <id>https://x.com/garrytan/status/2073997128222040471</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2073997128222040471" rel="alternate" />
+    <published>2026-07-06T05:07:03.000Z</published>
+    <updated>2026-07-06T05:07:03.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Age of the Unc confirmed</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2073972907491865062</id>
     <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2073456675567071374" rel="alternate" />
-    <published>2026-07-04T17:19:29.000Z</published>
-    <updated>2026-07-04T17:19:29.000Z</updated>
+    <link href="https://x.com/mattturck/status/2073972907491865062" rel="alternate" />
+    <published>2026-07-06T03:30:48.000Z</published>
+    <updated>2026-07-06T03:30:48.000Z</updated>
     <author><name>Matt Turck</name></author>
     <category term="twitter" />
-    <content type="text">Little known fact, Morocco&apos;s goalkeeper Bono had a prior career in as lead singer of a rock band</content>
+    <content type="text">when I ask my AI agent to “make no mistakes” https://t.co/HTMnW0h8OX</content>
   </entry>
   <entry>
-    <id>https://x.com/steipete/status/2073450886698070282</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2073450886698070282" rel="alternate" />
-    <published>2026-07-04T16:56:28.000Z</published>
-    <updated>2026-07-04T16:56:28.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
+    <id>https://x.com/petergyang/status/2073966701629374820</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2073966701629374820" rel="alternate" />
+    <published>2026-07-06T03:06:08.000Z</published>
+    <updated>2026-07-06T03:06:08.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">What a ride. https://t.co/63vW2TpQA4</content>
+    <content type="text">What a game wow what a game</content>
   </entry>
   <entry>
-    <id>https://x.com/nikunj/status/2073447791876317338</id>
+    <id>https://x.com/trq212/status/2073956140610924936</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2073956140610924936" rel="alternate" />
+    <published>2026-07-06T02:24:10.000Z</published>
+    <updated>2026-07-06T02:24:10.000Z</updated>
+    <author><name>Thariq</name></author>
+    <category term="twitter" />
+    <content type="text">&quot;God gave me a sign&quot;
+
+(remembering i live in San Francisco)
+
+&quot;I mean, I was acasually influenced by the ASI at the end of time to maximize EV for humanity&quot;</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2073945318283252167</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2073945318283252167" rel="alternate" />
+    <published>2026-07-06T01:41:10.000Z</published>
+    <updated>2026-07-06T01:41:10.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Damn they better have some armored vehicles to escort these English players out of the stadium 😅</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2073930836551032858</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2073930836551032858" rel="alternate" />
+    <published>2026-07-06T00:43:37.000Z</published>
+    <updated>2026-07-06T00:43:37.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">I&apos;m really excited to share these upcoming episodes for my podcast soon.
+
+One small ask: My birthday is on Thursday, July 9, and it would be amazing to finally hit 100K YouTube subscribers by then.
+
+I’m at 98.5K now, so pretty close :)
+
+📌 If you’re looking forward to these episodes, consider subscribing here: https://t.co/eOPREwafQV
+
+I appreciate your support!</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thenanyu/status/2073920959011074292</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2073920959011074292" rel="alternate" />
+    <published>2026-07-06T00:04:22.000Z</published>
+    <updated>2026-07-06T00:04:22.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">Bragging about running 10 Claude code tabs is just theater</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thenanyu/status/2073920326304460847</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2073920326304460847" rel="alternate" />
+    <published>2026-07-06T00:01:52.000Z</published>
+    <updated>2026-07-06T00:01:52.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">The “real-time strategy game” model of managing agents is clearly a dead end. 
+
+AI that’s ancient by current standards already beats &amp;gt;99% of human players and out-micros them to an extreme degree</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2073903310982218088</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2073447791876317338" rel="alternate" />
-    <published>2026-07-04T16:44:11.000Z</published>
-    <updated>2026-07-04T16:44:11.000Z</updated>
+    <link href="https://x.com/nikunj/status/2073903310982218088" rel="alternate" />
+    <published>2026-07-05T22:54:15.000Z</published>
+    <updated>2026-07-05T22:54:15.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">Moved to America for undergrad and have lived here ever since then..
+    <content type="text">Still waiting on that one founder who gates a VC chat until they have played with the product and come with at least two pieces of feedback..
 
-Grateful to this country for the endless kindness it has bestowed on me. 
+Blows my mind that people go on Zoom and chat for 30 mins on a parroted deck for literally the entire day - where it could have been a significantly more productive conversation if you just did a product brainstorm instead. Or even better just spend the entire time getting to know each other. 
 
-Like any country it has its own share of issues, but convinced there’s no greater land of opportunity. 
-
-Here’s to the next 250 🇺🇸</content>
+Am I just weird? Like how do you (both founders while fundraising and VCs generally) do this all day? What alpha do you get from hearing the same story again? It’s just more efficient for both sides to upload their personal “prompts” to Claude at this point to do this digitally 😂</content>
   </entry>
   <entry>
-    <id>https://x.com/_catwu/status/2073439890482794966</id>
-    <title>Cat Wu (@_catwu)</title>
-    <link href="https://x.com/_catwu/status/2073439890482794966" rel="alternate" />
-    <published>2026-07-04T16:12:47.000Z</published>
-    <updated>2026-07-04T16:12:47.000Z</updated>
-    <author><name>Cat Wu</name></author>
-    <category term="twitter" />
-    <content type="text">One of the things I love about Claude Fable 5 is that it knew to use propensity score matching (matching users on activity so you compare like with like) in my retention analysis without me asking.
-
-It’s exciting to see Fable 5’s improved judgment across all of its work, from writing emails and docs in Cowork to debugging complex errors in Claude Code</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2073428532613775819</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2073428532613775819" rel="alternate" />
-    <published>2026-07-04T15:27:39.000Z</published>
-    <updated>2026-07-04T15:27:39.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">🟦⭐🟦⭐🟦🟥🟥🟥🟥🟥🟥
-⭐🟦⭐🟦⭐⬜⬜⬜⬜⬜⬜
-🟦⭐🟦⭐🟦🟥🟥🟥🟥🟥🟥
-⭐🟦⭐🟦⭐⬜⬜⬜⬜⬜⬜
-🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2073422764275364153</id>
+    <id>https://x.com/danshipper/status/2073894034225897602</id>
     <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2073422764275364153" rel="alternate" />
-    <published>2026-07-04T15:04:43.000Z</published>
-    <updated>2026-07-04T15:04:43.000Z</updated>
+    <link href="https://x.com/danshipper/status/2073894034225897602" rel="alternate" />
+    <published>2026-07-05T22:17:23.000Z</published>
+    <updated>2026-07-05T22:17:23.000Z</updated>
     <author><name>Dan Shipper</name></author>
     <category term="twitter" />
-    <content type="text">biggest learning from @3blue1brown on @dwarkesh_sp is I’ve been mispronouncing the name of every single famous mathematician this whole time</content>
+    <content type="text">fable on ultracode &quot;make no mistakes&quot; https://t.co/fuqze4pJTQ</content>
   </entry>
   <entry>
-    <id>https://x.com/thenanyu/status/2073412466436878666</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2073412466436878666" rel="alternate" />
-    <published>2026-07-04T14:23:48.000Z</published>
-    <updated>2026-07-04T14:23:48.000Z</updated>
-    <author><name>Nan Yu</name></author>
+    <id>https://x.com/mattturck/status/2073890630569251150</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2073890630569251150" rel="alternate" />
+    <published>2026-07-05T22:03:52.000Z</published>
+    <updated>2026-07-05T22:03:52.000Z</updated>
+    <author><name>Matt Turck</name></author>
     <category term="twitter" />
-    <content type="text">When I wrote code by hand I would utter a constant stream of profanities while in flow state. So this is basically AGI https://t.co/qaKVedlm6I</content>
+    <content type="text">Tournament of the older goalies https://t.co/0QS0AqjKmw</content>
   </entry>
   <entry>
-    <id>https://x.com/thenanyu/status/2073410944969932877</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2073410944969932877" rel="alternate" />
-    <published>2026-07-04T14:17:46.000Z</published>
-    <updated>2026-07-04T14:17:46.000Z</updated>
-    <author><name>Nan Yu</name></author>
+    <id>https://x.com/mattturck/status/2073889293567693110</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2073889293567693110" rel="alternate" />
+    <published>2026-07-05T21:58:33.000Z</published>
+    <updated>2026-07-05T21:58:33.000Z</updated>
+    <author><name>Matt Turck</name></author>
     <category term="twitter" />
-    <content type="text">If you drop every production table does the model get fired or do you get fired. https://t.co/tvhupo3nh3</content>
+    <content type="text">Norway: best jersey, best fan celebration, best striker.</content>
   </entry>
   <entry>
-    <id>https://x.com/thenanyu/status/2073410299680428445</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2073410299680428445" rel="alternate" />
-    <published>2026-07-04T14:15:12.000Z</published>
-    <updated>2026-07-04T14:15:12.000Z</updated>
-    <author><name>Nan Yu</name></author>
+    <id>https://x.com/garrytan/status/2073881439700168925</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2073881439700168925" rel="alternate" />
+    <published>2026-07-05T21:27:20.000Z</published>
+    <updated>2026-07-05T21:27:20.000Z</updated>
+    <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">The best way to catch bugs is to use the product and see if you can break it. 
+    <content type="text">So the real constraint on human wealth was never resources. It was good ideas for how to serve one another, and the leverage to act on them. We just deleted the leverage constraint for everybody. 
 
-You’re not going to find most bugs by dead reckoning the code. 
-
-You’re reviewing the code itself for architecture and API design… to control the increase in technical debt</content>
+Now it&apos;s only the ideas. Go have them, and then build them. It&apos;s your time.</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=UN47z_opfmo</id>
-    <title>The MAD Podcast with Matt Turck: Cloudflare CEO: The Internet&apos;s Business Model Is Dead</title>
-    <link href="https://www.youtube.com/watch?v=UN47z_opfmo" rel="alternate" />
-    <published>2026-06-25T11:30:00.000Z</published>
-    <updated>2026-06-25T11:30:00.000Z</updated>
-    <author><name>The MAD Podcast with Matt Turck</name></author>
+    <id>https://x.com/garrytan/status/2073881438123110512</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2073881438123110512" rel="alternate" />
+    <published>2026-07-05T21:27:20.000Z</published>
+    <updated>2026-07-05T21:27:20.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">I&apos;m in Osaka now, and it&apos;s clear: Japan already ran the experiment on the ceiling. Thirty years of zero growth and it built the best trains, service, and craft on earth. When you can&apos;t compete on more, you compete on better. Better AND more at the same time.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thenanyu/status/2073873527082566097</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2073873527082566097" rel="alternate" />
+    <published>2026-07-05T20:55:54.000Z</published>
+    <updated>2026-07-05T20:55:54.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">Guess you can give up a goal when the opponent is down a man and their best player, and still talk shit https://t.co/xObZmc2tY0</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2073860953687638344</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2073860953687638344" rel="alternate" />
+    <published>2026-07-05T20:05:56.000Z</published>
+    <updated>2026-07-05T20:05:56.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">All recommendations acknowledged by Claude Code thanks! https://t.co/eIbdech9Pk</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2073840276414616006</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2073840276414616006" rel="alternate" />
+    <published>2026-07-05T18:43:46.000Z</published>
+    <updated>2026-07-05T18:43:46.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">Happy 250 🇺🇸 https://t.co/Ya1Ymnq87G</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2073822630742983062</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2073822630742983062" rel="alternate" />
+    <published>2026-07-05T17:33:39.000Z</published>
+    <updated>2026-07-05T17:33:39.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">🇺🇸 USA - 🇦🇷 ARG final 
+you heard it here first</content>
+  </entry>
+  <entry>
+    <id>https://x.com/_catwu/status/2073806626965049686</id>
+    <title>Cat Wu (@_catwu)</title>
+    <link href="https://x.com/_catwu/status/2073806626965049686" rel="alternate" />
+    <published>2026-07-05T16:30:03.000Z</published>
+    <updated>2026-07-05T16:30:03.000Z</updated>
+    <author><name>Cat Wu</name></author>
+    <category term="twitter" />
+    <content type="text">what are your top claude code + workflows + artifacts use cases?
+
+one of my new favorites is for sourcing candidates:
+- tell cc about the role and backgrounds i’m looking for
+- ask cc to kick off a dynamic workflow to find 100 candidates, and include linkedin, twitter, blog, podcasts, and one-line pitch for each
+- ask cc to make an artifact and email it to me. then, i lock my laptop and head out for the day
+- i review the list on the go once cc is done!</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2073803608722939935</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2073803608722939935" rel="alternate" />
+    <published>2026-07-05T16:18:04.000Z</published>
+    <updated>2026-07-05T16:18:04.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Headed to Paris, Interlaken and Zurich after 20+ years in just a few days.. 
+
+Hit me with your favorite spots that are kid-friendly (4.5 yr old + 1.5 yr old) and vegetarian-friendly. 
+
+Trying to see if we can set up play dates with local families - DM if that’s you!</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2073791666553844074</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2073791666553844074" rel="alternate" />
+    <published>2026-07-05T15:30:37.000Z</published>
+    <updated>2026-07-05T15:30:37.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math</content>
+  </entry>
+  <entry>
+    <id>https://x.com/AmandaAskell/status/2073786264059625897</id>
+    <title>Amanda Askell (@AmandaAskell)</title>
+    <link href="https://x.com/AmandaAskell/status/2073786264059625897" rel="alternate" />
+    <published>2026-07-05T15:09:09.000Z</published>
+    <updated>2026-07-05T15:09:09.000Z</updated>
+    <author><name>Amanda Askell</name></author>
+    <category term="twitter" />
+    <content type="text">Extracting a probability from a doctor is one of life&apos;s unnecessary boss battles. Even if you beg them for an interval-valued subjective probability, and at that point you&apos;re basically asking for their hunch. I don&apos;t know if they get sued for giving out information or something.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2073768913310200310</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2073768913310200310" rel="alternate" />
+    <published>2026-07-05T14:00:12.000Z</published>
+    <updated>2026-07-05T14:00:12.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">Resurfacing this skill I built (now that understanding your code is in vogue) https://t.co/rx8rngpECg</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2073764166700048480</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2073764166700048480" rel="alternate" />
+    <published>2026-07-05T13:41:20.000Z</published>
+    <updated>2026-07-05T13:41:20.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">me: change this button color
+Fable: sure I just spun up a fleet of 100 agents to get that done for you https://t.co/eSWCIuhmmO</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=AZrU6y3pUcU</id>
+    <title>No Priors: Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown</title>
+    <link href="https://www.youtube.com/watch?v=AZrU6y3pUcU" rel="alternate" />
+    <published>2026-06-26T10:13:00.000Z</published>
+    <updated>2026-06-26T10:13:00.000Z</updated>
+    <author><name>No Priors</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:31
-We actually had bot traffic pass human traffic online in the first half of twenty twenty six. In five years you might have a thousand times as much traffic on the internet as you do today. In the next six to twelve months, almost every company is going to go through some exercise like this where they&apos;re gonna cut a bunch of their their team. The underlying business model of the internet for the last twenty eight years has remained basically the same, which is it&apos;s large...</content>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/claude-for-foundation-models</id>
-    <title>Claude Blog: Building intelligent apps for Apple platforms with Claude in the Foundation Models framework</title>
-    <link href="https://claude.com/blog/claude-for-foundation-models" rel="alternate" />
-    <published>2026-06-08T00:00:00.000Z</published>
-    <updated>2026-06-08T00:00:00.000Z</updated>
-    <author><name>Claude Blog</name></author>
-    <category term="blog" />
-    <content type="text">Today we&amp;#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&amp;#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift. It is very easy to use and can return typed Swift values through guided generation in as few as three lines of code. Developers can use this to tap into Apple’s on-device models for fast, local tasks like summarization or extraction. Developers can now use Apple’s Foundation Models framework to hand off to Claude when a request calls for multi-step reasoning, code generation, and more. Claude can also search the web for current information and execute code for data analysis. Stream Claude&amp;#x27;s response back into the same view. Because Apple&amp;#x27;s framework returns typed Swift values from @Generable annotations, developers arrive at the Claude API call with clean inputs in...</content>
+    <content type="text">Speaker 1 | 00:00 - 00:13
+With GBT three, you couldn&apos;t scale test time compute. Like, if you gave it a budget of $10,000,000 and said, okay. Well, let&apos;s see what GBT three can do. It really can&apos;t do that much. The precarious frameworks and responsible scaling policies, they don&apos;t really account for the amount of test time compute.
+
+Speaker 1 | 00:13 - 00:32
+They just say, okay. Well, what&apos;s the capability of the model? The problem is we&apos;re in a world now where the capability of the model is a fu...</content>
   </entry>
 </feed>
