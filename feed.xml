@@ -5,248 +5,223 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-07-12T01:19:30.460Z</updated>
+  <updated>2026-07-12T07:09:00.834Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/petergyang/status/2076112137475506378</id>
+    <id>https://x.com/swyx/status/2076155833428431012</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2076155833428431012" rel="alternate" />
+    <published>2026-07-12T04:04:58.000Z</published>
+    <updated>2026-07-12T04:04:58.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not have fully internalized jevons parodox’s impact under the conditions of:
+
+- humans who can wield coding agents well*
+- coding agents breaking containment to all other knowledge work
+
+as the efficiency of labor goes up/unit cost of knowledge work goes broadly down, the demand for total work and better knowledge goes up, not down.
+
+what happened to coding isnt the exception; it’s the herald.
+
+*aka AI Engineers</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2076151956440261008</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2076151956440261008" rel="alternate" />
+    <published>2026-07-12T03:49:34.000Z</published>
+    <updated>2026-07-12T03:49:34.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Easy money (Swiss francs)</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2076151105080447404</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2076112137475506378" rel="alternate" />
-    <published>2026-07-12T01:11:20.000Z</published>
-    <updated>2026-07-12T01:11:20.000Z</updated>
+    <link href="https://x.com/petergyang/status/2076151105080447404" rel="alternate" />
+    <published>2026-07-12T03:46:11.000Z</published>
+    <updated>2026-07-12T03:46:11.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">Go Argentina!! 🇦🇷</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2076084443920683119</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2076084443920683119" rel="alternate" />
-    <published>2026-07-11T23:21:17.000Z</published>
-    <updated>2026-07-11T23:21:17.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">Halfs --&amp;gt; Quarters
-Freeflow --&amp;gt; VAR
-Player and Coach Reviews --&amp;gt; Coming Soon
+    <content type="text">The score is 3 vs 1 but imo this was a very mixed performance from Argentina.
 
-The World Cup 2048 will be brought to you by FIFA-NFL.</content>
+Not sure how they’ll do against England.</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2076054439140720719</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2076054439140720719" rel="alternate" />
-    <published>2026-07-11T21:22:04.000Z</published>
-    <updated>2026-07-11T21:22:04.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">New poster for our office that shows how resets of the Codex usage limits affects part of our systems. Data is beautiful. https://t.co/84DCX4XfbF</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2076050876314300478</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2076050876314300478" rel="alternate" />
-    <published>2026-07-11T21:07:54.000Z</published>
-    <updated>2026-07-11T21:07:54.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">This is super cool but I wonder how all these benchmarks work? How do you benchmark design taste? https://t.co/Lj4eIDjq3Y</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2076047290083733539</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2076047290083733539" rel="alternate" />
-    <published>2026-07-11T20:53:39.000Z</published>
-    <updated>2026-07-11T20:53:39.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">Everything in AI moves so fast.
-
-We are going to get here:
-- Run all the agents in the cloud
-- Choose any model (frontier, OSS, Chinese, American)
-- Choose any harness
-- Have full tracing
-- Have recursive improvement loops
-
-I know it will be there but can it happen already?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/sama/status/2076036901824532530</id>
-    <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2076036901824532530" rel="alternate" />
-    <published>2026-07-11T20:12:22.000Z</published>
-    <updated>2026-07-11T20:12:22.000Z</updated>
-    <author><name>Sam Altman</name></author>
-    <category term="twitter" />
-    <content type="text">so far at least, i&apos;m pretty sure AI has been net job-creating.
-
-this was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we&apos;d have seen some impact.
-
-it is possible this direction keeps going!</content>
-  </entry>
-  <entry>
-    <id>https://x.com/sama/status/2076034163418014199</id>
-    <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2076034163418014199" rel="alternate" />
-    <published>2026-07-11T20:01:30.000Z</published>
-    <updated>2026-07-11T20:01:30.000Z</updated>
-    <author><name>Sam Altman</name></author>
-    <category term="twitter" />
-    <content type="text">whoa https://t.co/JogchHWDm2</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2076022807365079342</id>
+    <id>https://x.com/nikunj/status/2076150076087611433</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2076022807365079342" rel="alternate" />
-    <published>2026-07-11T19:16:22.000Z</published>
-    <updated>2026-07-11T19:16:22.000Z</updated>
+    <link href="https://x.com/nikunj/status/2076150076087611433" rel="alternate" />
+    <published>2026-07-12T03:42:05.000Z</published>
+    <updated>2026-07-12T03:42:05.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">Ok Fable and Sol got me a fully working iOS app in a few hours based on the backend and the web app.. 
+    <content type="text">Argentina has the mandate of heaven.. what a strike by Alvarez. 
 
-what an insane world we live in 🤯 https://t.co/RWTUEaHYrM https://t.co/mECJqpkd8h</content>
+England vs. Argentina
+
+France vs. Spain
+
+Pure cinema 💥</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2076021263945039876</id>
+    <id>https://x.com/thsottiaux/status/2076145711922696371</id>
     <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2076021263945039876" rel="alternate" />
-    <published>2026-07-11T19:10:14.000Z</published>
-    <updated>2026-07-11T19:10:14.000Z</updated>
+    <link href="https://x.com/thsottiaux/status/2076145711922696371" rel="alternate" />
+    <published>2026-07-12T03:24:45.000Z</published>
+    <updated>2026-07-12T03:24:45.000Z</updated>
     <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">You know it&apos;s a good model when you grow more in 1 day than last two weeks combined.
+    <content type="text">At different times you complained about speed, code slop, frontend quality, ... With each release we improve and GPT 5.6 Sol is  
 
-Install the desktop app from https://t.co/K5PquKnV4q and give it a go! https://t.co/WyQwrT98Xo</content>
+✅Fast and token efficient
+✅Hardcore at back-end dev
+✅Great at front-end
+✅Does not use useEffect everywhere 
+
+What is next?</content>
   </entry>
   <entry>
-    <id>https://x.com/steipete/status/2076013212043182375</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2076013212043182375" rel="alternate" />
-    <published>2026-07-11T18:38:14.000Z</published>
-    <updated>2026-07-11T18:38:14.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">Let me verify a couple of load-bearing facts before I give you the architecture assessment.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2076002866582675674</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2076002866582675674" rel="alternate" />
-    <published>2026-07-11T17:57:08.000Z</published>
-    <updated>2026-07-11T17:57:08.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Defund the grifters who created the SF Doom Loop https://t.co/VSQ7a7XDZe</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2075999617666445714</id>
+    <id>https://x.com/petergyang/status/2076143769192484900</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2075999617666445714" rel="alternate" />
-    <published>2026-07-11T17:44:13.000Z</published>
-    <updated>2026-07-11T17:44:13.000Z</updated>
+    <link href="https://x.com/petergyang/status/2076143769192484900" rel="alternate" />
+    <published>2026-07-12T03:17:02.000Z</published>
+    <updated>2026-07-12T03:17:02.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">My process for a new project this weekend:
-
--&amp;gt; Use Fable to build plan.html with design guidelines
--&amp;gt; Use Claude Design to make components + screens
--&amp;gt; Get gpt 5.6 to build</content>
+    <content type="text">They’re playing so badly even up one man</content>
   </entry>
   <entry>
-    <id>https://x.com/sama/status/2075985056846451123</id>
-    <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2075985056846451123" rel="alternate" />
-    <published>2026-07-11T16:46:22.000Z</published>
-    <updated>2026-07-11T16:46:22.000Z</updated>
-    <author><name>Sam Altman</name></author>
+    <id>https://x.com/mattturck/status/2076141940484010189</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2076141940484010189" rel="alternate" />
+    <published>2026-07-12T03:09:46.000Z</published>
+    <updated>2026-07-12T03:09:46.000Z</updated>
+    <author><name>Matt Turck</name></author>
     <category term="twitter" />
-    <content type="text">&quot;physicians found fewer flaws in GPT-5.6 responses than physician-written responses.&quot; https://t.co/n4J37XVqNM</content>
+    <content type="text">Argentina struggled against the world&apos;s #64, almost got eliminated by the world&apos;s #26, and they&apos;re now in extra time against the world&apos;s #19 which is down to 10 players.</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2075975184293765564</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2075975184293765564" rel="alternate" />
-    <published>2026-07-11T16:07:08.000Z</published>
-    <updated>2026-07-11T16:07:08.000Z</updated>
-    <author><name>Garry Tan</name></author>
+    <id>https://x.com/petergyang/status/2076132077054095751</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2076132077054095751" rel="alternate" />
+    <published>2026-07-12T02:30:34.000Z</published>
+    <updated>2026-07-12T02:30:34.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">Make something agents want https://t.co/vJRQkdIoV3</content>
+    <content type="text">Well shit</content>
   </entry>
   <entry>
-    <id>https://x.com/levie/status/2075963779599466894</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2075963779599466894" rel="alternate" />
-    <published>2026-07-11T15:21:49.000Z</published>
-    <updated>2026-07-11T15:21:49.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">This is a great post if youre thinking about applied AI in the enterprise. The headline of this post is about what companies have huge upside from AI, but the deepest nuggets are about what AI transformation looks like in an organization.
-
-It’s fundamentally about changing the underlying workflow or business process. As we move from chat tools to agents, those agents actually have to be deployed against workflows, which usually span multiple functions in an org. This is a different way of deploying AI than solely rolling it out to end users. It takes much more work upfront, but the results are the things that actually drive significant ROI. 
-
-“Software asks the employee to adopt a tool, but infrastructure changes the operating layer underneath the employee. The employee should still know what happened, and the process owner should still be able to pause the workflow, change a rule, approve an exception, or pull a person back in when needed. But the value should not depend on someone remembering to use the AI every day.”
-
-The winners of this will be the platforms that can be deployed for specific workflows and business processes with a deep domain expertise. The playbook will often heavily require FDE support, change management, getting data well organized, be able to have comprehensive evals for the workflows, and much more to get right.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2075961345351307739</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2075961345351307739" rel="alternate" />
-    <published>2026-07-11T15:12:08.000Z</published>
-    <updated>2026-07-11T15:12:08.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">If you were using Codex before, two things to do
-
-1. Keep using Codex. It is for you
-2. Tell your friends and family about ChatGPT Work who you always wanted to show Codex but they’re not as technical and don’t work with code every day
-
-and tell me how it goes</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2075945096860807494</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2075945096860807494" rel="alternate" />
-    <published>2026-07-11T14:07:34.000Z</published>
-    <updated>2026-07-11T14:07:34.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">CEQA kills thousands of units of housing every year in San Francisco, here&apos;s just one example https://t.co/DfZe836WOU</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2075930909669515753</id>
+    <id>https://x.com/zarazhangrui/status/2076130810143367453</id>
     <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2075930909669515753" rel="alternate" />
-    <published>2026-07-11T13:11:12.000Z</published>
-    <updated>2026-07-11T13:11:12.000Z</updated>
+    <link href="https://x.com/zarazhangrui/status/2076130810143367453" rel="alternate" />
+    <published>2026-07-12T02:25:32.000Z</published>
+    <updated>2026-07-12T02:25:32.000Z</updated>
     <author><name>Zara Zhang</name></author>
     <category term="twitter" />
-    <content type="text">The line between &quot;builder&quot; and &quot;creator&quot; is blurring
-
-This is the best time for builders to create content and for creators to build products</content>
+    <content type="text">Ok 5.6 Sol is very good at front end 👌 https://t.co/vubmHarGCG</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2075767886254064011</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2075767886254064011" rel="alternate" />
-    <published>2026-07-11T02:23:24.000Z</published>
-    <updated>2026-07-11T02:23:24.000Z</updated>
-    <author><name>Dan Shipper</name></author>
+    <id>https://x.com/thsottiaux/status/2076119366647894371</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2076119366647894371" rel="alternate" />
+    <published>2026-07-12T01:40:04.000Z</published>
+    <updated>2026-07-12T01:40:04.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">seems bad https://t.co/ypfdrPXWkn</content>
+    <content type="text">If you aren&apos;t yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done.
+
+Step 1: Install CLIProxyAPI
+Step 2: Connect
+Step 3: Define following alias and enjoy claudex
+
+```
+alias claudex=&apos;CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \
+CLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \
+CLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \
+ENABLE_TOOL_SEARCH=false \
+claude --model gpt-5.6-sol&apos;
+```
+
+If this gets blocked, I owe you a reset.</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/@DataDrivenNYC/videos</id>
-    <title>The MAD Podcast with Matt Turck: Stripe&apos;s AI Chief: How AI Agents Will Buy, Sell, and Pay</title>
-    <link href="https://www.youtube.com/@DataDrivenNYC/videos" rel="alternate" />
-    <published>2026-07-09T11:30:01.000Z</published>
-    <updated>2026-07-09T11:30:01.000Z</updated>
-    <author><name>The MAD Podcast with Matt Turck</name></author>
-    <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:17
-Fraudsters have figured out that in AI, you actually don&apos;t really need to steal money or credentials. You can just steal tokens. And the scale of this actually shocked me when I looked at the data. So more than one in six signups at AI companies are this kind of abuse. Whatever.
+    <id>https://x.com/levie/status/2076116544980214164</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2076116544980214164" rel="alternate" />
+    <published>2026-07-12T01:28:51.000Z</published>
+    <updated>2026-07-12T01:28:51.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings are outpacing other fields.
 
-Speaker 1 | 00:17 - 00:41
-The dine and dash, but it&apos;s for token. When I go and ask my friends and family whether they&apos;d be comfortable letting an agent buy things on their behalf, they usually ...</content>
+Why is that? If you lower the cost of production of something that has lots of use cases, people want more things produced. We’ve seen this play out in the industrial world constantly, and now we’re finally seeing it in knowledge work.
+
+Because software now is much lower to cost per unit, people want way more of it. So we start to use software for all new things and people and companies light up more software projects than ever before. 
+
+But because the job itself is not fully automated (and likely won’t be for as far out as we can see), you still need people that understand these systems to maintain the code, decide what to build, run it over the long run, update it, and more. That all requires people to do work. 
+
+The same thing is going to happen in many other fields as well as we bring down the cost of production of previously extremely scarce areas of work. Agents will cause more abundance than replacement.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2075983427019612242</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2075983427019612242" rel="alternate" />
+    <published>2026-07-11T16:39:53.000Z</published>
+    <updated>2026-07-11T16:39:53.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again</content>
+  </entry>
+  <entry>
+    <id>https://x.com/sama/status/2075982820322025788</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2075982820322025788" rel="alternate" />
+    <published>2026-07-11T16:37:28.000Z</published>
+    <updated>2026-07-11T16:37:28.000Z</updated>
+    <author><name>Sam Altman</name></author>
+    <category term="twitter" />
+    <content type="text">30% of the cost was on fable at these levels of usage? https://t.co/KzFoHj7cB4</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2075944103867830352</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2075944103867830352" rel="alternate" />
+    <published>2026-07-11T14:03:38.000Z</published>
+    <updated>2026-07-11T14:03:38.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">If you want to supercharge building in California again, you&apos;re going to need to repeal and reform CEQA
+
+Millions of units of housing are blocked every year using CEQA. Housing should be built by-right, and not require the level of review it does today. https://t.co/TE4s7Dz7jD</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2075933358660730901</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2075933358660730901" rel="alternate" />
+    <published>2026-07-11T13:20:56.000Z</published>
+    <updated>2026-07-11T13:20:56.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">So much could go wrong
+
+But the interesting question is always: what happens if things go right?</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=8nj_0wZkbtA</id>
+    <title>No Priors: Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel</title>
+    <link href="https://www.youtube.com/watch?v=8nj_0wZkbtA" rel="alternate" />
+    <published>2026-07-09T10:00:00.000Z</published>
+    <updated>2026-07-09T10:00:00.000Z</updated>
+    <author><name>No Priors</name></author>
+    <category term="podcast" />
+    <content type="text">Speaker 1 | 00:00 - 00:13
+There is no such thing as a moat. There is no such thing as somewhere you&apos;re gonna be protected against innovation. Today, we have a competitive advantage on areas. Absolutely. But those can go away tomorrow.
+
+Speaker 1 | 00:13 - 00:24
+The only one to win long term is to continue to develop new services, new ways to do things. How can we do your business better? What do you need? Where you need more demand? Where are you hurting?
+
+Speaker 1 | 00:24 - 00:36
+It&apos;s so much ...</content>
   </entry>
 </feed>
