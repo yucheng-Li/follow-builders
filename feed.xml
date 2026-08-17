@@ -5,439 +5,312 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-08-15T06:27:33.693Z</updated>
+  <updated>2026-08-16T06:27:46.023Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/thsottiaux/status/2088500028721832432</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2088500028721832432" rel="alternate" />
-    <published>2026-08-15T05:36:23.000Z</published>
-    <updated>2026-08-15T05:36:23.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">What’s a hard problem codex solved for you this week? Where do you learn from others on how to push the frontier?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2088493756391768252</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2088493756391768252" rel="alternate" />
-    <published>2026-08-15T05:11:28.000Z</published>
-    <updated>2026-08-15T05:11:28.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">Looking for a quick restaurant reservation is now super easy in ChatGPT. Together with a bunch more ships https://t.co/8AN0GbFMy3</content>
-  </entry>
-  <entry>
-    <id>https://x.com/realmadhuguru/status/2088489059115270532</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2088489059115270532" rel="alternate" />
-    <published>2026-08-15T04:52:48.000Z</published>
-    <updated>2026-08-15T04:52:48.000Z</updated>
-    <author><name>Madhu Guru</name></author>
-    <category term="twitter" />
-    <content type="text">Cursor’s impact on AI product culture is underrated.
-
-for a while, ai products were stuck in the chatbot phase and was searching for a product meta to piggyback off of. 
-
-it was then that “cursor for x” came along and inspired a whole new product pattern. https://t.co/8ZBgFRqVLJ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2088486859244741020</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2088486859244741020" rel="alternate" />
-    <published>2026-08-15T04:44:04.000Z</published>
-    <updated>2026-08-15T04:44:04.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">Added a short instruction to our shared AGENTS MD file to upload videos to each PR that changes UI state. https://t.co/BjpJL1qFSR https://t.co/09wZoz7X0J</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2088485865194750150</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2088485865194750150" rel="alternate" />
-    <published>2026-08-15T04:40:07.000Z</published>
-    <updated>2026-08-15T04:40:07.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">Maa Tujhe salaam 🇮🇳</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2088476232933577124</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2088476232933577124" rel="alternate" />
-    <published>2026-08-15T04:01:50.000Z</published>
-    <updated>2026-08-15T04:01:50.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">Amazing outcome. Cursor executed the applied AI strategy flawlessly. 
-
-Most people completely underestimated the market size in AI coding. The biggest developer tool exits in history were on the order of low billions of dollars. And it was already assumed to be a heavily competitive and somewhat saturated space when they really got going.
-
-Multiple mental models shattered near instantly. The market sizes for agentic coding was far larger than most realized. There was actually tons and tons of room to innovate between the user and the underlying model, and even on the model itself.
-
-Cursor provided out the applied AI playbook by figuring out the right product shape for agentic coding work, acting as a neutral layer between models and the workflows, post training models for the areas that make most sense to drive down costs or improve performance, building out the right infra stack for the relevant workflows, building out a strong category-aligned GTM motion, and more.
-
-Great set of lessons for anyone doing applied AI right now. We’re going to see a lot more of these.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2088473882357530979</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2088473882357530979" rel="alternate" />
-    <published>2026-08-15T03:52:30.000Z</published>
-    <updated>2026-08-15T03:52:30.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">We moved the team over to build openclaw with openclaw. 
-Being able to share agent sessions as URLs is a superpower. https://t.co/peCQydXWyc</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thenanyu/status/2088461657311785236</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2088461657311785236" rel="alternate" />
-    <published>2026-08-15T03:03:55.000Z</published>
-    <updated>2026-08-15T03:03:55.000Z</updated>
-    <author><name>Nan Yu</name></author>
-    <category term="twitter" />
-    <content type="text">There’s no force in tech as destructive as the PM promo packet</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2088440618196607061</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2088440618196607061" rel="alternate" />
-    <published>2026-08-15T01:40:19.000Z</published>
-    <updated>2026-08-15T01:40:19.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">Three pros of monthly walks with @JustJake..
-
-1) his ability to articulate how every piece of infra will evolve is next to none. i’ve been proven wrong a few times already. 
-
-2) the velocity of this company is just batshit insane and again just mogs his own high lofty goals. 
-
-3) he walks at an insane speed and gets me 10k steps for free.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/realmadhuguru/status/2088425380130783287</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2088425380130783287" rel="alternate" />
-    <published>2026-08-15T00:39:46.000Z</published>
-    <updated>2026-08-15T00:39:46.000Z</updated>
-    <author><name>Madhu Guru</name></author>
-    <category term="twitter" />
-    <content type="text">when everyone can build with ai, your differentiators are product sense, domain knowledge, distribution, execution. https://t.co/qO8hGmsY07</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2088420395670184238</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2088420395670184238" rel="alternate" />
-    <published>2026-08-15T00:19:57.000Z</published>
-    <updated>2026-08-15T00:19:57.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">All the opponents are helping YIMBYs make a comprehensive list of California laws that need to be repealed https://t.co/R5p7AgJCTp</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2088388714351518130</id>
+    <id>https://x.com/amasad/status/2088867492907327573</id>
     <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2088388714351518130" rel="alternate" />
-    <published>2026-08-14T22:14:04.000Z</published>
-    <updated>2026-08-14T22:14:04.000Z</updated>
+    <link href="https://x.com/amasad/status/2088867492907327573" rel="alternate" />
+    <published>2026-08-16T05:56:34.000Z</published>
+    <updated>2026-08-16T05:56:34.000Z</updated>
     <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">Even if you don’t plan on publishing to the App Store, building personal apps via TestFlight is really great. https://t.co/SLco60a3RZ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2088388000267002195</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2088388000267002195" rel="alternate" />
-    <published>2026-08-14T22:11:14.000Z</published>
-    <updated>2026-08-14T22:11:14.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">The most surprising thing about using GStack pre-Fable 5 and after is now for many one-way-door questions you might get back in Claude Code, you can actually just say &quot;Take all recommendations&quot; and be happy</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2088383794013470812</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2088383794013470812" rel="alternate" />
-    <published>2026-08-14T21:54:31.000Z</published>
-    <updated>2026-08-14T21:54:31.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">&quot;Steve Jobs walked by and said the font city names weren&apos;t bad, but &apos;at least call them world-class cities.&apos;
+    <content type="text">The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance. 
 
-That&apos;s how Paoli and Wynwood became New York and Geneva.&quot; https://t.co/U9PPNUwkJE</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2088381680478540096</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2088381680478540096" rel="alternate" />
-    <published>2026-08-14T21:46:07.000Z</published>
-    <updated>2026-08-14T21:46:07.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">the reason @databricks &quot;ipo is lava&quot; fundraises are a meme is this but unironically
+Improvement in algorithms and continued hardware efficiency gains     means there is no reason to assume AGI-level capabilities will always require a data center to run.
 
-the M in their $188B series M stands for &quot;we are going to kill so many meetings&quot; https://t.co/sQsoPICYzT https://t.co/JAE86kHe2f</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2088358628000768263</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2088358628000768263" rel="alternate" />
-    <published>2026-08-14T20:14:31.000Z</published>
-    <updated>2026-08-14T20:14:31.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">ask away https://t.co/GExUalUexr</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2088351343434138111</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2088351343434138111" rel="alternate" />
-    <published>2026-08-14T19:45:34.000Z</published>
-    <updated>2026-08-14T19:45:34.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">/goal may not be the MOST token efficient thing, but it&apos;s a thing of beauty to see it one-shot an extremely detailed spec (with generous CLI tools) in 14h.. https://t.co/VJ996PIL32</content>
-  </entry>
-  <entry>
-    <id>https://x.com/joshwoodward/status/2088344782821326980</id>
-    <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2088344782821326980" rel="alternate" />
-    <published>2026-08-14T19:19:30.000Z</published>
-    <updated>2026-08-14T19:19:30.000Z</updated>
-    <author><name>Josh Woodward</name></author>
-    <category term="twitter" />
-    <content type="text">3.7 Flash is in the @GeminiApp https://t.co/txm3fI0wZo</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thenanyu/status/2088335744909619230</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2088335744909619230" rel="alternate" />
-    <published>2026-08-14T18:43:35.000Z</published>
-    <updated>2026-08-14T18:43:35.000Z</updated>
-    <author><name>Nan Yu</name></author>
-    <category term="twitter" />
-    <content type="text">AI is not &quot;jagged&quot; it is just AI-shaped. 
+Scaling laws are not laws of physics. They’re simply empirical relationships observed for particular architectures, objectives, datasets etc. Change any one of those factors and you get a different scaling curve. 
 
-That&apos;s like saying dogs are &quot;jagged&quot; because they are similar, superior, or inferior compared to humans when it comes to specific tasks.</content>
+If the brain is any guide, true AGI will likely be very efficient. In fact, current scaling laws might a bug and not a feature. It shows how inefficiency of the ML algorithms we discovered so far.</content>
   </entry>
   <entry>
-    <id>https://x.com/rauchg/status/2088323451132199338</id>
+    <id>https://x.com/thsottiaux/status/2088866513008873560</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2088866513008873560" rel="alternate" />
+    <published>2026-08-16T05:52:40.000Z</published>
+    <updated>2026-08-16T05:52:40.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">On tokens and prices per token.
+
+I said I’d write more about this, so here goes: an OpenAI token != another model’s token. We compare AI prices in dollars per million tokens as if a token were a standardized unit, like a gram or a kilowatt-hour. It isn’t. Different models use and produce the exact same text using different numbers of tokens, which means a lower price per token does not necessarily mean a lower bill.
+
+Imagine two identical pizzas. One is cut into 8 slices at $2 each. The other is cut into 16 slices at $1.25 each. The second place advertises cheaper slices, but the whole pizza costs $20 instead of $16. Bummer ... your stomach doesn&apos;t actually care about the number of slices you just ate.
+
+I know you are hungry now, but back to tokens. In one small comparison spanning English, technical, multilingual, and numerical text, the tokenizer we use for GPT-5.6 Sol used 766 tokens versus an estimated 1,170 for Claude Opus 5. That&apos;s a very significant difference of about 34.5% fewer tokens. You can get the same exact text, but pay for all those extra tokens. The price per token doesn&apos;t really tell this story.
+
+Even correcting for tokenizer differences misses the bigger point. What actually matters is price per successful outcome, and for that you can use benchmarks as a starting point, but really you have to try it and measure on your own use cases.
+
+That&apos;s all. May the tokens flow.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2088850995430477882</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2088850995430477882" rel="alternate" />
+    <published>2026-08-16T04:51:00.000Z</published>
+    <updated>2026-08-16T04:51:00.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">If you have a company and still use Opus instead of Sol, why so? Does price not matter to you? What&apos;s something that would convince you to switch?</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2088838302367732178</id>
     <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2088323451132199338" rel="alternate" />
-    <published>2026-08-14T17:54:44.000Z</published>
-    <updated>2026-08-14T17:54:44.000Z</updated>
+    <link href="https://x.com/rauchg/status/2088838302367732178" rel="alternate" />
+    <published>2026-08-16T04:00:34.000Z</published>
+    <updated>2026-08-16T04:00:34.000Z</updated>
     <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">Vercel is the fastest [AI Gateway] infrastructure in the world https://t.co/AdxxRBdgvt</content>
+    <content type="text">Recursive self improvement https://t.co/wOqa7mW997</content>
   </entry>
   <entry>
-    <id>https://x.com/mattturck/status/2088323186819539041</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2088323186819539041" rel="alternate" />
-    <published>2026-08-14T17:53:41.000Z</published>
-    <updated>2026-08-14T17:53:41.000Z</updated>
-    <author><name>Matt Turck</name></author>
-    <category term="twitter" />
-    <content type="text">The evolution of a workday:
-
-Before AI: 
-[decision] [process] [process] [decision] [process] [process] [process]
-10pm: still going
-
-With AI: 
-[decision] [decision] [decision] [decision] [decision]
-3pm: [brain empty] [need coffee] [staring at wall]</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2088322211241447801</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2088322211241447801" rel="alternate" />
-    <published>2026-08-14T17:49:48.000Z</published>
-    <updated>2026-08-14T17:49:48.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">AIE NYC CFP wave 1 acceptances are being finalized today. last day to get in for wave 1!
-
-https://t.co/ldei0UywCk
-
-our NYC event last year was the most successful summit we&apos;ve ever had. excited to head back to 🗽 bigger and better than ever - note the special requirements for our mainstage finance keynotes</content>
-  </entry>
-  <entry>
-    <id>https://x.com/GoogleLabs/status/2088307370787328223</id>
-    <title>Google Labs (@GoogleLabs)</title>
-    <link href="https://x.com/GoogleLabs/status/2088307370787328223" rel="alternate" />
-    <published>2026-08-14T16:50:50.000Z</published>
-    <updated>2026-08-14T16:50:50.000Z</updated>
-    <author><name>Google Labs</name></author>
-    <category term="twitter" />
-    <content type="text">In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones still brewing, we bring the best of our AI models to all kinds of users. Try out these two (if you haven&apos;t already!):
-
-@PomellibyGoogle - build captivating marketing campaigns tailored to your brand and your business at scale
-
-@FlowbyGoogle - craft visual stories that channel your imagination and draw the attention of your audience</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2088298533912989736</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2088298533912989736" rel="alternate" />
-    <published>2026-08-14T16:15:43.000Z</published>
-    <updated>2026-08-14T16:15:43.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">Some people are using AI in ways that make everyone around them feel slightly behind.
-
-We want those people at Thesis: 2027.
-
-If a person comes to mind—an executive, a builder, a creative—nominate them. We’ve reserved free tickets for our favorite nominees.
-
-https://t.co/ModuXIMpdY</content>
-  </entry>
-  <entry>
-    <id>https://x.com/realmadhuguru/status/2088294414255112329</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2088294414255112329" rel="alternate" />
-    <published>2026-08-14T15:59:21.000Z</published>
-    <updated>2026-08-14T15:59:21.000Z</updated>
-    <author><name>Madhu Guru</name></author>
-    <category term="twitter" />
-    <content type="text">Making steam engines more efficient increased coal demand.
-
-Higher-level languages made programming easier and resulted in far more software being built.
-
-Spreadsheets made financial analysis cheaper and resulted in businesses doing far more analysis.
-
-When the cost and complexity of a task falls, new use cases become economically viable.
-
-AI + software engineering will likely follow the same pattern: far more software solving far more problems, including problems that were previously economically unviable.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2088290208911675761</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2088290208911675761" rel="alternate" />
-    <published>2026-08-14T15:42:39.000Z</published>
-    <updated>2026-08-14T15:42:39.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">One of the things we think about a lot @spc is that as investors we must deeply embody the traits we look for in founders.
-
-@evantana  doesn&apos;t like to talk about himself...but it is one of the great joys (and privileges) of my life to work with someone as driven, talented and curious as him to build SPC for many years and decades to come.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thenanyu/status/2088278730808426900</id>
+    <id>https://x.com/thenanyu/status/2088811172090769461</id>
     <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2088278730808426900" rel="alternate" />
-    <published>2026-08-14T14:57:02.000Z</published>
-    <updated>2026-08-14T14:57:02.000Z</updated>
+    <link href="https://x.com/thenanyu/status/2088811172090769461" rel="alternate" />
+    <published>2026-08-16T02:12:46.000Z</published>
+    <updated>2026-08-16T02:12:46.000Z</updated>
     <author><name>Nan Yu</name></author>
     <category term="twitter" />
-    <content type="text">If you believe your colleagues are smart, their ideas didn&apos;t come from nowhere. There&apos;s something motivating them that gets to a real problem, or is likely interesting to think about.
-
-Some of the most interesting things we&apos;ve shipped are fusions of multiple ideas or several derivatives away from the original concept.</content>
+    <content type="text">These two were ahead of their time https://t.co/adjYZkvCM1</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2088270756043993503</id>
+    <id>https://x.com/thenanyu/status/2088810666958196988</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2088810666958196988" rel="alternate" />
+    <published>2026-08-16T02:10:45.000Z</published>
+    <updated>2026-08-16T02:10:45.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software. https://t.co/V9SzxqFEnL</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thenanyu/status/2088808413744558266</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2088808413744558266" rel="alternate" />
+    <published>2026-08-16T02:01:48.000Z</published>
+    <updated>2026-08-16T02:01:48.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">Watches https://t.co/pbushpJPOH</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2088801077659635715</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2088801077659635715" rel="alternate" />
+    <published>2026-08-16T01:32:39.000Z</published>
+    <updated>2026-08-16T01:32:39.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Impressive https://t.co/fv5zyLbPNt</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2088780884048552202</id>
     <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2088270756043993503" rel="alternate" />
-    <published>2026-08-14T14:25:21.000Z</published>
-    <updated>2026-08-14T14:25:21.000Z</updated>
+    <link href="https://x.com/danshipper/status/2088780884048552202" rel="alternate" />
+    <published>2026-08-16T00:12:25.000Z</published>
+    <updated>2026-08-16T00:12:25.000Z</updated>
     <author><name>Dan Shipper</name></author>
     <category term="twitter" />
-    <content type="text">not really 
-
-you can be an AI-native rocketship without being in a permanent fundraising situation and in a constant death match with other rocketships to capture customers, sacrificing gross margin
-
-but the rules for building a company like that are very different https://t.co/gP6IVRx2ib</content>
+    <content type="text">Dario should tweet more https://t.co/N29v9simn6</content>
   </entry>
   <entry>
-    <id>https://x.com/joshwoodward/status/2088261701028503965</id>
-    <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2088261701028503965" rel="alternate" />
-    <published>2026-08-14T13:49:22.000Z</published>
-    <updated>2026-08-14T13:49:22.000Z</updated>
-    <author><name>Josh Woodward</name></author>
-    <category term="twitter" />
-    <content type="text">Pomelli is our Google Labs experiment popular with a growing number of small businesses. Why? It&apos;s one of the easiest ways to make your products look good in any setting.
-
-With this launch, turn those amazing photoshoots into short videos or gifs with that same ease! https://t.co/cH3AAkQgsL</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2088261100202868768</id>
+    <id>https://x.com/petergyang/status/2088773343629750535</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2088261100202868768" rel="alternate" />
-    <published>2026-08-14T13:46:58.000Z</published>
-    <updated>2026-08-14T13:46:58.000Z</updated>
+    <link href="https://x.com/petergyang/status/2088773343629750535" rel="alternate" />
+    <published>2026-08-15T23:42:27.000Z</published>
+    <updated>2026-08-15T23:42:27.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">I was curious how X is fighting AI slop, so I looked at its open-source algorithm.
+    <content type="text">I am a fan of Grok Bot but @X is the #1 differentiated data source that it should  have access to and it doesn&apos;t seem to work? 
 
-It has a behavioral model called TweetSpamBot that analyzes up to 512 recent account actions, looking at signals like posting bursts, quote-post behavior, timing, and normal browsing or dwell between actions.
+The connector doesn&apos;t work and I can&apos;t even login to X on the cloud computer. 
 
-The model is trained to recognize patterns such as:
-
-→ TWEET_CREATE_BURST
-→ QUOTE_TWEET_SPAMMER
-→ CONTENT_AMPLIFIER
-
-A high score on the above can feed into an account challenge but doesn&apos;t seem to downrank the slop posts themselves.
-
-I think the gap here is that the model doesn’t read the actual post content.
-
-So a sophisticated AI content mill can still post slop all day long:
-
-1. Find viral posts
-2. Quote tweet with the same template each time: hook → numbers → backstory → takeaway
-3. Repeat 10+ times a day across unrelated topics
-
-If @X doesn&apos;t want to become like LinkedIn, I think it should consider looking at accounts that repeatedly turn unrelated viral posts into the same templated quote tweet slop at high volume.
-
-Right now the guardrails above are too easy to bypass.</content>
+Am I doing something wrong? https://t.co/O5OI9OhETb</content>
   </entry>
   <entry>
-    <id>https://x.com/joshwoodward/status/2088259247184507170</id>
-    <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2088259247184507170" rel="alternate" />
-    <published>2026-08-14T13:39:37.000Z</published>
-    <updated>2026-08-14T13:39:37.000Z</updated>
-    <author><name>Josh Woodward</name></author>
+    <id>https://x.com/petergyang/status/2088772605323214999</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2088772605323214999" rel="alternate" />
+    <published>2026-08-15T23:39:31.000Z</published>
+    <updated>2026-08-15T23:39:31.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">This fix addresses #6 in https://t.co/5PFi8qXzjF</content>
+    <content type="text">I 100% agree with Dario that using AI to cure diseases (and speeding up the regulatory approval of AI breakthroughs in healthcare) could bring 10x the benefit to humanity as everything else combined. https://t.co/1CkVwkyxtW</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2088246494885302639</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2088246494885302639" rel="alternate" />
-    <published>2026-08-14T12:48:56.000Z</published>
-    <updated>2026-08-14T12:48:56.000Z</updated>
-    <author><name>Dan Shipper</name></author>
+    <id>https://x.com/rauchg/status/2088757738037989755</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2088757738037989755" rel="alternate" />
+    <published>2026-08-15T22:40:26.000Z</published>
+    <updated>2026-08-15T22:40:26.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">the list of people who applied to this event over the list 24 hours is incredible, i can’t wait to get everyone in one room 
+    <content type="text">I think people don’t realize how much of the success of React is actually @shadcn.
 
-if you’re a business interested in being part of this event DM @itsbdell https://t.co/9huAwWNnzz</content>
+I once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec.
+
+Shadcn is what people actually wanted from React. Reusable high quality components that also tunable. It’s a pseudo-library. There’s code but it’s actually meant to be digested into your context window and remixed.</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/@DataDrivenNYC/videos</id>
-    <title>The MAD Podcast with Matt Turck: How to Build Long-Horizon AI Agents — Mitch Troyanovsky, Basis</title>
-    <link href="https://www.youtube.com/@DataDrivenNYC/videos" rel="alternate" />
-    <published>2026-08-06T11:30:01.000Z</published>
-    <updated>2026-08-06T11:30:01.000Z</updated>
-    <author><name>The MAD Podcast with Matt Turck</name></author>
+    <id>https://x.com/swyx/status/2088755688361378082</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2088755688361378082" rel="alternate" />
+    <published>2026-08-15T22:32:17.000Z</published>
+    <updated>2026-08-15T22:32:17.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived exceptions rather than the rule. what you see of the major headlines is pretty much what they also see. i guess one way to interpret this is also simply that most effort is still on doing the work rather than working the narrative or the gossip. and that, to me at least, is genuinely quite reassuring, this far in to my career.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/adityaag/status/2088734739893293175</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2088734739893293175" rel="alternate" />
+    <published>2026-08-15T21:09:03.000Z</published>
+    <updated>2026-08-15T21:09:03.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
+    <category term="twitter" />
+    <content type="text">America turned 250 years old earlier this year. 
+
+India turns 80 today...80 years young.
+
+Building countries is really hard. 80 years in...America was struggling with a civil war.
+
+Indians should be damn proud of the country they have built. 
+
+Like America, India wants more. She wants to be better and stronger and more successful. She will get there.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2088725514542575903</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2088725514542575903" rel="alternate" />
+    <published>2026-08-15T20:32:23.000Z</published>
+    <updated>2026-08-15T20:32:23.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">Incredible things are happening at OpenAI right now. Energy is high.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2088721024825344289</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2088721024825344289" rel="alternate" />
+    <published>2026-08-15T20:14:33.000Z</published>
+    <updated>2026-08-15T20:14:33.000Z</updated>
+    <author><name>Thariq</name></author>
+    <category term="twitter" />
+    <content type="text">https://t.co/KynBYnZeSi</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2088721023223132213</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2088721023223132213" rel="alternate" />
+    <published>2026-08-15T20:14:33.000Z</published>
+    <updated>2026-08-15T20:14:33.000Z</updated>
+    <author><name>Thariq</name></author>
+    <category term="twitter" />
+    <content type="text">Watermarking without quality loss is a bit unintuitive, doesn&apos;t feel like it should work.
+
+I made this artifact with Claude to help me understand how it works, sharing in case it&apos;s helpful. https://t.co/ALReoOH6tB https://t.co/hEPeCHgGRM</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2088716743615352963</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2088716743615352963" rel="alternate" />
+    <published>2026-08-15T19:57:32.000Z</published>
+    <updated>2026-08-15T19:57:32.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards)..
+
+They’re lamenting about how how some of the critical contracts and partnerships that would give them credibility (and revenue and network effects) are basically stuck at the 1-yard line. This is a massively fragmented market. And this is btw just straight up pure bureaucracy. The champions, terms and everything is lined up. It’s purely a win win situation but summer and one random clause is the issue. And, it might cause them to not reach their ambitious timelines. 
+
+And I’m sitting there smiling and eventually laughing and at some point they ask what’s funny. I tell them “do you know how long it’ll take anyone to do the same thing as you” - and this is with leverage and relationships that they already have. 
+
+And, this in the short term is painful but in the long term becomes such a strong moat. That they’ll look back and laugh why they were worried about a few days when in the long term this is what will make them one of the biggest companies in the world. 
+
+Unnecessary and 996 performative pain is not the moat. But building entrenched software and relationships that take a lot of pain is a moat :)</content>
+  </entry>
+  <entry>
+    <id>https://x.com/realmadhuguru/status/2088710566689018103</id>
+    <title>Madhu Guru (@realmadhuguru)</title>
+    <link href="https://x.com/realmadhuguru/status/2088710566689018103" rel="alternate" />
+    <published>2026-08-15T19:33:00.000Z</published>
+    <updated>2026-08-15T19:33:00.000Z</updated>
+    <author><name>Madhu Guru</name></author>
+    <category term="twitter" />
+    <content type="text">There is no longer an excuse for B2B software to have such poor UX.
+
+Thanks to AI, every software product can and should be as easy to use as the best consumer software.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2088661047913914847</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2088661047913914847" rel="alternate" />
+    <published>2026-08-15T16:16:13.000Z</published>
+    <updated>2026-08-15T16:16:13.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Whitepill timeline cleanser: 
+
+Progress and abundance looks like record production of crops, year on year, progressing upwards and to the right. This is the output of markets and technology working together for millenia. 
+
+https://t.co/LXe01sF5G4 https://t.co/VZct22uHUF</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2088642982614651196</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2088642982614651196" rel="alternate" />
+    <published>2026-08-15T15:04:26.000Z</published>
+    <updated>2026-08-15T15:04:26.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Anyone else&apos;s Codex Desktop app erroring out on chats? https://t.co/raNUNTPqbe</content>
+  </entry>
+  <entry>
+    <id>https://x.com/adityaag/status/2088629172512195035</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2088629172512195035" rel="alternate" />
+    <published>2026-08-15T14:09:34.000Z</published>
+    <updated>2026-08-15T14:09:34.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
+    <category term="twitter" />
+    <content type="text">This is remarkably well done.
+
+And of course featuring our very own @shreepoorna365.
+
+Let&apos;s go. https://t.co/UacgWndqL4</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2088626815166464507</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2088626815166464507" rel="alternate" />
+    <published>2026-08-15T14:00:12.000Z</published>
+    <updated>2026-08-15T14:00:12.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business.
+
+I particularly loved watching him demo how he creates YouTube thumbnails with AI:
+
+1. He uses Codex to find 100 top-performing thumbnails in his niche and add them to a Paper canvas.
+
+2. He uses Paper to mix and match those thumbnails with photos of himself until he creates something he’s happy with.
+
+Honestly, you have to watch the workflow to see how crazy it is.
+
+📌 Subscribe to get the full episode tomorrow: https://t.co/NSTj7ijxE0</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/watch?v=dlI-5W7d7uU</id>
+    <title>AI &amp; I by Every: Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)</title>
+    <link href="https://www.youtube.com/watch?v=dlI-5W7d7uU" rel="alternate" />
+    <published>2026-08-05T16:02:13.000Z</published>
+    <updated>2026-08-05T16:02:13.000Z</updated>
+    <author><name>AI &amp; I by Every</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:18
-Humans are already used to working with non deterministic systems, it&apos;s just the systems are normally their co workers, not their computers. And in many ways, like companies and processes is all about how do you design a system for non deterministic entities to coordinate together to solve a problem? And once you realize that, it&apos;s like, well, now it&apos;s like kind of agent design. Let&apos;s say you have a 100 evals. Great.
+    <content type="text">Speaker 1 | 00:00 - 00:20
+Google was a founding team that was deeply, deeply technical. As the technology, the underlying technology got more mature, the slider goes forward, forward, forward, more towards the product thinker, product experience. Pinterest, where I was, Snap, Instagram. The CEOs weren&apos;t technical at all. They were product geniuses.
 
-Speaker 1 | 00:18 - 00:33
-They all pass. That looks ...</content>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/claude-for-foundation-models</id>
-    <title>Claude Blog: Building intelligent apps for Apple platforms with Claude in the Foundation Models framework</title>
-    <link href="https://claude.com/blog/claude-for-foundation-models" rel="alternate" />
-    <published>2026-06-08T00:00:00.000Z</published>
-    <updated>2026-06-08T00:00:00.000Z</updated>
-    <author><name>Claude Blog</name></author>
-    <category term="blog" />
-    <content type="text">Today we&amp;#x27;re releasing Foundation Models framework support for Claude through a new Swift package that lets Apple developers use Apple&amp;#x27;s Foundation Models framework to call Claude for more complex workflows. Apple’s Foundation Models framework gives developers access to tap into models natively from Swift. It is very easy to use and can return typed Swift values through guided generation in as few as three lines of code. Developers can use this to tap into Apple’s on-device models for fast, local tasks like summarization or extraction. Developers can now use Apple’s Foundation Models framework to hand off to Claude when a request calls for multi-step reasoning, code generation, and more. Claude can also search the web for current information and execute code for data analysis. Stream Claude&amp;#x27;s response back into the same view. Because Apple&amp;#x27;s framework returns typed Swift values from @Generable annotations, developers arrive at the Claude API call with clean inputs in...</content>
+Speaker 1 | 00:20 - 00:42
+What are the big consumer wins so far in AI? Of course, it&apos;s ChatGPT, which is, in a way, not that dissimilar from Google ...</content>
   </entry>
 </feed>
