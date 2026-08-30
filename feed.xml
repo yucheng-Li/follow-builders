@@ -11,8 +11,8 @@
     <id>https://www.anthropic.com/engineering/april-23-postmortem</id>
     <title>Anthropic Engineering: An update on recent Claude Code quality reports</title>
     <link href="https://www.anthropic.com/engineering/april-23-postmortem" rel="alternate" />
-    <published>2026-08-29T07:43:44.515Z</published>
-    <updated>2026-08-29T07:43:44.515Z</updated>
+    <published>2026-08-30T06:21:06.876Z</published>
+    <updated>2026-08-30T06:21:06.876Z</updated>
     <author><name>Anthropic Engineering</name></author>
     <category term="blog" />
     <content type="text">Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we explain what we found, what we fixed, and what we’ll do differently to ensure similar issues are much less likely to happen again. We take reports about degradation very seriously. We never intentionally degrade our models, and we were able to immediately confirm that our API and inference layer were unaffected. After investigation, we identified three different issues: On March 4, we changed Claude Code&amp;#x27;s default reasoning effort from high to medium to reduce the very long latency—enough to make the UI appear frozen—some users were seeing in high mode. This was the wrong tradeoff. We reverted this change on April 7 after users told us they&amp;#x27;d p...</content>
@@ -21,8 +21,8 @@
     <id>https://www.anthropic.com/engineering/managed-agents</id>
     <title>Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands</title>
     <link href="https://www.anthropic.com/engineering/managed-agents" rel="alternate" />
-    <published>2026-08-29T07:43:44.515Z</published>
-    <updated>2026-08-29T07:43:44.515Z</updated>
+    <published>2026-08-30T06:21:06.876Z</published>
+    <updated>2026-08-30T06:21:06.876Z</updated>
     <author><name>Anthropic Engineering</name></author>
     <category term="blog" />
     <content type="text">Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve. As just one example, in prior work we found that Claude Sonnet 4.5 would wrap up tasks prematurely as it sensed its context limit approaching—a behavior sometimes called “context anxiety.” We addressed this by adding context resets to the harness. But when we used the same harness on Claude Opus 4.5, we found that the behavior was gone. The resets had become dead weight. We expect harnesses to continue evolving. So we built Managed Agents: a hosted service in the Claude Platform that runs long-horizon agents on your behalf through a small set of interfaces meant to outlast any particular implementa...</content>
