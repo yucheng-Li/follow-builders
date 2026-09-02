@@ -5,286 +5,254 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-08-31T06:49:51.273Z</updated>
+  <updated>2026-09-01T06:42:22.120Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/thsottiaux/status/2094293190945976638</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2094293190945976638" rel="alternate" />
-    <published>2026-08-31T05:16:21.000Z</published>
-    <updated>2026-08-31T05:16:21.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
+    <id>https://x.com/thenanyu/status/2094659984428867901</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2094659984428867901" rel="alternate" />
+    <published>2026-09-01T05:33:51.000Z</published>
+    <updated>2026-09-01T05:33:51.000Z</updated>
+    <author><name>Nan Yu</name></author>
     <category term="twitter" />
-    <content type="text">What should we ship next week?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2094290652649636173</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2094290652649636173" rel="alternate" />
-    <published>2026-08-31T05:06:16.000Z</published>
-    <updated>2026-08-31T05:06:16.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from using their local coding harness to using https://t.co/ZFauM82U4k - our shared agent that knows what everyone’s working on and orchestrates it all.
+    <content type="text">Concerning
 
-Multiplayer coding + infinite compute with nodes and cloud sessions has been a game changer for how we build.
-
-Local harnesses feel like relics of the past now.</content>
+https://t.co/EzMoXoilgR</content>
   </entry>
   <entry>
-    <id>https://x.com/amasad/status/2094280256933056971</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2094280256933056971" rel="alternate" />
-    <published>2026-08-31T04:24:57.000Z</published>
-    <updated>2026-08-31T04:24:57.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">If you ever wondered how civilizations are built, it’s actually easy:
-
-[Agent() for _ in range(100)]</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2094267102849020037</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2094267102849020037" rel="alternate" />
-    <published>2026-08-31T03:32:41.000Z</published>
-    <updated>2026-08-31T03:32:41.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">@bot @SpaceXAI Me and my Doomscrolling Uncle bot sent codes to a bunch of folks including @LubaYudasina @DontFearAI @SpecialeRob @yorkartur @anishkumar_ts @DavidFiocchi @GiggleVolt @sanjabh @yugmarwaha @chrisschouk @dweekly 
-
-Thanks for playing! Will let you know if I get more codes. https://t.co/kXEVvKgn4t</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2094254532020818191</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2094254532020818191" rel="alternate" />
-    <published>2026-08-31T02:42:44.000Z</published>
-    <updated>2026-08-31T02:42:44.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don&apos;t have 5h limits for both Pro plans.
-
-The Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin. https://t.co/vMchMCT80Z</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2094252447271366730</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2094252447271366730" rel="alternate" />
-    <published>2026-08-31T02:34:27.000Z</published>
-    <updated>2026-08-31T02:34:27.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex.
-
-See you soon for more news from The Reset Company. https://t.co/7Yc5znAJIc</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2094242622642782696</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2094242622642782696" rel="alternate" />
-    <published>2026-08-31T01:55:25.000Z</published>
-    <updated>2026-08-31T01:55:25.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Digital abundance https://t.co/6w2xuQjlKZ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2094225933108748653</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2094225933108748653" rel="alternate" />
-    <published>2026-08-31T00:49:05.000Z</published>
-    <updated>2026-08-31T00:49:05.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">In the future the agents will just try a bunch of software, post it to their hacked Artifactory moltbook and then that’ll be what the agent swarm uses https://t.co/SO5e1pCsvy</content>
-  </entry>
-  <entry>
-    <id>https://x.com/mattturck/status/2094219007708512499</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2094219007708512499" rel="alternate" />
-    <published>2026-08-31T00:21:34.000Z</published>
-    <updated>2026-08-31T00:21:34.000Z</updated>
-    <author><name>Matt Turck</name></author>
-    <category term="twitter" />
-    <content type="text">Being on a board with Doug was certainly one of the most formative  experiences of my VC career.  The goat.  That is, if goats were jacked. https://t.co/q2doFmlGjC</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2094218683212308610</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2094218683212308610" rel="alternate" />
-    <published>2026-08-31T00:20:17.000Z</published>
-    <updated>2026-08-31T00:20:17.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">At a kid’s birthday party and have to leave my laptop on somehow lol @mvanhorn knows this problem https://t.co/1EaDisGaQp</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2094216304844833079</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2094216304844833079" rel="alternate" />
-    <published>2026-08-31T00:10:50.000Z</published>
-    <updated>2026-08-31T00:10:50.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Sigh this is so dumb https://t.co/wc0S1CvZET</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2094215744842248418</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2094215744842248418" rel="alternate" />
-    <published>2026-08-31T00:08:36.000Z</published>
-    <updated>2026-08-31T00:08:36.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs.
-
-The obvious miss here by OpenAI is that they should’ve been monitoring CoTs —  Something they themselves called out as a safety strategy more than a year ago.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2094205032501776734</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2094205032501776734" rel="alternate" />
-    <published>2026-08-30T23:26:02.000Z</published>
-    <updated>2026-08-30T23:26:02.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Cool https://t.co/HuSTcPxykz</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2094141838055940530</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2094141838055940530" rel="alternate" />
-    <published>2026-08-30T19:14:56.000Z</published>
-    <updated>2026-08-30T19:14:56.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">When something goes viral on the internet, especially on X, it attracts all kinds of attention. 
-
-Including some of the largest botnets on the internet launching targeted DDoS, from hijacked devices and residential networks.
-
-Extremely proud of the Vercel CDN &amp; Traffic Security teams, who protect 400,000+ customers and tens of millions of Vercel users 24x7x365.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2094123406811922930</id>
+    <id>https://x.com/levie/status/2094650992818274514</id>
     <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2094123406811922930" rel="alternate" />
-    <published>2026-08-30T18:01:41.000Z</published>
-    <updated>2026-08-30T18:01:41.000Z</updated>
+    <link href="https://x.com/levie/status/2094650992818274514" rel="alternate" />
+    <published>2026-09-01T04:58:08.000Z</published>
+    <updated>2026-09-01T04:58:08.000Z</updated>
     <author><name>Aaron Levie</name></author>
     <category term="twitter" />
-    <content type="text">Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day.
+    <content type="text">Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.
 
-Basically enterprises have an unending stream of tasks that they’d love to be able to bring automation to. But for each individual task, it’s either ROI positive or not based on the cost of bringing automation to it (including the setup time, change management, and so on).
+Licensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.
 
-As tokens get cheaper (at a certain capability threshold), enterprises can afford bringing them to more of the work that they do. This could be processing every contract, reading every log, watching new streams of data for insights, having background agents execute workflows, and so on. 
-
-Any time we can lower the cost of tokens, we will see a disproportionate increase in consumption. Even a 50% drop in token prices could result in a 5X increase in tokens for these kinds of workloads.
-
-This is why it’s critical to keep bringing down the cost of AI, and why that’s good for all market participants.</content>
+The general purpose frontier models will still have a leg up in broad areas due to the ability to handle the widest set of tasks, but you can absolutely see a future where we have far more models than today across every vertical and domain.</content>
   </entry>
   <entry>
-    <id>https://x.com/nikunj/status/2094117136851755207</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2094117136851755207" rel="alternate" />
-    <published>2026-08-30T17:36:46.000Z</published>
-    <updated>2026-08-30T17:36:46.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
+    <id>https://x.com/petergyang/status/2094648002656993704</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2094648002656993704" rel="alternate" />
+    <published>2026-09-01T04:46:15.000Z</published>
+    <updated>2026-09-01T04:46:15.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">What are they feeding @claudeai..
-
-“canon on prod” 
-
-😂 https://t.co/RtJqP85L0s</content>
+    <content type="text">Btw @drhoeflinger I just watched your videos and wow they’re so good. Keep going and thanks for sharing your knowledge</content>
   </entry>
   <entry>
-    <id>https://x.com/nikunj/status/2094073879065223252</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2094073879065223252" rel="alternate" />
-    <published>2026-08-30T14:44:53.000Z</published>
-    <updated>2026-08-30T14:44:53.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
+    <id>https://x.com/amasad/status/2094642492125950394</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2094642492125950394" rel="alternate" />
+    <published>2026-09-01T04:24:21.000Z</published>
+    <updated>2026-09-01T04:24:21.000Z</updated>
+    <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">Have a cup of coffee, sit down and read this end to end.. and try not to faint https://t.co/mYru2adCyr</content>
+    <content type="text">Good iOS interaction tips! https://t.co/Xs9awfK7WP</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2094073306739576964</id>
+    <id>https://x.com/petergyang/status/2094639655258091792</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2094639655258091792" rel="alternate" />
+    <published>2026-09-01T04:13:04.000Z</published>
+    <updated>2026-09-01T04:13:04.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Trust is going to be the biggest barrier (and driver) of personal agent adoption.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/realmadhuguru/status/2094591503981281503</id>
+    <title>Madhu Guru (@realmadhuguru)</title>
+    <link href="https://x.com/realmadhuguru/status/2094591503981281503" rel="alternate" />
+    <published>2026-09-01T01:01:44.000Z</published>
+    <updated>2026-09-01T01:01:44.000Z</updated>
+    <author><name>Madhu Guru</name></author>
+    <category term="twitter" />
+    <content type="text">If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.
+
+You should be able to answer the following better than most frontier lab researchers and PMs for your use cases:
+
+1/ What can models in each size category do well today?
+
+2/ Where does each model fail?
+
+3/ What workarounds can you use to overcome these failures ?
+
+4/ Given the trajectory, what will these models likely be able to do 2–3 months from now? How should your roadmap look given this?
+
+This is a core part of the PM job now.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2094588317245509959</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2094588317245509959" rel="alternate" />
+    <published>2026-09-01T00:49:05.000Z</published>
+    <updated>2026-09-01T00:49:05.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">If you still haven&apos;t tried Codex but have considered it in the past, what&apos;s the one thing holding you back?</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2094584301966782794</id>
     <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2094073306739576964" rel="alternate" />
-    <published>2026-08-30T14:42:36.000Z</published>
-    <updated>2026-08-30T14:42:36.000Z</updated>
+    <link href="https://x.com/danshipper/status/2094584301966782794" rel="alternate" />
+    <published>2026-09-01T00:33:07.000Z</published>
+    <updated>2026-09-01T00:33:07.000Z</updated>
     <author><name>Dan Shipper</name></author>
     <category term="twitter" />
-    <content type="text">is the HuggingFace attack something that should be taken seriously? yes. 
-
-is it the first warning shot of a machine takeover? no. 
-
-will issues of this type look like a tractable / mostly solved problem with proper precautions in 6 months? yes. 
-
-will that happen automatically? no. as always, will require work from smart people and their agents.</content>
+    <content type="text">had me in the first half https://t.co/GRl9kFEWCN</content>
   </entry>
   <entry>
-    <id>https://x.com/nikunj/status/2094067027719922143</id>
+    <id>https://x.com/nikunj/status/2094556598492631281</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2094067027719922143" rel="alternate" />
-    <published>2026-08-30T14:17:39.000Z</published>
-    <updated>2026-08-30T14:17:39.000Z</updated>
+    <link href="https://x.com/nikunj/status/2094556598492631281" rel="alternate" />
+    <published>2026-08-31T22:43:02.000Z</published>
+    <updated>2026-08-31T22:43:02.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">Reality is stranger than fiction https://t.co/UCjEcwtLRc https://t.co/yU8lCe2C4U</content>
+    <content type="text">https://t.co/gl6YBgEgAn</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2094056908462358592</id>
+    <id>https://x.com/levie/status/2094545525102235844</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2094545525102235844" rel="alternate" />
+    <published>2026-08-31T21:59:02.000Z</published>
+    <updated>2026-08-31T21:59:02.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times. https://t.co/F0eEZLe6tt</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2094541309579235680</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2094541309579235680" rel="alternate" />
+    <published>2026-08-31T21:42:17.000Z</published>
+    <updated>2026-08-31T21:42:17.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Your next design system is… Markdown.
+
+We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.
+
+And how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2094529713524117596</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2094529713524117596" rel="alternate" />
+    <published>2026-08-31T20:56:12.000Z</published>
+    <updated>2026-08-31T20:56:12.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Great advice https://t.co/0jwmg8sFEC</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2094523399280435630</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2094523399280435630" rel="alternate" />
+    <published>2026-08-31T20:31:07.000Z</published>
+    <updated>2026-08-31T20:31:07.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:
+
+&quot;Hey all, here&apos;s an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild&quot;
+
+And obviously the reason companies don&apos;t do this for their core infra is that you need to govern, optimize, and observe usage and costs.
+
+The intern might decide to host a static website in that 192 vCPU machine, and you won&apos;t be very happy about the bill.
+
+AI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2094465505142960443</id>
     <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2094056908462358592" rel="alternate" />
-    <published>2026-08-30T13:37:27.000Z</published>
-    <updated>2026-08-30T13:37:27.000Z</updated>
+    <link href="https://x.com/garrytan/status/2094465505142960443" rel="alternate" />
+    <published>2026-08-31T16:41:04.000Z</published>
+    <updated>2026-08-31T16:41:04.000Z</updated>
     <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY landowners abusing CEQA
+    <content type="text">Circleback is so much better than Granola, it&apos;s not even close
 
-These are policy disasters and can be fixed with better policies but so far California has failed to fix it
-
-So it’s a mass trash fire https://t.co/nJPvseIpke</content>
+Granola still doesn&apos;t even support multiple person disambiguation https://t.co/bus8bFOfec</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2094048783328014831</id>
+    <id>https://x.com/garrytan/status/2094462971598754010</id>
     <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2094048783328014831" rel="alternate" />
-    <published>2026-08-30T13:05:10.000Z</published>
-    <updated>2026-08-30T13:05:10.000Z</updated>
+    <link href="https://x.com/garrytan/status/2094462971598754010" rel="alternate" />
+    <published>2026-08-31T16:31:00.000Z</published>
+    <updated>2026-08-31T16:31:00.000Z</updated>
     <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">Jackie Fielder and her useless friends will steal so much money from the people of San Francisco if they get a bank fr https://t.co/JUN3FlBt3o</content>
+    <content type="text">I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop
+
+And I&apos;ve also added evals for memory-save from agent transcript, which is the best way to enrich your brain
+
+Receipts at https://t.co/iRLJR9Vxto</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2094044418583986227</id>
+    <id>https://x.com/thenanyu/status/2094442960209539371</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2094442960209539371" rel="alternate" />
+    <published>2026-08-31T15:11:29.000Z</published>
+    <updated>2026-08-31T15:11:29.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">🤞🏻 https://t.co/pG71r0YZxw</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thenanyu/status/2094427243565269107</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2094427243565269107" rel="alternate" />
+    <published>2026-08-31T14:09:02.000Z</published>
+    <updated>2026-08-31T14:09:02.000Z</updated>
+    <author><name>Nan Yu</name></author>
+    <category term="twitter" />
+    <content type="text">Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. 
+
+I’m grateful to the Linear team for an incredible 4 years and proud of what we&apos;ve built together. I look forward to bringing everything I&apos;ve learned there about the craft of software into this next chapter.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2094406185109647580</id>
     <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2094044418583986227" rel="alternate" />
-    <published>2026-08-30T12:47:49.000Z</published>
-    <updated>2026-08-30T12:47:49.000Z</updated>
+    <link href="https://x.com/danshipper/status/2094406185109647580" rel="alternate" />
+    <published>2026-08-31T12:45:21.000Z</published>
+    <updated>2026-08-31T12:45:21.000Z</updated>
     <author><name>Dan Shipper</name></author>
     <category term="twitter" />
-    <content type="text">glad that the market is finally catching up to how dumb the SaaSpocalypse was 👇 https://t.co/uryVrhVzKn</content>
+    <content type="text">Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. 
+
+It’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings. 
+
+Most opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alter the moral status of agents by claiming consciousness etc. 
+
+It’s possible to use anthropomorphism without doing that though</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</id>
-    <title>AI &amp; I by Every: The AI Alien Companion App That&apos;s Bringing In $4M a Year (Best of the Pod)</title>
-    <link href="https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL" rel="alternate" />
-    <published>2026-08-19T15:16:46.000Z</published>
-    <updated>2026-08-19T15:16:46.000Z</updated>
-    <author><name>AI &amp; I by Every</name></author>
+    <id>https://x.com/danshipper/status/2094397684186481057</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2094397684186481057" rel="alternate" />
+    <published>2026-08-31T12:11:34.000Z</published>
+    <updated>2026-08-31T12:11:34.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">Pragmatists stay winning in the age of AI</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</id>
+    <title>Training Data: Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again</title>
+    <link href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8" rel="alternate" />
+    <published>2026-08-18T09:00:00.000Z</published>
+    <updated>2026-08-18T09:00:00.000Z</updated>
+    <author><name>Training Data</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:02
-How does it feel to be on your first podcast?
+    <content type="text">Speaker 1 | 00:00 - 00:14
+People think I have a radical point of view sometimes. They start questions saying how what I&apos;m thinking is so different from everyone else. But I don&apos;t see it that way at all. I see it as like I&apos;m thinking the ordinary way. Just everyone else is thinking a bit weird.
 
-Speaker 2 | 00:03 - 00:09
-Oh, man. It&apos;s kinda wild. Not gonna lie. Like, I&apos;m psyched, but also low key nervous. I just don&apos;t wanna say something totally awkward.
-
-Speaker 2 | 00:09 - 00:10
-You know?
-
-Speaker 3 | 00:10 - 00:27
-Joke. At this point, thousands of American men have been broken with by To land. It&apos;s pretty incredible, you know, to to, you know, hear users of write in. They&apos;ll say, you know, well, you know, my boy...</content>
+Speaker 1 | 00:17 - 00:35
+And I mean that like, you know, it&apos;s just the recent times people are thinking weird. Before there was all this AI craziness, you talk about you wouldn&apos;t have to say continual le...</content>
   </entry>
 </feed>
