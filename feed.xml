@@ -5,516 +5,363 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-09-02T06:45:11.562Z</updated>
+  <updated>2026-09-03T06:41:29.179Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/levie/status/2095024699441119612</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2095024699441119612" rel="alternate" />
-    <published>2026-09-02T05:43:06.000Z</published>
-    <updated>2026-09-02T05:43:06.000Z</updated>
-    <author><name>Aaron Levie</name></author>
+    <id>https://x.com/bcherny/status/2095378890370019683</id>
+    <title>Boris Cherny (@bcherny)</title>
+    <link href="https://x.com/bcherny/status/2095378890370019683" rel="alternate" />
+    <published>2026-09-03T05:10:32.000Z</published>
+    <updated>2026-09-03T05:10:32.000Z</updated>
+    <author><name>Boris Cherny</name></author>
     <category term="twitter" />
-    <content type="text">AI for cyber is about to go vertical. The models increasingly becoming insanely good at finding and exploiting vulnerabilities. Frontier models are ahead, but we’re already seeing that open weights is not far behind.
-
-Most enterprises are already inundated with cyber discoveries, so now that’s only going to multiply. Triaging and automating the fixes with more AI -along with human oversight- is essentially the only way forward. 
-
-In case you were wondering what jobs AI was going to create, it’s definitely going to great time to be in security.</content>
+    <content type="text">Background computer use is underrated https://t.co/jGOvHMj8sM</content>
   </entry>
   <entry>
-    <id>https://x.com/nikunj/status/2095002897859912044</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2095002897859912044" rel="alternate" />
-    <published>2026-09-02T04:16:28.000Z</published>
-    <updated>2026-09-02T04:16:28.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">Terrifying.. also just the start of how leaks like this are going to get way worse 😭 https://t.co/gN8PiNCUXJ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2094999513627025757</id>
+    <id>https://x.com/zarazhangrui/status/2095375073381318656</id>
     <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2094999513627025757" rel="alternate" />
-    <published>2026-09-02T04:03:01.000Z</published>
-    <updated>2026-09-02T04:03:01.000Z</updated>
+    <link href="https://x.com/zarazhangrui/status/2095375073381318656" rel="alternate" />
+    <published>2026-09-03T04:55:22.000Z</published>
+    <updated>2026-09-03T04:55:22.000Z</updated>
     <author><name>Zara Zhang</name></author>
     <category term="twitter" />
-    <content type="text">I wish every city was in Tokyo https://t.co/j1ppDGCx7p</content>
+    <content type="text">We are not recording meetings for humans anymore. Nobody reads the AI summary notes or listens back. We are capturing transcripts to feed agents.</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2094999358525821099</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2094999358525821099" rel="alternate" />
-    <published>2026-09-02T04:02:24.000Z</published>
-    <updated>2026-09-02T04:02:24.000Z</updated>
-    <author><name>Peter Yang</name></author>
+    <id>https://x.com/thsottiaux/status/2095369901137654271</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2095369901137654271" rel="alternate" />
+    <published>2026-09-03T04:34:49.000Z</published>
+    <updated>2026-09-03T04:34:49.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">fwiw I dislike having alot of random skills installed. 
-
-I&apos;m at a point where I only have about a dozen or so (mostly my own) and I regularly delete skills that I don&apos;t use anymore.
-
-Also I try to keep all my skills as short as possible.
-
-I encourage you to do the same.</content>
+    <content type="text">I think the best way to describe OpenAI&apos;s culture is as a mega startup. It&apos;s hard to believe unless you see it from the inside. Extreme ownership, care and pace.</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2094995775952740795</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2094995775952740795" rel="alternate" />
-    <published>2026-09-02T03:48:10.000Z</published>
-    <updated>2026-09-02T03:48:10.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">While I&apos;m cleaning up my AI skills I have a question for the experts here. Sometimes I end up in this pattern:
-
-1. I run my skill and it doesn&apos;t get it perfect in one shot
-2. I do manual iteration with AI to get it right
-3. I then ask AI something like: &quot;How would you update the skill so we can one-shot this?&quot; before reviewing and approving its edits.
-
-The problem is AI often overfits on this one thread and over time the skill drifts. Any good solutions here?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2094987791566622971</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2094987791566622971" rel="alternate" />
-    <published>2026-09-02T03:16:27.000Z</published>
-    <updated>2026-09-02T03:16:27.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">If you&apos;re trying out Fable 5.1 I highly recommend running:
-
-/claude-api prompt-audit
-
-on your skills. It finds a bunch of redundancies and rules to remove for the latest models.
-
-Running it for all my skills now.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/realmadhuguru/status/2094973690576576675</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2094973690576576675" rel="alternate" />
-    <published>2026-09-02T02:20:25.000Z</published>
-    <updated>2026-09-02T02:20:25.000Z</updated>
-    <author><name>Madhu Guru</name></author>
-    <category term="twitter" />
-    <content type="text">Great example of the immense opportunity enterprises have if they build their own post training systems, great evals and a data flywheel.
-
-I’ve worked with the Shopify ML team and they are world class. 
-
-More enterprises should be doing this. https://t.co/IzlWkndA6u</content>
-  </entry>
-  <entry>
-    <id>https://x.com/trq212/status/2094945951865520458</id>
+    <id>https://x.com/trq212/status/2095367584489038044</id>
     <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2094945951865520458" rel="alternate" />
-    <published>2026-09-02T00:30:11.000Z</published>
-    <updated>2026-09-02T00:30:11.000Z</updated>
+    <link href="https://x.com/trq212/status/2095367584489038044" rel="alternate" />
+    <published>2026-09-03T04:25:36.000Z</published>
+    <updated>2026-09-03T04:25:36.000Z</updated>
     <author><name>Thariq</name></author>
     <category term="twitter" />
-    <content type="text">it’s a very good model, I spent a lot of time diving into it- longer write up coming 
+    <content type="text">Ah apologies, effort levels not breaking the prompt cache is live on API but not yet on Claude Code. Should be live within a day or so, will QT when it’s ready. 
 
-but try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt cache as well https://t.co/MCGYQTnR0X</content>
+Was OOO and did not realize this didn’t go out with the model launch.</content>
   </entry>
   <entry>
-    <id>https://x.com/zarazhangrui/status/2094943457769099520</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2094943457769099520" rel="alternate" />
-    <published>2026-09-02T00:20:17.000Z</published>
-    <updated>2026-09-02T00:20:17.000Z</updated>
-    <author><name>Zara Zhang</name></author>
-    <category term="twitter" />
-    <content type="text">Since when did this type of website design become in vogue? https://t.co/Cwnz0MhMhz</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2094942644497457527</id>
+    <id>https://x.com/danshipper/status/2095327032141889675</id>
     <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2094942644497457527" rel="alternate" />
-    <published>2026-09-02T00:17:03.000Z</published>
-    <updated>2026-09-02T00:17:03.000Z</updated>
+    <link href="https://x.com/danshipper/status/2095327032141889675" rel="alternate" />
+    <published>2026-09-03T01:44:28.000Z</published>
+    <updated>2026-09-03T01:44:28.000Z</updated>
     <author><name>Dan Shipper</name></author>
     <category term="twitter" />
-    <content type="text">remember when we used to have to type out low level code like this? https://t.co/h30xZEfRle</content>
+    <content type="text">it me https://t.co/0NgNFmgV37</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2094939684015317363</id>
+    <id>https://x.com/danshipper/status/2095320346261848169</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2095320346261848169" rel="alternate" />
+    <published>2026-09-03T01:17:54.000Z</published>
+    <updated>2026-09-03T01:17:54.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">many such cases https://t.co/dEwsrGSnPH</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2095292377749733697</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2095292377749733697" rel="alternate" />
+    <published>2026-09-02T23:26:46.000Z</published>
+    <updated>2026-09-02T23:26:46.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Building housing supply needs to be a top issue for how you vote this November https://t.co/n4Su98uJYf</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2095291912706220410</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2095291912706220410" rel="alternate" />
+    <published>2026-09-02T23:24:55.000Z</published>
+    <updated>2026-09-02T23:24:55.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">Replit is coming to London 🇬🇧
+
+To celebrate Replit’s first international office in London, together with our friends @OpenAI, we&apos;re hosting a night of drinks, music, and a fireside chat with Paul Graham (@paulg).
+
+Thursday, September 10th, RSVP: https://t.co/KvsS1OScca https://t.co/LQb7aSrvdj</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2095288416292487289</id>
     <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2094939684015317363" rel="alternate" />
-    <published>2026-09-02T00:05:17.000Z</published>
-    <updated>2026-09-02T00:05:17.000Z</updated>
+    <link href="https://x.com/thsottiaux/status/2095288416292487289" rel="alternate" />
+    <published>2026-09-02T23:11:01.000Z</published>
+    <updated>2026-09-02T23:11:01.000Z</updated>
     <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">Bullish</content>
+    <content type="text">The ChatGPT desktop app is now my main browser and my productivity has never been higher</content>
   </entry>
   <entry>
-    <id>https://x.com/sama/status/2094934592062959832</id>
-    <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2094934592062959832" rel="alternate" />
-    <published>2026-09-01T23:45:03.000Z</published>
-    <updated>2026-09-01T23:45:03.000Z</updated>
-    <author><name>Sam Altman</name></author>
+    <id>https://x.com/petergyang/status/2095286096481665322</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2095286096481665322" rel="alternate" />
+    <published>2026-09-02T23:01:48.000Z</published>
+    <updated>2026-09-02T23:01:48.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">Over the summer, we have been sprinting on safety priorities; it&apos;s more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.
-
-There is an obvious tension here: on one hand, Astra is very good and we are excited to see what people will build with it. We are proud of our work.
-
-On the other hand, we are clearly in a phase of development where we believe caution is warranted, and we are pacing our progress to ensure that we can meet the safety standards required by new capability levels.
-
-Astra has been done training for a while now and is a significant step forward in both capabilities and alignment. For the models after that, we have been slowing things as needed to ensure that we can do sufficient work on safety and alignment.
-
-AI is getting extremely capable; no one fully understands the consequences of this. Managing the transition to a world with abundant and powerful AI to optimize for safety and benefits to people should be one of the highest priorities in the world. It is our highest priority at OpenAI.
-
-We have been living with the tension between being excited and anxious about progress for some time, and it is still discordant for us. We know it is much more discordant for other people. And yet, we believe strongly that the world needs to understand where AI is going and how models perform in the real world. More importantly, we believe the world will need aligned AI to manage the future phases of this transition.
-
-An iterative loop where society and this technology evolve together is what will lead to the highest chance of getting this right.
-
-So we hope you enjoy our new model, and we hope the world continues to take what’s happening in AI extremely seriously.</content>
+    <content type="text">GG https://t.co/F1wjmFI5uO</content>
   </entry>
   <entry>
-    <id>https://x.com/_catwu/status/2094933602228416603</id>
-    <title>Cat Wu (@_catwu)</title>
-    <link href="https://x.com/_catwu/status/2094933602228416603" rel="alternate" />
-    <published>2026-09-01T23:41:07.000Z</published>
-    <updated>2026-09-01T23:41:07.000Z</updated>
-    <author><name>Cat Wu</name></author>
-    <category term="twitter" />
-    <content type="text">With Fable 5.1, our team has taken on more ambitious projects that would have previously taken months. What big bets do you want to take? 
-
-Ask Fable 5.1 in Claude Code, Claude Cowork, Claude Tag to take on the task and let us know what you think! https://t.co/LCloUBWKeO</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thenanyu/status/2094928209095872530</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2094928209095872530" rel="alternate" />
-    <published>2026-09-01T23:19:41.000Z</published>
-    <updated>2026-09-01T23:19:41.000Z</updated>
-    <author><name>Nan Yu</name></author>
-    <category term="twitter" />
-    <content type="text">A new Claude release where one of the headline features is less annoying writing 
-
-https://t.co/xHS4TdxaX4</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thenanyu/status/2094928207179067682</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2094928207179067682" rel="alternate" />
-    <published>2026-09-01T23:19:41.000Z</published>
-    <updated>2026-09-01T23:19:41.000Z</updated>
-    <author><name>Nan Yu</name></author>
-    <category term="twitter" />
-    <content type="text">Like this kind of thing may seem small but makes a big difference
-
-https://t.co/JrAjOa8pMS</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thenanyu/status/2094928205753040999</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2094928205753040999" rel="alternate" />
-    <published>2026-09-01T23:19:40.000Z</published>
-    <updated>2026-09-01T23:19:40.000Z</updated>
-    <author><name>Nan Yu</name></author>
-    <category term="twitter" />
-    <content type="text">There’s a lot of alpha in making your agents *less annoying*. If you want users to get to value they need to stop rage-quitting. 
-
-I think an untapped opportunity for UX designers is to become conversation/rhetoric designers.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2094922789128196314</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2094922789128196314" rel="alternate" />
-    <published>2026-09-01T22:58:09.000Z</published>
-    <updated>2026-09-01T22:58:09.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">People are still sleeping on WebMCP.. 
-
-You can now give agents tool calls to interact with your website natively. Including full UI/UX support and interactive elements to build their own views.
-
-Sharing a demo below that I submitted for the WebMCP challenge - see how agents can interact with the El Nino situation tracker. It creates it&apos;s own views, preserves human edits, and creates a shareable link to share with other agents (or humans). 
-
-Video and code by Codex @ChatGPT &amp; @Railway
-
-Live at elneenyo dot com to try out today!</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2094901483414372716</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2094901483414372716" rel="alternate" />
-    <published>2026-09-01T21:33:29.000Z</published>
-    <updated>2026-09-01T21:33:29.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web
-
-What this means for our customers: whether you choose @nextjs or @tan_stack, we are committed to the highest quality service and support. https://t.co/9lnHQIqHxZ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/alexalbert__/status/2094889286990446769</id>
-    <title>Alex Albert (@alexalbert__)</title>
-    <link href="https://x.com/alexalbert__/status/2094889286990446769" rel="alternate" />
-    <published>2026-09-01T20:45:01.000Z</published>
-    <updated>2026-09-01T20:45:01.000Z</updated>
-    <author><name>Alex Albert</name></author>
-    <category term="twitter" />
-    <content type="text">One non-model thing I&apos;m very excited we announced today with Fable 5.1 is Enterprise Frontier Safeguards (EFS).
-
-Even if you&apos;re not a CEO/CISO, this blog post is a look into how big companies are thinking about AI adoption which is important to understand if you&apos;re interested in how AI might diffuse across industry.
-
-Companies are giving agents more and more access to internal systems. With traditional zero data retention, there&apos;s been no way to spot patterns in what agents might be doing across sessions on these systems.
-
-EFS is ZDR++. It&apos;s ZDR built for a world with agents. A company&apos;s data stays in its own cloud, and an automated monitoring layer we built flags risky patterns to its team.
-
-I think of this as an observability and risk mitigation layer for agents. My guess is it will become a standard requirement from enterprises for running increasingly powerful AI on their systems.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2094867652573528074</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2094867652573528074" rel="alternate" />
-    <published>2026-09-01T19:19:03.000Z</published>
-    <updated>2026-09-01T19:19:03.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Fable 5.1 now on @vercel AI Gateway
-Try it with https://t.co/OL0LzGtvAw. Every model at your fingertips 🥹</content>
-  </entry>
-  <entry>
-    <id>https://x.com/bcherny/status/2094864064648536068</id>
+    <id>https://x.com/bcherny/status/2095276133214491086</id>
     <title>Boris Cherny (@bcherny)</title>
-    <link href="https://x.com/bcherny/status/2094864064648536068" rel="alternate" />
-    <published>2026-09-01T19:04:48.000Z</published>
-    <updated>2026-09-01T19:04:48.000Z</updated>
+    <link href="https://x.com/bcherny/status/2095276133214491086" rel="alternate" />
+    <published>2026-09-02T22:22:13.000Z</published>
+    <updated>2026-09-02T22:22:13.000Z</updated>
     <author><name>Boris Cherny</name></author>
     <category term="twitter" />
-    <content type="text">Last but not least, Fable 5.1 writes better and has better tone. We heard your feedback, and are actively working on reducing Claude-speak. Solid progress with 5.1, more to come.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/bcherny/status/2094864063478276288</id>
-    <title>Boris Cherny (@bcherny)</title>
-    <link href="https://x.com/bcherny/status/2094864063478276288" rel="alternate" />
-    <published>2026-09-01T19:04:48.000Z</published>
-    <updated>2026-09-01T19:04:48.000Z</updated>
-    <author><name>Boris Cherny</name></author>
-    <category term="twitter" />
-    <content type="text">We have been working on how often safeguards intervene. Our latest biology safeguards intervene on benign requests 85% less often than the ones we shipped with Fable 5, and Claude Code users should see around 60% fewer cyber interventions per session. Expect more improvements soon.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/bcherny/status/2094864062186426373</id>
-    <title>Boris Cherny (@bcherny)</title>
-    <link href="https://x.com/bcherny/status/2094864062186426373" rel="alternate" />
-    <published>2026-09-01T19:04:47.000Z</published>
-    <updated>2026-09-01T19:04:47.000Z</updated>
-    <author><name>Boris Cherny</name></author>
-    <category term="twitter" />
-    <content type="text">We have also reduced prices for Enterprise, API, and SDK customers. Cache reads on Fable 5.1 are now $0.25 per million tokens (previously: $1). Up to 38% cheaper for a typical Claude Code session.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/alexalbert__/status/2094860189316899083</id>
-    <title>Alex Albert (@alexalbert__)</title>
-    <link href="https://x.com/alexalbert__/status/2094860189316899083" rel="alternate" />
-    <published>2026-09-01T18:49:24.000Z</published>
-    <updated>2026-09-01T18:49:24.000Z</updated>
-    <author><name>Alex Albert</name></author>
-    <category term="twitter" />
-    <content type="text">using blender headless btw</content>
-  </entry>
-  <entry>
-    <id>https://x.com/alexalbert__/status/2094860187743986169</id>
-    <title>Alex Albert (@alexalbert__)</title>
-    <link href="https://x.com/alexalbert__/status/2094860187743986169" rel="alternate" />
-    <published>2026-09-01T18:49:24.000Z</published>
-    <updated>2026-09-01T18:49:24.000Z</updated>
-    <author><name>Alex Albert</name></author>
-    <category term="twitter" />
-    <content type="text">Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code. 
+    <content type="text">Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on.
 
-For this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough. https://t.co/eBIaCmaav8</content>
+Claude Tag is available in Slack on Team and Enterprise plans.</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2094855479167996036</id>
+    <id>https://x.com/petergyang/status/2095275295511281918</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2095275295511281918" rel="alternate" />
+    <published>2026-09-02T22:18:53.000Z</published>
+    <updated>2026-09-02T22:18:53.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Damn I&apos;m running out of Fable limit already, anyone in the same boat?</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2095269303029244364</id>
     <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2094855479167996036" rel="alternate" />
-    <published>2026-09-01T18:30:41.000Z</published>
-    <updated>2026-09-01T18:30:41.000Z</updated>
+    <link href="https://x.com/danshipper/status/2095269303029244364" rel="alternate" />
+    <published>2026-09-02T21:55:04.000Z</published>
+    <updated>2026-09-02T21:55:04.000Z</updated>
     <author><name>Dan Shipper</name></author>
     <category term="twitter" />
-    <content type="text">READ THE FABLE 5.1 VIBE CHECK ON @every 
-https://t.co/VxEDSTgqVL https://t.co/6UqJw8Z70N</content>
+    <content type="text">pro tip: 
+
+use your alien superintelligence to plan your next order of chocolate bars https://t.co/DvcNrTpGEc</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2094854526574424203</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2094854526574424203" rel="alternate" />
-    <published>2026-09-01T18:26:54.000Z</published>
-    <updated>2026-09-01T18:26:54.000Z</updated>
-    <author><name>Dan Shipper</name></author>
+    <id>https://x.com/rauchg/status/2095260872537227585</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2095260872537227585" rel="alternate" />
+    <published>2026-09-02T21:21:34.000Z</published>
+    <updated>2026-09-02T21:21:34.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">READ THE FULL VIBE CHECK: https://t.co/z7axZ7Sr1j</content>
+    <content type="text">It took blood, sweat, and tokens</content>
   </entry>
   <entry>
-    <id>https://x.com/levie/status/2094851976769257770</id>
+    <id>https://x.com/petergyang/status/2095255545594941910</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2095255545594941910" rel="alternate" />
+    <published>2026-09-02T21:00:24.000Z</published>
+    <updated>2026-09-02T21:00:24.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Product manager = Member of product staff
+Designer = Member of design staff
+Engineer = Member of technical staff
+
+Is this AI making job functions more verbose? 😅
+
+If this flattens levels and titles, I&apos;m all for it though.
+
+It also shows that maybe the single AI builder title that combines all functions isn&apos;t really happening, even at the best labs. People still have specialties based on what they&apos;re good at.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2095235886611050985</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2095235886611050985" rel="alternate" />
+    <published>2026-09-02T19:42:17.000Z</published>
+    <updated>2026-09-02T19:42:17.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Follow @eve</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2095234831013814611</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2095234831013814611" rel="alternate" />
+    <published>2026-09-02T19:38:05.000Z</published>
+    <updated>2026-09-02T19:38:05.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Everything is code https://t.co/TJwbjGA2RL</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2095234253613359200</id>
     <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2094851976769257770" rel="alternate" />
-    <published>2026-09-01T18:16:46.000Z</published>
-    <updated>2026-09-01T18:16:46.000Z</updated>
+    <link href="https://x.com/levie/status/2095234253613359200" rel="alternate" />
+    <published>2026-09-02T19:35:48.000Z</published>
+    <updated>2026-09-02T19:35:48.000Z</updated>
     <author><name>Aaron Levie</name></author>
     <category term="twitter" />
-    <content type="text">At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise.
+    <content type="text">This week is absolutely nuts for AI releases, and now a major new model update from Muse. We appear to be reaching escape velocity in capability progress. 
 
-On this updated test, we use the Box Agent with Fable 5.1 to work through a wide range of real world enterprise scenarios with documents in financial services, life sciences, the public sector, and more industries. All of these tasks require a high degree of analytical, math, logic, and domain knowledge to perform successfully.
-
-Here are a few examples of wins:
-
-* Financial Services (+17% improvement): on a tax-adjusted profit projection, Fable 5.1 correctly applies capital allowances before computing tax liability; this is a subtle ordering that Fable 5 misses, producing wrong figures all the way through retained earnings.
-
-* Technology (+37% improvement): on a cost-optimization analysis where a key metric&apos;s normalization is ambiguous, Fable 5.1 recognized the ambiguity, computed both forms, and presented the correct one, where Fable 5 committed to the wrong normalization.
-
-* Public Sector (+16% improvement): on an educational data analysis task, Fable 5.1 works through the full weighted-mean methodology and produces correct rankings, while Fable 5 miscategorizes one item and cascades errors through the whole sheet.
-
-These are just a few of the wins we saw. Overall major jump in capability for long running agentic workflows in the enterprise. 
-
-Fable 5.1 will be available shortly in the Box AI Studio for building custom AI agents with enterprise content.</content>
+If this thing gets released as open weights it completely changes the dynamic of US open weights competitiveness. https://t.co/hOG17UMECG</content>
   </entry>
   <entry>
-    <id>https://x.com/claudeai/status/2094848592812917122</id>
+    <id>https://x.com/adityaag/status/2095227334534041714</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2095227334534041714" rel="alternate" />
+    <published>2026-09-02T19:08:18.000Z</published>
+    <updated>2026-09-02T19:08:18.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
+    <category term="twitter" />
+    <content type="text">It&apos;s actually really hard to trust these frontier labs when they say &quot;don&apos;t worry, we won&apos;t use your data for training&quot;.
+
+This is a huge reason to use OSS models.
+
+What a weird world. Use the 🇨🇳 models to make sure your stuff is private. 
+
+Also why it is critical to have 🇺🇸 OSS.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/claudeai/status/2095226835743158320</id>
     <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2094848592812917122" rel="alternate" />
-    <published>2026-09-01T18:03:19.000Z</published>
-    <updated>2026-09-01T18:03:19.000Z</updated>
+    <link href="https://x.com/claudeai/status/2095226835743158320" rel="alternate" />
+    <published>2026-09-02T19:06:19.000Z</published>
+    <updated>2026-09-02T19:06:19.000Z</updated>
     <author><name>Claude</name></author>
     <category term="twitter" />
-    <content type="text">Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs.
+    <content type="text">Available in beta on Pro and Max plans, in the desktop app on macOS.
 
-Read more: https://t.co/nfkH5hyDyO</content>
+If you&apos;re new to computer use, turn it on in Settings → General → Computer use.
+
+How it works, and how to use it safely: https://t.co/WTNqd5F0BG</content>
   </entry>
   <entry>
-    <id>https://x.com/claudeai/status/2094848591617483020</id>
+    <id>https://x.com/claudeai/status/2095226833293685100</id>
     <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2094848591617483020" rel="alternate" />
-    <published>2026-09-01T18:03:19.000Z</published>
-    <updated>2026-09-01T18:03:19.000Z</updated>
+    <link href="https://x.com/claudeai/status/2095226833293685100" rel="alternate" />
+    <published>2026-09-02T19:06:19.000Z</published>
+    <updated>2026-09-02T19:06:19.000Z</updated>
     <author><name>Claude</name></author>
     <category term="twitter" />
-    <content type="text">Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often.
+    <content type="text">Claude can now use your computer in the background in Claude Cowork and Claude Code.
 
-On basic biology and medical questions, we’ve recently reduced the fallback rate by around 85%.</content>
+Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else. https://t.co/AOiup03pQK</content>
   </entry>
   <entry>
-    <id>https://x.com/claudeai/status/2094848590245965931</id>
-    <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2094848590245965931" rel="alternate" />
-    <published>2026-09-01T18:03:18.000Z</published>
-    <updated>2026-09-01T18:03:18.000Z</updated>
-    <author><name>Claude</name></author>
+    <id>https://x.com/garrytan/status/2095202701646995965</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2095202701646995965" rel="alternate" />
+    <published>2026-09-02T17:30:25.000Z</published>
+    <updated>2026-09-02T17:30:25.000Z</updated>
+    <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the same as zero data retention), while still being state-of-the-art at preventing adversarial use. EFS rolls out in phases, starting this fall. https://t.co/EMbLgL5KVo</content>
+    <content type="text">What&apos;s your California Dream?
+
+https://t.co/cBmqMDDHLn https://t.co/9H6eflyDT2</content>
   </entry>
   <entry>
-    <id>https://x.com/rauchg/status/2094831747037085978</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2094831747037085978" rel="alternate" />
-    <published>2026-09-01T16:56:23.000Z</published>
-    <updated>2026-09-01T16:56:23.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
+    <id>https://x.com/adityaag/status/2095192873973301601</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2095192873973301601" rel="alternate" />
+    <published>2026-09-02T16:51:22.000Z</published>
+    <updated>2026-09-02T16:51:22.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
     <category term="twitter" />
-    <content type="text">Fluid is the thing that has enabled Vercel&apos;s:
-◾ Industry-leading Build performance
-◾ Sandbox reliability &amp; massive concurrency
-◾ 30min Function durations (&amp; soon longer)
+    <content type="text">Too many startups are focused on solving model issues (or leveraging model capabilities) as they exist today.
 
-This unification makes the best DX possible. Shared 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎, security perimeters, networking, file systems, across all compute products. 
-
-You already see this in some pretty unique Vercel capabilities, like our Builds and Functions being able to participate in the same Secure Compute boundary and config.
-
-Imagine the same egress Firewall features for Sandbox that prevent agent escapes, applying to your Builds, Functions and Servers.
-
-The future is one global and unified compute platform, with only known physics as the limiting factor 😊</content>
+Much more interesting to hav a strong POV on capabilities/issues as they will exist 1 year from today (understandably hard).</content>
   </entry>
   <entry>
-    <id>https://x.com/mattturck/status/2094829606855462940</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2094829606855462940" rel="alternate" />
-    <published>2026-09-01T16:47:52.000Z</published>
-    <updated>2026-09-01T16:47:52.000Z</updated>
-    <author><name>Matt Turck</name></author>
+    <id>https://x.com/joshwoodward/status/2095178970912461279</id>
+    <title>Josh Woodward (@joshwoodward)</title>
+    <link href="https://x.com/joshwoodward/status/2095178970912461279" rel="alternate" />
+    <published>2026-09-02T15:56:07.000Z</published>
+    <updated>2026-09-02T15:56:07.000Z</updated>
+    <author><name>Josh Woodward</name></author>
     <category term="twitter" />
-    <content type="text">Do you want to grow massively on X? 
-
-Here are the top hacks, a 🧵
-
-1) Become CEO of Apple https://t.co/WO9aMocWUY</content>
+    <content type="text">3.8 Flash = great quality @ great price https://t.co/teErwoGZon</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2094826841622348106</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2094826841622348106" rel="alternate" />
-    <published>2026-09-01T16:36:53.000Z</published>
-    <updated>2026-09-01T16:36:53.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
+    <id>https://x.com/joshwoodward/status/2095177483129917849</id>
+    <title>Josh Woodward (@joshwoodward)</title>
+    <link href="https://x.com/joshwoodward/status/2095177483129917849" rel="alternate" />
+    <published>2026-09-02T15:50:13.000Z</published>
+    <updated>2026-09-02T15:50:13.000Z</updated>
+    <author><name>Josh Woodward</name></author>
     <category term="twitter" />
-    <content type="text">https://t.co/DxRAhWI0y8</content>
+    <content type="text">3.8 Flash rolling out to @GeminiApp https://t.co/FItHefpEdv</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2094826808114057246</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2094826808114057246" rel="alternate" />
-    <published>2026-09-01T16:36:45.000Z</published>
-    <updated>2026-09-01T16:36:45.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
+    <id>https://x.com/garrytan/status/2095177204712017920</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2095177204712017920" rel="alternate" />
+    <published>2026-09-02T15:49:06.000Z</published>
+    <updated>2026-09-02T15:49:06.000Z</updated>
+    <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">Should we do a merch line? https://t.co/IgyRywd8yH</content>
+    <content type="text">It&apos;s ridiculous man
+
+Opening a public bank in SF is just asking for mass fraud, especially by Jackie Fielder&apos;s incompetent DSA friends and cronies https://t.co/r1xphmRSss</content>
   </entry>
   <entry>
-    <id>https://x.com/realmadhuguru/status/2094817857821704659</id>
+    <id>https://x.com/realmadhuguru/status/2095174463696589223</id>
     <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2094817857821704659" rel="alternate" />
-    <published>2026-09-01T16:01:11.000Z</published>
-    <updated>2026-09-01T16:01:11.000Z</updated>
+    <link href="https://x.com/realmadhuguru/status/2095174463696589223" rel="alternate" />
+    <published>2026-09-02T15:38:13.000Z</published>
+    <updated>2026-09-02T15:38:13.000Z</updated>
     <author><name>Madhu Guru</name></author>
     <category term="twitter" />
-    <content type="text">Self-improving products is a meta idea every company should be implementing.  
+    <content type="text">Every AI product should be working towards abstracting model choice away from users. 
 
-Some of the core pieces you will need:
+In any product, the intelligence is the underlying engine - all the user cares about is that the job gets done. 
 
-1/ a crisp definition of the various metrics you care about : primary, secondary, guardrail
+Model picking is too much cognitive load for the user.
 
-2/ an articulation of your strategy, roadmap and metrics you care about moving the most
+There have been multiple attempts to abstract model choice away from users. I think we’re finally at the point where this can work well.
 
-3/ knowledge base of past product decisions and principles so the agent knows how decisions get made 
+It takes three things:
 
-4/ connections to your to your internal product systems: dashboards, APIs, MCPs, and tools your agent  needs to observe and act on your product. 
+1/ Deep understanding of the model frontier across different weight classes for your particular use cases.
 
-5/ a harness built with knowledge of  your end to end product development flow. 
+2/ Great evals for your workflows, so you know which models work best where.
 
-Depending on the complexity of your product, you might be able to prototype with fairly simple versions of each of the above and reuse existing swe agents.</content>
+3/ A team with the talent and AI-native operating model to continuously adapt as the frontier moves.
+
+Having worked with the Lovable team, I can say they have all three.</content>
   </entry>
   <entry>
-    <id>https://x.com/zarazhangrui/status/2094812574395371857</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2094812574395371857" rel="alternate" />
-    <published>2026-09-01T15:40:12.000Z</published>
-    <updated>2026-09-01T15:40:12.000Z</updated>
-    <author><name>Zara Zhang</name></author>
+    <id>https://x.com/claudeai/status/2095168559873773970</id>
+    <title>Claude (@claudeai)</title>
+    <link href="https://x.com/claudeai/status/2095168559873773970" rel="alternate" />
+    <published>2026-09-02T15:14:45.000Z</published>
+    <updated>2026-09-02T15:14:45.000Z</updated>
+    <author><name>Claude</name></author>
     <category term="twitter" />
-    <content type="text">Be a person, not a persona</content>
+    <content type="text">Applications are open for the Claude Campus Ambassadors program. This year, we’re expanding opportunities to more students, with three tracks for undergrads, graduate students, and PhDs/postdocs. 
+
+Apply here: https://t.co/h8X1D0TZv7 https://t.co/bPa8giOBXP</content>
   </entry>
   <entry>
-    <id>https://x.com/nikunj/status/2094784484625531065</id>
+    <id>https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL</id>
+    <title>AI &amp; I by Every: How a Professional Writer Writes With AI</title>
+    <link href="https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL" rel="alternate" />
+    <published>2026-09-02T15:01:40.000Z</published>
+    <updated>2026-09-02T15:01:40.000Z</updated>
+    <author><name>AI &amp; I by Every</name></author>
+    <category term="podcast" />
+    <content type="text">Speaker 1 | 00:00 - 00:31
+Hey, it&apos;s Dan Shipper, and this week I&apos;m excited to share a very special episode of AI and Dive. In this episode, we&apos;re previewing the release of an experimental new plugin called Compound Writing, which helps you write with AI the way that we do internally. It&apos;s inspired by Kieran Klassen&apos;s Compound Engineering, and it&apos;s built by one of our staff writers, Katie Parrott. To help talk about this plugin and why Katie made it and how she uses it, Natalia Quintero is the ho...</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2095158216409911381</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2094784484625531065" rel="alternate" />
-    <published>2026-09-01T13:48:35.000Z</published>
-    <updated>2026-09-01T13:48:35.000Z</updated>
+    <link href="https://x.com/nikunj/status/2095158216409911381" rel="alternate" />
+    <published>2026-09-02T14:33:39.000Z</published>
+    <updated>2026-09-02T14:33:39.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">Casual MG banger that started as a comment to my recent essay via *checks notes* iMessage 😂 https://t.co/t0YSIB4Ui9</content>
-  </entry>
-  <entry>
-    <id>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</id>
-    <title>Training Data: Making Cities Awesome: Peregrine’s Nick Noone &amp;amp; Ben Rudolph</title>
-    <link href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8" rel="alternate" />
-    <published>2026-09-01T09:00:00.000Z</published>
-    <updated>2026-09-01T09:00:00.000Z</updated>
-    <author><name>Training Data</name></author>
-    <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:40
-Peregrine is really around this idea of how can we leverage technology to work with our cities, our counties, our states to to impact the the places that we live in. At the bottom of the pyramid, really, when it comes to how to make cities awesome, is the idea of safety. The idea that people need objective safety and also need to feel safe. And when that stability is there, it&apos;s amazing what&apos;s possible. And there are all these kind of contrasting, but actually similar c...</content>
+    <content type="text">PSA: that irrational fear of opening the microwave one second before it beeps loudly so that your infant doesn’t wake up.. doesn’t leave you even when your kids grow up 😅 https://t.co/VUILoORIUC</content>
   </entry>
 </feed>
