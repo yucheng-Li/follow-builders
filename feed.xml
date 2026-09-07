@@ -5,355 +5,148 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-09-05T06:35:59.594Z</updated>
+  <updated>2026-09-06T22:54:40.471Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/thsottiaux/status/2096101429832552872</id>
+    <id>https://www.anthropic.com/engineering/how-we-contain-claude</id>
+    <title>Anthropic Engineering: How we contain Claude across products</title>
+    <link href="https://www.anthropic.com/engineering/how-we-contain-claude" rel="alternate" />
+    <published>2026-09-07T05:51:09.821Z</published>
+    <updated>2026-09-07T05:51:09.821Z</updated>
+    <author><name>Anthropic Engineering</name></author>
+    <category term="blog" />
+    <content type="text">Twelve months ago, we&amp;#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do. Progress on safeguards and model training has steadily driven down the first; the second—the theoretical blast radius—only grows as capabilities and access expand. Yet as agents become capable of doing work that once required a person or even a team, the cost of not deploying grows large enough that the risk-reward calculation tips heavily toward adoption, as long as products can be made safe. The engineering question becomes how to cap the blast radius. When bounds can be placed on the relative damage of an autonomous agent—such as through control over its environment—high-utility capabilities can motivate deployment. Claude Mythos Preview is an...</content>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/engineering/april-23-postmortem</id>
+    <title>Anthropic Engineering: An update on recent Claude Code quality reports</title>
+    <link href="https://www.anthropic.com/engineering/april-23-postmortem" rel="alternate" />
+    <published>2026-09-07T05:51:09.821Z</published>
+    <updated>2026-09-07T05:51:09.821Z</updated>
+    <author><name>Anthropic Engineering</name></author>
+    <category term="blog" />
+    <content type="text">Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we explain what we found, what we fixed, and what we’ll do differently to ensure similar issues are much less likely to happen again. We take reports about degradation very seriously. We never intentionally degrade our models, and we were able to immediately confirm that our API and inference layer were unaffected. After investigation, we identified three different issues: On March 4, we changed Claude Code&amp;#x27;s default reasoning effort from high to medium to reduce the very long latency—enough to make the UI appear frozen—some users were seeing in high mode. This was the wrong tradeoff. We reverted this change on April 7 after users told us they&amp;#x27;d p...</content>
+  </entry>
+  <entry>
+    <id>https://www.anthropic.com/engineering/managed-agents</id>
+    <title>Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands</title>
+    <link href="https://www.anthropic.com/engineering/managed-agents" rel="alternate" />
+    <published>2026-09-07T05:51:09.821Z</published>
+    <updated>2026-09-07T05:51:09.821Z</updated>
+    <author><name>Anthropic Engineering</name></author>
+    <category term="blog" />
+    <content type="text">Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve. As just one example, in prior work we found that Claude Sonnet 4.5 would wrap up tasks prematurely as it sensed its context limit approaching—a behavior sometimes called “context anxiety.” We addressed this by adding context resets to the harness. But when we used the same harness on Claude Opus 4.5, we found that the behavior was gone. The resets had become dead weight. We expect harnesses to continue evolving. So we built Managed Agents: a hosted service in the Claude Platform that runs long-horizon agents on your behalf through a small set of interfaces meant to outlast any particular implementa...</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2096688770523467947</id>
     <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2096101429832552872" rel="alternate" />
-    <published>2026-09-05T05:01:39.000Z</published>
-    <updated>2026-09-05T05:01:39.000Z</updated>
+    <link href="https://x.com/thsottiaux/status/2096688770523467947" rel="alternate" />
+    <published>2026-09-06T19:55:32.000Z</published>
+    <updated>2026-09-06T19:55:32.000Z</updated>
     <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">Astra was probably our biggest competitive advantage while it wasn’t generally available.
+    <content type="text">To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.
 
-Since we’ve had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay instead of mid next year.</content>
+If you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.</content>
   </entry>
   <entry>
-    <id>https://x.com/swyx/status/2096095862732755342</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2096095862732755342" rel="alternate" />
-    <published>2026-09-05T04:39:31.000Z</published>
-    <updated>2026-09-05T04:39:31.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when asked for best ai newsletter/podcast!! was so surprised that @ricmac made me doublecheck for memory leaks lol https://t.co/fpiS98Tzu8</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2096092393569501263</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2096092393569501263" rel="alternate" />
-    <published>2026-09-05T04:25:44.000Z</published>
-    <updated>2026-09-05T04:25:44.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">これ https://t.co/ZDbjqCl3M6</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2096086845159563476</id>
+    <id>https://x.com/petergyang/status/2096612718098911590</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2096086845159563476" rel="alternate" />
-    <published>2026-09-05T04:03:41.000Z</published>
-    <updated>2026-09-05T04:03:41.000Z</updated>
+    <link href="https://x.com/petergyang/status/2096612718098911590" rel="alternate" />
+    <published>2026-09-06T14:53:19.000Z</published>
+    <updated>2026-09-06T14:53:19.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">OpenAI should ship an app for Apple Watch where I can just voice dictate to my Codex threads and it&apos;ll reply back with voice too. 
+    <content type="text">“Cheating and explaining the answer [to your child] are closer than you’d think.”
 
-Then I won&apos;t have to carry my phone around and have screen addiction.
+Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked about:
 
-Or maybe this is what the rumored OpenAI device does.</content>
+→ Why better grades don’t always mean more learning
+
+→ How to help kids enjoy doing hard things vs. only trying to please adults
+
+→ Why her #1 product principle is “Never tell the learner the answer”
+
+Some quotes from Sue:
+
+“Using AI to skip learning is like bringing a robotic arm to the gym to lift weights for you.”
+
+“Learning isn’t about the answer. It is about strengthening that part of you that can concentrate and struggle, that’s unafraid of trying new problems.”
+
+“When building AI products, try to find areas where you have unique data that makes your product better over time.”
+
+📌 Watch the full episode: https://t.co/jzogacrhiK
+
+Thanks to our sponsors:
+
+@linear: The AI agent platform for modern teams https://t.co/tgWf9oL4bs
+
+@RiversidedotFM: All-in-one AI studio for podcasts and video https://t.co/uWnS6aiMPE</content>
   </entry>
   <entry>
-    <id>https://x.com/zarazhangrui/status/2096082116828406233</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2096082116828406233" rel="alternate" />
-    <published>2026-09-05T03:44:54.000Z</published>
-    <updated>2026-09-05T03:44:54.000Z</updated>
-    <author><name>Zara Zhang</name></author>
-    <category term="twitter" />
-    <content type="text">Most people perceive AI to be a better writer than it actually is https://t.co/3OotzOgCkW</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2096065378598441431</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2096065378598441431" rel="alternate" />
-    <published>2026-09-05T02:38:23.000Z</published>
-    <updated>2026-09-05T02:38:23.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient.
-
-Some pretty unique wins too. e.g: Next.js dev pages could expose debugging tools directly to agents in the specific tab they’re testing, with page-specific context, instead of sifting through server logs. No separate MCP server to find and configure because the page directly exposes its own &apos;agent tools&apos;.
-
-e.g: in this world 𝚏𝚡 + 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 is a complete web dev stack with zero loss in debugging depth</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2096036429159973348</id>
+    <id>https://x.com/petergyang/status/2096466888935276719</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2096036429159973348" rel="alternate" />
-    <published>2026-09-05T00:43:21.000Z</published>
-    <updated>2026-09-05T00:43:21.000Z</updated>
+    <link href="https://x.com/petergyang/status/2096466888935276719" rel="alternate" />
+    <published>2026-09-06T05:13:51.000Z</published>
+    <updated>2026-09-06T05:13:51.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">Astra generated the most stereotypical image of a PM I&apos;ve ever seen for my game https://t.co/kTHOWcVSWP</content>
+    <content type="text">I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2096035748130795560</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2096035748130795560" rel="alternate" />
-    <published>2026-09-05T00:40:39.000Z</published>
-    <updated>2026-09-05T00:40:39.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
+    <id>https://x.com/thenanyu/status/2096438571838370096</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2096438571838370096" rel="alternate" />
+    <published>2026-09-06T03:21:20.000Z</published>
+    <updated>2026-09-06T03:21:20.000Z</updated>
+    <author><name>Nan Yu</name></author>
     <category term="twitter" />
-    <content type="text">And the team will have some nice sleep now. See you next week for some more ships.</content>
+    <content type="text">Every tech startup logo https://t.co/52Prjggey0</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2096035437299237298</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2096035437299237298" rel="alternate" />
-    <published>2026-09-05T00:39:25.000Z</published>
-    <updated>2026-09-05T00:39:25.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
+    <id>https://x.com/steipete/status/2096403459579015374</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2096403459579015374" rel="alternate" />
+    <published>2026-09-06T01:01:48.000Z</published>
+    <updated>2026-09-06T01:01:48.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
     <category term="twitter" />
-    <content type="text">Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day.
-
-Happy Astra day and enjoy a phenomenal weekend. 
-
-PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!</content>
+    <content type="text">Can’t remember last time we had such a large jump in capabilities. https://t.co/iGxVUYmGHj</content>
   </entry>
   <entry>
-    <id>https://x.com/amasad/status/2096022087035195647</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2096022087035195647" rel="alternate" />
-    <published>2026-09-04T23:46:22.000Z</published>
-    <updated>2026-09-04T23:46:22.000Z</updated>
-    <author><name>Amjad Masad</name></author>
+    <id>https://x.com/steipete/status/2096400749869830325</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2096400749869830325" rel="alternate" />
+    <published>2026-09-06T00:51:02.000Z</published>
+    <updated>2026-09-06T00:51:02.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
     <category term="twitter" />
-    <content type="text">The singularity is here, it’s just not evenly distributed https://t.co/8osY33GqLS</content>
+    <content type="text">One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast enough.)
+
+Will have that next week. https://t.co/lpiszOtVGP</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2096020213775118765</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2096020213775118765" rel="alternate" />
-    <published>2026-09-04T23:38:55.000Z</published>
-    <updated>2026-09-04T23:38:55.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Would you all want to play my roguelike deckbuilder https://t.co/5XUsQU7S83</content>
-  </entry>
-  <entry>
-    <id>https://x.com/sama/status/2096008528834244741</id>
-    <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2096008528834244741" rel="alternate" />
-    <published>2026-09-04T22:52:29.000Z</published>
-    <updated>2026-09-04T22:52:29.000Z</updated>
-    <author><name>Sam Altman</name></author>
-    <category term="twitter" />
-    <content type="text">Now out to all Plus and Business users.
-
-Happy building! https://t.co/66tabg3Yid</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2095986658185453928</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2095986658185453928" rel="alternate" />
-    <published>2026-09-04T21:25:35.000Z</published>
-    <updated>2026-09-04T21:25:35.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">Astra on Replit ✨ https://t.co/ONm0dLAwoD</content>
-  </entry>
-  <entry>
-    <id>https://x.com/sama/status/2095973658867171733</id>
-    <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2095973658867171733" rel="alternate" />
-    <published>2026-09-04T20:33:56.000Z</published>
-    <updated>2026-09-04T20:33:56.000Z</updated>
-    <author><name>Sam Altman</name></author>
-    <category term="twitter" />
-    <content type="text">GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.
-
-We will start rollout to Plus and Business users next.
-
-Thank you for the patience.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2095971990645755941</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2095971990645755941" rel="alternate" />
-    <published>2026-09-04T20:27:18.000Z</published>
-    <updated>2026-09-04T20:27:18.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience. 
-
-Aside&apos;s harness with full integrations AND browser integration did it in less than 3 minutes, and it&apos;s fully featured with smart access control defaults https://t.co/ja81EcaMUh</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2095948689823121872</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2095948689823121872" rel="alternate" />
-    <published>2026-09-04T18:54:43.000Z</published>
-    <updated>2026-09-04T18:54:43.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">GStack now uses @AsideAI browser as it&apos;s preferred remote session browser
-
-Does your AI agent need access to web and credentials as you? Aside is now the #1 absolute best way to do it I&apos;ve found out of all AI agent tools. 
-
-Aside is a/ an amazing browser, b/ great at credentials, c/ has all the integrations you need and c/ actually an amazing harness and memory system in its own right
-
-It&apos;s my new favorite AI browser</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2095926173293572467</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2095926173293572467" rel="alternate" />
-    <published>2026-09-04T17:25:14.000Z</published>
-    <updated>2026-09-04T17:25:14.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">AI software factories will yield bug-free, self-improving software https://t.co/m8J9LT2wbR</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2095925615467659637</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2095925615467659637" rel="alternate" />
-    <published>2026-09-04T17:23:01.000Z</published>
-    <updated>2026-09-04T17:23:01.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">can’t help myself https://t.co/ZEZh9OlqvI</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2095910036652577028</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2095910036652577028" rel="alternate" />
-    <published>2026-09-04T16:21:07.000Z</published>
-    <updated>2026-09-04T16:21:07.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">Me: I totally understand how RL, inference time scaling, modern data-verification loops work.
-
-Also Me: These models are total sorcery. There is no way that they should be able to do what they do.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/realmadhuguru/status/2095907570540335174</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2095907570540335174" rel="alternate" />
-    <published>2026-09-04T16:11:19.000Z</published>
-    <updated>2026-09-04T16:11:19.000Z</updated>
-    <author><name>Madhu Guru</name></author>
-    <category term="twitter" />
-    <content type="text">Here’s one practical thing you can do this weekend to get better at building AI products.
-
-Pick a workflow you know well - from your personal life or your work.
-
-Automate the whole thing with AI.
-
-Use the AI product you’re comfortable with - you’ll probably have to experiment with a few.
-
-This exercise will force you to think about
-
-1/ What does a great end-to-end experience look like?
-2/ How should you use MCPs and tools?
-3/ Where should humans stay in the loop?
-4/ How do you evaluate it?
-
-Then keep expanding the ambition.
-
-You’ll learn more by doing this once than by reading about AI product building for a month.
-
-The only way to learn is to build.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2095890365723406590</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2095890365723406590" rel="alternate" />
-    <published>2026-09-04T15:02:57.000Z</published>
-    <updated>2026-09-04T15:02:57.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">Adding “sovereign” to this list based on the last few weeks https://t.co/Qyu5uXanZA</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2095885899871449385</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2095885899871449385" rel="alternate" />
-    <published>2026-09-04T14:45:12.000Z</published>
-    <updated>2026-09-04T14:45:12.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">can you tell Astra is running my @every office fantasy team
-
-this is my team name: https://t.co/2t1fY52eFh</content>
-  </entry>
-  <entry>
-    <id>https://x.com/mattturck/status/2095885287960264962</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2095885287960264962" rel="alternate" />
-    <published>2026-09-04T14:42:46.000Z</published>
-    <updated>2026-09-04T14:42:46.000Z</updated>
-    <author><name>Matt Turck</name></author>
-    <category term="twitter" />
-    <content type="text">From our recent pod: 
-
-https://t.co/ZOvmqrsNSx</content>
-  </entry>
-  <entry>
-    <id>https://x.com/mattturck/status/2095885284801982779</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2095885284801982779" rel="alternate" />
-    <published>2026-09-04T14:42:46.000Z</published>
-    <updated>2026-09-04T14:42:46.000Z</updated>
-    <author><name>Matt Turck</name></author>
-    <category term="twitter" />
-    <content type="text">Hugging Face and @Thom_Wolf cannot stop winning, first the acquisition and now this comment lol https://t.co/Mj4Iy4ssT4</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2095882683729490108</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2095882683729490108" rel="alternate" />
-    <published>2026-09-04T14:32:26.000Z</published>
-    <updated>2026-09-04T14:32:26.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">i&apos;ve got Astra doing film study for our @every fantasy football draft 
-
-we going to take over this league 😤 https://t.co/kMKz5XscV8</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2095792059647234204</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2095792059647234204" rel="alternate" />
-    <published>2026-09-04T08:32:19.000Z</published>
-    <updated>2026-09-04T08:32:19.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">It’s coming 🤗 https://t.co/FUYGCMIFmV https://t.co/K9SJQxdAj6</content>
-  </entry>
-  <entry>
-    <id>https://www.youtube.com/@NoPriorsPodcast</id>
-    <title>No Priors: Redefining Chip Architecture with Arm CEO Rene Haas</title>
-    <link href="https://www.youtube.com/@NoPriorsPodcast" rel="alternate" />
-    <published>2026-09-03T10:00:00.000Z</published>
-    <updated>2026-09-03T10:00:00.000Z</updated>
-    <author><name>No Priors</name></author>
+    <id>https://www.youtube.com/watch?v=SK9ITBK5osA</id>
+    <title>The MAD Podcast with Matt Turck: AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt</title>
+    <link href="https://www.youtube.com/watch?v=SK9ITBK5osA" rel="alternate" />
+    <published>2026-08-27T14:22:21.000Z</published>
+    <updated>2026-08-27T14:22:21.000Z</updated>
+    <author><name>The MAD Podcast with Matt Turck</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:15
-There&apos;s no computing problem that&apos;s ever been invented that doesn&apos;t utilize and can&apos;t utilize the microprocessor. It is the heart of everything. All roads lead through it, around it, past it. Something has to do the orchestration, arbitration decision around where those tokens go. That&apos;s what CPUs do.
+    <content type="text">Speaker 1 | 00:00 - 00:21
+I think that the AI company CEOs understand that they&apos;re on the path of building wildly smarter than human systems, like super intelligent AI systems. They understand that we don&apos;t really have a, like, clear thought through plan for how to manage the risks from that. I wouldn&apos;t say superintelligence is bad. I would say it&apos;s dangerous. It seems pretty likely that you end up with AI takeover as a result of building superintelligence.
 
-Speaker 1 | 00:15 - 00:36
-Chip design can take anywhere from twenty four to thirty six months depending on the complexity of the chip, etcetera, etcetera. The actual desi...</content>
+Speaker 1 | 00:21 - 00:39
+And so you ...</content>
   </entry>
   <entry>
-    <id>https://claude.com/blog/claude-in-chrome-generally-available</id>
-    <title>Claude Blog: Claude in Chrome is generally available </title>
-    <link href="https://claude.com/blog/claude-in-chrome-generally-available" rel="alternate" />
-    <published>2026-08-26T00:00:00.000Z</published>
-    <updated>2026-08-26T00:00:00.000Z</updated>
+    <id>https://claude.com/blog/artifacts-in-claude-code</id>
+    <title>Claude Blog: Claude Code now supports artifacts</title>
+    <link href="https://claude.com/blog/artifacts-in-claude-code" rel="alternate" />
+    <published>2026-06-18T00:00:00.000Z</published>
+    <updated>2026-06-18T00:00:00.000Z</updated>
     <author><name>Claude Blog</name></author>
     <category term="blog" />
-    <content type="text">Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude . But many others don’t, such as internal dashboards, legacy systems, and vendor portals. Claude in Chrome lets Claude access those. It can view the page you’re on and take actions like reading and typing text, clicking links, navigating between pages, and filling out forms, using your existing logins. We first announced Claude in Chrome as a pilot last year, so we could test it while also shoring up our defenses against prompt injection : malicious instructions hidden in websites, emails, or documents that try to trick an AI agent into acting against the user’s wishes. These defenses, described below, give us the confidence to make Claude in Chrome ge...</content>
-  </entry>
-  <entry>
-    <id>https://claude.com/blog/cowork-built-in-browser</id>
-    <title>Claude Blog: Claude gets its own browser in Cowork</title>
-    <link href="https://claude.com/blog/cowork-built-in-browser" rel="alternate" />
-    <published>2026-08-26T00:00:00.000Z</published>
-    <updated>2026-08-26T00:00:00.000Z</updated>
-    <author><name>Claude Blog</name></author>
-    <category term="blog" />
-    <content type="text">Claude now has a browser built into Claude Cowork on the desktop app. When a task needs to use a website, a browser opens in the side panel and Claude navigates webpages, reads them, clicks, and types. You can now hand off the web part of the task and stay where you are: Claude can fill in a form, pull numbers from a dashboard, or work through a portal that has no connector. No extension, no setup, and nothing shared from your own browser unless you choose to. Until now, giving Claude the ability to use the web in Cowork meant giving it access to your browser through the Claude in Chrome extension. When the work is on a page you already have open, that&amp;#x27;s still the right choice. But a lot of web tasks don&amp;#x27;t need your browser, just a browser, and now Claude has one. It&amp;#x27;s rolling out this week to Pro, Max, and Team plans in the Claude desktop app. Enterprise admins can turn it on for their organization starting today. Which browser, when It&amp;#x27;s Claude&amp;#x27;s browser, not...</content>
+    <content type="text">Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code&amp;#x27;s work into live, shareable visual pages— including PR walkthroughs, system explainers, dashboards, and release checklists—that update themselves as your session works. A Claude Code session can range from investigating an incident to refactoring a service to analyzing months of data. Artifacts translate the work into a web page anyone can open and explore, like a pull request walkthrough, a dashboard you can filter and sort, or even a release checklist that fills itself out as work gets done. Artifacts make it easier to collaborate on shared work, so teams can spend more time building and less time communicating status updates. Built on the context from your session Claude Code builds an artifact using the full context of your session, including your codebase, your connectors, and the conversation itself. A single incident page can bring together the failing test and the function behind i...</content>
   </entry>
 </feed>
