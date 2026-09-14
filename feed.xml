@@ -5,530 +5,374 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-09-12T06:36:41.733Z</updated>
+  <updated>2026-09-13T06:41:35.550Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/thsottiaux/status/2098639827084480864</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2098639827084480864" rel="alternate" />
-    <published>2026-09-12T05:08:20.000Z</published>
-    <updated>2026-09-12T05:08:20.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
+    <id>https://x.com/steipete/status/2098995230314037516</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2098995230314037516" rel="alternate" />
+    <published>2026-09-13T04:40:35.000Z</published>
+    <updated>2026-09-13T04:40:35.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
     <category term="twitter" />
-    <content type="text">Astra powered ships this week
-
-- Images 2.5
-- GPT-Live-1
-- Agents API
-- Data Agent
-- ChatGPT for Financial Services
-
-and yet it’s not yet DevDay. Busy plans for next week too.</content>
+    <content type="text">all sorted out. they defo been cookin!</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2098615692425851205</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2098615692425851205" rel="alternate" />
-    <published>2026-09-12T03:32:26.000Z</published>
-    <updated>2026-09-12T03:32:26.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence 
-
-But instead they ban the SAT so that everything turns into random lottery and excellence cannot be recognized https://t.co/BCdZC9tOhY</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2098614492066435228</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2098614492066435228" rel="alternate" />
-    <published>2026-09-12T03:27:39.000Z</published>
-    <updated>2026-09-12T03:27:39.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">I have decided to do this after much deliberation: 
-
-All local scheduled tasks live in Codex. All cloud tasks I’m porting over to Grok Bot. 
-
-Makes it a clean split.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2098612714704891959</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2098612714704891959" rel="alternate" />
-    <published>2026-09-12T03:20:36.000Z</published>
-    <updated>2026-09-12T03:20:36.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">Hi Astra users. A reset and a quick update on quality issues that have been posted around.
-
-Working with some of you, we have found and fixed the following issues:
-- Some skills written for previous models were triggering too often or preventing the model from checking its work.
-- An opt-in context management experiment that could cause early stops or replies to older messages. We&apos;ve disabled it. Our rough estimate is that 4-5k users were affected by this experiment.
-- We&apos;ve also removed some badly configured engines that resulted in a measured quality degradation for a long tail of traffic flowing through them.
-
-We’ve also made some more minor improvements and things should feel significantly better across the board. More consistent follow-through, better tracking of your latest message, and better checks on the work as it’s going through the motions.
-
-The examples posted and all the users who worked directly with us were incredibly useful in helping fix things quickly. Always grateful for this incredible community.
-
-And of course, a reset is also landing by midnight today.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/ryolu_/status/2098612137321201942</id>
-    <title>Ryo Lu (@ryolu_)</title>
-    <link href="https://x.com/ryolu_/status/2098612137321201942" rel="alternate" />
-    <published>2026-09-12T03:18:18.000Z</published>
-    <updated>2026-09-12T03:18:18.000Z</updated>
-    <author><name>Ryo Lu</name></author>
-    <category term="twitter" />
-    <content type="text">i emptied my house
-said goodbyes
-and moved to taipei
-
-so far so great! 💛 https://t.co/vvAbELmie8</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2098580235268899123</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2098580235268899123" rel="alternate" />
-    <published>2026-09-12T01:11:32.000Z</published>
-    <updated>2026-09-12T01:11:32.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">I often think and hope that I would have had the courage that the people in United 93 had to prevent an attack on the White House.
-
-I have been thinking about 9/11 all day…
-
-I was at CMU in a lecture in Wean Hall room 7500. People were very scared because one of the planes was near Pittsburgh.
-
-So many heroes on that day.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2098579426178908494</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2098579426178908494" rel="alternate" />
-    <published>2026-09-12T01:08:19.000Z</published>
-    <updated>2026-09-12T01:08:19.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">okay this is not great https://t.co/yzMDp9dIZh</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2098573992097657135</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2098573992097657135" rel="alternate" />
-    <published>2026-09-12T00:46:43.000Z</published>
-    <updated>2026-09-12T00:46:43.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Read why here: https://t.co/qMkuBOwSKk</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2098569976143806918</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2098569976143806918" rel="alternate" />
-    <published>2026-09-12T00:30:46.000Z</published>
-    <updated>2026-09-12T00:30:46.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">Excited to welcome Aidan &amp; @
-Sasha from the Git AI team to OpenAI! 
-
-They are building in the open and have developed an open-source tool that helps developers understand how coding agents contribute to their codebase. 
-
-Together, we’ll make it easier for businesses to see where Codex is making a difference when working through problems for individuals and teams. We’ll also keep Git AI open source and continue investing in it.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2098565668241334366</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2098565668241334366" rel="alternate" />
-    <published>2026-09-12T00:13:39.000Z</published>
-    <updated>2026-09-12T00:13:39.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">I am skeptical of &quot;software factories.&quot;
-
-Other than for verification &amp; testing, I don&apos;t think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop.
-
-Whenever I loop something overnight to build something new = if it makes one wrong assumption the whole thing becomes a waste of tokens. 
-
-What products or features have been built end-to-end with a software factory and no human defining the requirements or checking the work?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2098550718923997430</id>
+    <id>https://x.com/nikunj/status/2098961771289870463</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2098550718923997430" rel="alternate" />
-    <published>2026-09-11T23:14:15.000Z</published>
-    <updated>2026-09-11T23:14:15.000Z</updated>
+    <link href="https://x.com/nikunj/status/2098961771289870463" rel="alternate" />
+    <published>2026-09-13T02:27:37.000Z</published>
+    <updated>2026-09-13T02:27:37.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">“Success has many fathers, but failure is an orphan.”
+    <content type="text">Honestly having kids reduces p(doom) by an exponential amount..
 
-I never realized the gravity of this quote till I saw extremely successful VCs fight for attribution of the hot deals. 
+Case in point: We have been playing the garbage truck and excavator (techno version) for the past hour. 
 
-And you realize this viscerally because the large exits (or markups) are genuinely rare and those are the ones you raise the next fund on (your own or part of the firm). 
+And dancing to it as if we were at a concert. 
 
-This is why in the next couple of years you’ll see many names scrubbed (or conveniently omitted) and everyone wanting to revise history to claim some credit for the ones that eventually succeed. 
-
-So many emerging GPs are facing this explicitly as the only thing they can take to their future LPs is their track record. And it’s been sad to see them not get the credit they actually deserve. 
-
-As @AnjneyMidha said, eventually the new guard will shine as they will figure a way out. But in the short term, hold your founders close since they’ll be the real reference checks! 
-
-(this is genuinely NOT a subtweet at any firm, just what I have been noticing across the market as I’m helping emerging managers)</content>
+With a temporary abandon to what the world is fighting about. https://t.co/4v2bM24SAO</content>
   </entry>
   <entry>
-    <id>https://x.com/amasad/status/2098548464452055437</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2098548464452055437" rel="alternate" />
-    <published>2026-09-11T23:05:17.000Z</published>
-    <updated>2026-09-11T23:05:17.000Z</updated>
-    <author><name>Amjad Masad</name></author>
+    <id>https://x.com/petergyang/status/2098945475038912741</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2098945475038912741" rel="alternate" />
+    <published>2026-09-13T01:22:52.000Z</published>
+    <updated>2026-09-13T01:22:52.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">Replit acquires a business entirely built on Replit. I expect first of many to come. https://t.co/hL516eAAu2</content>
+    <content type="text">What if this game worked like this:
+
+1. One person is commander and can play this like a RTS (macro)
+
+2. The rest of the team plays individual marines and characters (micro)
+
+Probably a terrible idea but would be cool 😎 https://t.co/CQF0dg0tBJ</content>
   </entry>
   <entry>
-    <id>https://x.com/trq212/status/2098531560643539440</id>
+    <id>https://x.com/steipete/status/2098931686042210381</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2098931686042210381" rel="alternate" />
+    <published>2026-09-13T00:28:04.000Z</published>
+    <updated>2026-09-13T00:28:04.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">Anyone got an invite code for Meta&apos;s Muse? 👉👈
+
+I saw their Soul.md file and now i&apos;m curious.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2098905091776373125</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2098905091776373125" rel="alternate" />
+    <published>2026-09-12T22:42:24.000Z</published>
+    <updated>2026-09-12T22:42:24.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">me asking fable 5.1 ultracode to explain whether the internet is truly a series of pipes https://t.co/Y5Bso2F5C8</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2098898413366435903</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2098898413366435903" rel="alternate" />
+    <published>2026-09-12T22:15:52.000Z</published>
+    <updated>2026-09-12T22:15:52.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">finally, im an author! https://t.co/brRLLnHA9d</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2098869942988718426</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2098869942988718426" rel="alternate" />
+    <published>2026-09-12T20:22:44.000Z</published>
+    <updated>2026-09-12T20:22:44.000Z</updated>
+    <author><name>Matt Turck</name></author>
+    <category term="twitter" />
+    <content type="text">Breaking: VCs decide to pace their returns.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2098863831732863310</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2098863831732863310" rel="alternate" />
+    <published>2026-09-12T19:58:27.000Z</published>
+    <updated>2026-09-12T19:58:27.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">This is huge https://t.co/3wNhYTyWqH</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2098860941391872132</id>
     <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2098531560643539440" rel="alternate" />
-    <published>2026-09-11T21:58:07.000Z</published>
-    <updated>2026-09-11T21:58:07.000Z</updated>
+    <link href="https://x.com/trq212/status/2098860941391872132" rel="alternate" />
+    <published>2026-09-12T19:46:58.000Z</published>
+    <updated>2026-09-12T19:46:58.000Z</updated>
     <author><name>Thariq</name></author>
     <category term="twitter" />
-    <content type="text">we heard feedback that it&apos;s hard to know if your skills are still working with new model releases
+    <content type="text">If you showed me Claude Code today in 2018, I would have thought it was AGI.
 
-plugin evals are here to help
+We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks.
 
-run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs</content>
+Things are accelerating faster than I can honestly stay on top of. Most people I know in AI are tired but powering through. I fear we will need more than that.
+
+We need time to harden our systems, and for society to deliberate in how this technology is used and deployed.
+
+I have a fairly low p(doom), I am confident that we can get through this! Humanity is incredibly reslient and adaptable, but this comes from our ability to make hard decisions- like this one, together.</content>
   </entry>
   <entry>
-    <id>https://x.com/rauchg/status/2098531157230969062</id>
+    <id>https://x.com/danshipper/status/2098860370639130859</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2098860370639130859" rel="alternate" />
+    <published>2026-09-12T19:44:41.000Z</published>
+    <updated>2026-09-12T19:44:41.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">Okay for the avoidance of doubt this is a joke. Someone pls community note</content>
+  </entry>
+  <entry>
+    <id>https://x.com/realmadhuguru/status/2098859477219037691</id>
+    <title>Madhu Guru (@realmadhuguru)</title>
+    <link href="https://x.com/realmadhuguru/status/2098859477219037691" rel="alternate" />
+    <published>2026-09-12T19:41:08.000Z</published>
+    <updated>2026-09-12T19:41:08.000Z</updated>
+    <author><name>Madhu Guru</name></author>
+    <category term="twitter" />
+    <content type="text">Prediction: we will see movement of a lot more of the brightest minds on frontier model evals towards groups like METR over the next 12 months.
+
+This skill is currently concentrated in 
+in a few labs,  data providers and independent research groups.
+
+A combination of increased funding, financial independence from lab equity and the call to meet the existential risk of AI will motivate a migration of minds to this bigger cause.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2098847298335687132</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2098847298335687132" rel="alternate" />
+    <published>2026-09-12T18:52:45.000Z</published>
+    <updated>2026-09-12T18:52:45.000Z</updated>
+    <author><name>Matt Turck</name></author>
+    <category term="twitter" />
+    <content type="text">Breaking: Dario saves humanity but kills an entire industry of mind-blown tweets and breathless AI podcasts</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2098846399949627553</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2098846399949627553" rel="alternate" />
+    <published>2026-09-12T18:49:11.000Z</published>
+    <updated>2026-09-12T18:49:11.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Can’t believe ASI will come out before StarCraft. 
+
+Seriously just use AI to generate half the graphics with human oversight, I won’t mind if we can get a quality game out sooner.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2098843136328171540</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2098843136328171540" rel="alternate" />
+    <published>2026-09-12T18:36:12.000Z</published>
+    <updated>2026-09-12T18:36:12.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">wtf? 2030? 😂 🤦
+
+Someone should just use AI to make StarCraft 3 at this point… https://t.co/RInemiP3nC</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2098833404707922239</id>
     <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2098531157230969062" rel="alternate" />
-    <published>2026-09-11T21:56:31.000Z</published>
-    <updated>2026-09-11T21:56:31.000Z</updated>
+    <link href="https://x.com/rauchg/status/2098833404707922239" rel="alternate" />
+    <published>2026-09-12T17:57:32.000Z</published>
+    <updated>2026-09-12T17:57:32.000Z</updated>
     <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure.
+    <content type="text">I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript &amp;amp; Python ones.
 
-AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly.
+The days of language or runtime choice based on human convenience are over. Agents are the new compilers.
 
-Proud to serve Tailscale, the 🐐 networking technology company https://t.co/ERS5GKJx6D</content>
+They compile intent into fast software.</content>
   </entry>
   <entry>
-    <id>https://x.com/steipete/status/2098527982709256637</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2098527982709256637" rel="alternate" />
-    <published>2026-09-11T21:43:54.000Z</published>
-    <updated>2026-09-11T21:43:54.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
+    <id>https://x.com/thenanyu/status/2098829351781593191</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2098829351781593191" rel="alternate" />
+    <published>2026-09-12T17:41:26.000Z</published>
+    <updated>2026-09-12T17:41:26.000Z</updated>
+    <author><name>Nan Yu</name></author>
     <category term="twitter" />
-    <content type="text">Had to submit a patch to @trycua to make keys work reliable under Linux, dope framework overall tho!</content>
+    <content type="text">https://t.co/h69bQJ21v9 https://t.co/LRgNJtrq5k</content>
   </entry>
   <entry>
-    <id>https://x.com/steipete/status/2098527519213604889</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2098527519213604889" rel="alternate" />
-    <published>2026-09-11T21:42:03.000Z</published>
-    <updated>2026-09-11T21:42:03.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
+    <id>https://x.com/amasad/status/2098828265800835310</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2098828265800835310" rel="alternate" />
+    <published>2026-09-12T17:37:07.000Z</published>
+    <updated>2026-09-12T17:37:07.000Z</updated>
+    <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">Astra on OC in a cloud session playing Doom with CUA.
-Not quite AGI yet, but probably beats fly brain. https://t.co/SrJlaey3MB</content>
+    <content type="text">Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently. https://t.co/8mPnI81HJG</content>
   </entry>
   <entry>
-    <id>https://x.com/mattturck/status/2098517023286247675</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2098517023286247675" rel="alternate" />
-    <published>2026-09-11T21:00:21.000Z</published>
-    <updated>2026-09-11T21:00:21.000Z</updated>
-    <author><name>Matt Turck</name></author>
+    <id>https://x.com/alexalbert__/status/2098814342443761909</id>
+    <title>Alex Albert (@alexalbert__)</title>
+    <link href="https://x.com/alexalbert__/status/2098814342443761909" rel="alternate" />
+    <published>2026-09-12T16:41:47.000Z</published>
+    <updated>2026-09-12T16:41:47.000Z</updated>
+    <author><name>Alex Albert</name></author>
     <category term="twitter" />
-    <content type="text">You can see us on the list of tenants here:
-https://t.co/DuGS9PLTIw
+    <content type="text">Worth spending a few minutes this weekend to read this essay in full. 
 
-and you can see part of Kenton&apos;s story here:
-https://t.co/3KVbiF1Nqy</content>
+Embedded evaluators might sound unusual in tech but it&apos;s pretty normal in other industries. Big banks have federal examiners with desks in the building and every nuclear plant in the US has inspectors who work on site full time. I think frontier AI labs should work the same way and this is a very practical first step.</content>
   </entry>
   <entry>
-    <id>https://x.com/mattturck/status/2098517022049190227</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2098517022049190227" rel="alternate" />
-    <published>2026-09-11T21:00:21.000Z</published>
-    <updated>2026-09-11T21:00:21.000Z</updated>
-    <author><name>Matt Turck</name></author>
+    <id>https://x.com/karpathy/status/2098811935114551617</id>
+    <title>Andrej Karpathy (@karpathy)</title>
+    <link href="https://x.com/karpathy/status/2098811935114551617" rel="alternate" />
+    <published>2026-09-12T16:32:14.000Z</published>
+    <updated>2026-09-12T16:32:14.000Z</updated>
+    <author><name>Andrej Karpathy</name></author>
     <category term="twitter" />
-    <content type="text">My 9/11 story
-(lightly updated version of a blog post I wrote in 2016 for the 15th anniversary)
-
-In September 2001, I was the young co-founder of a NYC tech startup, TripleHop Technologies.   
-
-We were building enterprise search software, using whatever AI existed at the time, building what would be today close to what a Glean does.  
-
-We had maybe 25 people on the team at the time.  Pretty much all of us were at the very begining of our careers, barely out of school, unexperienced, but highly enthusiastic.
-
-Our office was located on the 53rd floor of the North Tower at the World Trade Center.
-
-We had ended up at the World Trade Center fairly randomly.  Our first office was located on Water Street, right above a 24 hour McDonald’s.  It looked more like a decrepit apartment than an actual office, occasionally didn’t smell that great, but it was cheap and good enough.
-
-But after a year or so, the team had grown, and that office had become too small, so we started looking for a bigger one.
-
-At the time, for a reason or another, there wasn’t a lot of office inventory on the market in the area where we wanted to be.  
-
-We looked for a bit, couldn’t find anything suitable, until one of us had the strange idea of inquiring at the World Trade Center, which felt like a long shot. 
-
-Turned out that the World Trade Center had some smaller offices, and some availability.  In those dot-com bubble days, they also were quite eager to attract young tech startups, and were willing to offer us some preferential terms. 
-
-So we went to take a look, and visited two offices in the North Tower. 
-
-One was a large office at the very top of the building, perhaps the 104th floor, I don’t exactly recall. It had unbelievable views, but it really felt like taking that office would be pushing it – even with a good deal, we were just a little seed-funded startup, after all. Also, the elevator ride took forever. 
-
-So instead we chose the smaller, cheaper office on the 53rd floor.  
-
-We really liked our new office, and the World Trade Center in general.  It felt like a little town, with a lot of retail and amenities below the surface, and its own subway station. We ate a bit too often at a Sbarro joint located right outside the ground floor elevator.
-
-The night before 9/11, my co-founder Renaud Laplanche and I worked very late into the evening, as we did most nights.  In true nerdy founder fashion, we played a ping pong game or two, as we did pretty much every time before calling it a night – the ping pong table being our attempt at creating a startup culture.  
-
-I left, and think Renaud may have stayed on that night to finish working on a proposal for a prospective customer.
-
-The morning after, when the plane hit the North Tower at 8:46am, I was home, about to leave for work.   
-
-Like many young tech people, we were night owls but not early birds, typically showing up at the office around 9:30am.  
-
-I had the TV on, and as about to turn it off and walk out of the door, saw the “breaking news” scroll at the bottom of the screen mentioning a plane collision, but no image.    
-
-As I had a faraway view of the World Trade Center from the window of my West Village studio apartment, I looked up and saw what seemed like a little bit of smoke at the top.
-
-I assumed the plane that had hit the tower was a small tourist plane.  We would often see them fly by the office, above the nearby Hudson River, often at altitudes that felt very close to us.  It had crossed my mind more than once that it wouldn’t take that much for one of them to hit the tower by accident.
-
-Then, like so many others, I saw those unbelievable images on TV. I called my family back in France.  Shortly thereafter, phone lines went down. 
-
-The rest of the day was surreal and gut-wrenching, although I remember feeling mostly numb.
-
-I went on a mad scramble to see if everyone at TripleHop was ok. For many hours, we just didn’t know.  With no phone working, we accounted for most people via email, but a number did not reply for a while.
-
-It eventually turned out only one person from the team, Kenton Beerman, was at the office at 8:46am.   He made it out shocked but unscathed.
-
-Perhaps as a way to cope psychologically, or just because they were amazing people, I remember that the team was incredibly focused on saving the business that day.  
-
-This was obviously pre-AWS, we had our own server room in our office, but thankfully our CTO Joaquin Delgado and his team had backed everything up.  By the end of the day, we were essentially back up and running.
-
-After a few days, we found shared office space.  But business didn’t go back to usual. In addition to everything else, 9/11 was the final nail in the coffin for the economy after the dot com bubble burst.  The next couple of years were a complete nuclear winter.
-
-Thankfully, we had raised a $5M Series A (a solid amount at hte time!) a few months before 9/11, which kept us afloat.  We also managed to win a few deals in Europe, which gave us a bit more cash.  
-
-Eventually business picked up strongly in late 2003 and 2004, potential acquirers came knocking, and TripleHop was acquired by Oracle in 2005.
-
-We all went on with our lives.  My co-founder Renaud reached extraordinary entrepreneurial success and defined a whole new industry.
-
-We all have families now.  I occasionally see pictures of beautiful children on my Facebook feed.  
-
-I rarely talk about 9/11, and have tried to not think about it too much. 
-
-It took me a very long time to go visit the 9/11 memorial downtown.  
-
-I finally made it just a few weeks ago, after a board meeting nearby, walking there almost by accident.
-
-Looking at the names engraved in the marble, I was reminded that it wouldn’t have taken much.  An hour later, a few floors lower. Or choosing that office on the 104th floor instead of the other one, a few months prior.
-
-And I feel deeply connected not just to those names, but to New York. 
-
-Before 9/11, New York felt like an exciting, but ultimately foreign, city. After 9/11, I truly started feeling like a New Yorker.  
-
-Everyone remembers where they were on 9/11.  Everyone has a story of some sort, many infinitely more tragic.  
-
-This is just mine.</content>
+    <content type="text">I love this and really hope we can come together as an industry and make it happen. https://t.co/lz2vjjJ5XD https://t.co/jF2vhYXlAF</content>
   </entry>
   <entry>
-    <id>https://x.com/trq212/status/2098490139798655427</id>
-    <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2098490139798655427" rel="alternate" />
-    <published>2026-09-11T19:13:32.000Z</published>
-    <updated>2026-09-11T19:13:32.000Z</updated>
-    <author><name>Thariq</name></author>
+    <id>https://x.com/sama/status/2098811563415150910</id>
+    <title>Sam Altman (@sama)</title>
+    <link href="https://x.com/sama/status/2098811563415150910" rel="alternate" />
+    <published>2026-09-12T16:30:45.000Z</published>
+    <updated>2026-09-12T16:30:45.000Z</updated>
+    <author><name>Sam Altman</name></author>
     <category term="twitter" />
-    <content type="text">it&apos;s basically impossible to interpret evals by looking at just at the pass/fail scores these days
+    <content type="text">I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we&apos;ve had at OpenAI in recent weeks.
 
-many of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model&apos;s answer makes more sense than the expected eval result</content>
+Committing to having independent evaluators with employee-like access is a great idea, and we will do the same. We&apos;ll have more to share soon. https://t.co/1YhhIybZX7</content>
   </entry>
   <entry>
-    <id>https://x.com/zarazhangrui/status/2098483800456179923</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2098483800456179923" rel="alternate" />
-    <published>2026-09-11T18:48:20.000Z</published>
-    <updated>2026-09-11T18:48:20.000Z</updated>
-    <author><name>Zara Zhang</name></author>
+    <id>https://x.com/realmadhuguru/status/2098803717432860987</id>
+    <title>Madhu Guru (@realmadhuguru)</title>
+    <link href="https://x.com/realmadhuguru/status/2098803717432860987" rel="alternate" />
+    <published>2026-09-12T15:59:34.000Z</published>
+    <updated>2026-09-12T15:59:34.000Z</updated>
+    <author><name>Madhu Guru</name></author>
     <category term="twitter" />
-    <content type="text">I think the idea of a &quot;one-person company&quot; is overrated
+    <content type="text">Before we solve AI alignment, we have a pretty serious human alignment problem. 
 
-Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer together, celebrate together...
+It is jarring to see the bad-faith reaction to Dario&apos;s piece from so many sides. I don&apos;t agree with every point of his essay but do believe it is a thoughtful piece everyone should read. It builds on some of the ideas @demishassabis  raised in July.
 
-It is extremely easy to lose motivation when you don&apos;t tie yourself to the mast together with somebody else</content>
+It is clear we need to focus on aligning amongst us humans on a few questions:
+
+What is the opportunity, risks, second-order effects?
+
+How do we measure all of this?
+
+How do companies, governments and countries coordinate?
+
+AI will benefit humanity if we can get our act together and move together.</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2098481799047647715</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2098481799047647715" rel="alternate" />
-    <published>2026-09-11T18:40:23.000Z</published>
-    <updated>2026-09-11T18:40:23.000Z</updated>
-    <author><name>Dan Shipper</name></author>
+    <id>https://x.com/rauchg/status/2098803573861621778</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2098803573861621778" rel="alternate" />
+    <published>2026-09-12T15:59:00.000Z</published>
+    <updated>2026-09-12T15:59:00.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">better benchmark scores don&apos;t tell you much about how well a model does on your real work 
+    <content type="text">https://t.co/OL0LzGsXKY can now orchestrate subagents with different models &amp; reasoning efforts.
 
-that&apos;s why for the last 3 years @every we&apos;ve done vibe checks on new models: long-form reviews based on hands-on testing on each model for our real work
+e.g: Fable planning and Grok executing. Fable is a genius, Grok is a fast workhorse.
 
-now we&apos;re doubling down, and getting more quantitative
+① Simple. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 or your prompt can indicate this preference.
 
-@hammer_mt and @nityeshaga built an internal platform for all of us to make personal benchmarks based on our real day-to-day work
+② Steer as you please. It’s extremely enjoyable to use. You just talk to the agent and interrupt at will.
 
-our vibe checks on new models used to be vibes only
-
-now we&apos;re starting to get more quantitative with checks
-
-very psyched about this :)</content>
+Worth noting this works with any model, any gateway. No fancy server-side routing. Just harnessing (no pun intended) the model’s intelligence and ability to orchestrate.</content>
   </entry>
   <entry>
-    <id>https://x.com/levie/status/2098478938003841123</id>
+    <id>https://x.com/rauchg/status/2098787667030712757</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2098787667030712757" rel="alternate" />
+    <published>2026-09-12T14:55:48.000Z</published>
+    <updated>2026-09-12T14:55:48.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy.
+
+The OpenAI hacking HuggingFace argument is spurious. An agent in “ExploitGym”… exploited. Our adversaries have the training techniques, the data, and the will to attack. And they won’t be slowed down with “embedded evaluators.” They’ll likely have embedded accelerators!</content>
+  </entry>
+  <entry>
+    <id>https://x.com/levie/status/2098785357307539882</id>
     <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2098478938003841123" rel="alternate" />
-    <published>2026-09-11T18:29:01.000Z</published>
-    <updated>2026-09-11T18:29:01.000Z</updated>
+    <link href="https://x.com/levie/status/2098785357307539882" rel="alternate" />
+    <published>2026-09-12T14:46:37.000Z</published>
+    <updated>2026-09-12T14:46:37.000Z</updated>
     <author><name>Aaron Levie</name></author>
     <category term="twitter" />
-    <content type="text">This one is very cool. Now you can mount Box to agent sandboxes to make it far easier for an agent to read and write files on the agent&apos;s computer. As AI agents execute critical workflows in the enterprise, they&apos;re going to need the same primitives that people have had. https://t.co/h1BW92pMtH</content>
+    <content type="text">Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not.
+
+At the level of capability we’re seeing from models there will inevitably be some form of coordinated self-regulation of the industry; that’s generally a good thing. The big question will be if everyone can agree to what that is. However, the way things are headed politically there’s a chance that the labs won’t even get a say in it.
+
+And then the bigger question yet is do all the countries participate or not. Any “slow down” hinges on broad participation, which from a game theory standpoint isn’t likely until the risks are more severe and obvious.
+
+Expect this to be pretty messy for a while.</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2098476917448118321</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2098476917448118321" rel="alternate" />
-    <published>2026-09-11T18:20:59.000Z</published>
-    <updated>2026-09-11T18:20:59.000Z</updated>
-    <author><name>Dan Shipper</name></author>
+    <id>https://x.com/steipete/status/2098784877495939145</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2098784877495939145" rel="alternate" />
+    <published>2026-09-12T14:44:42.000Z</published>
+    <updated>2026-09-12T14:44:42.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
     <category term="twitter" />
-    <content type="text">join the most ai pilled team on earth
-
-be at the center of the AI wave, with access to the new models, tools, and teams that matter
-
-do the best writing of your life: https://t.co/PDmrEAt4Yk</content>
+    <content type="text">This is amazing. Add Master of Orion 2 next! https://t.co/yHjlwsOLaJ</content>
   </entry>
   <entry>
-    <id>https://x.com/adityaag/status/2098472520798114263</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2098472520798114263" rel="alternate" />
-    <published>2026-09-11T18:03:31.000Z</published>
-    <updated>2026-09-11T18:03:31.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
+    <id>https://x.com/thsottiaux/status/2098685367058612394</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2098685367058612394" rel="alternate" />
+    <published>2026-09-12T08:09:17.000Z</published>
+    <updated>2026-09-12T08:09:17.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">RSVP: https://t.co/WiWHBZ8pW7</content>
+    <content type="text">Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG</content>
   </entry>
   <entry>
-    <id>https://x.com/adityaag/status/2098472517845328303</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2098472517845328303" rel="alternate" />
-    <published>2026-09-11T18:03:30.000Z</published>
-    <updated>2026-09-11T18:03:30.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
+    <id>https://x.com/garrytan/status/2098666551629267324</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2098666551629267324" rel="alternate" />
+    <published>2026-09-12T06:54:31.000Z</published>
+    <updated>2026-09-12T06:54:31.000Z</updated>
+    <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">How do we encourage true innovation in CA?
-
-How do we enable a two-party state? 
-
-How should technology be regulated?
-
-We&apos;re hosting conversations about tech policy with decision makers at @spc this fall. 
-
-@SteveHiltonx on Sept 23rd. https://t.co/sThS98c6tx</content>
+    <content type="text">Either you die a system of record or you live long enough to become a domain-specific harness https://t.co/bwpSoOeFPr</content>
   </entry>
   <entry>
-    <id>https://x.com/realmadhuguru/status/2098448469497356569</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2098448469497356569" rel="alternate" />
-    <published>2026-09-11T16:27:57.000Z</published>
-    <updated>2026-09-11T16:27:57.000Z</updated>
-    <author><name>Madhu Guru</name></author>
-    <category term="twitter" />
-    <content type="text">https://t.co/Vkfx96ev4e</content>
-  </entry>
-  <entry>
-    <id>https://x.com/realmadhuguru/status/2098448235048378456</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2098448235048378456" rel="alternate" />
-    <published>2026-09-11T16:27:01.000Z</published>
-    <updated>2026-09-11T16:27:01.000Z</updated>
-    <author><name>Madhu Guru</name></author>
-    <category term="twitter" />
-    <content type="text">Why most enterprise AI efforts fail.
-
-1/ Using old-school playbooks for AI
-The CEO picks a trusted lieutenant to lead a central AI team. That leader pulls in a group of trusted people from across the company.
-
-The problem here is the skill gap.
-
-The team structure, product patterns, how you launch and learn that got you here do not work with AI. Much of product development over the last 15 yrs has been incremental improvements.
-
-AI requires experimentation and invention.
-
-2/ Under-investing in evals
-
-Most enterprises don&apos;t quite understand the importance of this and what good looks like here. (I have a whole evals series in the comments - check it out)
-
-3/ Building AI for the company from the outside
-
-The central AI team declares itself a platform team and builds tools that everyone is supposed to adopt.
-
-These products are often disconnected from the actual workflows, context and judgment of the people doing the work.
-
-Begrudging adoption follows. But not meaningful productivity gains.
-
-What you should do:
-
-1/ Hire leaders who have done successfully built AI products. You need technical/product depth plus the ability to earn trust with the people whose jobs they’re helping reinvent.
-
-2/ Make evals a first class citizen in your AI efforts
-
-3/ Embed your best AI builders inside the functions you want to transform. Build * with * finance , build * with * sales, build * with * support.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/ryolu_/status/2098324260867772806</id>
-    <title>Ryo Lu (@ryolu_)</title>
-    <link href="https://x.com/ryolu_/status/2098324260867772806" rel="alternate" />
-    <published>2026-09-11T08:14:23.000Z</published>
-    <updated>2026-09-11T08:14:23.000Z</updated>
-    <author><name>Ryo Lu</name></author>
-    <category term="twitter" />
-    <content type="text">long-lived agents for your big ideas
-now in Cursor https://t.co/2sa0rX2415</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2098317466682179643</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2098317466682179643" rel="alternate" />
-    <published>2026-09-11T07:47:23.000Z</published>
-    <updated>2026-09-11T07:47:23.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">Routines with budgets! https://t.co/bAweXu6MJt</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2098316298820219058</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2098316298820219058" rel="alternate" />
-    <published>2026-09-11T07:42:45.000Z</published>
-    <updated>2026-09-11T07:42:45.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">Love seeing all the Astra 3D experiments on Replit! https://t.co/PC7FBalOeW</content>
-  </entry>
-  <entry>
-    <id>https://www.youtube.com/watch?v=uLDK4l_-gUE</id>
-    <title>No Priors: Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong</title>
-    <link href="https://www.youtube.com/watch?v=uLDK4l_-gUE" rel="alternate" />
-    <published>2026-09-10T10:00:00.000Z</published>
-    <updated>2026-09-10T10:00:00.000Z</updated>
-    <author><name>No Priors</name></author>
+    <id>https://www.youtube.com/@RedpointAI</id>
+    <title>Unsupervised Learning: Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp;amp; Takeover Odds</title>
+    <link href="https://www.youtube.com/@RedpointAI" rel="alternate" />
+    <published>2026-09-03T13:03:11.000Z</published>
+    <updated>2026-09-03T13:03:11.000Z</updated>
+    <author><name>Unsupervised Learning</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:19
-The minimum fee typically on a debit or credit card transaction is about 30¢ fee flat plus the additional percentage. Arguably, it doesn&apos;t really work well for anything under a dollar. Certainly, it doesn&apos;t make sense to pay 30¢ to send a 1¢ payment. And I believe the stats we last saw on this are that about, like, 76% of the agent ecommerce transactions we&apos;re seeing are under 30¢. We don&apos;t want the AIs to be unbanked.
-
-Speaker 1 | 00:19 - 00:37
-You know, if we wanna ba...</content>
+    <content type="text">Speaker 1 | 00:00 - 00:37
+The OpenAI Hugging Face incident has dominated the discourse these past days. It feels straight out of a sci fi novel, some of the things that happened, you know, the agent coordination, the obsession with the scores, and and what they would want. And we had the perfect person on today to just discuss everything that happened and the implications for AI safety going forward in Buck Schlegeris, who&apos;s the CEO of Redwood Research. Redwood was deeply involved in the creatio...</content>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/claude-in-chrome-generally-available</id>
+    <title>Claude Blog: Claude in Chrome is generally available </title>
+    <link href="https://claude.com/blog/claude-in-chrome-generally-available" rel="alternate" />
+    <published>2026-08-26T00:00:00.000Z</published>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <author><name>Claude Blog</name></author>
+    <category term="blog" />
+    <content type="text">Claude in Chrome is now generally available on every paid Claude plan. Claude can now also take actions autonomously in the browser, instead of needing approval for every one. A safety classifier validates each action before it’s performed to ensure it’s safe and matches your request. Many of the tools you use every day connect to Claude . But many others don’t, such as internal dashboards, legacy systems, and vendor portals. Claude in Chrome lets Claude access those. It can view the page you’re on and take actions like reading and typing text, clicking links, navigating between pages, and filling out forms, using your existing logins. We first announced Claude in Chrome as a pilot last year, so we could test it while also shoring up our defenses against prompt injection : malicious instructions hidden in websites, emails, or documents that try to trick an AI agent into acting against the user’s wishes. These defenses, described below, give us the confidence to make Claude in Chrome ge...</content>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/cowork-built-in-browser</id>
+    <title>Claude Blog: Claude gets its own browser in Cowork</title>
+    <link href="https://claude.com/blog/cowork-built-in-browser" rel="alternate" />
+    <published>2026-08-26T00:00:00.000Z</published>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <author><name>Claude Blog</name></author>
+    <category term="blog" />
+    <content type="text">Claude now has a browser built into Claude Cowork on the desktop app. When a task needs to use a website, a browser opens in the side panel and Claude navigates webpages, reads them, clicks, and types. You can now hand off the web part of the task and stay where you are: Claude can fill in a form, pull numbers from a dashboard, or work through a portal that has no connector. No extension, no setup, and nothing shared from your own browser unless you choose to. Until now, giving Claude the ability to use the web in Cowork meant giving it access to your browser through the Claude in Chrome extension. When the work is on a page you already have open, that&amp;#x27;s still the right choice. But a lot of web tasks don&amp;#x27;t need your browser, just a browser, and now Claude has one. It&amp;#x27;s rolling out this week to Pro, Max, and Team plans in the Claude desktop app. Enterprise admins can turn it on for their organization starting today. Which browser, when It&amp;#x27;s Claude&amp;#x27;s browser, not...</content>
   </entry>
 </feed>
