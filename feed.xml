@@ -5,408 +5,441 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-09-16T06:42:14.459Z</updated>
+  <updated>2026-09-17T06:42:41.601Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/amasad/status/2100056178705514703</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2100056178705514703" rel="alternate" />
-    <published>2026-09-16T02:56:24.000Z</published>
-    <updated>2026-09-16T02:56:24.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">This is cool, but if your output domain is known in advance, why not just train a model to produce logprobs over enums? https://t.co/rmyen2d7iM</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2100045670845763791</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2100045670845763791" rel="alternate" />
-    <published>2026-09-16T02:14:39.000Z</published>
-    <updated>2026-09-16T02:14:39.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">If you’re curious about Effective Altruism, the origins of the cult, their tactics, and their influence network — check out my conversation with Tucker from two years ago: https://t.co/HOUUx56ZgQ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2100027487681953834</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2100027487681953834" rel="alternate" />
-    <published>2026-09-16T01:02:24.000Z</published>
-    <updated>2026-09-16T01:02:24.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Thank you all for your replies!
-
-Just sent @bot codes to a bunch of you — a few use cases that stood out:
-
-For growth &amp; clients:
-→ Find leads, draft outreach, and turn wins into case studies @kouroshbaloo
-→ Build a competitor comparison matrix with sources @PaulWeissAI
-
-For ops &amp; shipping:
-→ Monitor hundreds of ad accounts and catch broken signup/payment flows @yashjain10k
-→ Watch Jira, flag blockers, and draft the weekly status update @partykma
-→ Triage support tickets, draft replies, and escalate with full context @jurlycat
-→ For hotel owners: regularly test the booking flow so website booking errors get caught @LeenCanvas
-→ Automate paperwork and back-office workflows for an electrical contracting business @kerwinv101
-
-For research &amp; content:
-→ Monitor AI builders on X, verify sources, then turn wins into hooks and scripts @jenni489471
-→ A research desk for AI that turns noise into a daily brief @Orynsky
-
-Will run this again if I get more codes. Meanwhile consider subscribing to my YouTube below :)
-https://t.co/SKvvXlY6Km</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2100008917980102863</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2100008917980102863" rel="alternate" />
-    <published>2026-09-15T23:48:36.000Z</published>
-    <updated>2026-09-15T23:48:36.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">I’m meeting one too many founders who think the money spigot will magically flow and the next round will happen no matter what..
-
-Capital is a weapon for acceleration. Used well you’re unbeatable. If you are so dependent on it, a simple downturn can lead to not so great consequences. If you don’t believe me, a simple prompt asking for this history will suffice. 
-
-So been sharing this with a lot of the founders we advise: figure out the default path that ensures the survival of your company and a great self fulfilling business. 
-
-And then figure out scenarios where abundant (or lack of) capital and what it does to your business. 
-
-The only constant is change and we don’t know how capital markets evolve in the next 6-18 months!</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2099980972641124629</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2099980972641124629" rel="alternate" />
-    <published>2026-09-15T21:57:34.000Z</published>
-    <updated>2026-09-15T21:57:34.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">I think Muse is going to win tbh https://t.co/ptFcAa9Zu0</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2099978848255533280</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2099978848255533280" rel="alternate" />
-    <published>2026-09-15T21:49:07.000Z</published>
-    <updated>2026-09-15T21:49:07.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">My attempt to get Muse to negotiate my Xfinity cable bill has sadly failed https://t.co/efkmGmHi2h</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2099976021311398230</id>
+    <id>https://x.com/levie/status/2100448648672993540</id>
     <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2099976021311398230" rel="alternate" />
-    <published>2026-09-15T21:37:53.000Z</published>
-    <updated>2026-09-15T21:37:53.000Z</updated>
+    <link href="https://x.com/levie/status/2100448648672993540" rel="alternate" />
+    <published>2026-09-17T04:55:56.000Z</published>
+    <updated>2026-09-17T04:55:56.000Z</updated>
     <author><name>Aaron Levie</name></author>
     <category term="twitter" />
-    <content type="text">There’s a massive chasm between the power of AI models and the ultimate workflows that enterprises are trying to automate. This gap is the opportunity for the applied AI layer to fill. 
+    <content type="text">Incredibly exciting that there are entire universes of AI innovation that still exist that weren’t even on most of our radars.
 
-You need to connect the intelligence to workflows, often reengineer processes, aggregate the right context and data, allow for the right human in the loop experiences, drive change management, do domain specific evals, manage the security and governance of the data and process, and much more.
+Being able to process information insanely quickly, at crazy low costs, with high levels of capability is huge for a wide number of enterprise tasks.
 
-We’re going to see this layer emerge in every vertical and horizontal category. And ironically, even as models improve at incredible rates, this layer still must exist - and may become even more important and useful. Greater capability enables even more complex tasks to be tackled, amplifying the challenges if you don’t do this well.
+Data classification tasks, routing decisions inside of a workflow, decision making when handed a particular domain problem, quick judgment calls about safety or security, and more all are the gates in a large number of  processes. 
 
-Was super fun chatting with @sonyatweetybird on all the things going into AI diffusion.</content>
+This model and approach could be quite cool in agentic workflows in the enterprise.</content>
   </entry>
   <entry>
-    <id>https://x.com/rauchg/status/2099974859023683975</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2099974859023683975" rel="alternate" />
-    <published>2026-09-15T21:33:16.000Z</published>
-    <updated>2026-09-15T21:33:16.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Safari 27 supports JSPI, a magic WebAssembly capability for sync native code to suspend on an async 𝙿𝚛𝚘𝚖𝚒𝚜𝚎.
-
-On https://t.co/OL0LzGtvAw, libfx uses the built-in browser 𝚏𝚎𝚝𝚌𝚑 stack to make API calls.
-
-As more code goes native, I expect WebAssembly to play a huge role in the future of the web.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2099968897323778416</id>
+    <id>https://x.com/petergyang/status/2100402721803342098</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2099968897323778416" rel="alternate" />
-    <published>2026-09-15T21:09:35.000Z</published>
-    <updated>2026-09-15T21:09:35.000Z</updated>
+    <link href="https://x.com/petergyang/status/2100402721803342098" rel="alternate" />
+    <published>2026-09-17T01:53:27.000Z</published>
+    <updated>2026-09-17T01:53:27.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">The Grok @bot team asked me if I had any advice for solopreneurs.
-
-I’ve only been doing this full time for three months, but my advice is to design your business so you can spend more time doing work you actually enjoy.
-
-There will always be choices that could make more money. But if those choices leave you doing work you don’t enjoy, then that defeats the purpose of becoming a solopreneur in the first place.
-
-Delegate that boring work to your bots instead or just don&apos;t do it :)
-
-Was super fun joining the @SpaceXAI live stream this morning, the team is still going strong here: https://t.co/u2qwydK7M8</content>
+    <content type="text">Also we love these books that you get - the storytelling in them is much better than bob books and other alternatives. https://t.co/m6pg9kGZhE</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2099964487667454097</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2099964487667454097" rel="alternate" />
-    <published>2026-09-15T20:52:03.000Z</published>
-    <updated>2026-09-15T20:52:03.000Z</updated>
-    <author><name>Garry Tan</name></author>
+    <id>https://x.com/petergyang/status/2100402704275435872</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2100402704275435872" rel="alternate" />
+    <published>2026-09-17T01:53:22.000Z</published>
+    <updated>2026-09-17T01:53:22.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">I just started using @capydotai with GStack/GBrain on some fix waves on outstanding issues/PRs and it did what would have taken a day with raw Codex/Claude Code in about half as much time, using the same frontier models. 
+    <content type="text">My 4.5 year old loves learning to read using @Once_Reading, especially making the silliest faces as part of the photo feature.
 
-I&apos;m amazed.</content>
+It&apos;s become a nightly ritual for us just like it&apos;s been for @clairevo!
+
+Plus I have to give a shout out to the founder @SebTurn for being the nicest dude.
+
+If you have young kids, I highly recommend giving Once a try for 1 month free here: https://t.co/GA2x8NMSzT</content>
   </entry>
   <entry>
-    <id>https://x.com/steipete/status/2099960081207242808</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2099960081207242808" rel="alternate" />
-    <published>2026-09-15T20:34:33.000Z</published>
-    <updated>2026-09-15T20:34:33.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
+    <id>https://x.com/rauchg/status/2100380166811951410</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2100380166811951410" rel="alternate" />
+    <published>2026-09-17T00:23:49.000Z</published>
+    <updated>2026-09-17T00:23:49.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">Excited to have you on board, Graham! https://t.co/zAbozt9Lpf</content>
+    <content type="text">https://t.co/e2EuPh7YAt</content>
   </entry>
   <entry>
-    <id>https://x.com/trq212/status/2099958388230873165</id>
-    <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2099958388230873165" rel="alternate" />
-    <published>2026-09-15T20:27:49.000Z</published>
-    <updated>2026-09-15T20:27:49.000Z</updated>
-    <author><name>Thariq</name></author>
-    <category term="twitter" />
-    <content type="text">I was not expecting things to go this way, but I think MCPs are better than CLIs for most integrations. 
-
-The models have gotten much better at tool calling, we can defer tools &amp;amp; MCP is now stateless.
-
-If you need to compose/filter data, add params like query to your MCP tools.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2099948078606520676</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2099948078606520676" rel="alternate" />
-    <published>2026-09-15T19:46:51.000Z</published>
-    <updated>2026-09-15T19:46:51.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Interesting to realize this peptides boom didn&apos;t start in SF but rather the midwest in bodybuilding subcultures
-
-I recently started using peptides with @Ronan_RX and I&apos;ve lost 18 lbs in two months! https://t.co/kIOkGEkOGf</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2099947471518474522</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2099947471518474522" rel="alternate" />
-    <published>2026-09-15T19:44:27.000Z</published>
-    <updated>2026-09-15T19:44:27.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">we almost never test new foundation models but we&apos;ve been testing this for ~a week @every and it&apos;s pretty wild.
-
-the kind of things that will be obviously indispensible in 6-12 months
-
-it doesn&apos;t produce words as output, it produces probabilities. so it can efficiently act as a judge in cases where you&apos;d need a Fable-level model—but in our testing was 25x faster and 600x lower priced 
-
-excellent vibe check by @hammer_mt on @every:
-https://t.co/yVX25Wsu4Z</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2099939689738191146</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2099939689738191146" rel="alternate" />
-    <published>2026-09-15T19:13:31.000Z</published>
-    <updated>2026-09-15T19:13:31.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">More on why we invested in @profound from the beginning: https://t.co/kIiRR7fMM9</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2099939685657141257</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2099939685657141257" rel="alternate" />
-    <published>2026-09-15T19:13:30.000Z</published>
-    <updated>2026-09-15T19:13:30.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">People ask what we saw in @profound before there was a Profound to see.
-
-It&apos;s now worth $1.8B. One third of the Fortune 100 runs on it.
-
-We didn&apos;t find the company. We watched it form.
-
-@thejamescad and @dbabbs met at @spc. Opposite worlds: an Uber maps engineer and a founder with no college degree who willed businesses into existence.
-
-Neither arrived with the idea. The partnership formed first. 
-
-Profound has now evolved to become the fastest-growing AI marketing platform. 
-
-We&apos;ve invested in every round since the beginning and are proud to congratulate the team on their $180M Series D, co-led by @sequoia and @kleinerperkins with participation from @lightspeedvp, @khoslaventures, @Saga_Ventures, @EvanticCapital, and SPC.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2099922755655479624</id>
+    <id>https://x.com/thsottiaux/status/2100363668051603608</id>
     <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2099922755655479624" rel="alternate" />
-    <published>2026-09-15T18:06:14.000Z</published>
-    <updated>2026-09-15T18:06:14.000Z</updated>
+    <link href="https://x.com/thsottiaux/status/2100363668051603608" rel="alternate" />
+    <published>2026-09-16T23:18:15.000Z</published>
+    <updated>2026-09-16T23:18:15.000Z</updated>
     <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">2026 is the year of efficiency and Tuesday is for random swag drops on your door handle https://t.co/w68GaYgrmX</content>
+    <content type="text">Sometimes physics can&apos;t be cheated https://t.co/Sgt4KrRtut</content>
   </entry>
   <entry>
-    <id>https://x.com/joshwoodward/status/2099921868652482741</id>
-    <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2099921868652482741" rel="alternate" />
-    <published>2026-09-15T18:02:42.000Z</published>
-    <updated>2026-09-15T18:02:42.000Z</updated>
-    <author><name>Josh Woodward</name></author>
+    <id>https://x.com/garrytan/status/2100354983053111365</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2100354983053111365" rel="alternate" />
+    <published>2026-09-16T22:43:45.000Z</published>
+    <updated>2026-09-16T22:43:45.000Z</updated>
+    <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">The offer
+    <content type="text">Excited to speak at @Supabase Select in conversation with the amazing @kiwicopple about building startups in the time of AI
 
-https://t.co/meLzcwjkEI</content>
+Register for the event and join me: https://t.co/jNY2QcB6cU</content>
   </entry>
   <entry>
-    <id>https://x.com/joshwoodward/status/2099921867331235956</id>
-    <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2099921867331235956" rel="alternate" />
-    <published>2026-09-15T18:02:42.000Z</published>
-    <updated>2026-09-15T18:02:42.000Z</updated>
-    <author><name>Josh Woodward</name></author>
-    <category term="twitter" />
-    <content type="text">The features
-
-https://t.co/VzCNJS6PRU</content>
-  </entry>
-  <entry>
-    <id>https://x.com/joshwoodward/status/2099921866014306633</id>
-    <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2099921866014306633" rel="alternate" />
-    <published>2026-09-15T18:02:42.000Z</published>
-    <updated>2026-09-15T18:02:42.000Z</updated>
-    <author><name>Josh Woodward</name></author>
-    <category term="twitter" />
-    <content type="text">New updates in @Gemini_Notebook for students, my 2 favorites:
-
-1) Have a live, spoken Q&amp;A with your class materials in ~100 languages
-
-2) Record lectures and notes on the go, the audio notes save automatically into your chosen notebook
-
-As a university student, you can also still get a free Google AI Plan in 140+ countries for bigger limits and access to more Google products!</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2099911447598059812</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2099911447598059812" rel="alternate" />
-    <published>2026-09-15T17:21:18.000Z</published>
-    <updated>2026-09-15T17:21:18.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">Excited to formally introduce Vercel Labs.
-
-https://t.co/zCNVryaiin is the home for the in-public research and experimentation arm of Vercel.
-
-247 million downloads in, we wanted to, also in public, share what we&apos;re supporting, what we&apos;re researching, and what experiments didn&apos;t pan out.
-
-Kudos to @ctatedev and @cramforce for shaping this great initiative and iterating in public.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2099905740505055680</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2099905740505055680" rel="alternate" />
-    <published>2026-09-15T16:58:37.000Z</published>
-    <updated>2026-09-15T16:58:37.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">The future is multi-model. Trying to hide the choice confuses and hurts customers, who can&apos;t participate in the upside of the most exciting market competition of our times, nor master the best tool for the job. https://t.co/DWMmd7lUqX</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2099905666324312141</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2099905666324312141" rel="alternate" />
-    <published>2026-09-15T16:58:19.000Z</published>
-    <updated>2026-09-15T16:58:19.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">Profound started at @spc. 
-
-We&apos;re proud to be a part of the journey. 
-
-Onwards. https://t.co/LlM4KCSzO3</content>
-  </entry>
-  <entry>
-    <id>https://x.com/claudeai/status/2099876515840245772</id>
-    <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2099876515840245772" rel="alternate" />
-    <published>2026-09-15T15:02:29.000Z</published>
-    <updated>2026-09-15T15:02:29.000Z</updated>
-    <author><name>Claude</name></author>
-    <category term="twitter" />
-    <content type="text">Learn more about Salesforce in Claude: https://t.co/LVP8WIUzaY</content>
-  </entry>
-  <entry>
-    <id>https://x.com/claudeai/status/2099876514330206578</id>
-    <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2099876514330206578" rel="alternate" />
-    <published>2026-09-15T15:02:29.000Z</published>
-    <updated>2026-09-15T15:02:29.000Z</updated>
-    <author><name>Claude</name></author>
-    <category term="twitter" />
-    <content type="text">Salesforce in Claude is now available in beta.
-
-It brings your accounts, opportunities, and pipeline into Claude, with 37 pre-built sales skills. Prep a call, review a deal, create a pipeline dashboard, or send your forecast without leaving the conversation. https://t.co/juvI0sU3mX</content>
-  </entry>
-  <entry>
-    <id>https://x.com/sama/status/2099872600977760451</id>
+    <id>https://x.com/sama/status/2100351958167220547</id>
     <title>Sam Altman (@sama)</title>
-    <link href="https://x.com/sama/status/2099872600977760451" rel="alternate" />
-    <published>2026-09-15T14:46:56.000Z</published>
-    <updated>2026-09-15T14:46:56.000Z</updated>
+    <link href="https://x.com/sama/status/2100351958167220547" rel="alternate" />
+    <published>2026-09-16T22:31:44.000Z</published>
+    <updated>2026-09-16T22:31:44.000Z</updated>
     <author><name>Sam Altman</name></author>
     <category term="twitter" />
-    <content type="text">big 🚢 this week
-
-and then for devday
-
-🚢🚢🚢🚢🚢🚢 https://t.co/Kyj0mGE913</content>
+    <content type="text">the main thing i was excited about launching this week will be next week instead, but imo worth the wait! https://t.co/j8tcW05Fmk</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</id>
-    <title>Training Data: Box&apos;s Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion</title>
-    <link href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8" rel="alternate" />
-    <published>2026-09-15T09:00:00.000Z</published>
-    <updated>2026-09-15T09:00:00.000Z</updated>
-    <author><name>Training Data</name></author>
-    <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:07
-I wanna send an emergency alert to, like, everybody who&apos;s, like, a sophomore or junior in college and just be, like, follow these 20 accounts
-
-Speaker 2 | 00:07 - 00:07
-on Twitter Yeah.
-
-Speaker 1 | 00:07 - 00:23
-I agree. And also join Twitter because, like, this will just help your career. You&apos;re either, like, a year ahead or a year behind simply based on your feed. And my feed is like so so wired in. I&apos;ll still talk to to 20 year olds that are like, yeah, like, you kn...</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2099760428314411232</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2099760428314411232" rel="alternate" />
-    <published>2026-09-15T07:21:12.000Z</published>
-    <updated>2026-09-15T07:21:12.000Z</updated>
-    <author><name>Amjad Masad</name></author>
+    <id>https://x.com/adityaag/status/2100347763502329951</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2100347763502329951" rel="alternate" />
+    <published>2026-09-16T22:15:04.000Z</published>
+    <updated>2026-09-16T22:15:04.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
     <category term="twitter" />
-    <content type="text">The AI naming curse strikes again. 
-
-“AI Safety” firm made AI unsafe.
-
-“Effective Altruists” are both ineffective and enabling criminal activity. 
-
-“Irregular” is regularly incompetent. https://t.co/vaOgS5lyKf</content>
+    <content type="text">Great ideas rarely emerge from isolation. https://t.co/TyQb4mbjaD</content>
   </entry>
   <entry>
-    <id>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</id>
-    <title>Claude Blog: Claude for Small Business launches new workflows, integrations, and training programs</title>
-    <link href="https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs" rel="alternate" />
-    <published>2026-09-15T00:00:00.000Z</published>
-    <updated>2026-09-15T00:00:00.000Z</updated>
+    <id>https://x.com/garrytan/status/2100339347669279149</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2100339347669279149" rel="alternate" />
+    <published>2026-09-16T21:41:37.000Z</published>
+    <updated>2026-09-16T21:41:37.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">I can use any harness I want and it&apos;s the same personality and full memory of my personal AGI https://t.co/4IupWtnh84</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2100328939034128856</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2100328939034128856" rel="alternate" />
+    <published>2026-09-16T21:00:15.000Z</published>
+    <updated>2026-09-16T21:00:15.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">I use these 8 AI skills to produce my entire podcast while still applying my taste and judgment along the way.
+
+1. /podcast-prep does research on the guest and then preps an interview guide.
+
+2. /podcast-edit reviews the raw transcript, then works with me to pick engaging quotes for the intro reel along with moments to cut.
+
+3. /podcast-production orchestrates 5 skills to turn the full episode into 6 different assets.
+
+Some people think the latest models make skills redundant but they&apos;ve been indispensable for me to get AI to follow my specific edit and browser-use instructions.
+
+My latest video highlighting how I actually work with these skills is a good watch if you want to automate any manual workflow.
+
+📌 Watch me demo all 8 skills here: https://t.co/PYNbe5tlFw</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2100315538472009897</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2100315538472009897" rel="alternate" />
+    <published>2026-09-16T20:07:01.000Z</published>
+    <updated>2026-09-16T20:07:01.000Z</updated>
+    <author><name>Thariq</name></author>
+    <category term="twitter" />
+    <content type="text">I think Claude Managed Agents strikes the right balance here, the sandbox is optional and can be spun up independently of the rest of the agent loop.
+
+I recently ported an old project that was focused on bash tool calling to CMA and it worked well!</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2100315537251463523</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2100315537251463523" rel="alternate" />
+    <published>2026-09-16T20:07:00.000Z</published>
+    <updated>2026-09-16T20:07:00.000Z</updated>
+    <author><name>Thariq</name></author>
+    <category term="twitter" />
+    <content type="text">I think increasingly you can just give Claude tools shaped in the way you want vs tricking it with a layer of indirection
+
+e.g. for data storage do you really want a file system or do you want an API to a database
+
+this is again, an update to me from last year</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2100315535758217422</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2100315535758217422" rel="alternate" />
+    <published>2026-09-16T20:07:00.000Z</published>
+    <updated>2026-09-16T20:07:00.000Z</updated>
+    <author><name>Thariq</name></author>
+    <category term="twitter" />
+    <content type="text">related to this- I think bash is no longer all you need, if your goal is just reliably tool calling
+
+but sandboxes + bash are still good for work that involves code generation &amp;amp; execution https://t.co/xTptTmEmCE</content>
+  </entry>
+  <entry>
+    <id>https://x.com/realmadhuguru/status/2100312717739667963</id>
+    <title>Madhu Guru (@realmadhuguru)</title>
+    <link href="https://x.com/realmadhuguru/status/2100312717739667963" rel="alternate" />
+    <published>2026-09-16T19:55:48.000Z</published>
+    <updated>2026-09-16T19:55:48.000Z</updated>
+    <author><name>Madhu Guru</name></author>
+    <category term="twitter" />
+    <content type="text">Safety and security are * features * of your AI product and model - not guardrails that need to be imposed on you from the outside. https://t.co/jtN3rzdZV8 https://t.co/J8dM9vHsoN</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2100307962262872105</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2100307962262872105" rel="alternate" />
+    <published>2026-09-16T19:36:54.000Z</published>
+    <updated>2026-09-16T19:36:54.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">We&apos;re seeing extraordinary results from @typesafeai. Default mode in 𝚏𝚡 is auto, with a safety reviewer analyzing every command.
+
+That reviewer runs on GPT Luna today. Jev is up to 18x faster (p95) *and* more accurate. It&apos;s coming to @vercel AI Gateway and likely new default. https://t.co/y5tFnlFN2l</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2100297380968997327</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2100297380968997327" rel="alternate" />
+    <published>2026-09-16T18:54:51.000Z</published>
+    <updated>2026-09-16T18:54:51.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">Astra
+
+✅ Fast
+✅ Frontier
+✅ Efficient
+✅ For everyone https://t.co/g4C7UizHcd</content>
+  </entry>
+  <entry>
+    <id>https://x.com/alexalbert__/status/2100295757953917120</id>
+    <title>Alex Albert (@alexalbert__)</title>
+    <link href="https://x.com/alexalbert__/status/2100295757953917120" rel="alternate" />
+    <published>2026-09-16T18:48:24.000Z</published>
+    <updated>2026-09-16T18:48:24.000Z</updated>
+    <author><name>Alex Albert</name></author>
+    <category term="twitter" />
+    <content type="text">The team did an amazing job with this merge. The resulting UX feels so much better than chat or Cowork did on their own.
+
+And the new slides/docs/design integrations work very well. https://t.co/YyZYsf8OFE</content>
+  </entry>
+  <entry>
+    <id>https://x.com/thsottiaux/status/2100295443620007993</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2100295443620007993" rel="alternate" />
+    <published>2026-09-16T18:47:10.000Z</published>
+    <updated>2026-09-16T18:47:10.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
+    <category term="twitter" />
+    <content type="text">What is ChatGPT</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2100284086703046903</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2100284086703046903" rel="alternate" />
+    <published>2026-09-16T18:02:02.000Z</published>
+    <updated>2026-09-16T18:02:02.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">big big big big big https://t.co/dzD21vSafx</content>
+  </entry>
+  <entry>
+    <id>https://x.com/zarazhangrui/status/2100278750776824115</id>
+    <title>Zara Zhang (@zarazhangrui)</title>
+    <link href="https://x.com/zarazhangrui/status/2100278750776824115" rel="alternate" />
+    <published>2026-09-16T17:40:50.000Z</published>
+    <updated>2026-09-16T17:40:50.000Z</updated>
+    <author><name>Zara Zhang</name></author>
+    <category term="twitter" />
+    <content type="text">I find myself using Claude less these days because the way it speaks has just become insufferable 
+
+Like it’s constantly trying to showcase how smart/sophisticated it is, rather than actually communicating a point across</content>
+  </entry>
+  <entry>
+    <id>https://x.com/adityaag/status/2100275836792492463</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2100275836792492463" rel="alternate" />
+    <published>2026-09-16T17:29:15.000Z</published>
+    <updated>2026-09-16T17:29:15.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
+    <category term="twitter" />
+    <content type="text">If California were a startup, what would its board ask the CEO?
+
+I’m hosting CA governor candidate @SteveHiltonx  at @spc  in a couple of weeks. On the agenda: priorities, execution, and what he’d want us to hold him accountable for.
+
+Sign up here to attend:
+https://t.co/ahiXSi3TD5</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2100269017977987341</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2100269017977987341" rel="alternate" />
+    <published>2026-09-16T17:02:09.000Z</published>
+    <updated>2026-09-16T17:02:09.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">THEY DID IT
+
+THE END OF THE TABS ERA IS UPON US https://t.co/FJlWFUCcDw</content>
+  </entry>
+  <entry>
+    <id>https://x.com/_catwu/status/2100260655312089562</id>
+    <title>Cat Wu (@_catwu)</title>
+    <link href="https://x.com/_catwu/status/2100260655312089562" rel="alternate" />
+    <published>2026-09-16T16:28:55.000Z</published>
+    <updated>2026-09-16T16:28:55.000Z</updated>
+    <author><name>Cat Wu</name></author>
+    <category term="twitter" />
+    <content type="text">Today, we are merging Claude Cowork and chat to simplify how you use Claude!
+
+We are also integrating Claude Design so that you can ask Claude to make a Slide, Design, or Doc without needing to switch tabs or apps.
+
+Many of you shared that you didn&apos;t want to choose which Claude product to use for any task. As Claude models have become more capable, we&apos;ve found that Claude can handle the routing for you. Based on your prompt, Claude will decide whether to give a quick answer or do deeper agentic work, and what kind of output best fits the task.
+ 
+You&apos;re in control the whole time: you can still stop, redirect, or exert finer control over Claude&apos;s effort or approach.
+ 
+Give it a try and let us know what you think. We&apos;re rolling this out slowly over the next few weeks to get it right.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/bcherny/status/2100260544087535639</id>
+    <title>Boris Cherny (@bcherny)</title>
+    <link href="https://x.com/bcherny/status/2100260544087535639" rel="alternate" />
+    <published>2026-09-16T16:28:29.000Z</published>
+    <updated>2026-09-16T16:28:29.000Z</updated>
+    <author><name>Boris Cherny</name></author>
+    <category term="twitter" />
+    <content type="text">Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.
+
+Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There&apos;s no separate tool to navigate to. They&apos;re just in the chat.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2100260457617736051</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2100260457617736051" rel="alternate" />
+    <published>2026-09-16T16:28:08.000Z</published>
+    <updated>2026-09-16T16:28:08.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">https://t.co/8uP1oRz9NP</content>
+  </entry>
+  <entry>
+    <id>https://x.com/bcherny/status/2100259951398789487</id>
+    <title>Boris Cherny (@bcherny)</title>
+    <link href="https://x.com/bcherny/status/2100259951398789487" rel="alternate" />
+    <published>2026-09-16T16:26:08.000Z</published>
+    <updated>2026-09-16T16:26:08.000Z</updated>
+    <author><name>Boris Cherny</name></author>
+    <category term="twitter" />
+    <content type="text">Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. That&apos;s where much of the industry&apos;s serious engineering runs now.
+
+Cowork proved knowledge workers could do the same: hand Claude the brief, come back to finished files.
+
+Today, chat and Cowork start merging into one Claude. The direction: one Claude that carries context across everything you&apos;re working on, wherever you are. Simple enough for everyone to access Claude&apos;s full capabilities.
+
+I&apos;ve been using this experience every day for the last few weeks, and it feels awesome. Simpler, faster, and more powerful.
+
+We&apos;re rolling this out slowly. We&apos;ll be fine-tuning the experience as we go to ensure it is fast and reliable. Can&apos;t wait to hear what you think.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/claudeai/status/2100258495543071016</id>
+    <title>Claude (@claudeai)</title>
+    <link href="https://x.com/claudeai/status/2100258495543071016" rel="alternate" />
+    <published>2026-09-16T16:20:20.000Z</published>
+    <updated>2026-09-16T16:20:20.000Z</updated>
+    <author><name>Claude</name></author>
+    <category term="twitter" />
+    <content type="text">If you&apos;ve been working in Cowork, everything is where you left it: chats, projects, artifacts, connectors, and skills. You can pick up where you left off.
+
+Claude Design, Claude Slides, and Claude Docs are in beta on all paid plans. Read more: https://t.co/ERAuv5UcBV</content>
+  </entry>
+  <entry>
+    <id>https://x.com/claudeai/status/2100258494221812123</id>
+    <title>Claude (@claudeai)</title>
+    <link href="https://x.com/claudeai/status/2100258494221812123" rel="alternate" />
+    <published>2026-09-16T16:20:20.000Z</published>
+    <updated>2026-09-16T16:20:20.000Z</updated>
+    <author><name>Claude</name></author>
+    <category term="twitter" />
+    <content type="text">Fix a line in the doc yourself, leave a comment for Claude on a slide, or select an element and move it.
+
+When it&apos;s ready, present the deck straight from Claude, export the doc in the format you already use, or share everything at one link.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/claudeai/status/2100258492590207079</id>
+    <title>Claude (@claudeai)</title>
+    <link href="https://x.com/claudeai/status/2100258492590207079" rel="alternate" />
+    <published>2026-09-16T16:20:20.000Z</published>
+    <updated>2026-09-16T16:20:20.000Z</updated>
+    <author><name>Claude</name></author>
+    <category term="twitter" />
+    <content type="text">You can also now make decks, docs, and designs in your conversation.
+
+Draft the one-pager in Claude Docs, turn it into a deck with Claude Slides, and mock up a matching visual in Claude Design, all from one place. https://t.co/Y0JaJGT3G8</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2100251499443998766</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2100251499443998766" rel="alternate" />
+    <published>2026-09-16T15:52:32.000Z</published>
+    <updated>2026-09-16T15:52:32.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">LLMs are just            jev is just a JSON 
+autocomplete               classifier 
+
+                             🤝
+
+                              🚩</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2100212813625196917</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2100212813625196917" rel="alternate" />
+    <published>2026-09-16T13:18:49.000Z</published>
+    <updated>2026-09-16T13:18:49.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Been tinkering with a “Home” @NousResearch agent for a few months and it’s finally gotten really good..
+
+It’s also our first “group” bot where my wife and I interact with it on a daily basis - which has been fun learning especially when it fails 😅.
+
+I have tried to recreate with Grok Bot and similar and you can’t get this level of granularity and control (eg only read certain emails, convert in line attachments to structured data or logged in browser sessions)
+
+I asked it to share what it does based on the capabilities and our conversations and you can see it’s response below!</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2100117565150470652</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2100117565150470652" rel="alternate" />
+    <published>2026-09-16T07:00:20.000Z</published>
+    <updated>2026-09-16T07:00:20.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Before she wakes up and corrects  me, she never “wanted” it in the first place.. 
+
+We threatened to make Tiramisu and that’s when her preference spilled out. 
+
+Sous chef had a great time eating half the batter 😂 https://t.co/QRRzY9dCpr</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2100115958862107100</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2100115958862107100" rel="alternate" />
+    <published>2026-09-16T06:53:57.000Z</published>
+    <updated>2026-09-16T06:53:57.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Wife wanted Black Forest cake for her birthday..
+
+I haven’t baked in a long long time, so not perfect but think it turned out ok (thanks @ChatGPT)
+
+Happy birthday @shimoleejhaveri - I love you mostest ❤️ https://t.co/5LC3blykHK</content>
+  </entry>
+  <entry>
+    <id>https://claude.com/blog/cowork-is-now-claude</id>
+    <title>Claude Blog: Claude Cowork and chat are now one Claude</title>
+    <link href="https://claude.com/blog/cowork-is-now-claude" rel="alternate" />
+    <published>2026-09-16T00:00:00.000Z</published>
+    <updated>2026-09-16T00:00:00.000Z</updated>
     <author><name>Claude Blog</name></author>
     <category term="blog" />
-    <content type="text">Claude for Small Business now includes 43 workflows and 27 new integrations with tools small businesses already use, including Shopify, Salesforce, TikTok, Atlassian, Zoom, Xero, Gusto, Square, Stripe, and Zapier. The new workflows extend Claude from running the back office to growing the business, and they arrive with a fall schedule of free in-person workshops and partner webinars for owners who want help getting started. We launched Claude for Small Business in May as a set of connectors and ready-to-run workflows that put Claude inside the tools owners depend on. It has since been installed more than 900,000 times. Thank you to our original, and continued, partners Intuit Quickbooks, PayPal, HubSpot, Canva, Docusign, Google Workspace, and Microsoft 365.On our spring Claude SMB Tour, more than 1,000 owners in 10 cities told us what they wanted Claude to take on next. About a third asked for help growing the business: generating leads, answering inbound inquiries, and writing proposa...</content>
+    <content type="text">Starting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at noon, and Claude takes it from there, even after you’ve closed your laptop. It’s rolling out on Pro and Max plans over the next few weeks, with more plans to follow. What Claude makes doesn’t need its own place either. Claude Docs and Claude Slides are new today, and Claude Design now works inside your conversations too. Ask for a document, and you and Claude write it together. Ask for a presentation, and Claude drafts the slides. You can edit directly, present straight from Claude, or download as PowerPoint or PDF. All three are in beta on paid plans, and Enterprise admins choose when to turn them on. If you use Claude Design on its own, it keeps working as before. We built Cowork as a separate place for bigger work, and Design for visual work. People used both, and told us the frustrating part was deciding where a task belonged. What they’d started in one also didn...</content>
   </entry>
 </feed>
