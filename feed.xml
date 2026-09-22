@@ -5,177 +5,197 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-09-20T06:37:53.420Z</updated>
+  <updated>2026-09-21T06:52:51.933Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/petergyang/status/2101503916743749878</id>
+    <id>https://x.com/petergyang/status/2101917073081598255</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2101503916743749878" rel="alternate" />
-    <published>2026-09-20T02:49:12.000Z</published>
-    <updated>2026-09-20T02:49:12.000Z</updated>
+    <link href="https://x.com/petergyang/status/2101917073081598255" rel="alternate" />
+    <published>2026-09-21T06:10:56.000Z</published>
+    <updated>2026-09-21T06:10:56.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">I have a simple markdown file and a /tastemaker skill that I use to add ratings for movies, TV shows, and books I&apos;ve seen. 
+    <content type="text">If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.
 
-Then every week it looks up new releases and stuff I haven&apos;t seen and makes incredibly relevant suggestions.
-
-Should I open source this? https://t.co/fusUV0JonN</content>
+Join 110,000+ subscribers here:
+https://t.co/yz9xcsfrhF</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2101497327861248090</id>
+    <id>https://x.com/swyx/status/2101873256097804529</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2101873256097804529" rel="alternate" />
+    <published>2026-09-21T03:16:49.000Z</published>
+    <updated>2026-09-21T03:16:49.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">Jev pod tomorrow
+
+subscribe on apple /youtube @latentspacepod 
+
+thanks to @allenpark and Ke for making this happen! https://t.co/5kDekuLbuS https://t.co/vgkesXELrf</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2101865476145959373</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2101497327861248090" rel="alternate" />
-    <published>2026-09-20T02:23:01.000Z</published>
-    <updated>2026-09-20T02:23:01.000Z</updated>
+    <link href="https://x.com/petergyang/status/2101865476145959373" rel="alternate" />
+    <published>2026-09-21T02:45:54.000Z</published>
+    <updated>2026-09-21T02:45:54.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">Apple TV is full of bangers, canceled my Netflix.
+    <content type="text">6. I forgot to mention Apple and Siri. They have all the devices and a great reputation on privacy. 
 
-Widow&apos;s Peak, 9.5/10
-Silo season 3, 9/10
-
-What&apos;s next? Already seen:
-
-Severance, 9.5/10
-Slow Horses, 8/10, gonna wait for more episodes for new season</content>
+They can easily win this race but what holds them back imo is their annual release cycle for major updates and not being on @X and all the other platforms seeking user feedback. The iteration speed for Siri (from the outside) just feels far too slow to compete.</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2101456284482441656</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2101456284482441656" rel="alternate" />
-    <published>2026-09-19T23:39:56.000Z</published>
-    <updated>2026-09-19T23:39:56.000Z</updated>
-    <author><name>Garry Tan</name></author>
+    <id>https://x.com/petergyang/status/2101862331345154469</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2101862331345154469" rel="alternate" />
+    <published>2026-09-21T02:33:25.000Z</published>
+    <updated>2026-09-21T02:33:25.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">Stop racial discrimination in the University of California system https://t.co/og9xm3Almf</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2101431497437950458</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2101431497437950458" rel="alternate" />
-    <published>2026-09-19T22:01:26.000Z</published>
-    <updated>2026-09-19T22:01:26.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">2026 is the year of linux desktop</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2101427997597446636</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2101427997597446636" rel="alternate" />
-    <published>2026-09-19T21:47:31.000Z</published>
-    <updated>2026-09-19T21:47:31.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">Personal agents are the ultimate manifestation of “build something that agents want”.
+    <content type="text">My “armchair” thoughts on the personal agent race:
 
-The form factor of a product like Muse is you want to be able to hand off a task to the agent and ensure that it is fully completed end to end. To do this, the agent must be able to successfully operate with your tools or use its own to complete the task. Use your MCP or CLI, easily navigate your site, be able to transact, and more.
+1. Muse is poised to become the leader. The app is intuitive, and Meta is aggressively promoting it across all its properties. Once you use the Muse app, you realize that it makes little sense for an agent to live in an existing messaging app like iMessage. Unless Meta runs out of compute or something, I think this will become the company’s most successful homegrown app after Facebook. It will be much bigger than Threads.
 
-The new attention you need to compete for is not from the user itself but instead for the agent. This means that the tools that allow agents to order food, handle ecommerce transactions, book flights, work with the local economy, and interact with our data and information best, are the ones that will get used the most.
+2. ChatGPT is probably still the personal agent leader because it already has 1B+ users. OpenAI’s models, computer use, and voice are arguably better than Muse feature by feature. But it’s hard to build one product for both work and personal use, and harder still to serve enterprises and consumers with the same UX. Even for work, I started using Grok Bot because the Work/Codex split remains too confusing. I’m sure the team is cooking, and we’ll see something good in the next few weeks.
 
-This will ultimately be the biggest opportunity and shakeup in consumer tech since the App Store itself.</content>
+3. Grok Bot isn’t really a Muse competitor because it’s focused on work. Multiple bots naturally fit team-based knowledge work IMO. My bull case for Grok Bot is that it&apos;s a few features away from becoming multiplayer agentic Slack for both bots and humans.
+
+4. Google is obviously the dark horse candidate. All these personal agents live off Gmail, Google Calendar, and your Google app&apos;s data. Google has their own personal agent in Spark but the last I checked it&apos;s a secondary tab in Gemini. I think Google needs to be far more aggressive in making Spark the primary experience and making it intuitive and competitive with Muse. Google however doesn&apos;t have a great track record in multiplayer AI...
+
+5. Speaking of multiplayer, nobody has figured this out yet. I can’t easily add my spouse to a Muse chat to plan a vacation. I also can’t loop coworkers into ChatGPT or Grok Bot threads. Multiplayer AI today mostly means tagging bots in Slack. Every major provider is probably working on this, and I think it will be the next big unlock.
+
+My personal AI stack right now is Muse for personal, Grok Bot for cloud tasks, Claude for specific use cases, and ChatGPT for everything else.
+
+But I think we’re going to see some major updates this week.
+
+Everyone should design their personal skills and files so they’re easy to port between harnesses and agents. Otherwise, you’ll spend half your time moving from one tool to another.</content>
   </entry>
   <entry>
-    <id>https://x.com/adityaag/status/2101426570850451914</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2101426570850451914" rel="alternate" />
-    <published>2026-09-19T21:41:51.000Z</published>
-    <updated>2026-09-19T21:41:51.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
+    <id>https://x.com/amasad/status/2101852258468299182</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2101852258468299182" rel="alternate" />
+    <published>2026-09-21T01:53:23.000Z</published>
+    <updated>2026-09-21T01:53:23.000Z</updated>
+    <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic about even more agent intrusions......I take it for 100% granted that a number of of major companies have been penetrated by nation states without them knowing about it.</content>
+    <content type="text">Built my son his first computer https://t.co/9tQWZFSkku</content>
   </entry>
   <entry>
-    <id>https://x.com/rauchg/status/2101420720807100855</id>
+    <id>https://x.com/rauchg/status/2101846262840799251</id>
     <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2101420720807100855" rel="alternate" />
-    <published>2026-09-19T21:18:37.000Z</published>
-    <updated>2026-09-19T21:18:37.000Z</updated>
+    <link href="https://x.com/rauchg/status/2101846262840799251" rel="alternate" />
+    <published>2026-09-21T01:29:34.000Z</published>
+    <updated>2026-09-21T01:29:34.000Z</updated>
     <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">“I&apos;ve spoken of the shining city […] a tall, proud city built on rocks stronger than oceans, wind-swept, God-blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and the heart to get here. That&apos;s how I saw it, and see it still.” – 🇺🇸 Ronald Reagan (January 11, 1989)</content>
+    <content type="text">The thoroughness with which agents can test and QA software is unrivaled. I pointed out something wasn&apos;t rendering right in a mobile (in-app) browser. The thing goes to the depths of Mordor to reproduce, simulate, fix, deploy, verify. It created an ephemeral vercel deployment to throw at an iPhone simulator! The absolute grind on these things.
+
+Humans could simply never match this level of intensity. We&apos;d run of energy, we&apos;d extrapolate, we&apos;d hope it&apos;d work out. The software of the future will be of a quality and performance we&apos;ve never experienced before. It&apos;s amazing to watch this shift.</content>
   </entry>
   <entry>
-    <id>https://x.com/rauchg/status/2101397206595231765</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2101397206595231765" rel="alternate" />
-    <published>2026-09-19T19:45:10.000Z</published>
-    <updated>2026-09-19T19:45:10.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
+    <id>https://x.com/trq212/status/2101844435353145452</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2101844435353145452" rel="alternate" />
+    <published>2026-09-21T01:22:18.000Z</published>
+    <updated>2026-09-21T01:22:18.000Z</updated>
+    <author><name>Thariq</name></author>
     <category term="twitter" />
-    <content type="text">The coolest thing about the recent wave of AI is that everyone is excited about building.
+    <content type="text">there is something about video games that give high stakes and responsibilities to young people who couldn’t really get them irl
 
-All short-term drama aside, this is an immeasurably good development for the world. The people want to create and ship, not just consume.</content>
+but it is a fine line and at some point you need to graduate https://t.co/wwRAmV7Sce</content>
   </entry>
   <entry>
-    <id>https://x.com/thenanyu/status/2101383106372805103</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2101383106372805103" rel="alternate" />
-    <published>2026-09-19T18:49:09.000Z</published>
-    <updated>2026-09-19T18:49:09.000Z</updated>
-    <author><name>Nan Yu</name></author>
+    <id>https://x.com/mattturck/status/2101820308009206077</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2101820308009206077" rel="alternate" />
+    <published>2026-09-20T23:46:26.000Z</published>
+    <updated>2026-09-20T23:46:26.000Z</updated>
+    <author><name>Matt Turck</name></author>
     <category term="twitter" />
-    <content type="text">I’m trying to place calls with both muse and instinct and they both claim to be unable to do so… is this still rolling out?</content>
+    <content type="text">Everyone is obsessed with Jev now, but I&apos;m old enough to remember when people couldn&apos;t shut up about Instinct, all the way back to mid last week.  Simpler times.</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2101342055352201519</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2101342055352201519" rel="alternate" />
-    <published>2026-09-19T16:06:01.000Z</published>
-    <updated>2026-09-19T16:06:01.000Z</updated>
-    <author><name>Peter Yang</name></author>
+    <id>https://x.com/danshipper/status/2101816740741329218</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2101816740741329218" rel="alternate" />
+    <published>2026-09-20T23:32:15.000Z</published>
+    <updated>2026-09-20T23:32:15.000Z</updated>
+    <author><name>Dan Shipper</name></author>
     <category term="twitter" />
-    <content type="text">My next podcast episode is almost guaranteed to save you some money.
+    <content type="text">highly recommend
 
-It&apos;s with my friend @ebloch, product lead for ChatGPT Finances at @OpenAI.
-
-I asked him to share six practical personal finance prompts that anyone can try to:
-
-1. Find tax savings proactively
-2. Maximize credit card rewards
-3. Create interactive forecasts like your path to financial independence
-...and more
-
-📌 Subscribe to get our full episode tomorrow: https://t.co/NSTj7ijxE0</content>
+this is my favorite book https://t.co/H4wpR6eQ5O</content>
   </entry>
   <entry>
-    <id>https://x.com/nikunj/status/2101340098356990058</id>
+    <id>https://x.com/steipete/status/2101748928274419843</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2101748928274419843" rel="alternate" />
+    <published>2026-09-20T19:02:47.000Z</published>
+    <updated>2026-09-20T19:02:47.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">Your claw can now FaceTime you! https://t.co/bUFzBG4e7h</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2101748820237500557</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2101748820237500557" rel="alternate" />
+    <published>2026-09-20T19:02:22.000Z</published>
+    <updated>2026-09-20T19:02:22.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">New benchmark dropped https://t.co/5lFZNcDNCh</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2101742225906655315</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2101340098356990058" rel="alternate" />
-    <published>2026-09-19T15:58:15.000Z</published>
-    <updated>2026-09-19T15:58:15.000Z</updated>
+    <link href="https://x.com/nikunj/status/2101742225906655315" rel="alternate" />
+    <published>2026-09-20T18:36:09.000Z</published>
+    <updated>2026-09-20T18:36:09.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">I spend ~2 hours a day programming, building side projects, tinkering obsessively, trying new repos..
+    <content type="text">Jokingly thinking of starting a new cloud kitchen called “next day curry”.. 
 
-I get basically a DM a day asking “aren’t you a VC, why are you doing this?”
+Where I order the best curries, store it overnight and serve it the next day. 
 
-Unlike other eras, things are moving SO fast that if you don’t do this, I simply don’t understand how folks will ever learn what’s coming next. 
+Saying this as I devour my leftover Manchurian. Have the exact same experience with Ramen, Indian food, Thai curry and others. 
 
-For me, it’s quite simple if you want to invest in the AI era:
-
-1) You have to understand the model capabilities to see where the next set of models will improve - still so much alpha in reading technical papers (model research)
-
-2) You need to see what tools do they need to be successful and complete even longer long horizon tasks (infra) 
-
-3) You need to understand the harness capabilities that will make these models help building autonomous companies (app layer)
-
-You can obviously learn this by talking to researchers / builders and simply betting on founders - and I do that too. But, I was never honestly good at learning without getting my hands dirty so just leaning in to what I know best. It’s also honestly so fun!
-
-So, my push to other folks who want to learn is just get started and find time to tinker daily. Once you do it for 10 days, I’m sure you’ll be equally obsessed!</content>
+Might be blasphemous to the purists but they taste so much better!</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/@DataDrivenNYC/videos</id>
-    <title>The MAD Podcast with Matt Turck: When AI Improves Itself | Richard Socher (Recursive)</title>
-    <link href="https://www.youtube.com/@DataDrivenNYC/videos" rel="alternate" />
-    <published>2026-09-10T11:30:00.000Z</published>
-    <updated>2026-09-10T11:30:00.000Z</updated>
-    <author><name>The MAD Podcast with Matt Turck</name></author>
+    <id>https://x.com/levie/status/2101731574668747081</id>
+    <title>Aaron Levie (@levie)</title>
+    <link href="https://x.com/levie/status/2101731574668747081" rel="alternate" />
+    <published>2026-09-20T17:53:50.000Z</published>
+    <updated>2026-09-20T17:53:50.000Z</updated>
+    <author><name>Aaron Levie</name></author>
+    <category term="twitter" />
+    <content type="text">Literally impenetrable from agent swarms https://t.co/tg7SZ4d0xu</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2101728091710341176</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2101728091710341176" rel="alternate" />
+    <published>2026-09-20T17:39:59.000Z</published>
+    <updated>2026-09-20T17:39:59.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">https://t.co/mioa6FKIqK https://t.co/JyaI4gQMYW</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/@NoPriorsPodcast</id>
+    <title>No Priors: Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong</title>
+    <link href="https://www.youtube.com/@NoPriorsPodcast" rel="alternate" />
+    <published>2026-09-10T10:00:00.000Z</published>
+    <updated>2026-09-10T10:00:00.000Z</updated>
+    <author><name>No Priors</name></author>
     <category term="podcast" />
     <content type="text">Speaker 1 | 00:00 - 00:19
-Anything you can simulate, AI will solve. And before you know it, you&apos;re in this recursive self improvement loop and we believe that that will be a great unlock. Boy, are we far away from the true upper bounds of any of the spaces of intelligence. And there is still so much further that AI can go.
+The minimum fee typically on a debit or credit card transaction is about 30¢ fee flat plus the additional percentage. Arguably, it doesn&apos;t really work well for anything under a dollar. Certainly, it doesn&apos;t make sense to pay 30¢ to send a 1¢ payment. And I believe the stats we last saw on this are that about, like, 76% of the agent ecommerce transactions we&apos;re seeing are under 30¢. We don&apos;t want the AIs to be unbanked.
 
-Speaker 2 | 00:19 - 00:47
-Hi. I&apos;m Matt Turk. Welcome back to the MAD podcast. My guest today is Richard Socher, one of the most cited researchers in AI and now at the center ...</content>
+Speaker 1 | 00:19 - 00:37
+You know, if we wanna ba...</content>
   </entry>
 </feed>
