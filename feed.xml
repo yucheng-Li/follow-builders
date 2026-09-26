@@ -5,598 +5,327 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-09-24T06:42:38.168Z</updated>
+  <updated>2026-09-25T06:43:22.960Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://www.anthropic.com/engineering/how-we-contain-claude</id>
-    <title>Anthropic Engineering: How we contain Claude across products</title>
-    <link href="https://www.anthropic.com/engineering/how-we-contain-claude" rel="alternate" />
-    <published>2026-09-25T05:58:23.349Z</published>
-    <updated>2026-09-25T05:58:23.349Z</updated>
-    <author><name>Anthropic Engineering</name></author>
-    <category term="blog" />
-    <content type="text">Twelve months ago, we&amp;#x27;d have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do. Progress on safeguards and model training has steadily driven down the first; the second—the theoretical blast radius—only grows as capabilities and access expand. Yet as agents become capable of doing work that once required a person or even a team, the cost of not deploying grows large enough that the risk-reward calculation tips heavily toward adoption, as long as products can be made safe. The engineering question becomes how to cap the blast radius. When bounds can be placed on the relative damage of an autonomous agent—such as through control over its environment—high-utility capabilities can motivate deployment. Claude Mythos Preview is an...</content>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/engineering/april-23-postmortem</id>
-    <title>Anthropic Engineering: An update on recent Claude Code quality reports</title>
-    <link href="https://www.anthropic.com/engineering/april-23-postmortem" rel="alternate" />
-    <published>2026-09-25T05:58:23.349Z</published>
-    <updated>2026-09-25T05:58:23.349Z</updated>
-    <author><name>Anthropic Engineering</name></author>
-    <category term="blog" />
-    <content type="text">Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude Cowork. The API was not impacted. All three issues have now been resolved as of April 20 (v2.1.116). In this post, we explain what we found, what we fixed, and what we’ll do differently to ensure similar issues are much less likely to happen again. We take reports about degradation very seriously. We never intentionally degrade our models, and we were able to immediately confirm that our API and inference layer were unaffected. After investigation, we identified three different issues: On March 4, we changed Claude Code&amp;#x27;s default reasoning effort from high to medium to reduce the very long latency—enough to make the UI appear frozen—some users were seeing in high mode. This was the wrong tradeoff. We reverted this change on April 7 after users told us they&amp;#x27;d p...</content>
-  </entry>
-  <entry>
-    <id>https://www.anthropic.com/engineering/managed-agents</id>
-    <title>Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands</title>
-    <link href="https://www.anthropic.com/engineering/managed-agents" rel="alternate" />
-    <published>2026-09-25T05:58:23.349Z</published>
-    <updated>2026-09-25T05:58:23.349Z</updated>
-    <author><name>Anthropic Engineering</name></author>
-    <category term="blog" />
-    <content type="text">Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, those assumptions need to be frequently questioned because they can go stale as models improve. As just one example, in prior work we found that Claude Sonnet 4.5 would wrap up tasks prematurely as it sensed its context limit approaching—a behavior sometimes called “context anxiety.” We addressed this by adding context resets to the harness. But when we used the same harness on Claude Opus 4.5, we found that the behavior was gone. The resets had become dead weight. We expect harnesses to continue evolving. So we built Managed Agents: a hosted service in the Claude Platform that runs long-horizon agents on your behalf through a small set of interfaces meant to outlast any particular implementa...</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2103001790069526564</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2103001790069526564" rel="alternate" />
-    <published>2026-09-24T06:01:13.000Z</published>
-    <updated>2026-09-24T06:01:13.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">Astra is crushing it. https://t.co/KEfPlrlAg4</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2102996313780736363</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2102996313780736363" rel="alternate" />
-    <published>2026-09-24T05:39:27.000Z</published>
-    <updated>2026-09-24T05:39:27.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">Can&apos;t wait for DevDay next Tuesday.
-
-Some really fun stuff, but also many many things that should change the way you work. It&apos;s been our most ambitious sprint and Astra has really made new things possible in such short amounts of time.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2102994138614669481</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2102994138614669481" rel="alternate" />
-    <published>2026-09-24T05:30:49.000Z</published>
-    <updated>2026-09-24T05:30:49.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">crushed it. https://t.co/kTRCzbiNji</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2102990776439636089</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2102990776439636089" rel="alternate" />
-    <published>2026-09-24T05:17:27.000Z</published>
-    <updated>2026-09-24T05:17:27.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">Who needs VNC when there&apos;s browsers. https://t.co/3BneKDTzMW</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2102990479608717700</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2102990479608717700" rel="alternate" />
-    <published>2026-09-24T05:16:16.000Z</published>
-    <updated>2026-09-24T05:16:16.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">When I cajole a seed investor to send me their best company.. https://t.co/zfQNyIOZ71</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2102974165800399274</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2102974165800399274" rel="alternate" />
-    <published>2026-09-24T04:11:27.000Z</published>
-    <updated>2026-09-24T04:11:27.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Muse is very impressive https://t.co/5Q1LwLXDKx</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2102972765989151226</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2102972765989151226" rel="alternate" />
-    <published>2026-09-24T04:05:53.000Z</published>
-    <updated>2026-09-24T04:05:53.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">This is not priced in yet https://t.co/WMiPMtksQN</content>
-  </entry>
-  <entry>
-    <id>https://x.com/bcherny/status/2102971275543216623</id>
-    <title>Boris Cherny (@bcherny)</title>
-    <link href="https://x.com/bcherny/status/2102971275543216623" rel="alternate" />
-    <published>2026-09-24T03:59:58.000Z</published>
-    <updated>2026-09-24T03:59:58.000Z</updated>
-    <author><name>Boris Cherny</name></author>
-    <category term="twitter" />
-    <content type="text">It was an honor to meet Donald Knuth at the Computer History Museum today https://t.co/U6bGOidLmw</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2102956775645552645</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2102956775645552645" rel="alternate" />
-    <published>2026-09-24T03:02:21.000Z</published>
-    <updated>2026-09-24T03:02:21.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">No more crappy corporate slides, the result of this prompt blew me away lol https://t.co/atQudEjz9H</content>
-  </entry>
-  <entry>
-    <id>https://x.com/garrytan/status/2102955139875397806</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2102955139875397806" rel="alternate" />
-    <published>2026-09-24T02:55:51.000Z</published>
-    <updated>2026-09-24T02:55:51.000Z</updated>
-    <author><name>Garry Tan</name></author>
-    <category term="twitter" />
-    <content type="text">Two important simultaneous important trends in how startups get customers:
-
-Make software agents want
-
-Use agents to make people want software</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2102952201350254667</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2102952201350254667" rel="alternate" />
-    <published>2026-09-24T02:44:10.000Z</published>
-    <updated>2026-09-24T02:44:10.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">With a model this good the Claude Code harness really needs great live voice and browser + computer use (latter is improving!)
-
-Right now one lab has the best model and another has the best harness. https://t.co/SoV7GN0pIB</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2102948781813792996</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2102948781813792996" rel="alternate" />
-    <published>2026-09-24T02:30:35.000Z</published>
-    <updated>2026-09-24T02:30:35.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">You think Zuck is good when he is down and in the trenches and in lockdown and in war mode?
-
-Just see how he dominates when he has the big stack.
-
-Proud Facebook alum.
-
-LFG.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2102947745132924993</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2102947745132924993" rel="alternate" />
-    <published>2026-09-24T02:26:27.000Z</published>
-    <updated>2026-09-24T02:26:27.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">ShellPerfBench. I&apos;m really neurotic about the startup time of a new shell session. Opus 5.5 found a lot of really great optimizations other models missed. Anon, anytime you open a new terminal, you might be silently suffering. Tell your agent to optimize .𝚣𝚜𝚑𝚛𝚌 and friends</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2102946952740741394</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2102946952740741394" rel="alternate" />
-    <published>2026-09-24T02:23:19.000Z</published>
-    <updated>2026-09-24T02:23:19.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Opus 5.5 is:
-
-- Smart
-- Fast
-- Fun to talk to
-- Good at writing 
-- Friendly on rate limits
-- Constantly surprising at just how much it is capable of</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2102939873384792340</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2102939873384792340" rel="alternate" />
-    <published>2026-09-24T01:55:11.000Z</published>
-    <updated>2026-09-24T01:55:11.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">👀 https://t.co/qgxKwXRcbV</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2102938490518609983</id>
+    <id>https://x.com/swyx/status/2103361254433993165</id>
     <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2102938490518609983" rel="alternate" />
-    <published>2026-09-24T01:49:41.000Z</published>
-    <updated>2026-09-24T01:49:41.000Z</updated>
+    <link href="https://x.com/swyx/status/2103361254433993165" rel="alternate" />
+    <published>2026-09-25T05:49:36.000Z</published>
+    <updated>2026-09-25T05:49:36.000Z</updated>
     <author><name>Swyx</name></author>
     <category term="twitter" />
-    <content type="text">benched https://t.co/LLgD57Uz4w</content>
+    <content type="text">In Jan this year I called my content strategy shot: &quot;Scaling without Slop&quot;. 
+
+It&apos;s finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I&apos;m excited to pursue.
+
+officially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below</content>
   </entry>
   <entry>
-    <id>https://x.com/levie/status/2102934874470617303</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2102934874470617303" rel="alternate" />
-    <published>2026-09-24T01:35:19.000Z</published>
-    <updated>2026-09-24T01:35:19.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">Great vision for the future of the creative industry with AI from the one person who can actually predict these things.
-
-“As the barriers and the costs come down, more films will get made, not fewer. Studios will get to take more risks. There will be more seats at the table, and very soon entirely new forms of storytelling. In the 1980s, animation was dismissed as a niche corner of the business. Today it is one of the most beloved and profitable forms of storytelling in the world. In live action, filmmakers like Steven Spielberg, James Cameron and Peter Jackson embraced new visual tools not as shortcuts, but as instruments, and expanded cinema in the process. Every time storytelling has met a genuine technological shift, from synchronized sound to color to computer animation, it has redefined the boundaries of the medium and grown larger in the process.”
-
-Technology has reshaped the creative industry over and over through the years, and has generally always led to an expansion of opportunity or new approaches as a result. 
-
-And even when the techniques or mediums change, the underlying need for creative skills and taste don’t go away. Just more people are able to leverage those skills effectively when a new technology arrived, and users of the tools discover novel new ways to tell stories.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/ryolu_/status/2102933485795369213</id>
-    <title>Ryo Lu (@ryolu_)</title>
-    <link href="https://x.com/ryolu_/status/2102933485795369213" rel="alternate" />
-    <published>2026-09-24T01:29:48.000Z</published>
-    <updated>2026-09-24T01:29:48.000Z</updated>
-    <author><name>Ryo Lu</name></author>
-    <category term="twitter" />
-    <content type="text">efficiency, productivity, speed
-
-we keep worshipping these words like they are what we live for
-
-ship faster
-merge more
-manage more agents
-compress every loop
-remove every pause
-turn every hour into output
-
-but what is the point of endless production if there is no time left to think deeply?
-
-not react
-not optimize
-not summarize
-not clear the queue
-
-think
-
-to sit with a question long enough that your real intention starts to appear  
-to find the purpose underneath the motion  
-to ask whether the thing being accelerated should exist at all
-
-ai could be a new canvas
-
-a way to make strange things
-personal things
-impossible things
-tools, worlds, poems, games, interfaces, films, languages, rituals
-things that let more people touch the shape of their own imagination
-
-but instead, so much of it is becoming slop factories
-
-more content
-more funnels
-more tickets
-more fake work pretending to be value
-
-you can merge 2000 prs
-you can manage 500 agents
-you can wake up to dashboards proving that the machine kept moving while you slept
-
-but what is the point if you only sleep 5 hours a day?
-
-what is the point if you stop talking to other humans?
-stop learning about the past?
-stop playing?
-stop wandering?
-stop being surprised?
-
-what is the point if your whole life becomes optimizing the system that is consuming you?
-
-speed is not meaning
-scale is not wisdom
-automation is not freedom if it only makes everyone run faster
-
-and where are we running?
-
-toward what?
-
-a world where every person becomes a manager of machines, and every machine produces more things no one had the time to truly want?
-
-the danger is not that ai makes us lazy
-
-the danger is that ai makes us endlessly busy
-
-that it gives us infinite production before we have found intention
-infinite execution before we have developed taste
-infinite motion before we have learned how to be still
-
-maybe the real frontier is not more speed
-
-maybe it is discernment
-
-knowing what not to make
-knowing when to stop
-knowing when the most productive thing is to sleep, read history, call a friend, play with a cat, walk without tracking it, or stare at the ceiling until the false urgency dissolves
-
-tools should give us more life
-not turn life into a tool
-
-if ai is going to matter, it should not just help us produce more
-
-it should help us become more human  
-more imaginative
-more free
-
-otherwise, it’s the same old factory
-just without humans</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2102915863989075979</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2102915863989075979" rel="alternate" />
-    <published>2026-09-24T00:19:46.000Z</published>
-    <updated>2026-09-24T00:19:46.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">Muse and Box, together at last https://t.co/TAFOL3acTf https://t.co/LdFXVc3agy</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2102899862127943985</id>
+    <id>https://x.com/nikunj/status/2103360292973633770</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2102899862127943985" rel="alternate" />
-    <published>2026-09-23T23:16:11.000Z</published>
-    <updated>2026-09-23T23:16:11.000Z</updated>
+    <link href="https://x.com/nikunj/status/2103360292973633770" rel="alternate" />
+    <published>2026-09-25T05:45:47.000Z</published>
+    <updated>2026-09-25T05:45:47.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">https://t.co/KNsI7ULlfw</content>
-  </entry>
-  <entry>
-    <id>https://x.com/bcherny/status/2102898067133595992</id>
-    <title>Boris Cherny (@bcherny)</title>
-    <link href="https://x.com/bcherny/status/2102898067133595992" rel="alternate" />
-    <published>2026-09-23T23:09:03.000Z</published>
-    <updated>2026-09-23T23:09:03.000Z</updated>
-    <author><name>Boris Cherny</name></author>
-    <category term="twitter" />
-    <content type="text">More details for the formal methods people -- what&apos;s happening is Claude is doing something like:
+    <content type="text">“we believe that every small business owner, specifically for us in the trades, will have bespoke software, 
 
-1. Building a model of the program, targeting a tricky state machine or race-prone part of the code
-2. Finding counter-examples in the model. These are suspected bugs
-3. Reproducing the bugs
-4. Fixing the bugs in the code
-
-It&apos;s not that the whole codebase is formally verified (yet!..), more that the hairiest parts of the code are modeled, checked for counter-examples, and fixed.</content>
+and that last mile is actually where differentiation can become, where you can provide a unique experience to your customers, to your employees” https://t.co/WhBtmHmGqZ https://t.co/IIQ90vD7mZ</content>
   </entry>
   <entry>
-    <id>https://x.com/trq212/status/2102870443321676043</id>
-    <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2102870443321676043" rel="alternate" />
-    <published>2026-09-23T21:19:17.000Z</published>
-    <updated>2026-09-23T21:19:17.000Z</updated>
-    <author><name>Thariq</name></author>
+    <id>https://x.com/petergyang/status/2103318850641260959</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2103318850641260959" rel="alternate" />
+    <published>2026-09-25T03:01:06.000Z</published>
+    <updated>2026-09-25T03:01:06.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">also it does look incredible https://t.co/u8WzIp4bQX</content>
+    <content type="text">Astra blew up 3D models
+Then Opus blew up videos
+I don’t even know what’s next anymore https://t.co/CGJDOoGvYQ</content>
   </entry>
   <entry>
-    <id>https://x.com/trq212/status/2102870353781641416</id>
-    <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2102870353781641416" rel="alternate" />
-    <published>2026-09-23T21:18:56.000Z</published>
-    <updated>2026-09-23T21:18:56.000Z</updated>
-    <author><name>Thariq</name></author>
+    <id>https://x.com/petergyang/status/2103311956639973774</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2103311956639973774" rel="alternate" />
+    <published>2026-09-25T02:33:42.000Z</published>
+    <updated>2026-09-25T02:33:42.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">the post: &quot;Claude one-shot this&quot;
-
-the prompt: 10k characters with good takes plus skills, examples and API keys https://t.co/arEQYrfaUY</content>
+    <content type="text">😂 this is love https://t.co/xUgorFN8IG</content>
   </entry>
   <entry>
-    <id>https://x.com/trq212/status/2102857025206255902</id>
-    <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2102857025206255902" rel="alternate" />
-    <published>2026-09-23T20:25:58.000Z</published>
-    <updated>2026-09-23T20:25:58.000Z</updated>
-    <author><name>Thariq</name></author>
+    <id>https://x.com/petergyang/status/2103310612864569388</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2103310612864569388" rel="alternate" />
+    <published>2026-09-25T02:28:22.000Z</published>
+    <updated>2026-09-25T02:28:22.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">this is a new type of post we&apos;re trying where we share in-depth about how we do work using specific prompts and techniques you should be able to replicate
-
-let us know if it&apos;s useful or if you have any feedback! https://t.co/OiScn8ZI9Y</content>
+    <content type="text">This is called stroking the AI&apos;s ego and it works https://t.co/CpSvOv3kmF</content>
   </entry>
   <entry>
-    <id>https://x.com/bcherny/status/2102854267782705648</id>
-    <title>Boris Cherny (@bcherny)</title>
-    <link href="https://x.com/bcherny/status/2102854267782705648" rel="alternate" />
-    <published>2026-09-23T20:15:01.000Z</published>
-    <updated>2026-09-23T20:15:01.000Z</updated>
-    <author><name>Boris Cherny</name></author>
-    <category term="twitter" />
-    <content type="text">If you&apos;ve noticed how fast https://t.co/9A6X5iqpbs and the Desktop app have become in the last few weeks, here&apos;s how we did it. 
-
-Lots of juicy learnings &amp;amp; techniques in the blog post for engineers working on speeding up your own apps. https://t.co/42Zcob1Udq</content>
-  </entry>
-  <entry>
-    <id>https://x.com/claudeai/status/2102840855258452037</id>
-    <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2102840855258452037" rel="alternate" />
-    <published>2026-09-23T19:21:43.000Z</published>
-    <updated>2026-09-23T19:21:43.000Z</updated>
-    <author><name>Claude</name></author>
-    <category term="twitter" />
-    <content type="text">Browse the marketplace: https://t.co/MIKvTzg59L
-
-And if you&apos;re building for Claude, list your tools, agents or services here: https://t.co/gjX3Xctic2</content>
-  </entry>
-  <entry>
-    <id>https://x.com/claudeai/status/2102840851538080172</id>
-    <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2102840851538080172" rel="alternate" />
-    <published>2026-09-23T19:21:42.000Z</published>
-    <updated>2026-09-23T19:21:42.000Z</updated>
-    <author><name>Claude</name></author>
-    <category term="twitter" />
-    <content type="text">You can now discover tools, agents and expert partners on Claude Marketplace. Use it to:
-
-- Add connectors and plugins like Slack and Notion
-- Buy agents and products from companies like Cursor and CrowdStrike
-- Scale with service partners like Accenture and Deloitte https://t.co/S5DrmdUkXu</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2102826854357016793</id>
+    <id>https://x.com/danshipper/status/2103283846645166283</id>
     <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2102826854357016793" rel="alternate" />
-    <published>2026-09-23T18:26:05.000Z</published>
-    <updated>2026-09-23T18:26:05.000Z</updated>
+    <link href="https://x.com/danshipper/status/2103283846645166283" rel="alternate" />
+    <published>2026-09-25T00:42:00.000Z</published>
+    <updated>2026-09-25T00:42:00.000Z</updated>
     <author><name>Dan Shipper</name></author>
     <category term="twitter" />
-    <content type="text">tomorrow at 6pm we find out if an ai agent can throw a good party
-
-the @every agent planned every’s september meetup from the food and drinks menu to the guest list.
-
-come grade it with in our brownstone in brooklyn!
-
-rsvp: https://t.co/pfbOXwEWbJ</content>
+    <content type="text">so freaking cool https://t.co/gmU7Izxyuy</content>
   </entry>
   <entry>
-    <id>https://x.com/rauchg/status/2102820148629614685</id>
+    <id>https://x.com/nikunj/status/2103276414187548791</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2103276414187548791" rel="alternate" />
+    <published>2026-09-25T00:12:28.000Z</published>
+    <updated>2026-09-25T00:12:28.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">This is the way.. https://t.co/hwQIqAUlBC https://t.co/36ToP9fUlB</content>
+  </entry>
+  <entry>
+    <id>https://x.com/trq212/status/2103259550325575806</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2103259550325575806" rel="alternate" />
+    <published>2026-09-24T23:05:28.000Z</published>
+    <updated>2026-09-24T23:05:28.000Z</updated>
+    <author><name>Thariq</name></author>
+    <category term="twitter" />
+    <content type="text">incredibly thoughtful piece on AI and creativity
+
+hopefully we can make our producst better at enabling and amplifying creatives https://t.co/SeI25wbaI7</content>
+  </entry>
+  <entry>
+    <id>https://x.com/adityaag/status/2103230206005612661</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2103230206005612661" rel="alternate" />
+    <published>2026-09-24T21:08:51.000Z</published>
+    <updated>2026-09-24T21:08:51.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
+    <category term="twitter" />
+    <content type="text">It was great speaking with @SteveHiltonx at @spc for a conversation on California&apos;s future.
+
+We have more work to do. Onwards. https://t.co/tEXWt8Xfhd</content>
+  </entry>
+  <entry>
+    <id>https://x.com/swyx/status/2103223477130129726</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2103223477130129726" rel="alternate" />
+    <published>2026-09-24T20:42:07.000Z</published>
+    <updated>2026-09-24T20:42:07.000Z</updated>
+    <author><name>Swyx</name></author>
+    <category term="twitter" />
+    <content type="text">more conferences could implement this. so much high value time wasted without thought https://t.co/jn93l7JyoH</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2103218709234172252</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2103218709234172252" rel="alternate" />
+    <published>2026-09-24T20:23:10.000Z</published>
+    <updated>2026-09-24T20:23:10.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">We are in that stage of the &quot;revenue&quot; lifecycle.. https://t.co/2uEqADj9un</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2103216656747262419</id>
     <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2102820148629614685" rel="alternate" />
-    <published>2026-09-23T17:59:26.000Z</published>
-    <updated>2026-09-23T17:59:26.000Z</updated>
+    <link href="https://x.com/rauchg/status/2103216656747262419" rel="alternate" />
+    <published>2026-09-24T20:15:01.000Z</published>
+    <updated>2026-09-24T20:15:01.000Z</updated>
     <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">Muse, Instinct, OpenClaw, Claude Code…
-All successful agents have 3 key components:
+    <content type="text">Spend of OpenAI vs Anthropic vs Open 
+(Vercel AI Gateway, last 2 months)
 
-🧠 Brain → model, harness (logic)
-👐 Hands → tools, computer, browser
-🗃️ Files → memories, skills, repos
+• Anthropic still #1 in spend, but went 69% → 40%
+• OpenAI: 10% → 24% in spend
+• GPT-6 Astra + GPT 5.6 Sol are ripping
+• OpenAI now leads in tokens #
+• Kimi K3 + DeepSeek took ~half of Anthropic&apos;s loss
+• Opus 5.5 is up to 10% of spend in 2 days
+• OpenAI is 62% of image generations 
 
-The &apos;easy&apos; way is to throw all these in 1 stateful computer (a Mac Mini)
-
-Like, you run 𝚌𝚕𝚊𝚞𝚍𝚎 or 𝚏𝚡 in your mac, you keep it running all day with 𝚌𝚊𝚏𝚏𝚎𝚒𝚗𝚊𝚝𝚎, it has storage, and CLIs and apps installed.
-
-But if you want to cost-efficiently run agents in the cloud, you actually start breaking down these parts.
-
-🧠 The harness can run in Fluid compute. To make it reliable across restarts, rollouts, crashes, you make its event log durable using Workflow.
-
-👐 The hands can be a dedicated browser fleet like Browserbase/Kernel, a computer like Sandbox, and even more efficient lightweight tools like just-bash.
-
-🗃️ 🆕 What was missing was a way to also decouple storage. Imagine you want to run a memory consolidation cron job every night (&quot;dreaming&quot;). You can read/write to the files directly without &apos;booting up&apos; the agent&apos;s full computer.
-
-Today we&apos;re introducing the perfect companion to Sandbox: Drives. We shipped the computer for agents, now we&apos;re giving you the &apos;external disk&apos; you can attach at will. It&apos;s early, and we&apos;ll be expanding capabilities here quickly.
-
-Btw, breaking apart the agent into these independent parts not only optimizes costs in a big way, it also *massively* improves security and auditability. I&apos;d argue you can&apos;t even run a secure agent otherwise!</content>
+Watch here: https://t.co/Gu7D9d7M8w</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2102814202117411196</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2102814202117411196" rel="alternate" />
-    <published>2026-09-23T17:35:48.000Z</published>
-    <updated>2026-09-23T17:35:48.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
+    <id>https://x.com/trq212/status/2103212052391354794</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2103212052391354794" rel="alternate" />
+    <published>2026-09-24T19:56:43.000Z</published>
+    <updated>2026-09-24T19:56:43.000Z</updated>
+    <author><name>Thariq</name></author>
     <category term="twitter" />
-    <content type="text">Voice! I&apos;ve gotten so used to just call ChatGPT and talk about all the work, check on emails, do some coding, manage my calendar and it works across the full ecosystem of plugins, including 3P developed plugins. https://t.co/7MQYUxcMIL</content>
+    <content type="text">this should let you customize the plan mode prompt, create + share your own modes or just ignore it and rebind shift+tab to something else all together</content>
   </entry>
   <entry>
-    <id>https://x.com/danshipper/status/2102810679287914502</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2102810679287914502" rel="alternate" />
-    <published>2026-09-23T17:21:48.000Z</published>
-    <updated>2026-09-23T17:21:48.000Z</updated>
-    <author><name>Dan Shipper</name></author>
+    <id>https://x.com/trq212/status/2103212051065921632</id>
+    <title>Thariq (@trq212)</title>
+    <link href="https://x.com/trq212/status/2103212051065921632" rel="alternate" />
+    <published>2026-09-24T19:56:43.000Z</published>
+    <updated>2026-09-24T19:56:43.000Z</updated>
+    <author><name>Thariq</name></author>
     <category term="twitter" />
-    <content type="text">sick https://t.co/Ebtyggx5Il</content>
+    <content type="text">lots feedback here, many of you are planning yourself &amp;amp; don&apos;t need plan mode
+
+others prefer the UX of entering a mode where Claude is just thinking &amp;amp; brainstorming with you
+
+my plan is to:
+- make plan mode into a built-in mod
+- allow mods to add new modes or override shift+tab https://t.co/SL1IzLvb17</content>
   </entry>
   <entry>
-    <id>https://x.com/joshwoodward/status/2102800209894056351</id>
+    <id>https://x.com/steipete/status/2103200311641076100</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2103200311641076100" rel="alternate" />
+    <published>2026-09-24T19:10:04.000Z</published>
+    <updated>2026-09-24T19:10:04.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">I put Daybreak on it and found 8 more long-standing leaks. Care for your oss dependencies! https://t.co/pTwsuhEvxs</content>
+  </entry>
+  <entry>
+    <id>https://x.com/joshwoodward/status/2103182638085501182</id>
     <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2102800209894056351" rel="alternate" />
-    <published>2026-09-23T16:40:12.000Z</published>
-    <updated>2026-09-23T16:40:12.000Z</updated>
+    <link href="https://x.com/joshwoodward/status/2103182638085501182" rel="alternate" />
+    <published>2026-09-24T17:59:50.000Z</published>
+    <updated>2026-09-24T17:59:50.000Z</updated>
     <author><name>Josh Woodward</name></author>
     <category term="twitter" />
-    <content type="text">More of your favorite apps are coming to Gemini! Which ones do you want next? https://t.co/5TcgtcMM24</content>
+    <content type="text">https://t.co/qd50Usegxo</content>
   </entry>
   <entry>
-    <id>https://x.com/amasad/status/2102799031038878172</id>
+    <id>https://x.com/joshwoodward/status/2103182635992514569</id>
+    <title>Josh Woodward (@joshwoodward)</title>
+    <link href="https://x.com/joshwoodward/status/2103182635992514569" rel="alternate" />
+    <published>2026-09-24T17:59:50.000Z</published>
+    <updated>2026-09-24T17:59:50.000Z</updated>
+    <author><name>Josh Woodward</name></author>
+    <category term="twitter" />
+    <content type="text">Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following. 
+
+It’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.
+
+Give it a try! https://t.co/cUVgf5wn5b</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2103168077102043373</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2103168077102043373" rel="alternate" />
+    <published>2026-09-24T17:01:59.000Z</published>
+    <updated>2026-09-24T17:01:59.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">LIVE: Write-along https://t.co/Y2BfQMlLC4</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2103167536141353053</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2103167536141353053" rel="alternate" />
+    <published>2026-09-24T16:59:50.000Z</published>
+    <updated>2026-09-24T16:59:50.000Z</updated>
+    <author><name>Matt Turck</name></author>
+    <category term="twitter" />
+    <content type="text">This conversation with the excellent Renen Hallak of @VAST_Data is also available on Spotify, Apple Podcasts and here on YouTube (like and subcribe!):
+
+https://t.co/mViKG7e172</content>
+  </entry>
+  <entry>
+    <id>https://x.com/mattturck/status/2103167531917721866</id>
+    <title>Matt Turck (@mattturck)</title>
+    <link href="https://x.com/mattturck/status/2103167531917721866" rel="alternate" />
+    <published>2026-09-24T16:59:49.000Z</published>
+    <updated>2026-09-24T16:59:49.000Z</updated>
+    <author><name>Matt Turck</name></author>
+    <category term="twitter" />
+    <content type="text">In Jensen&apos;s 5 layer cake analogy for AI (energy, chips, infrastructure, models, applications), the middle layer (esp the software infra part) is much less understood - and thats where @VAST_Data became a $30B company few people know about, powering @SpaceXAI, @CoreWeave, @nebiusai, @MistralAI, @nscale etc
+
+My conversation with Renen Hallak, CEO:
+
+00:00 Intro
+00:51 The hidden software layer in NVIDIA&apos;s AI stack 02:28 What actually makes an &quot;AI factory&quot;?
+05:13 Should Walmart and Goldman build their own AI?
+06:20 &quot;We infer during the day, fine-tune at night&quot;
+13:16 Announcement: frontier models &amp; sensitive data
+15:32 From P vs. NP to founding VAST Data
+17:32 OpenAI, Navier–Stokes and 10,000 agents
+20:25 The pre-transformer insight behind VAST
+21:55 DASE: VAST&apos;s &quot;shared everything&quot; architecture 
+25:18 &quot;Storage was where startups go to die&quot;
+27:39 Trillions of vectors: why old databases break
+29:01 Are S3, Snowflake and Databricks ready for AI
+31:29 Data gravity, vendor lock-in and zero churn
+33:13 Training vs. inference: why the infrastructure changes
+34:46 Model routing, KV caches, RAG &amp; agent memory
+36:59 Identity, permissions and security for AI agents 40:27 Can multi-agent systems unlock scientific discovery?
+41:55 DataEnclave: how confidential AI protects data and weights
+45:16 Who should be AI&apos;s trust layer?
+46:37 &quot;Sometimes it scares me&quot;: 500 petabytes to 2 exabytes
+50:08 Is circular AI financing creating systemic risk
+51:32 Why VAST is profitable when AI infra isn&apos;t
+53:24 What separates the winning neoclouds?
+55:06 &quot;Their lunch is being eaten&quot;: why hyperscalers lag
+59:10 Where will the trillions accrue across the AI stack
+1:01:18 NVIDIA: &quot;There&apos;s no legal document between us&quot;
+1:03:59 What VAST learned from xAI and @elonmusk 
+1:05:36 &quot;Bad things loudly and often&quot;: building at AI speed
+1:06:53 More change in 10 years than the previous 1,000?
+1:08:39 VAST&apos;s endgame: all the data in the world</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2103150483062014436</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2103150483062014436" rel="alternate" />
+    <published>2026-09-24T15:52:04.000Z</published>
+    <updated>2026-09-24T15:52:04.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">Afghanistan is more excited about AI than we are? https://t.co/rbkSf8pUkM</content>
+  </entry>
+  <entry>
+    <id>https://x.com/steipete/status/2103148444701610233</id>
+    <title>Peter Steinberger (@steipete)</title>
+    <link href="https://x.com/steipete/status/2103148444701610233" rel="alternate" />
+    <published>2026-09-24T15:43:58.000Z</published>
+    <updated>2026-09-24T15:43:58.000Z</updated>
+    <author><name>Peter Steinberger</name></author>
+    <category term="twitter" />
+    <content type="text">If you just tell the agent to clean up, it will stop far too early. Give it an ambitious goal. Try &quot;remove 20% of the least useful tests while maintaining code coverage within 2%&quot;</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2103129037011120525</id>
     <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2102799031038878172" rel="alternate" />
-    <published>2026-09-23T16:35:31.000Z</published>
-    <updated>2026-09-23T16:35:31.000Z</updated>
+    <link href="https://x.com/amasad/status/2103129037011120525" rel="alternate" />
+    <published>2026-09-24T14:26:51.000Z</published>
+    <updated>2026-09-24T14:26:51.000Z</updated>
     <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">You need young people to break the mold, question deeply held beliefs, and attempt the impossible. The ideal college would cultivate exactly that. https://t.co/XrYbOUjOJ3</content>
+    <content type="text">Muse can now make apps on Replit https://t.co/AColbWFCEN</content>
   </entry>
   <entry>
-    <id>https://x.com/adityaag/status/2102782451643040074</id>
-    <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2102782451643040074" rel="alternate" />
-    <published>2026-09-23T15:29:38.000Z</published>
-    <updated>2026-09-23T15:29:38.000Z</updated>
-    <author><name>Aditya Agarwal</name></author>
-    <category term="twitter" />
-    <content type="text">It tells you a lot when someone has moved around a lot in their career.
+    <id>https://www.youtube.com/@DataDrivenNYC/videos</id>
+    <title>The MAD Podcast with Matt Turck: Who Feeds the GPUs? Inside AI&apos;s Hidden $30B Layer | Renen Hallak, VAST Data</title>
+    <link href="https://www.youtube.com/@DataDrivenNYC/videos" rel="alternate" />
+    <published>2026-09-24T11:30:00.000Z</published>
+    <updated>2026-09-24T11:30:00.000Z</updated>
+    <author><name>The MAD Podcast with Matt Turck</name></author>
+    <category term="podcast" />
+    <content type="text">Speaker 1 | 00:00 - 00:17
+Sometimes it scares me. We had a customer, one of these AI clouds, they said we&apos;re probably going to need about 500 petabytes over the next three years. Last week, came back to us and said, we&apos;re gonna need an extra two exabytes on top of that 500 petabytes. I think in the next ten years, we&apos;ll see more difference than we did in the last thousand years.
 
-Also tells you a lot when there is low company turnover.
-
-A team that has been working together for 3+ years is significantly higher throughput and more resilient than a team that has just formed.
-
-A key mistake I see investors/employees make all the time is to simply ask about team size as opposed to team longevity.
-
-AUC for teams is the right metric.</content>
+Speaker 2 | 00:17 - 00:30
+Hi. I&apos;m Matt Turk. Welcome to the MAD podcast. We talk a lot about AI models on this show, ...</content>
   </entry>
   <entry>
-    <id>https://x.com/realmadhuguru/status/2102777931764498536</id>
-    <title>Madhu Guru (@realmadhuguru)</title>
-    <link href="https://x.com/realmadhuguru/status/2102777931764498536" rel="alternate" />
-    <published>2026-09-23T15:11:41.000Z</published>
-    <updated>2026-09-23T15:11:41.000Z</updated>
-    <author><name>Madhu Guru</name></author>
-    <category term="twitter" />
-    <content type="text">I respectfully disagree with @benthompson on this. He’s missing a key point - Consumers don’t have one relationship with “doing things”. 
-
-I’ve learned it the hard way from building consumer and smb products for years at Google and now Meta.
-
-Browsing clothes can be entertainment (for some). But hiring a roofer is miserable (for most).
-
-Even with shopping, sometimes you want to browse for an hour. Sometimes you want the right thing just delivered asap.
-
-His argument sounds a lot like the early 2000s:
-
-“Why would I buy clothes online? I need to try them on.”
-
-“Why would I buy a $500 TV online? I will go check it out at Circuit City.”
-
-Technology keeps giving you better ways of doing things.
-
-Try hiring a roofer today: search, read 10 reviews, phone tag, coordinate with insurance, schedule inspection, get quotes, catch hidden costs, review their past work, hire, scheduling.
-
-For some tasks like this, better means almost zero effort. For others, it means considering more options, enjoying the process and making an informed decision.
-
-The latent demand for agents that remove this friction for consumers is immense.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2102650088137130205</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2102650088137130205" rel="alternate" />
-    <published>2026-09-23T06:43:41.000Z</published>
-    <updated>2026-09-23T06:43:41.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">@latentspacepod https://t.co/oloSDxf0q7</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2102650014552182920</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2102650014552182920" rel="alternate" />
-    <published>2026-09-23T06:43:23.000Z</published>
-    <updated>2026-09-23T06:43:23.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">can confirm. ran @latentspacepod AINews side by side with 6 Sol and the difference was night and day: https://t.co/oloSDxf0q7
-
-5.5 Opus is the new default model for AINews going forward. so much more concise and tasteful reporting, with much less slopese than even 5 Opus. https://t.co/P6AXDlBKNP https://t.co/6q20Ik0dho</content>
+    <id>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</id>
+    <title>Claude Blog: Claude for Small Business launches new workflows, integrations, and training programs</title>
+    <link href="https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs" rel="alternate" />
+    <published>2026-09-15T00:00:00.000Z</published>
+    <updated>2026-09-15T00:00:00.000Z</updated>
+    <author><name>Claude Blog</name></author>
+    <category term="blog" />
+    <content type="text">Claude for Small Business now includes 43 workflows and 27 new integrations with tools small businesses already use, including Shopify, Salesforce, TikTok, Atlassian, Zoom, Xero, Gusto, Square, Stripe, and Zapier. The new workflows extend Claude from running the back office to growing the business, and they arrive with a fall schedule of free in-person workshops and partner webinars for owners who want help getting started. We launched Claude for Small Business in May as a set of connectors and ready-to-run workflows that put Claude inside the tools owners depend on. It has since been installed more than 900,000 times. Thank you to our original, and continued, partners Intuit Quickbooks, PayPal, HubSpot, Canva, Docusign, Google Workspace, and Microsoft 365.On our spring Claude SMB Tour, more than 1,000 owners in 10 cities told us what they wanted Claude to take on next. About a third asked for help growing the business: generating leads, answering inbound inquiries, and writing proposa...</content>
   </entry>
 </feed>
