@@ -5,302 +5,405 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-11-09T06:36:37.960Z</updated>
+  <updated>2026-11-10T06:27:38.415Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/nikunj/status/2119670529254981756</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2119670529254981756" rel="alternate" />
-    <published>2026-11-09T05:56:50.000Z</published>
-    <updated>2026-11-09T05:56:50.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
+    <id>https://x.com/thenanyu/status/2120037431261184454</id>
+    <title>Nan Yu (@thenanyu)</title>
+    <link href="https://x.com/thenanyu/status/2120037431261184454" rel="alternate" />
+    <published>2026-11-10T06:14:46.000Z</published>
+    <updated>2026-11-10T06:14:46.000Z</updated>
+    <author><name>Nan Yu</name></author>
     <category term="twitter" />
-    <content type="text">If you are visiting SF, and trying to meet more people, here are a random list of things you should remove from your vocabulary..
+    <content type="text">PSA since it took me a second to discover it: 
+If you wanna get some untapped value out of your ChatGPT subscription, go into settings and turn on global dictation
 
-&gt; swap notes
-&gt; &quot;synergies&quot;
-&gt; pick your brain
-&gt; networking
-&gt; &quot;san fran&quot; (tourist tell)
-&gt; grab coffee if you&apos;re free
-
-If you want to meet interesting people here, show your work. The most interesting people I know in the city are not attending that fancy large conference - they are probably at their office. 
-
-So what&apos;s the work? It can be as simple as a thoughtful cold email, a five line pointed DM, or complex as some side projects that you have shipped, or a meetup that you are organizing.
-
-If you put in the effort, it shows, yes, even in this AI era. I still get so much slop across the board, that if I see anyone put in the effort, I try to go out of my way to meet them. 
-
-Even the busiest people have 15 mins to give you, if you give them a reason to!</content>
+It uses the same fast and accurate transcription path as the in-app dictation https://t.co/BS8CDVlPeQ</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2119657833516171384</id>
+    <id>https://x.com/petergyang/status/2120026112722137345</id>
     <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2119657833516171384" rel="alternate" />
-    <published>2026-11-09T05:06:23.000Z</published>
-    <updated>2026-11-09T05:06:23.000Z</updated>
+    <link href="https://x.com/petergyang/status/2120026112722137345" rel="alternate" />
+    <published>2026-11-10T05:29:48.000Z</published>
+    <updated>2026-11-10T05:29:48.000Z</updated>
     <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">This affair is going to destroy billions in shareholder value isn’t it</content>
+    <content type="text">This is the future of work 😂 https://t.co/p9UX0PjnbH</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2119624260675350605</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2119624260675350605" rel="alternate" />
-    <published>2026-11-09T02:52:59.000Z</published>
-    <updated>2026-11-09T02:52:59.000Z</updated>
-    <author><name>Garry Tan</name></author>
+    <id>https://x.com/thsottiaux/status/2120021043876106429</id>
+    <title>Thibault Sottiaux (@thsottiaux)</title>
+    <link href="https://x.com/thsottiaux/status/2120021043876106429" rel="alternate" />
+    <published>2026-11-10T05:09:39.000Z</published>
+    <updated>2026-11-10T05:09:39.000Z</updated>
+    <author><name>Thibault Sottiaux</name></author>
     <category term="twitter" />
-    <content type="text">My gstack-evals project took a look at this Jev Engineering article and tried to replicate it, and I also told it to try particle-1 and it turns out this article replicates, and particle-1 is even better https://t.co/Lf4QULKRnF https://t.co/FfCzahr6UJ</content>
+    <content type="text">Dots can now control many machines in addition to its own little cloud computer that we provide by default. https://t.co/VtVYz5DcAB</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2119615647592395037</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2119615647592395037" rel="alternate" />
-    <published>2026-11-09T02:18:45.000Z</published>
-    <updated>2026-11-09T02:18:45.000Z</updated>
-    <author><name>Garry Tan</name></author>
+    <id>https://x.com/petergyang/status/2120020729546862979</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2120020729546862979" rel="alternate" />
+    <published>2026-11-10T05:08:24.000Z</published>
+    <updated>2026-11-10T05:08:24.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">You&apos;re really going to want your own software factory https://t.co/lmk0Mati0N</content>
+    <content type="text">Turned my 8-year-old&apos;s drawings into kart racers - time to upgrade the characters https://t.co/CdbzbaEWp2 https://t.co/UhS2NVQc9P</content>
   </entry>
   <entry>
-    <id>https://x.com/garrytan/status/2119612084220842483</id>
-    <title>Garry Tan (@garrytan)</title>
-    <link href="https://x.com/garrytan/status/2119612084220842483" rel="alternate" />
-    <published>2026-11-09T02:04:36.000Z</published>
-    <updated>2026-11-09T02:04:36.000Z</updated>
-    <author><name>Garry Tan</name></author>
+    <id>https://x.com/petergyang/status/2120019538763002179</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2120019538763002179" rel="alternate" />
+    <published>2026-11-10T05:03:40.000Z</published>
+    <updated>2026-11-10T05:03:40.000Z</updated>
+    <author><name>Peter Yang</name></author>
     <category term="twitter" />
-    <content type="text">Once you realize software is so easily changed with frontier models, these bugs become a little bit unbearable
+    <content type="text">Upgrading the music right now https://t.co/9awRRcZIq8</content>
+  </entry>
+  <entry>
+    <id>https://x.com/realmadhuguru/status/2119999748086362466</id>
+    <title>Madhu Guru (@realmadhuguru)</title>
+    <link href="https://x.com/realmadhuguru/status/2119999748086362466" rel="alternate" />
+    <published>2026-11-10T03:45:02.000Z</published>
+    <updated>2026-11-10T03:45:02.000Z</updated>
+    <author><name>Madhu Guru</name></author>
+    <category term="twitter" />
+    <content type="text">If you are a product leader, here is a simple exercise: draw out your product lifecycle.
 
-And simultaneously, it seems obvious personal just-in-time software will be inevitable</content>
+e.g. market understanding -&gt; design -&gt; development -&gt; GTM.
+
+Chances are your PMs spend more time in some stages than others - because of the nature of your product, your org or their comfort zones.
+
+This is a handoff-heavy, lossy process.
+
+Now ask yourself: using AI, how much deeper can PMs go on every stage?
+
+PMs should be able to
+- build a much deeper, broader understanding of users and the market
+- iterate fast from ideas to working prototypes
+- explore the codebase to study technical constraints and tradeoffs
+- run their own analytics and investigate questions as they emerge
+- understand the GTM funnel deeply enough to shape product strategy
+
+Now, this is not about PMs replacing every role. As the function that spans the entire lifecycle, this is about  raising the bar on the PM role, so they combine their breadth with much greater depth.</content>
   </entry>
   <entry>
-    <id>https://x.com/swyx/status/2119611058881192187</id>
+    <id>https://x.com/swyx/status/2119990961459921395</id>
     <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2119611058881192187" rel="alternate" />
-    <published>2026-11-09T02:00:31.000Z</published>
-    <updated>2026-11-09T02:00:31.000Z</updated>
+    <link href="https://x.com/swyx/status/2119990961459921395" rel="alternate" />
+    <published>2026-11-10T03:10:07.000Z</published>
+    <updated>2026-11-10T03:10:07.000Z</updated>
     <author><name>Swyx</name></author>
     <category term="twitter" />
-    <content type="text">are you listening anon? https://t.co/52rrkgKNg5 https://t.co/CFJg15NMCt</content>
+    <content type="text">signups https://t.co/M8tHHd2cR8 for new media creators</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2119595860057288967</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2119595860057288967" rel="alternate" />
-    <published>2026-11-09T01:00:07.000Z</published>
-    <updated>2026-11-09T01:00:07.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">“Both of my parents got diagnosed with two cancers each within a week of each other.”
-
-From @AshleyYuki, VP of Product at @OpenAI:
-
-“I just decided to take a month [off work]. It was one of the best things I could have done in that moment to care for my parents.
-
-You also have to care for yourself as a caregiver. We don’t talk about that enough. It’s still a really big cognitive load, emotional load, just pure time load to be a caregiver. You have to make sure you’re budgeting time for your own mental health.”
-
-📌 Watch our full episode here: https://t.co/Z3HibgPP8S</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2119592080318341128</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2119592080318341128" rel="alternate" />
-    <published>2026-11-09T00:45:06.000Z</published>
-    <updated>2026-11-09T00:45:06.000Z</updated>
-    <author><name>Zara Zhang</name></author>
-    <category term="twitter" />
-    <content type="text">I’ve almost stopped using the term “vibe coding” because there’s a negative connotation to it 
-
-It implies that you didn’t put a lot of effort or soul into the output and it’s just AI slop
-
-But oftentimes people ARE putting their heart and soul into the work even when using AI coding tools. The 2 are not contradictory
-
-We need a better word for describing this</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2119592025440092192</id>
+    <id>https://x.com/levie/status/2119987129204047894</id>
     <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2119592025440092192" rel="alternate" />
-    <published>2026-11-09T00:44:53.000Z</published>
-    <updated>2026-11-09T00:44:53.000Z</updated>
+    <link href="https://x.com/levie/status/2119987129204047894" rel="alternate" />
+    <published>2026-11-10T02:54:53.000Z</published>
+    <updated>2026-11-10T02:54:53.000Z</updated>
     <author><name>Aaron Levie</name></author>
     <category term="twitter" />
-    <content type="text">We’re moving from an era of AI where the output comes roughly at the rate that you can chat back and forth with the AI to work with you, to a period where you can set a problem for a set of agents to go off and do an arbitrarily large amount of work for you. This means productivity gains that are maybe 20-50% to gains that don’t really have an upper limit.
+    <content type="text">It turns out the advancements we’re getting in coding and computer use, combined with industry specific understand and general reasoning, can bring automation to a large number of areas of knowledge work.
 
-Agent swarms and the ability to fan out complex work across many agents doing tasks in parallel provide a massive unlock in a lot of spaces. This will lead to qualitatively different outcomes in my fields. 
+We’re entering the era of autonomous collaborators in a number of industries that haven’t yet had their claude code or codex moment yet. But now this is going to happen. 
 
-This has already been seen across the coding domain. Next, cyber is almost entirely a problem space where more agents reviewing more things will lead to far better outcomes. We’re seeing the same now in many scientific fields, and this almost certainly will change life sciences. 
+We’ll see it in animation, film production, gaming, manufacturing, architecture, product design, robotics, and more. All of these fields have the potential of driving far more output similar to what we’ve seen in software engineering. There’s no inherent finite demand for these categories of work.
 
-But this will increasingly be true in any field where you can parallelize computer-based work to complete something faster or do something at a totally different quality level. Which is actually are some of the most valuable domains of knowledge work today. 
-
-Our brains aren’t really wired for the new scenario we’re heading into where compute becomes the variable that we can flex to solve any problem that we want. We’re used to thinking that the amount of time that goes into a task is correlated to the output that we get from it. And most domains of knowledge work or science have generally always been correlated with this. That’s changing forever.</content>
+“Software is eating the world” is finally in a much bigger way happening because of AI.</content>
   </entry>
   <entry>
-    <id>https://x.com/ryolu_/status/2119586846657454152</id>
-    <title>Ryo Lu (@ryolu_)</title>
-    <link href="https://x.com/ryolu_/status/2119586846657454152" rel="alternate" />
-    <published>2026-11-09T00:24:18.000Z</published>
-    <updated>2026-11-09T00:24:18.000Z</updated>
-    <author><name>Ryo Lu</name></author>
+    <id>https://x.com/amasad/status/2119965240066752682</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2119965240066752682" rel="alternate" />
+    <published>2026-11-10T01:27:54.000Z</published>
+    <updated>2026-11-10T01:27:54.000Z</updated>
+    <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">when we can do anything,
-do we still know what we want?
-
-the full talk from @aiDotEngineer shanghai. every slide handmade in keynote, subs in 中文 and english https://t.co/EeyHu7l3Fc</content>
+    <content type="text">I showed Paul Graham vibe coding before it was called that back in July ‘24, and this was his reaction: https://t.co/K6FaCFefId</content>
   </entry>
   <entry>
-    <id>https://x.com/petergyang/status/2119556651636441416</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2119556651636441416" rel="alternate" />
-    <published>2026-11-08T22:24:19.000Z</published>
-    <updated>2026-11-08T22:24:19.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Anecdotally, I think cheating is far more common in Asia. 
-
-Plenty of guys who have their wife and kids living in the US/Canada, while they do business in Asia and have another girlfriend or even family in a 二奶村.
-
-Most of the time their wife knows about this too. Not saying any of this is right but just what I&apos;ve seen and heard 🤷
-
-Just randomly came across this article</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2119550477629379009</id>
+    <id>https://x.com/swyx/status/2119935240202539147</id>
     <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2119550477629379009" rel="alternate" />
-    <published>2026-11-08T21:59:47.000Z</published>
-    <updated>2026-11-08T21:59:47.000Z</updated>
+    <link href="https://x.com/swyx/status/2119935240202539147" rel="alternate" />
+    <published>2026-11-09T23:28:42.000Z</published>
+    <updated>2026-11-09T23:28:42.000Z</updated>
     <author><name>Swyx</name></author>
     <category term="twitter" />
-    <content type="text">and a special pod! https://t.co/LGOjNlcyAR</content>
+    <content type="text">bro just proved fermat&apos;s last theorem AS A DEMO for the fable 5.2 launch
+
+and casually told me he&apos;s got something bigger planned  for his aie code talk
+
+lol anthropic u guys are wildin https://t.co/2Js2LkmTIM</content>
   </entry>
   <entry>
-    <id>https://x.com/swyx/status/2119543788192600450</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2119543788192600450" rel="alternate" />
-    <published>2026-11-08T21:33:12.000Z</published>
-    <updated>2026-11-08T21:33:12.000Z</updated>
-    <author><name>Swyx</name></author>
+    <id>https://x.com/alexalbert__/status/2119916954337349737</id>
+    <title>Alex Albert (@alexalbert__)</title>
+    <link href="https://x.com/alexalbert__/status/2119916954337349737" rel="alternate" />
+    <published>2026-11-09T22:16:02.000Z</published>
+    <updated>2026-11-09T22:16:02.000Z</updated>
+    <author><name>Alex Albert</name></author>
     <category term="twitter" />
-    <content type="text">if youre wondering how, ask their VP of FDE Pauline Brunet (thanks @realbasilchatha for curating this)
+    <content type="text">I gave Fable 5.2 a PDF of one of Leonardo da Vinci’s 500-year-old notebooks and it made his inventions real for me to interact with.
 
-https://t.co/KMjK2emil8</content>
+Such an exciting time for education. Anything from history that’s been stuck on a page can now be something you explore. https://t.co/MVSz3pc4To</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/watch?v=dpY7YzZo4kE</id>
-    <title>Latent Space: [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
-    <link href="https://www.youtube.com/watch?v=dpY7YzZo4kE" rel="alternate" />
-    <published>2026-11-08T21:23:29.000Z</published>
-    <updated>2026-11-08T21:23:29.000Z</updated>
-    <author><name>Latent Space</name></author>
-    <category term="podcast" />
-    <content type="text">Okay, this is a pretty special episode because we&apos;re celebrating one million subscribers on the AIU Code, uh, AI, AI Engineer YouTube channel. So go over there and subscribe if you haven&apos;t heard about it already.
+    <id>https://x.com/amasad/status/2119909166764667292</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2119909166764667292" rel="alternate" />
+    <published>2026-11-09T21:45:06.000Z</published>
+    <updated>2026-11-09T21:45:06.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">If you&apos;re in Japan, check out &quot;Enterprise Vibe Coding,&quot; a new book from SMFL&apos;s digital innovation team on how AI is transforming enterprise software development.
 
-The guest is Mihail Eric, who is not only teaching the Modern Software Developer at Stanford, which is going viral right now for basically covering all the AI-native development pract- best practices, uh, but also he is head of AI at Monaco.
-
-So he&apos;s not only a teacher, but he&apos;s a prac...</content>
+Coming November 27. Honored to be on the cover! https://t.co/qfF1k6HsvY</content>
   </entry>
   <entry>
-    <id>https://x.com/rauchg/status/2119536313712230802</id>
+    <id>https://x.com/claudeai/status/2119899492778398163</id>
+    <title>Claude (@claudeai)</title>
+    <link href="https://x.com/claudeai/status/2119899492778398163" rel="alternate" />
+    <published>2026-11-09T21:06:39.000Z</published>
+    <updated>2026-11-09T21:06:39.000Z</updated>
+    <author><name>Claude</name></author>
+    <category term="twitter" />
+    <content type="text">Claude Fable 5.2 is available today on all paid plans.
+
+Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Claude Mythos 5.2.
+
+Read more: https://t.co/50jMVOmUG7</content>
+  </entry>
+  <entry>
+    <id>https://x.com/claudeai/status/2119899491310432269</id>
+    <title>Claude (@claudeai)</title>
+    <link href="https://x.com/claudeai/status/2119899491310432269" rel="alternate" />
+    <published>2026-11-09T21:06:39.000Z</published>
+    <updated>2026-11-09T21:06:39.000Z</updated>
+    <author><name>Claude</name></author>
+    <category term="twitter" />
+    <content type="text">Both physics results are written up in preprints.
+
+On the abrupt transition in very small universes: https://t.co/He3fWJc3u9
+
+On the exact limit of a technique used to rule out candidate theories of quantum gravity: https://t.co/TwAyTW9Jxw</content>
+  </entry>
+  <entry>
+    <id>https://x.com/claudeai/status/2119899488995131439</id>
+    <title>Claude (@claudeai)</title>
+    <link href="https://x.com/claudeai/status/2119899488995131439" rel="alternate" />
+    <published>2026-11-09T21:06:38.000Z</published>
+    <updated>2026-11-09T21:06:38.000Z</updated>
+    <author><name>Claude</name></author>
+    <category term="twitter" />
+    <content type="text">In the second physics problem, Fable 5.2 found the exact limit of the simplest version of a 15-year-old technique known as “modular bootstrapping.” The technique is used to rule out candidate theories of quantum gravity in theoretical universes. https://t.co/sYDD812X0w</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2119893236747780567</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2119893236747780567" rel="alternate" />
+    <published>2026-11-09T20:41:48.000Z</published>
+    <updated>2026-11-09T20:41:48.000Z</updated>
+    <author><name>Amjad Masad</name></author>
+    <category term="twitter" />
+    <content type="text">&quot;But who maintains vibe coded apps?&quot;
+
+How about self-healing software... https://t.co/sDWytCG4gK</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2119891138450755670</id>
     <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2119536313712230802" rel="alternate" />
-    <published>2026-11-08T21:03:30.000Z</published>
-    <updated>2026-11-08T21:03:30.000Z</updated>
+    <link href="https://x.com/rauchg/status/2119891138450755670" rel="alternate" />
+    <published>2026-11-09T20:33:27.000Z</published>
+    <updated>2026-11-09T20:33:27.000Z</updated>
     <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">Built a physical simulation of a record player with WebGL2 and Web Audio. It&apos;s *shockingly* accurate: https://t.co/MBNaTfKoai.
+    <content type="text">So bullish on MCP. Its utility exceeds the &quot;M&quot; part: even AI aside, it&apos;ll be a civilization-scale accomplishment to get all our systems communicating through one universal open protocol.
 
-Instead of playing a song, it works by converting it into the physical shape of a groove. Then a simulated stylus rides those walls 384,000 times a second, and you hear the voltage that motion would induce in a cartridge.
+A missing piece was how to get arbitrary callbacks across sessions. MCP could read and write, but it couldn&apos;t tell you later &quot;this event happened.&quot; MCP Events fixes this.
 
-So the crackle, the pops, the wow/flutter, the dull inner grooves are natural byproducts of the simulation. You can also &quot;DJ&quot; the record.
+We&apos;re adding support in our own MCP. Say an agent makes a deployment, and wants to know when it&apos;s complete. Instead of polling, it can subscribe to 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝.𝚜𝚞𝚌𝚌𝚎𝚎𝚍𝚎𝚍.
 
-(The converted songs are in the public domain or CC-licensed. Code is linked for you to remix and re-deploy.)</content>
+PSA: With Vercel Queues and Workflows, writing the backend machinery for your own MCPs to do this is easy peasy.</content>
   </entry>
   <entry>
-    <id>https://x.com/mattturck/status/2119525416780361766</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2119525416780361766" rel="alternate" />
-    <published>2026-11-08T20:20:12.000Z</published>
-    <updated>2026-11-08T20:20:12.000Z</updated>
-    <author><name>Matt Turck</name></author>
+    <id>https://x.com/bcherny/status/2119890820186976763</id>
+    <title>Boris Cherny (@bcherny)</title>
+    <link href="https://x.com/bcherny/status/2119890820186976763" rel="alternate" />
+    <published>2026-11-09T20:32:11.000Z</published>
+    <updated>2026-11-09T20:32:11.000Z</updated>
+    <author><name>Boris Cherny</name></author>
     <category term="twitter" />
-    <content type="text">ok lol trolls coming out in full force - Elon is a business genius, a visionary and and the richest man in the world, it’s ok for comedians to attempt to poke some fun, relax!</content>
+    <content type="text">Pro users get one reset, and Max, Ultra, and Team Premium get up to three, depending on how long you&apos;ve subscribed:
+https://t.co/JkknwZZGyh</content>
   </entry>
   <entry>
-    <id>https://x.com/levie/status/2119502716770902234</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2119502716770902234" rel="alternate" />
-    <published>2026-11-08T18:50:00.000Z</published>
-    <updated>2026-11-08T18:50:00.000Z</updated>
-    <author><name>Aaron Levie</name></author>
+    <id>https://x.com/alexalbert__/status/2119884951550386671</id>
+    <title>Alex Albert (@alexalbert__)</title>
+    <link href="https://x.com/alexalbert__/status/2119884951550386671" rel="alternate" />
+    <published>2026-11-09T20:08:52.000Z</published>
+    <updated>2026-11-09T20:08:52.000Z</updated>
+    <author><name>Alex Albert</name></author>
     <category term="twitter" />
-    <content type="text">A good lesson in AI is that you need to check back in on the latest with every 3 to 6 months to try something that wasn’t possible before and see if it works again.
+    <content type="text">Every time we have a new model, I run the same simple prompt on all my projects:
 
-At no point in AI’s history is that more true than today. Just the past six months of model progress around computer and tool use, less context rot, better reasoning, multimodality, and deeper domain expertise in a number of key fields, these models are vastly more capable on what they can execute.
+&quot;Read this entire project and find everything that’s broken, inconsistent, inefficient, or no longer needed. Fix what you’re sure about and list the rest for me to review.&quot;
 
-This is opening up a new vector of what AI systems will be able to autonomously work on. Essentially, anything with an API (and even many things without), we can anticipate that an agent will be able to control and utilize as an underlying capability to complete a process.
-
-This means that we are no longer dependent on *just* the models generating everything from whole cloth, but instead they can fully utilize existing systems (or new ones purpose built for them) very effectively. This creates immense leverage for agents.
-
-Security agents can leverage existing data feeds and cyber tooling, IT agents that can execute workflows reliably across software stacks, data agents that can migrate data or processes between systems, architect and design agents can leverage CAD and design tools, and on and on. And any of today’s tools that don’t work will likely be replaced by agent-friendly or OSS tooling that does the same. 
-
-When you combine this with the domain understanding being trained into agents, you started to get autonomous collaborators for every job function and industry. This will open up a ton of new opportunities in AI if you build with this understanding in mind.</content>
+highly recommend trying</content>
   </entry>
   <entry>
-    <id>https://x.com/thenanyu/status/2119493015190249556</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2119493015190249556" rel="alternate" />
-    <published>2026-11-08T18:11:27.000Z</published>
-    <updated>2026-11-08T18:11:27.000Z</updated>
-    <author><name>Nan Yu</name></author>
+    <id>https://x.com/garrytan/status/2119882192088391751</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2119882192088391751" rel="alternate" />
+    <published>2026-11-09T19:57:54.000Z</published>
+    <updated>2026-11-09T19:57:54.000Z</updated>
+    <author><name>Garry Tan</name></author>
     <category term="twitter" />
-    <content type="text">This is a good question. And you should definitely pick &quot;dumbest&quot; over &quot;simplest&quot;. 
+    <content type="text">Red letter day: New frontier model = every one of your projects gets a step function improvement
 
-Simple is something you iterate to. Dumb is the correct starting point. Otherwise, you start to outsmart yourself. 
- 
-https://t.co/KdxEVgEmhm</content>
+I&apos;m not sure if I&apos;ll ever get sick of frontier model release days https://t.co/Xrhi6YX5Jz https://t.co/hBVJHDnAob</content>
   </entry>
   <entry>
-    <id>https://x.com/thenanyu/status/2119462979179892925</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2119462979179892925" rel="alternate" />
-    <published>2026-11-08T16:12:06.000Z</published>
-    <updated>2026-11-08T16:12:06.000Z</updated>
-    <author><name>Nan Yu</name></author>
+    <id>https://x.com/swyx/status/2119878742063641056</id>
+    <title>Swyx (@swyx)</title>
+    <link href="https://x.com/swyx/status/2119878742063641056" rel="alternate" />
+    <published>2026-11-09T19:44:12.000Z</published>
+    <updated>2026-11-09T19:44:12.000Z</updated>
+    <author><name>Swyx</name></author>
     <category term="twitter" />
-    <content type="text">This is basically true in all aspects of software. Choose the dumbest architecture that’ll work. choose the dumbest design that gets the job done. Being clever means your users also have to be just as clever to understand your cleverness https://t.co/aUC8OeQjU9</content>
+    <content type="text">btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon… https://t.co/3ctN4iMteB https://t.co/7DHAJZFNGn</content>
   </entry>
   <entry>
-    <id>https://x.com/thenanyu/status/2119462224721002560</id>
-    <title>Nan Yu (@thenanyu)</title>
-    <link href="https://x.com/thenanyu/status/2119462224721002560" rel="alternate" />
-    <published>2026-11-08T16:09:06.000Z</published>
-    <updated>2026-11-08T16:09:06.000Z</updated>
-    <author><name>Nan Yu</name></author>
+    <id>https://x.com/rauchg/status/2119878364794372162</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2119878364794372162" rel="alternate" />
+    <published>2026-11-09T19:42:42.000Z</published>
+    <updated>2026-11-09T19:42:42.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
     <category term="twitter" />
-    <content type="text">Software got a lot easier if you know what you wanna build, and a lot harder if you don’t. 
+    <content type="text">At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant.
 
-With clarity, you can straight-shot to the solution. Without it, you’ll ship a pile of junk and spend a lot of money doing it. Pre-AI era you would ship nothing, which is an improvement.</content>
+One interesting takeaway: it&apos;s very clear that this new generation of models can take on unprecedented bodies of parallel work.
+
+To actually seize this intelligence, you need cloud sandboxes. Full stop. The model can delegate and orchestrate far more than a single computer can handle. Likely far more than you can even imagine it can handle.
+
+Your bottleneck is now ① your ambition and ② your parallel computing power.
+
+Btw, I learned from @cramforce you don&apos;t need to overcomplicate it. Install Vercel CLI, setup the Plugin and tell the agent to use /𝚘𝚏𝚏𝚕𝚘𝚊𝚍-𝚝𝚘-𝚜𝚊𝚗𝚍𝚋𝚘𝚡 skill. It&apos;ll provision and de-allocate cloud sandboxes as needed. You don&apos;t need a &quot;multi-agent remote harness ralph orchestrator&quot; 😆</content>
   </entry>
   <entry>
-    <id>https://x.com/mattturck/status/2119457959625498698</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2119457959625498698" rel="alternate" />
-    <published>2026-11-08T15:52:09.000Z</published>
-    <updated>2026-11-08T15:52:09.000Z</updated>
-    <author><name>Matt Turck</name></author>
+    <id>https://x.com/bcherny/status/2119873095129550880</id>
+    <title>Boris Cherny (@bcherny)</title>
+    <link href="https://x.com/bcherny/status/2119873095129550880" rel="alternate" />
+    <published>2026-11-09T19:21:45.000Z</published>
+    <updated>2026-11-09T19:21:45.000Z</updated>
+    <author><name>Boris Cherny</name></author>
     <category term="twitter" />
-    <content type="text">Lol not Elon now, after nailing the Tucker Carlson impersonation 😂Absolutely epic run from Jeremy Culhane https://t.co/m26EQ0PBC0</content>
+    <content type="text">We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get. https://t.co/g2Y5cwS0L2 https://t.co/kXTaE829XU</content>
   </entry>
   <entry>
-    <id>https://x.com/zarazhangrui/status/2119342420412510686</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2119342420412510686" rel="alternate" />
-    <published>2026-11-08T08:13:03.000Z</published>
-    <updated>2026-11-08T08:13:03.000Z</updated>
-    <author><name>Zara Zhang</name></author>
+    <id>https://x.com/danshipper/status/2119871917104455924</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2119871917104455924" rel="alternate" />
+    <published>2026-11-09T19:17:05.000Z</published>
+    <updated>2026-11-09T19:17:05.000Z</updated>
+    <author><name>Dan Shipper</name></author>
     <category term="twitter" />
-    <content type="text">The joy of building a product comes from the collision between the predictability of how technology behaves &amp;amp; the unpredictability of how humans behave</content>
+    <content type="text">Vibe Check dropping soon: https://t.co/pY1lpUDlOL</content>
+  </entry>
+  <entry>
+    <id>https://x.com/alexalbert__/status/2119869925288558799</id>
+    <title>Alex Albert (@alexalbert__)</title>
+    <link href="https://x.com/alexalbert__/status/2119869925288558799" rel="alternate" />
+    <published>2026-11-09T19:09:10.000Z</published>
+    <updated>2026-11-09T19:09:10.000Z</updated>
+    <author><name>Alex Albert</name></author>
+    <category term="twitter" />
+    <content type="text">btw robotics will fall to the bitter lesson too https://t.co/cqftOw2OAM</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2119869228207546638</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2119869228207546638" rel="alternate" />
+    <published>2026-11-09T19:06:23.000Z</published>
+    <updated>2026-11-09T19:06:23.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">BREAKING:
+
+@AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious enough to give it.
+
+We’ve been testing it at @every, and I’ve seen this crazy explosion of creativity on the team. People are making their own creative software, games for their kids, and documentaries instead of slide decks.
+
+Here’s your day zero vibe check:
+
+• Coding: @kieranklaassen built Everycut, a video editor with the features we use from Premiere, Descript, and other tools—all in one app, with an agent built in. The first version was live in 3 days, and we immediately used it for our internal show-and-tell. This feels like a new era of professionals building their own professional tools, tailored to exactly how they work.
+
+• Games and design: @jackcheng gave it a photo of his toddler’s messy playroom. It turned the actual toys into a playable racing game, with fun details like a stray shoe as an obstacle and a sippy cup as a power-up.
+
+• Knowledge work: @hammer_mt turned his research into a documentary. The model came up with interview questions, he answered them on camera, and it cut the footage together. He called this the most productive 3 weeks of his career.
+
+• A different way of working: Give it a big job and leave it running overnight or over a weekend. But tell it what “done” means: Mike found it could finish the build, then spend another day or two testing. Set the goal, the budget, and how much checking you need before walking away.
+
+• The catch: It’s slow and burns through tokens. Our early-access usage was free, and these projects would have been expensive at API rates. It’s 20% cheaper than Fable 5.1, but for everyday writing, emails, or quick back-and-forth coding, I’d usually reach for something else.
+
+The clearest signal: When our early access ended, @TylerNishida stopped working on some projects until he could get this model back. He didn’t want to build them with anything else.
+
+The best measure of a new model is whether it makes you try things you wouldn’t have tried before.
+
+Fable 5.2 absolutely does that.
+
+Here’s our full day-zero Vibe Check:</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2119868362838663650</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2119868362838663650" rel="alternate" />
+    <published>2026-11-09T19:02:57.000Z</published>
+    <updated>2026-11-09T19:02:57.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">Fable 5.2 Vibe Check https://t.co/QT6e9t8jke</content>
+  </entry>
+  <entry>
+    <id>https://x.com/adityaag/status/2119858043869683935</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2119858043869683935" rel="alternate" />
+    <published>2026-11-09T18:21:57.000Z</published>
+    <updated>2026-11-09T18:21:57.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
+    <category term="twitter" />
+    <content type="text">Huge launch from the @nuance_ai team today. Try it out now. https://t.co/ReI56ync88</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2119850705901191339</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2119850705901191339" rel="alternate" />
+    <published>2026-11-09T17:52:47.000Z</published>
+    <updated>2026-11-09T17:52:47.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">Ever since I read Niklas Gruhn&apos;s excellent article (https://t.co/ojHWKndeEL), I think about this every day..
+
+If you don&apos;t think people notice that you are feeding everything to AI and regurgitating it back, people actually do!!
+
+(because they are probably already getting an opinion with the same agents)</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/@LatentSpacePod</id>
+    <title>Latent Space: What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp;amp; Team</title>
+    <link href="https://www.youtube.com/@LatentSpacePod" rel="alternate" />
+    <published>2026-11-09T16:41:48.000Z</published>
+    <updated>2026-11-09T16:41:48.000Z</updated>
+    <author><name>Latent Space</name></author>
+    <category term="podcast" />
+    <content type="text">And so three years ago, this was a billion-dollar market. It&apos;s now a $10 billion market. Three years from now, I don&apos;t see how it&apos;s not a hundred billion dollar market.
+
+AI is not gonna cure cancer before it can interpret these very basic types of images.
+
+If it&apos;s ninety-five percent right, it&apos;s a hundred percent wrong because it takes just as much time, if not more time, to fix a flawed output as it is to just build from scratch or use a template.
+
+So you can see the agent did send both the fin...</content>
   </entry>
 </feed>
