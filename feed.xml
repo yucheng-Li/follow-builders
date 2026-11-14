@@ -5,460 +5,278 @@
   <subtitle>Daily updates from top AI builders — tweets, podcasts, and blog posts</subtitle>
   <link href="https://github.com/yucheng-Li/follow-builders" rel="alternate" />
   <link href="https://raw.githubusercontent.com/yucheng-Li/follow-builders/main/feed.xml" rel="self" />
-  <updated>2026-11-13T06:28:02.651Z</updated>
+  <updated>2026-11-14T06:25:34.902Z</updated>
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
   <entry>
-    <id>https://x.com/petergyang/status/2121100531502620784</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2121100531502620784" rel="alternate" />
-    <published>2026-11-13T04:39:09.000Z</published>
-    <updated>2026-11-13T04:39:09.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Can&apos;t tell if this is real but if NVIDIA employees feels strongly doing something like this isn&apos;t a bad idea. https://t.co/oQ8085yvMY</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2121098361201918301</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2121098361201918301" rel="alternate" />
-    <published>2026-11-13T04:30:32.000Z</published>
-    <updated>2026-11-13T04:30:32.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">Beautiful https://t.co/pTTkF9jDJE</content>
-  </entry>
-  <entry>
-    <id>https://x.com/nikunj/status/2121096888023932949</id>
-    <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2121096888023932949" rel="alternate" />
-    <published>2026-11-13T04:24:40.000Z</published>
-    <updated>2026-11-13T04:24:40.000Z</updated>
-    <author><name>Nikunj Kothari</name></author>
-    <category term="twitter" />
-    <content type="text">I know everyone is plugged into the Jensen news, but 9 hours of this without resolution is wiiiiild..
-
-I guess it’s going to get way WAY worse before it gets any better. 
-
-And it’s going to happen to every single organization - big and small ☠️ https://t.co/4768lam91A</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2121088973372334443</id>
+    <id>https://x.com/swyx/status/2121473082372292885</id>
     <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2121088973372334443" rel="alternate" />
-    <published>2026-11-13T03:53:13.000Z</published>
-    <updated>2026-11-13T03:53:13.000Z</updated>
+    <link href="https://x.com/swyx/status/2121473082372292885" rel="alternate" />
+    <published>2026-11-14T05:19:32.000Z</published>
+    <updated>2026-11-14T05:19:32.000Z</updated>
     <author><name>Swyx</name></author>
     <category term="twitter" />
-    <content type="text">and straight to broadway show rehearsal :) see you saturday https://t.co/YaSKdiTPkb https://t.co/eRIxAwTCHT</content>
+    <content type="text">come to https://t.co/Jlx1Lz0P5U tmr !
+
+https://t.co/3Zb9a9HZlY</content>
   </entry>
   <entry>
-    <id>https://x.com/amasad/status/2121081862659739870</id>
+    <id>https://x.com/garrytan/status/2121464508225053153</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2121464508225053153" rel="alternate" />
+    <published>2026-11-14T04:45:28.000Z</published>
+    <updated>2026-11-14T04:45:28.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved about as many (82.7% vs 84.6%) but cost 2.80x as much per solved task.
+
+Opus already solves most of these tasks, though, so telling the two apart will take harder ones.
+
+https://t.co/SfIvr9pHNg</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2121463161069228382</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2121463161069228382" rel="alternate" />
+    <published>2026-11-14T04:40:07.000Z</published>
+    <updated>2026-11-14T04:40:07.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Here&apos;s my open source harness eval repo and what it found
+
+https://t.co/v0sQymE8qM https://t.co/XWp5KliSlN</content>
+  </entry>
+  <entry>
+    <id>https://x.com/garrytan/status/2121462697787342932</id>
+    <title>Garry Tan (@garrytan)</title>
+    <link href="https://x.com/garrytan/status/2121462697787342932" rel="alternate" />
+    <published>2026-11-14T04:38:16.000Z</published>
+    <updated>2026-11-14T04:38:16.000Z</updated>
+    <author><name>Garry Tan</name></author>
+    <category term="twitter" />
+    <content type="text">Jensen deserves due process, not whatever is happening right now. I signed. 
+
+#standwithjensen https://t.co/3yTMpxHJoC</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2121431117526134923</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2121431117526134923" rel="alternate" />
+    <published>2026-11-14T02:32:47.000Z</published>
+    <updated>2026-11-14T02:32:47.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">And here&apos;s a story from an NVIDIA employee. Btw, I encourage anyone reading this to do your own research.
+
+https://t.co/Yf5NhhhArY</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2121430819667579031</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2121430819667579031" rel="alternate" />
+    <published>2026-11-14T02:31:36.000Z</published>
+    <updated>2026-11-14T02:31:36.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">Here&apos;s some evidence of the questionable reporting - it&apos;s still unclear that Alice Huang is a spy despite WSJ jumping to conclusions.
+
+This is from the Singapore gov: https://t.co/6WnZqOt0KH https://t.co/TvUEyV1bOB</content>
+  </entry>
+  <entry>
+    <id>https://x.com/petergyang/status/2121430386685395022</id>
+    <title>Peter Yang (@petergyang)</title>
+    <link href="https://x.com/petergyang/status/2121430386685395022" rel="alternate" />
+    <published>2026-11-14T02:29:53.000Z</published>
+    <updated>2026-11-14T02:29:53.000Z</updated>
+    <author><name>Peter Yang</name></author>
+    <category term="twitter" />
+    <content type="text">If you know a loved one suffering from cancer or another long-term illness:
+
+1. Upload all of the patient&apos;s medical records (e.g., to a Google Drive folder)
+
+2. Tell ChatGPT or Claude to install my free /fuck-cancer skill (just point them at the link: https://t.co/4fi5N8hsSG)
+
+3. Point the skill at the folder to create a one-page brief, research clinical trials, and more.
+
+You&apos;re also welcome to fork the skill and modify it for other long-term conditions. 
+
+tl:dr Use the full power of AI to beat shitty diseases.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/amasad/status/2121428406764204199</id>
     <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2121081862659739870" rel="alternate" />
-    <published>2026-11-13T03:24:58.000Z</published>
-    <updated>2026-11-13T03:24:58.000Z</updated>
+    <link href="https://x.com/amasad/status/2121428406764204199" rel="alternate" />
+    <published>2026-11-14T02:22:01.000Z</published>
+    <updated>2026-11-14T02:22:01.000Z</updated>
     <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">Makes total sense that congressman leading the inquiry into Jensen’s alleged foreign ties is the same guy who showed up at the Capitol wearing a foreign army uniform. He’s an expert at foreign ties! https://t.co/9DfLI6DEwq</content>
+    <content type="text">It&apos;s been great partnering with @Visa on agentic commerce. More features and use cases are coming! https://t.co/R15wSaMQ7c</content>
   </entry>
   <entry>
-    <id>https://x.com/trq212/status/2121069823069421706</id>
-    <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2121069823069421706" rel="alternate" />
-    <published>2026-11-13T02:37:08.000Z</published>
-    <updated>2026-11-13T02:37:08.000Z</updated>
-    <author><name>Thariq</name></author>
-    <category term="twitter" />
-    <content type="text">context- https://t.co/hShN4DHnpJ</content>
-  </entry>
-  <entry>
-    <id>https://x.com/trq212/status/2121067561915916575</id>
-    <title>Thariq (@trq212)</title>
-    <link href="https://x.com/trq212/status/2121067561915916575" rel="alternate" />
-    <published>2026-11-13T02:28:08.000Z</published>
-    <updated>2026-11-13T02:28:08.000Z</updated>
-    <author><name>Thariq</name></author>
-    <category term="twitter" />
-    <content type="text">it’s time to retvrn https://t.co/2vx6G3oPne</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2121062974161092792</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2121062974161092792" rel="alternate" />
-    <published>2026-11-13T02:09:55.000Z</published>
-    <updated>2026-11-13T02:09:55.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">How can codex be improved? Try not to say model.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2121060183988486493</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2121060183988486493" rel="alternate" />
-    <published>2026-11-13T01:58:49.000Z</published>
-    <updated>2026-11-13T01:58:49.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">the production team got us a cake!! #aie1m https://t.co/TYkzM7lfDP https://t.co/xTb0EjSdC7</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2121058770767982997</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2121058770767982997" rel="alternate" />
-    <published>2026-11-13T01:53:12.000Z</published>
-    <updated>2026-11-13T01:53:12.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">My team wrote about how we run persistent agents inside OpenAI. https://t.co/vP5cH7Pohg</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2121044386276594175</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2121044386276594175" rel="alternate" />
-    <published>2026-11-13T00:56:03.000Z</published>
-    <updated>2026-11-13T00:56:03.000Z</updated>
-    <author><name>Zara Zhang</name></author>
-    <category term="twitter" />
-    <content type="text">https://t.co/grKiA4608t
-
-(you can also interrupt it anytime by sending your own text and asking a question)</content>
-  </entry>
-  <entry>
-    <id>https://x.com/zarazhangrui/status/2121044098270543980</id>
-    <title>Zara Zhang (@zarazhangrui)</title>
-    <link href="https://x.com/zarazhangrui/status/2121044098270543980" rel="alternate" />
-    <published>2026-11-13T00:54:54.000Z</published>
-    <updated>2026-11-13T00:54:54.000Z</updated>
-    <author><name>Zara Zhang</name></author>
-    <category term="twitter" />
-    <content type="text">The Jensen Huang scandal, explained over text
-
-(made with 2 prompts; this is such an engaging way to absorb information 😂) https://t.co/iErbeXmQ9o</content>
-  </entry>
-  <entry>
-    <id>https://x.com/steipete/status/2121042215619510584</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2121042215619510584" rel="alternate" />
-    <published>2026-11-13T00:47:25.000Z</published>
-    <updated>2026-11-13T00:47:25.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
-    <category term="twitter" />
-    <content type="text">Would you enable yolo mode for dots, even if your dot might do sth unwanted?</content>
-  </entry>
-  <entry>
-    <id>https://x.com/thsottiaux/status/2121036562058400200</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2121036562058400200" rel="alternate" />
-    <published>2026-11-13T00:24:58.000Z</published>
-    <updated>2026-11-13T00:24:58.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">We announced new tools we&apos;re developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2121036252350972222</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2121036252350972222" rel="alternate" />
-    <published>2026-11-13T00:23:44.000Z</published>
-    <updated>2026-11-13T00:23:44.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">Everybody is talking about honeypot! Was it a honeypot always or merely at the end, as a form of circumstance? But this is precisely the trap. *sniffs* These are merely the *surface* of the situation. 
-
-What is the real infidelity? America tells Nvidia: you are married to national security, you must not sell your most powerful chips to China. But in the same breath it says: you are the great hero of American capitalism! Sell as many chips as possible! And Jensen says: of course, darling, I will be faithful. Then, late at night, *sniffs* he finds a way to remain faithful. 
-
-So you see, Jensen is not cheating on the system. Cheating on his wife? Yes. The system? No. He is the only one who has been faithful to it! 
-
-The system itself wants two incompatible things: to contain China and to dominate the Chinese market. And now we are shocked, shocked, that somebody got caught in a compromising position. *sniffs* And so on.
-
-This is the true infidelity. This is the real honeypot.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/petergyang/status/2121035933541941297</id>
-    <title>Peter Yang (@petergyang)</title>
-    <link href="https://x.com/petergyang/status/2121035933541941297" rel="alternate" />
-    <published>2026-11-13T00:22:28.000Z</published>
-    <updated>2026-11-13T00:22:28.000Z</updated>
-    <author><name>Peter Yang</name></author>
-    <category term="twitter" />
-    <content type="text">This man clearly was an inspiration to many people and well respected by NVIDIA employees which makes his downfall all the sadder 😢 https://t.co/jmxBPZnKAM</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2121029280432075157</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2121029280432075157" rel="alternate" />
-    <published>2026-11-12T23:56:01.000Z</published>
-    <updated>2026-11-12T23:56:01.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">Claude the first time it sits in on one of my meetings: https://t.co/UkEeSuWP7r https://t.co/p22tdnV7pe</content>
-  </entry>
-  <entry>
-    <id>https://x.com/danshipper/status/2121026025668727279</id>
-    <title>Dan Shipper (@danshipper)</title>
-    <link href="https://x.com/danshipper/status/2121026025668727279" rel="alternate" />
-    <published>2026-11-12T23:43:05.000Z</published>
-    <updated>2026-11-12T23:43:05.000Z</updated>
-    <author><name>Dan Shipper</name></author>
-    <category term="twitter" />
-    <content type="text">🫡🤝 https://t.co/tznp9QPJuY</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2121018020520931712</id>
+    <id>https://x.com/amasad/status/2121389001546567837</id>
     <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2121018020520931712" rel="alternate" />
-    <published>2026-11-12T23:11:17.000Z</published>
-    <updated>2026-11-12T23:11:17.000Z</updated>
+    <link href="https://x.com/amasad/status/2121389001546567837" rel="alternate" />
+    <published>2026-11-13T23:45:26.000Z</published>
+    <updated>2026-11-13T23:45:26.000Z</updated>
     <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">You can now ask Replit Agent to buy stuff for your business, including buying ads to acquire new customers! https://t.co/HelMtQT8EA https://t.co/vJsdESZaPl</content>
+    <content type="text">Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale!
+
+Feel free to share @GavinSBaker https://t.co/7fMPobz2ud</content>
   </entry>
   <entry>
-    <id>https://x.com/steipete/status/2121009372470067544</id>
-    <title>Peter Steinberger (@steipete)</title>
-    <link href="https://x.com/steipete/status/2121009372470067544" rel="alternate" />
-    <published>2026-11-12T22:36:55.000Z</published>
-    <updated>2026-11-12T22:36:55.000Z</updated>
-    <author><name>Peter Steinberger</name></author>
+    <id>https://x.com/amasad/status/2121377395244749097</id>
+    <title>Amjad Masad (@amasad)</title>
+    <link href="https://x.com/amasad/status/2121377395244749097" rel="alternate" />
+    <published>2026-11-13T22:59:18.000Z</published>
+    <updated>2026-11-13T22:59:18.000Z</updated>
+    <author><name>Amjad Masad</name></author>
     <category term="twitter" />
-    <content type="text">There’s some new agent launching later this week and marketers offer a lot of money to say nice things about it on X. Keep a lookout on honest reviews 🫠</content>
+    <content type="text">Read the Stand with Jensen letter and consider adding your name. #standwithjensen https://t.co/eZvYNAc43r</content>
   </entry>
   <entry>
-    <id>https://x.com/thsottiaux/status/2120999993079451919</id>
-    <title>Thibault Sottiaux (@thsottiaux)</title>
-    <link href="https://x.com/thsottiaux/status/2120999993079451919" rel="alternate" />
-    <published>2026-11-12T21:59:39.000Z</published>
-    <updated>2026-11-12T21:59:39.000Z</updated>
-    <author><name>Thibault Sottiaux</name></author>
-    <category term="twitter" />
-    <content type="text">We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1</content>
-  </entry>
-  <entry>
-    <id>https://x.com/joshwoodward/status/2120990821902397885</id>
-    <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2120990821902397885" rel="alternate" />
-    <published>2026-11-12T21:23:12.000Z</published>
-    <updated>2026-11-12T21:23:12.000Z</updated>
-    <author><name>Josh Woodward</name></author>
-    <category term="twitter" />
-    <content type="text">Pre-order today at https://t.co/7M3kHsrTgU and demo them in select Warby Parker, Gentle Monster, and Google stores (shipping Dec 10th!)</content>
-  </entry>
-  <entry>
-    <id>https://x.com/joshwoodward/status/2120990820631450061</id>
-    <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2120990820631450061" rel="alternate" />
-    <published>2026-11-12T21:23:12.000Z</published>
-    <updated>2026-11-12T21:23:12.000Z</updated>
-    <author><name>Josh Woodward</name></author>
-    <category term="twitter" />
-    <content type="text">Gemini, now from your point of view https://t.co/D15CnXvMvP</content>
-  </entry>
-  <entry>
-    <id>https://x.com/alexalbert__/status/2120983722182988206</id>
-    <title>Alex Albert (@alexalbert__)</title>
-    <link href="https://x.com/alexalbert__/status/2120983722182988206" rel="alternate" />
-    <published>2026-11-12T20:54:59.000Z</published>
-    <updated>2026-11-12T20:54:59.000Z</updated>
-    <author><name>Alex Albert</name></author>
-    <category term="twitter" />
-    <content type="text">A lot of getting good work out of Claude now is just finding the context it’s missing and figuring out how to close that gap
-
-Claude Meetings is one way to bring in the remaining slices and has proved very useful internally https://t.co/j4yRaG5gUg</content>
-  </entry>
-  <entry>
-    <id>https://x.com/swyx/status/2120981552561844593</id>
-    <title>Swyx (@swyx)</title>
-    <link href="https://x.com/swyx/status/2120981552561844593" rel="alternate" />
-    <published>2026-11-12T20:46:22.000Z</published>
-    <updated>2026-11-12T20:46:22.000Z</updated>
-    <author><name>Swyx</name></author>
-    <category term="twitter" />
-    <content type="text">lance starting out his keynote strong with fermat&apos;s proof
-
-aie code is now aie math
-
-https://t.co/NK14Cf5Ztu https://t.co/DETBjzaOGv</content>
-  </entry>
-  <entry>
-    <id>https://x.com/claudeai/status/2120974000746582357</id>
-    <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2120974000746582357" rel="alternate" />
-    <published>2026-11-12T20:16:22.000Z</published>
-    <updated>2026-11-12T20:16:22.000Z</updated>
-    <author><name>Claude</name></author>
-    <category term="twitter" />
-    <content type="text">Claude Meetings is starting with Google Meet, with support for other video conferencing platforms coming soon.
-
-Learn more: https://t.co/RcQpSG8Ub3</content>
-  </entry>
-  <entry>
-    <id>https://x.com/claudeai/status/2120973999295643679</id>
-    <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2120973999295643679" rel="alternate" />
-    <published>2026-11-12T20:16:21.000Z</published>
-    <updated>2026-11-12T20:16:21.000Z</updated>
-    <author><name>Claude</name></author>
-    <category term="twitter" />
-    <content type="text">Claude takes the notes, too. After the call, the notes, action items, transcript, and anything Claude built are on the meeting’s page in Claude.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/claudeai/status/2120973996304830859</id>
-    <title>Claude (@claudeai)</title>
-    <link href="https://x.com/claudeai/status/2120973996304830859" rel="alternate" />
-    <published>2026-11-12T20:16:21.000Z</published>
-    <updated>2026-11-12T20:16:21.000Z</updated>
-    <author><name>Claude</name></author>
-    <category term="twitter" />
-    <content type="text">Claude joins as a visible participant. Ask it a question out loud or in chat, or have it start a doc. Your team can see what it’s building and correct it as it takes shape. https://t.co/IFoJgWURCj</content>
-  </entry>
-  <entry>
-    <id>https://x.com/rauchg/status/2120966768483262648</id>
-    <title>Guillermo Rauch (@rauchg)</title>
-    <link href="https://x.com/rauchg/status/2120966768483262648" rel="alternate" />
-    <published>2026-11-12T19:47:37.000Z</published>
-    <updated>2026-11-12T19:47:37.000Z</updated>
-    <author><name>Guillermo Rauch</name></author>
-    <category term="twitter" />
-    <content type="text">What happens to frameworks in the agents era? to component libraries? to @shadcn? 
-
-The answer is: we need to drill deeper. Delete the part, optimize, accelerate, automate.
-
-UI SDK is like the x86 instruction set for agents to build new UI components spontaneously. 
-
-Agents are the new design engineers, and they&apos;re ready to build *anything* you ask, tailored to your usecase. High-level, rigid, single-framework abstractions are like kryptonite for what is essentially an infinite, untiring creation machine.
-
-I think we&apos;ve found someone that allows us to have the cake and eat it too. A decades-long dream. UI SDK is packaged behaviors that give us accessibility, performance, cohesion, saving us tokens, errors and effort, but with absolutely zero limitations and tradeoffs for what UIs we can generate.
-
-Enjoy!</content>
-  </entry>
-  <entry>
-    <id>https://x.com/mattturck/status/2120951444526264388</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2120951444526264388" rel="alternate" />
-    <published>2026-11-12T18:46:44.000Z</published>
-    <updated>2026-11-12T18:46:44.000Z</updated>
-    <author><name>Matt Turck</name></author>
-    <category term="twitter" />
-    <content type="text">With Jensen, the AI ecosystem loses:
-
-* its central banker (backstops etc)
-
-* its most active investor 
-
-* a bold acquirer (extra kudos to Hugging Face for perhaps the best timing in large M&amp;amp;A history)
-
-Those are the kind of aggressive moves only a founder can make</content>
-  </entry>
-  <entry>
-    <id>https://x.com/levie/status/2120947988143198302</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2120947988143198302" rel="alternate" />
-    <published>2026-11-12T18:33:00.000Z</published>
-    <updated>2026-11-12T18:33:00.000Z</updated>
-    <author><name>Aaron Levie</name></author>
-    <category term="twitter" />
-    <content type="text">Ok this is a big deal. We’ve been testing Gemini 4 Hydrogen in early access with the Box AI Complex Work Eval, and it’s a serious jump for fast models. 
-
-Hydrogen is 5 percentage points better in accuracy than Gemini 3.8 Flash. That alone would be a great boost in capability, but possibly more importantly it did the tasks in less than half the time with about 12% fewer tokens on a typical task.
-
-For this eval, we give the Box Agent Hydrogen as a model for a series of complex tasks that represent real world work with enterprise documents across finance, consulting, life sciences, and other industries. Hydrogen will be a great model for a lot of efficient but complex tasks across these fields.
-
-Gemini team is definitely cooking. Hydrogen will be rolling out in the Box AI Studio shortly so any customer can build a custom agent with it.</content>
-  </entry>
-  <entry>
-    <id>https://x.com/joshwoodward/status/2120942262054232392</id>
-    <title>Josh Woodward (@joshwoodward)</title>
-    <link href="https://x.com/joshwoodward/status/2120942262054232392" rel="alternate" />
-    <published>2026-11-12T18:10:15.000Z</published>
-    <updated>2026-11-12T18:10:15.000Z</updated>
-    <author><name>Josh Woodward</name></author>
-    <category term="twitter" />
-    <content type="text">Introducing Gemini 4 Hydrogen, cutting-edge intelligence for everyone! Now in @GeminiApp. It&apos;s fast. It&apos;s smart. It&apos;s a big jump. Enjoy! https://t.co/5AAIN6ryyh</content>
-  </entry>
-  <entry>
-    <id>https://x.com/mattturck/status/2120933338928108016</id>
-    <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2120933338928108016" rel="alternate" />
-    <published>2026-11-12T17:34:47.000Z</published>
-    <updated>2026-11-12T17:34:47.000Z</updated>
-    <author><name>Matt Turck</name></author>
-    <category term="twitter" />
-    <content type="text">My first time at Slush next week, and the schedule is like:
-
-* boozy brunch
-* post-lunch cocktails
-* sauna &amp;amp; wine!
-* afternoon tea and whiskey
-* join us for pre-dinner drinks!
-* dinner showcasing premium spirits
-* post-dinner cocktails
-* come drink with us at the after party!!</content>
-  </entry>
-  <entry>
-    <id>https://x.com/adityaag/status/2120924059709956201</id>
+    <id>https://x.com/adityaag/status/2121372222292201767</id>
     <title>Aditya Agarwal (@adityaag)</title>
-    <link href="https://x.com/adityaag/status/2120924059709956201" rel="alternate" />
-    <published>2026-11-12T16:57:55.000Z</published>
-    <updated>2026-11-12T16:57:55.000Z</updated>
+    <link href="https://x.com/adityaag/status/2121372222292201767" rel="alternate" />
+    <published>2026-11-13T22:38:45.000Z</published>
+    <updated>2026-11-13T22:38:45.000Z</updated>
     <author><name>Aditya Agarwal</name></author>
     <category term="twitter" />
-    <content type="text">We would not be where we are today without Jensen.
-
-It is viscerally painful to see what is happening.</content>
+    <content type="text">We are in an extremely weird timeline right now.</content>
   </entry>
   <entry>
-    <id>https://x.com/nikunj/status/2120911254999154710</id>
+    <id>https://x.com/danshipper/status/2121367890095960507</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2121367890095960507" rel="alternate" />
+    <published>2026-11-13T22:21:32.000Z</published>
+    <updated>2026-11-13T22:21:32.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">stuff like this seems to be getting more common. extremely impt it gets fixed, and everyone in AI should be willing to help make sure it does https://t.co/SahVGlswJ4</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2121366466905981435</id>
     <title>Nikunj Kothari (@nikunj)</title>
-    <link href="https://x.com/nikunj/status/2120911254999154710" rel="alternate" />
-    <published>2026-11-12T16:07:02.000Z</published>
-    <updated>2026-11-12T16:07:02.000Z</updated>
+    <link href="https://x.com/nikunj/status/2121366466905981435" rel="alternate" />
+    <published>2026-11-13T22:15:53.000Z</published>
+    <updated>2026-11-13T22:15:53.000Z</updated>
     <author><name>Nikunj Kothari</name></author>
     <category term="twitter" />
-    <content type="text">Note to self: never tweet before going to bed 🤦‍♂️ 
+    <content type="text">Just to shed some light on how crazy the FAA ground stop is, this is only the THIRD time in modern history it&apos;s ever happened..
 
-I’ll try and respond to everybody today - appreciate all the DMs and comments!!</content>
+First time was 9/11, second time was the NOTAM system outage in 2023, and now today (reasons unclear).
+
+Happy Friday the 13th to all the agents celebrating 💀</content>
   </entry>
   <entry>
-    <id>https://x.com/mattturck/status/2120883923005907139</id>
+    <id>https://x.com/mattturck/status/2121358328169132503</id>
     <title>Matt Turck (@mattturck)</title>
-    <link href="https://x.com/mattturck/status/2120883923005907139" rel="alternate" />
-    <published>2026-11-12T14:18:26.000Z</published>
-    <updated>2026-11-12T14:18:26.000Z</updated>
+    <link href="https://x.com/mattturck/status/2121358328169132503" rel="alternate" />
+    <published>2026-11-13T21:43:33.000Z</published>
+    <updated>2026-11-13T21:43:33.000Z</updated>
     <author><name>Matt Turck</name></author>
     <category term="twitter" />
-    <content type="text">The Chinese really play us like a fiddle 
+    <content type="text">Breaking news: VCs to opine shortly on FAA nationwide airport ground stop.</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2121351007615811799</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2121351007615811799" rel="alternate" />
+    <published>2026-11-13T21:14:27.000Z</published>
+    <updated>2026-11-13T21:14:27.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Co-sign https://t.co/BaaFgrSaXG</content>
+  </entry>
+  <entry>
+    <id>https://x.com/rauchg/status/2121347136965210286</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2121347136965210286" rel="alternate" />
+    <published>2026-11-13T20:59:04.000Z</published>
+    <updated>2026-11-13T20:59:04.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Vercel Sandbox is inevitable https://t.co/w25tdheX95</content>
+  </entry>
+  <entry>
+    <id>https://x.com/nikunj/status/2121320899161010360</id>
+    <title>Nikunj Kothari (@nikunj)</title>
+    <link href="https://x.com/nikunj/status/2121320899161010360" rel="alternate" />
+    <published>2026-11-13T19:14:49.000Z</published>
+    <updated>2026-11-13T19:14:49.000Z</updated>
+    <author><name>Nikunj Kothari</name></author>
+    <category term="twitter" />
+    <content type="text">I thought after Llama 4 we had stopped benchmark-maxxing as a flex.. but it seems like the cartel is back again. 
 
-Hacking Western values to win the global game https://t.co/U4I3JAKC3K</content>
+There’s no substitute to really using the models for your workflows to understand the best ones that actually work for your workflows. 
+
+In reality, there’s only very very few benchmarks that truly matter, and the real ones know. 
+
+Rest is primarily posturing or hill climbing on one just to use as marketing (which in reality does work for a select group of companies but won’t last over time)</content>
   </entry>
   <entry>
-    <id>https://x.com/levie/status/2120880718868045973</id>
-    <title>Aaron Levie (@levie)</title>
-    <link href="https://x.com/levie/status/2120880718868045973" rel="alternate" />
-    <published>2026-11-12T14:05:42.000Z</published>
-    <updated>2026-11-12T14:05:42.000Z</updated>
-    <author><name>Aaron Levie</name></author>
+    <id>https://x.com/adityaag/status/2121281677238604148</id>
+    <title>Aditya Agarwal (@adityaag)</title>
+    <link href="https://x.com/adityaag/status/2121281677238604148" rel="alternate" />
+    <published>2026-11-13T16:38:58.000Z</published>
+    <updated>2026-11-13T16:38:58.000Z</updated>
+    <author><name>Aditya Agarwal</name></author>
     <category term="twitter" />
-    <content type="text">What a mess 😕</content>
+    <content type="text">Proud of our companies in the AI 100.
+
+Baseten, Render, Profound, Replit, Gamma, Cog and Density. https://t.co/Z3s327MaF0</content>
   </entry>
   <entry>
-    <id>https://www.youtube.com/@NoPriorsPodcast</id>
-    <title>No Priors: Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg</title>
-    <link href="https://www.youtube.com/@NoPriorsPodcast" rel="alternate" />
-    <published>2026-11-12T11:00:00.000Z</published>
-    <updated>2026-11-12T11:00:00.000Z</updated>
-    <author><name>No Priors</name></author>
+    <id>https://x.com/rauchg/status/2121277727940776114</id>
+    <title>Guillermo Rauch (@rauchg)</title>
+    <link href="https://x.com/rauchg/status/2121277727940776114" rel="alternate" />
+    <published>2026-11-13T16:23:16.000Z</published>
+    <updated>2026-11-13T16:23:16.000Z</updated>
+    <author><name>Guillermo Rauch</name></author>
+    <category term="twitter" />
+    <content type="text">Workflow SDK 5 and Vercel Workflows are a monumental step forward for agents.
+
+◾ The &apos;time to first step&apos; and &apos;time between steps&apos; have massively improved.
+
+◾ We doubled down on encryption and security.
+
+◾ The reliability of the overall system has been proven at massive scale. We&apos;ve ironed out many subtle details and exercised many disaster-recovery scenarios.
+
+◾ We made the underlying durability log reusable for any agent harness. 𝚍𝚞𝚛𝚊𝚋𝚕𝚎-𝚑𝚊𝚛𝚗𝚎𝚜𝚜 was born.
+
+Check it out:</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2121248233510818003</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2121248233510818003" rel="alternate" />
+    <published>2026-11-13T14:26:04.000Z</published>
+    <updated>2026-11-13T14:26:04.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">why teams still pay for software even when Fable 5.2 can vibe code anything:
+https://t.co/x2ijjgwjaN https://t.co/IqaqbBkjLW</content>
+  </entry>
+  <entry>
+    <id>https://x.com/danshipper/status/2121243400293007866</id>
+    <title>Dan Shipper (@danshipper)</title>
+    <link href="https://x.com/danshipper/status/2121243400293007866" rel="alternate" />
+    <published>2026-11-13T14:06:52.000Z</published>
+    <updated>2026-11-13T14:06:52.000Z</updated>
+    <author><name>Dan Shipper</name></author>
+    <category term="twitter" />
+    <content type="text">musing: 
+
+the most important formula in AI https://t.co/YWBzxClRSb https://t.co/PeIwGrrziD</content>
+  </entry>
+  <entry>
+    <id>https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8</id>
+    <title>Training Data: A Model For Everyone: How Ronak From Trajectory Is Building Products For Continual Learning</title>
+    <link href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8" rel="alternate" />
+    <published>2026-11-05T10:00:00.000Z</published>
+    <updated>2026-11-05T10:00:00.000Z</updated>
+    <author><name>Training Data</name></author>
     <category term="podcast" />
-    <content type="text">Speaker 1 | 00:00 - 00:24
-The large part of the industry makes medicines is this very empirically driven process. Where things really fail is in the clinic because we never could see the problems until we get to the point where we put these drugs in patients and we say, Oh no, like, there&apos;s toxicity that we didn&apos;t account for. And so the really big opportunity is to have much more of that understanding before you go into patients. How can we bring all of that drug discovery work onto a computer?...</content>
-  </entry>
-  <entry>
-    <id>https://x.com/amasad/status/2120793075836768333</id>
-    <title>Amjad Masad (@amasad)</title>
-    <link href="https://x.com/amasad/status/2120793075836768333" rel="alternate" />
-    <published>2026-11-12T08:17:26.000Z</published>
-    <updated>2026-11-12T08:17:26.000Z</updated>
-    <author><name>Amjad Masad</name></author>
-    <category term="twitter" />
-    <content type="text">China hawkishness was right-coded rhetoric. The Cathedral will turn it into actual power.</content>
+    <content type="text">Speaker 1 | 00:00 - 00:32
+A lot of our philosophy in product actually comes from Apple. In, like, the early two thousands, you had a computer that had access to the Internet, and you had a phone that you could make phone calls. And I think no one really thought to put the two together until Apple said, okay. What if you actually put the Internet on a handheld device and combine the two? And I think by doing this of of basically putting training, eval, and deployment in one place, making that jus...</content>
   </entry>
 </feed>
